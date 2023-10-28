@@ -28,6 +28,10 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          npm install
       - name: Run script
         env:
           B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
