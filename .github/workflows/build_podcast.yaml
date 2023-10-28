@@ -14,21 +14,24 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v4
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: sox libsox-fmt-mp3
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
           architecture: 'x64'
+          cache: 'pip'
       - name: Set up Node
         uses: actions/setup-node@v3
         with:
           node-version: '20'
+          cache: 'npm'
       - name: Install dependencies
         run: |
-          sudo apt install -y sox libsox-fmt-mp3
           pip install requests sox b2sdk beautifulsoup4
           npm install node-id3
-          mkdir json thumbnails frames videos
       - name: Run script
         env:
           B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
