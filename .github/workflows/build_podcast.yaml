@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt install -y sox libsox-fmt-mp3
-          pip install requests sox b2sdk
+          pip install requests sox b2sdk beautifulsoup4
           npm install node-id3
           mkdir json thumbnails frames videos
       - name: Run script
