@@ -1,0 +1,4 @@
+requests
+sox 
+b2sdk 
+beautifulsoup4
