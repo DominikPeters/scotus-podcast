@@ -1,0 +1,52 @@
+name: Build podcast
+on:
+  schedule:
+    - cron: '8 13-23,0-3 * * 1-5'
+  push:
+    branches:
+      - master
+jobs:
+  build_podcast:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          architecture: 'x64'
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: |
+          sudo apt install -y sox libsox-fmt-mp3
+          pip install requests sox b2sdk
+          npm install node-id3
+          mkdir json thumbnails frames videos
+      - name: Run script
+        env:
+          B2_APP_KEY: ${{ secrets.B2_APP_KEY }}
+          B2_APP_KEY_ID: ${{ secrets.B2_APP_KEY_ID }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          python3 podcast.py
+      - name: Check for changes
+        id: checkfile
+        run: |
+          git diff --exit-code data/case_data.json || echo "data/case_data.json has changes" && echo "fileChanged=true" >> $GITHUB_ENV
+      - name: Commit and push if there are changes
+        run: |
+          echo "COMMIT_MSG=$(cat commit_message.txt)" >> $GITHUB_ENV
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git add data/case_data.json
+          git commit -m "${{ env.COMMIT_MSG }}"
+          git push
+        if: env.fileChanged == 'true'
