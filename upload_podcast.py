@@ -119,4 +119,10 @@ def build_podcast():
     with open("podcast.xml", "w") as file:
         file.write(rss)
 
-    upload_rss("podcast.xml")
+    # upload RSS if we changed something
+    with open("commit_message.txt", "r") as f:
+        commit_message = f.read()
+    if commit_message != "":
+        upload_rss("podcast.xml")
+    else:
+        log.info("No changes made, so not uploading RSS")
