@@ -65,6 +65,11 @@ def build_podcast():
                 upload_mp3_to_b2(mp3_filename, b2_filename)
                 case_data[term][docket_number]["b2_url"] = f"https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.mp3"
                 json.dump(case_data, open("data/case_data.json", "w"), indent=2)
+                with open("commit_message.txt", "r") as f:
+                    commit_message = f.read()
+                if commit_message == "":
+                    with open("commit_message.txt", "w") as f:
+                        f.write("Upload mp3s to B2")
 
             argued_date_for_rss = datetime.fromtimestamp(case["date_argued_timestamp"]).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
