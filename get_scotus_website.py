@@ -94,7 +94,6 @@ def get_from_scotus_website():
         oral_argument["mp3_url"] = mp3_url
 
         # fetch mp3
-        response = requests.get(mp3_url)
         mp3_filename = f"mp3/{term}/{docket_number}.mp3"
         mp3 = requests.get(mp3_url)
         if mp3.status_code == 200:
@@ -108,7 +107,8 @@ def get_from_scotus_website():
             oral_argument["mp3_size"] = mp3_size
 
             oral_argument["source"] = "scotus"
-            oral_argument["description"] = f"Oral argument for {oral_argument['name']}. Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information."
+            date_argued_string = datetime.fromtimestamp(oral_argument["date_argued_timestamp"]).strftime("%B %d, %Y") # format May 17, 2021
+            oral_argument["description"] = f"<p>Oral argument for {oral_argument['name']}, argued on {date_argued_string}.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>"
 
             case_data[term][docket_number] = oral_argument
             with open("data/case_data.json", "w") as f:

@@ -160,7 +160,8 @@ def build_description(case_metadata):
 
     argued_time = get_argued_time(case_metadata)
     # Format: Jan 1, 2023
-    argued_date = datetime.fromtimestamp(argued_time).strftime("%b %-d, %Y")
+    if argued_date:
+        argued_date = datetime.fromtimestamp(argued_time).strftime("%b %-d, %Y")
 
     is_decided = False
     for date in case_metadata["timeline"]:
@@ -171,10 +172,17 @@ def build_description(case_metadata):
             break
     justia_link_text = "Justia (with opinion)" if is_decided else "Justia"
 
-    date_text = f"Argued on {argued_date}." + (f"<br>Decided on {decided_time}." if is_decided else "")
-    parties_text = f"{case_metadata['first_party_label']}: {case_metadata['first_party']}."
+    if argued_date:
+        date_text = f"Argued on {argued_date}." + (f"<br>Decided on {decided_time}." if is_decided else "")
+    else:
+        date_text = ""
+    parties_text = f"{case_metadata['first_party_label']}: {case_metadata['first_party']}"
+    if not parties_text.endswith("."):
+        parties_text += "."
     if case_metadata["second_party"]:
-        parties_text += f"<br>{case_metadata['second_party_label']}: {case_metadata['second_party']}."
+        parties_text += f"<br>{case_metadata['second_party_label']}: {case_metadata['second_party']}"
+        if not parties_text.endswith("."):
+            parties_text += "."
 
     conclusion_text = ""
     if is_decided:
@@ -273,11 +281,6 @@ def get_term_from_oyez(term):
     for case in oyez_case_list:
         case_url = case["href"]
 
-        # check if argument has occurred
-        argued_time = get_argued_time(case)
-        if argued_time is None:
-            continue
-
         # check if we already have the case from oyez
         scotus_record = None
         download_audio = True
@@ -293,6 +296,11 @@ def get_term_from_oyez(term):
                     previous_b2_url = case_data[term][docket_number]["b2_url"]
             if case_data[term][docket_number]["source"] == "scotus":
                 scotus_record = case_data[term][docket_number]
+
+        # check if argument has occurred
+        argued_time = get_argued_time(case)
+        if argued_time is None and scotus_record is None:
+            continue
 
         print(f"Handling case {docket_number}: {case['name']}")
         oral_argument = handle_case(case_url, scotus_record=scotus_record, download_audio=download_audio)
