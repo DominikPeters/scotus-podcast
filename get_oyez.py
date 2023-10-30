@@ -234,8 +234,9 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
                 description = build_description(case_metadata)
                 scotus_record["description"] = description
                 return scotus_record
-            except:
+            except Exception as e:
                 log.info(f"Case {case_number}: description could not be built. Skipping.")
+                log.info(e)
                 return None
 
     # Load the oral argument transcript
