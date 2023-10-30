@@ -65,6 +65,18 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-807.mp3"
+    },
+    "22-585": {
+      "docket_number": "22-585",
+      "name": "Culley v. Marshall",
+      "date_argued_timestamp": 1698624000,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-585",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-585.mp3",
+      "mp3_length": 5995,
+      "mp3_size": 47969947,
+      "source": "scotus",
+      "description": "Oral argument for Culley v. Marshall. Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-585.mp3"
     }
   },
   "2022": {
