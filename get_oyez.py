@@ -160,8 +160,10 @@ def build_description(case_metadata):
 
     argued_time = get_argued_time(case_metadata)
     # Format: Jan 1, 2023
-    if argued_date:
+    if argued_time:
         argued_date = datetime.fromtimestamp(argued_time).strftime("%b %-d, %Y")
+    else:
+        argued_date = None
 
     is_decided = False
     for date in case_metadata["timeline"]:
