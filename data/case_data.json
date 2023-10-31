@@ -76,6 +76,30 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-585.mp3"
+    },
+    "22-324": {
+      "docket_number": "22-324",
+      "name": "O\u2019Connor-Ratcliff v. Garnier",
+      "date_argued_timestamp": 1698710400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-324",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-324.mp3",
+      "mp3_length": 6034,
+      "mp3_size": 48285686,
+      "source": "scotus",
+      "description": "<p>Oral argument for O\u2019Connor-Ratcliff v. Garnier, argued on October 31, 2023.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-324.mp3"
+    },
+    "22-611": {
+      "docket_number": "22-611",
+      "name": "Lindke v. Freed",
+      "date_argued_timestamp": 1698710400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-611",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-611.mp3",
+      "mp3_length": 4641,
+      "mp3_size": 37137017,
+      "source": "scotus",
+      "description": "<p>Oral argument for Lindke v. Freed, argued on October 31, 2023.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-611.mp3"
     }
   },
   "2022": {
