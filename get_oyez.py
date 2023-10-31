@@ -154,10 +154,6 @@ def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True)
     return mp3_length, mp3_size
 
 def build_description(case_metadata):
-    # Extract advocate information
-    advocates = {adv["advocate"]["name"]: f"{adv['advocate']['name']} ({adv['advocate_description'].replace('For ', 'for ').strip()})"
-                for adv in case_metadata["advocates"]}
-
     argued_time = get_argued_time(case_metadata)
     # Format: Jan 1, 2023
     if argued_time:
@@ -198,7 +194,10 @@ def build_description(case_metadata):
     else:
         wikipedia_text = ""
 
-    if advocates:
+    # Extract advocate information
+    if "advocates" in case_metadata and case_metadata["advocates"]:
+        advocates = {adv["advocate"]["name"]: f"{adv['advocate']['name']} ({adv['advocate_description'].replace('For ', 'for ').strip()})"
+                    for adv in case_metadata["advocates"]}
         advocates_list = "<p>Advocates: <ul>" + '\n'.join(["<li>"+advocates[advocate]+"</li>" for advocate in advocates]) + "</ul></p>"
     else:
         advocates_list = ""
@@ -237,8 +236,7 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
                 scotus_record["description"] = description
                 return scotus_record
             except Exception as e:
-                log.info(f"Case {case_number}: description could not be built. Skipping.")
-                log.info(e)
+                log.exception(f"Case {case_number}: description could not be built. Skipping.")
                 return None
 
     # Load the oral argument transcript
