@@ -233,6 +233,9 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
             log.info(f"Case {case_number} has no oral argument audio. Adding metadata to existing record.")
             try:
                 description = build_description(case_metadata)
+                if "description" in scotus_record and scotus_record["description"] == description:
+                    log.info(f"Description of {case_number} has not changed. Skipping.")
+                    return None
                 scotus_record["description"] = description
                 return scotus_record
             except Exception as e:
