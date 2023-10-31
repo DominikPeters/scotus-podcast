@@ -65,6 +65,41 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-807.mp3"
+    },
+    "22-585": {
+      "docket_number": "22-585",
+      "name": "Culley v. Marshall",
+      "date_argued_timestamp": 1698642000,
+      "description": "<p>Culley v. Marshall</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Culley_v._Marshall\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/22-585/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-585.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-585\">oyez.org</a></p>\n    <p>Argued on Oct 30, 2023.</p>\n    <p>Petitioner: Halima Tariffa Culley, et al.<br>Respondent: Steven T. Marshall, Attorney General of Alabama, et al.</p>\n    <p>Advocates: <ul><li>Shay Dvoretzky (for the Petitioners)</li>\n<li>Edmund G. LaCour, Jr. (for the Respondents)</li>\n<li>Nicole F. Reaves (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On February 17, 2019, Halima Tariffa Culley\u2019s son was pulled over by police while driving a car registered to his mother. Police arrested him, charged him with possession of marijuana and drug paraphernalia, and seized the vehicle. Culley unsuccessfully tried to retrieve the vehicle, and on February 27, 2019, the State of Alabama filed a civil asset forfeiture action in state court. After 20 months, the state court granted Culley summary judgment, finding that she was entitled to the return of her vehicle under Alabama\u2019s innocent-owner defense.</p>\n<p>Culley filed a class-action lawsuit in federal court claiming under 42 U.S.C. \u00a7 1983 that the failure of the state and local officials to provide a prompt post-deprivation hearing violated their rights under the Eighth and Fourteenth Amendments. The district court ruled for the defendants, and the U.S. Court of Appeals for the Eleventh Circuit affirmed as to those claims that were not moot.</p>\n\n    <p><b>Question</b></p>\n    <p>What test must a district court apply when determining whether and when a post-deprivation hearing is required under the Due Process Clause?</p>\n\n    ",
+      "mp3_length": 5995,
+      "mp3_size": 24011540,
+      "description_version": "v1",
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-585.mp3"
+    },
+    "22-324": {
+      "docket_number": "22-324",
+      "name": "O\u2019Connor-Ratcliff v. Garnier",
+      "date_argued_timestamp": 1698710400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-324",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-324.mp3",
+      "mp3_length": 6034,
+      "mp3_size": 48285686,
+      "source": "scotus",
+      "description": "<p>Oral argument for O\u2019Connor-Ratcliff v. Garnier, argued on October 31, 2023.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-324.mp3"
+    },
+    "22-611": {
+      "docket_number": "22-611",
+      "name": "Lindke v. Freed",
+      "date_argued_timestamp": 1698710400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-611",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-611.mp3",
+      "mp3_length": 4641,
+      "mp3_size": 37137017,
+      "source": "scotus",
+      "description": "<p>Oral argument for Lindke v. Freed, argued on October 31, 2023.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-611.mp3"
     }
   },
   "2022": {
