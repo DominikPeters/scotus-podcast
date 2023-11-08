@@ -131,6 +131,18 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-915.mp3"
+    },
+    "22-888": {
+      "docket_number": "22-888",
+      "name": "Rudisill v. McDonough, Sec. of VA",
+      "date_argued_timestamp": 1699401600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-888",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-888.mp3",
+      "mp3_length": 4216,
+      "mp3_size": 33736201,
+      "source": "scotus",
+      "description": "<p>Rudisill v. McDonough</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-888/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-888.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-888\">oyez.org</a></p>\n    <p>Argued on Nov 8, 2023.</p>\n    <p>Petitioner: James R. Rudisill.<br>Respondent: Denis McDonough, Secretary of Veterans Affairs.</p>\n    <p>Advocates: <ul><li>Misha Tseytlin (for the Petitioner)</li>\n<li>Vivek Suri (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The case involves the interpretation of education benefits under two different programs for veterans: the Montgomery GI Bill enacted in 1984 and the Post-9/11 GI Bill enacted in 2008. Both programs offer a maximum of 36 months of education benefits. Congress has implemented various provisions to limit the benefits under these two programs, including a 48-month cap for benefits generally and the prohibition against receiving benefits from both programs concurrently.</p>\n<p>James Rudisill, who served three periods of active-duty service, initially used the Montgomery benefits for his undergraduate education. Later, he applied for Post-9/11 benefits to attend Yale Divinity School. The VA granted him only the remaining Montgomery benefits, and he appealed that decision to the Board of Veterans\u2019 Appeals. The Board denied the appeal, so Rudisill appealed to the Court of Appeals for Veterans Claims, where a split panel held that \u00a7 3327(d)(2) does not apply to veterans with multiple periods of service. ruled in his favor, finding the statute ambiguous. The Secretary of Veterans Affairs appealed the Veterans\u2019 Court decision to the Federal Circuit, where a split panel affirmed, but then the court sitting en banc reversed, holding that the plain language of \u00a7 3327(d)(2) applies to veterans with multiple periods of service.</p>\n\n    <p><b>Question</b></p>\n    <p>Is a veteran who has served two separate and distinct periods of qualifying service under the Montgomery GI Bill and the Post-9/11 GI Bill entitled to receive a total of 48 months of education benefits without first exhausting the Montgomery benefit in order to obtain the more generous Post-9/11 benefit?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-888.mp3"
     }
   },
   "2022": {
