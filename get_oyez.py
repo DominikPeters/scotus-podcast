@@ -18,6 +18,26 @@ from datetime import datetime
 import subprocess
 import time
 import sys
+import smtplib, ssl, os
+
+def send_email(subject, body):
+    port = 465  # For SSL
+    smtp_server = "w008ef9a.kasserver.com"
+    user = "podcast@scotusstats.com"
+    sender_email = "SCOTUS Podcast <podcast@scotusstats.com>"
+    receiver_email = "Dominik Peters <mail@dominik-peters.de>"
+    password = os.environ["SMTP_PASSWORD"]
+    message = f"""\
+From: {sender_email}
+To: {receiver_email}
+Subject: SCOTUS Podcast: {subject}
+
+{body}
+"""
+    context = ssl.create_default_context()
+    with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
+        server.login(user, password)
+        server.sendmail(sender_email, receiver_email, message)
 
 import logging
 log = logging.getLogger(__name__)
@@ -318,9 +338,13 @@ def get_term_from_oyez(term):
                 json.dump(case_data, f, indent=2)
             with open("commit_message.txt", "a") as f:
                 if scotus_record is None:
-                    f.write(f"Add {docket_number} from oyez.org. ")
+                    f.write(f"Add case {docket_number} from oyez.org. ")
+                elif download_audio == False:
+                    f.write(f"Oyez metadata for {docket_number}. ")
                 else:
-                    f.write(f"Update {docket_number} from oyez.org. ")
+                    f.write(f"Oyez transcript for {docket_number}. ")
+                    send_email(f"Oyez transcript for {docket_number} available", f"""The podcast has found a new transcript for case {docket_number} on oyez.org.
+The oyez link is {case_url}.""")
         
         time.sleep(1)
 
