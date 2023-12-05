@@ -339,12 +339,13 @@ def get_term_from_oyez(term):
             with open("commit_message.txt", "a") as f:
                 if scotus_record is None:
                     f.write(f"Add case {docket_number} from oyez.org. ")
-                elif download_audio == False:
-                    f.write(f"Oyez metadata for {docket_number}. ")
-                else:
+                elif oral_argument["source"] == "oyez":
                     f.write(f"Oyez transcript for {docket_number}. ")
                     send_email(f"Oyez transcript for {docket_number} available", f"""The podcast has found a new transcript for case {docket_number} on oyez.org.
-The oyez link is {case_url}.""")
+The oyez link is {case_url.replace("api.", "www.")}.""")
+                else:
+                    f.write(f"Oyez metadata for {docket_number}. ")
+                    
         
         time.sleep(1)
 
