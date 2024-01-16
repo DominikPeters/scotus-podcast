@@ -274,6 +274,18 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-899.mp3"
+    },
+    "22-1165": {
+      "docket_number": "22-1165",
+      "name": "Macquarie Infrastructure Corp. v. Moab Partners, L.P.",
+      "date_argued_timestamp": 1705363200,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-1165",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-1165.mp3",
+      "mp3_length": 3952,
+      "mp3_size": 31628505,
+      "source": "scotus",
+      "description": "<p>Macquarie Infrastructure Corp. v. Moab Partners, L.P.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-1165/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1165.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-1165\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Macquarie Infrastructure Corp., et al.<br>Respondent: Moab Partners, L.P., et al.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>For years, Macquarie Infrastructure Corp. had been lauded as a \u201ctotal return opportunity\u201d thanks to its strong dividend history, diversified business operations, and favorable growth rates. One of its most significant assets, International-Matex Tank Terminals (\u201cIMTT\u201d), was a substantial driver of its profit, with a major focus on storing No. 6 fuel oil. However, Macquarie and its leadership allegedly hid crucial information from investors, specifically about IMTT\u2019s heavy reliance on No. 6 fuel oil, a commodity facing stringent upcoming regulations and declining demand. Even after international regulations on sulfur levels in fuel were confirmed to drastically affect the market for No. 6 fuel oil, the company continued to misrepresent its exposure, allegedly misleading investors about IMTT's flexibility and downplaying the impending effects on revenue.</p>\n<p>On February 21, 2018, Macquarie first announced a sharp decline in IMTT utilization, earnings falling short of analysts\u2019 expectations, and a 31% cut to the company\u2019s dividend. The company admitted for the first time that it would need to spend hundreds of millions to repurpose IMTT's storage tanks due to the declining demand for No. 6 fuel oil. As a result, the stock price plummeted, and Macquarie\u2019s management faced a credibility crisis. Questions arose about the company\u2019s transparency and honesty, harming investor trust and the company\u2019s overall reputation.</p>\n<p>On behalf of a class of plaintiffs, Moab Partners, L.P., sued Macquarie, alleging that it made material omissions and false and misleading statements about IMTT in violation of various provisions of the Securities Exchange Act of 1934. The U.S. District Court for the Southern District of New York dismissed the complaint for failure to state a claim, but the U.S. Court of Appeals for the Second Circuit reversed, concluding that while many of the alleged misstatements are not actionable, the plaintiffs had adequately pleaded material omissions and facts giving rise to a strong inference of scienter.</p>\n\n    <p><b>Question</b></p>\n    <p>May a failure to make a disclosure required under Item 303 of SEC Regulation S-K support a private claim under Section 10(b) of the Securities Exchange Act of 1934, even in the absence of an otherwise misleading statement?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1165.mp3"
     }
   },
   "2022": {
