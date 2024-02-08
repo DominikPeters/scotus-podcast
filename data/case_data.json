@@ -318,6 +318,18 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-451.mp3"
+    },
+    "23-719": {
+      "docket_number": "23-719",
+      "name": "Trump v. Anderson",
+      "date_argued_timestamp": 1707350400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-719",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-719.mp3",
+      "mp3_length": 7744,
+      "mp3_size": 61962821,
+      "source": "scotus",
+      "description": "<p>Trump v. Anderson</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Trump_v._Anderson\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-719/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-719.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-719\">oyez.org</a></p>\n    <p>Argued on Feb 8, 2024.</p>\n    <p>Petitioner: Donald J. Trump.<br>Respondent: Norma Anderson, et al.</p>\n    <p>Advocates: <ul><li>Jonathan F. Mitchell (for the Petitioner)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In the 2016 U.S. presidential election, Donald Trump was elected as the 45th President, serving for four years. In the 2020 election, Joe Biden was elected as the 46th President, despite Trump's refusal to accept the results. The Electoral College confirmed Biden's victory with 306 votes to Trump's 232. Trump continued to challenge the outcome in court and media. On January 6, 2021, during a Congressional session to certify the election, Trump held a rally, claiming victory and urging supporters to protest at the Capitol. The next day, Vice President Pence certified Biden's win. Trump is currently seeking the Colorado Republican Party\u2019s nomination for the 2024 presidential election.</p>\n<p>A group of Colorado electors, consisting of both registered Republicans and unaffiliated voters, filed a petition in the Denver District Court to prevent Trump from appearing on the Colorado Republican presidential primary ballot. Citing Colorado\u2019s Uniform Election Code, they requested the court to direct Secretary of State Jena Griswold to exclude Trump\u2019s name. Their argument centered on Section Three of the Fourteenth Amendment, claiming Trump was disqualified due to his involvement in the January 6, 2021, insurrection, violating his presidential oath to support the U.S. Constitution.</p>\n<p>The court found by clear and convincing evidence that Trump engaged in insurrection as those terms are used in Section Three but that Section Three does not apply to the president. Thus, the court denied the petition. On appeal, the Colorado Supreme Court reversed in part, concluding that Section Three disqualifies Trump from holding the office of President of the United States and thus that it would be unlawful under Colorado law to list him on the ballot.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Section Three of the Fourteenth Amendment disqualify Donald Trump from holding the office of President of the United States and thus from appearing on Colorado\u2019s 2024 presidential primary ballot?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-719.mp3"
     }
   },
   "2022": {
