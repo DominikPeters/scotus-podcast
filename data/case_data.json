@@ -329,6 +329,18 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-719.mp3"
+    },
+    "22-1008": {
+      "docket_number": "22-1008",
+      "name": "Corner Post, Inc. v. Bd. of Governors, FRS",
+      "date_argued_timestamp": 1708387200,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-1008",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-1008.mp3",
+      "mp3_length": 4212,
+      "mp3_size": 33708781,
+      "source": "scotus",
+      "description": "<p>Corner Post, Inc. v. Board of Governors of the Federal Reserve System</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Corner_Post,_Inc._v._Board_of_Governors_of_the_Federal_Reserve_System\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/22-1008/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1008.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-1008\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Corner Post, Inc.<br>Respondent:  Board of Governors of the Federal Reserve System.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The case concerns the interchange fees associated with debit card transactions, which generate billions of dollars in revenue for issuing banks. The regulatory agency, the Board of the Federal Reserve System, promulgated a rule (\u201cRegulation II\u201d) to govern these fees. Regulation II caps the fees that banks can charge for each debit card transaction. Petitioners in the case include Corner Post, a convenience store, the North Dakota Retail Association (NDRA), and the North Dakota Petroleum Marketers Association (NDPMA), all of whom accept debit card payments and are thus affected by interchange fees.</p>\n<p>On April 29, 2021, the North Dakota Retail Association (NDRA) and the North Dakota Petroleum Marketers Association (NDPMA) challenged Regulation II as arbitrary and capricious, in violation of the Administrative Procedure Act (APA). After the Board moved to dismiss the case based on the statute of limitations, NDRA and NDPMA amended their complaint to add Corner Post, Inc. as an additional plaintiff. The district court dismissed the case, ruling that the 2015 clarification to Regulation II did not reset the statute of limitations, that Corner Post's statute of limitations began in 2011 with the original publication of Regulation II, and that none of the plaintiffs\u2019 claims warranted equitable tolling. The Merchants appealed, and the U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a plaintiff\u2019s claim under the Administrative Procedure Act \u201cfirst accrue\u201d under 28 U.S.C. \u00a7 2401(a) when an agency issues a rule, or when the rule first causes harm to the plaintiff?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1008.mp3"
     }
   },
   "2022": {
