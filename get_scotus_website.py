@@ -18,6 +18,8 @@ import logging
 log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
+
 def current_term():
     now = datetime.now()
     current_year = now.year
@@ -35,7 +37,6 @@ def extract_arguments(year):
     BASE_URL = "https://www.supremecourt.gov"
 
     # Send a request to the URL
-    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
     response = requests.get(URL, headers=headers)
     response.raise_for_status()  # Check that the request was successful
 
@@ -96,7 +97,7 @@ def get_from_scotus_website():
 
         # fetch mp3
         mp3_filename = f"mp3/{term}/{docket_number}.mp3"
-        mp3 = requests.get(mp3_url)
+        mp3 = requests.get(mp3_url, headers=headers)
         if mp3.status_code == 200:
             log.info(f"Fetched mp3 for {docket_number} from {mp3_url}")
             with open(mp3_filename, "wb") as file:
