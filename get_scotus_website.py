@@ -35,7 +35,7 @@ def extract_arguments(year):
     BASE_URL = "https://www.supremecourt.gov"
 
     # Send a request to the URL
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
     response = requests.get(URL, headers=headers)
     response.raise_for_status()  # Check that the request was successful
 
