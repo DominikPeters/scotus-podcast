@@ -399,13 +399,12 @@
     "22-7386": {
       "docket_number": "22-7386",
       "name": "McIntosh v. United States",
-      "date_argued_timestamp": 1708992000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-7386",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-7386.mp3",
-      "mp3_length": 2936,
-      "mp3_size": 23502287,
-      "source": "scotus",
+      "date_argued_timestamp": 1709013600,
       "description": "<p>McIntosh v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-7386/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-7386.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-7386\">oyez.org</a></p>\n    <p>Argued on Feb 27, 2024.</p>\n    <p>Petitioner: Louis McIntosh.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Steven Y. Yurowitz (for the Petitioner)</li>\n<li>Matthew Guarnieri (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On August 22, 2013, a jury convicted Louis McIntosh of multiple Hobbs Act robbery-related offenses and gun charges, leading to a near-life sentence of 720 months. The district court granted some relief by vacating specific counts but imposed a forfeiture amount inconsistently between oral and written judgments. On appeal, the government belatedly submitted a forfeiture order, which both the district court and the U.S. Court of Appeals for the Second Circuit upheld despite its tardiness. The appellate court vacated one of the \u00a7924(c) counts but reinstated others, rejecting the petitioner's arguments. After a Supreme Court decision in United States v. Taylor, 596 U.S. __ (2022), which held that attempted Hobbs Act robbery is not a crime of violence under 18 U.S.C. \u00a7 924(c) the Court granted certiorari, leading to a remand. However, the Second Circuit mostly upheld its prior rulings, making only minor changes.</p>\n\n    <p><b>Question</b></p>\n    <p>May a district court enter a criminal forfeiture order when the time limit specified in the Federal Rules of Criminal Procedure has already passed?</p>\n\n    ",
+      "mp3_length": 2936,
+      "mp3_size": 11777457,
+      "description_version": "v1",
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-7386.mp3"
     },
     "22-529": {
