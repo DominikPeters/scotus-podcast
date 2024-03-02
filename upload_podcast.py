@@ -111,19 +111,19 @@ def build_podcast():
     <itunes:image href="https://scotusstats.com/podcast/podcast.jpg"/>
     <language>en-us</language>
     <link>https://scotusstats.com/podcast</link>
-    <atom:link href="https://scotusstats.com/podcast/podcast.xml"
+    <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
     {rss_items}
   </channel>
 </rss>"""
     
-    with open("podcast.xml", "w") as file:
+    with open("podcast.rss", "w") as file:
         file.write(rss)
 
     # upload RSS if we changed something
     with open("commit_message.txt", "r") as f:
         commit_message = f.read()
     if commit_message != "":
-        upload_rss("podcast.xml")
+        upload_rss("podcast.rss")
     else:
         log.info("No changes made, so not uploading RSS")
