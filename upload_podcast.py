@@ -8,6 +8,7 @@ Author: Dominik Peters
 Date: 2023-10-22
 """
 
+import html 
 import json
 from datetime import datetime
 import os
@@ -75,7 +76,7 @@ def build_podcast():
 
             # Build rss item
             rss_items.append(f"""    <item>
-            <title>[{docket_number}] {case['name']}</title>
+            <title>[{docket_number}] {html.escape(case['name'])}</title>
             <description><![CDATA[{case['description']}]]></description>
             <enclosure url="{case['b2_url']}" length="{case['mp3_size']}" type="audio/mpeg"/>
             <guid>scotus_{term}_{docket_number}_v0</guid>
