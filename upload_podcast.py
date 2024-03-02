@@ -60,6 +60,9 @@ def build_podcast():
         for docket_number in cases:
             case = case_data[term][docket_number]
 
+            # make sure case['description']} is UTF-8 encoded
+            case['description'] = case['description'].encode('utf-8').decode('utf-8')
+
             if not "b2_url" in case:
                 b2_filename = f"{term}/{docket_number}.mp3"
                 mp3_filename = f"mp3/{term}/{docket_number}.mp3"
