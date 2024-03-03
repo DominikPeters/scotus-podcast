@@ -111,10 +111,9 @@ def build_podcast():
     </itunes:category>
     <description>
     <![CDATA[ A podcast feed of the audio recordings of the oral arguments at the U.S. Supreme Court. <br/>
-<br/>
 * Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
 * Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
-* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/><br/>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/>
 Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
  ]]>
     </description>
