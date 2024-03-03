@@ -114,7 +114,9 @@ def build_podcast():
 <br/>
 * Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
 * Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
-* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript). ]]>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/><br/>
+Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
+ ]]>
     </description>
     <itunes:image href="https://scotusstats.com/podcast/podcast.jpg"/>
     <language>en-us</language>
@@ -128,10 +130,12 @@ def build_podcast():
     with open("podcast.rss", "w") as file:
         file.write(rss)
 
-    # upload RSS if we changed something
-    with open("commit_message.txt", "r") as f:
-        commit_message = f.read()
-    if commit_message != "":
-        upload_rss("podcast.rss")
-    else:
-        log.info("No changes made, so not uploading RSS")
+    upload_rss("podcast.rss")
+    
+    # # upload RSS if we changed something
+    # with open("commit_message.txt", "r") as f:
+    #     commit_message = f.read()
+    # if commit_message != "":
+    #     upload_rss("podcast.rss")
+    # else:
+    #     log.info("No changes made, so not uploading RSS")
