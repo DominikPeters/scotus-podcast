@@ -93,12 +93,12 @@ def build_podcast(spotify=False):
             if spotify and 'chapters' in case:
                 description += "\n\nChapters:\n"
                 for chapter in case['chapters']:
-                    description += f"{seconds_to_string(chapter['start'])} - {chapter['title']}\n"
+                    description += f"{seconds_to_string(chapter['start'])} {chapter['title']}\n"
 
             # Build rss item
             rss_items.append(f"""    <item>
             <title>[{docket_number}] {html.escape(case['name'])}</title>
-            <description><![CDATA[{case['description']}]]></description>
+            <description><![CDATA[{description}]]></description>
             <enclosure url="{case['b2_url']}" length="{case['mp3_size']}" type="audio/mpeg"/>
             <guid>scotus_{term}_{docket_number}_v0</guid>
             <itunes:duration>{case['mp3_length']}</itunes:duration>
