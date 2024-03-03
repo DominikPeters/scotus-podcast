@@ -17,6 +17,7 @@ try:
     get_from_scotus_website()
     get_from_oyez()
     build_podcast()
+    build_podcast(spotify=True)
 except Exception as e:
     logging.exception(e)
     raise e
