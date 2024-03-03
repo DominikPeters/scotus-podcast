@@ -21,6 +21,7 @@ log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 
 def seconds_to_string(seconds):
+    seconds = int(seconds)
     hours = seconds // 3600
     minutes = (seconds % 3600) // 60
     secs = seconds % 60
