@@ -20,6 +20,17 @@ import logging
 log = logging.getLogger(__name__)
 log.setLevel(logging.INFO)
 
+def seconds_to_string(seconds):
+    hours = seconds // 3600
+    minutes = (seconds % 3600) // 60
+    secs = seconds % 60
+
+    padded_hours = str(hours).zfill(2)
+    padded_minutes = str(minutes).zfill(2)
+    padded_seconds = str(secs).zfill(2)
+
+    return f"{padded_hours}:{padded_minutes}:{padded_seconds}"
+
 def upload_mp3_to_b2(mp3_filename, b2_filename):
     log.info(f"Uploading {mp3_filename} to B2")
     info = InMemoryAccountInfo()
@@ -29,7 +40,7 @@ def upload_mp3_to_b2(mp3_filename, b2_filename):
     b2_api.authorize_account("production", application_key_id, application_key)
     bucket = b2_api.get_bucket_by_name("scotus-podcast")
     bucket.upload_local_file(local_file=mp3_filename, file_name=b2_filename)
-    log.info(f"Upload successful")
+    log.info(f"B2 upload successful")
 
 def upload_rss(rss_filename):
     # Use FTP
@@ -39,11 +50,12 @@ def upload_rss(rss_filename):
     ftp = ftplib.FTP(server, user, password)
     ftp.cwd("podcast")
     with open(rss_filename, "rb") as file:
-        ftp.storbinary(f"STOR podcast.rss", file)
+        ftp.storbinary(f"STOR {rss_filename}", file)
     ftp.quit()
-    log.info(f"RSS upload successful")
+    log.info(f"RSS upload successful: {rss_filename}")
 
-def build_podcast():
+def build_podcast(spotify=False):
+    # For Spotify, we need to put chapters in the episode description
     
     with open("data/case_data.json", "r") as f:
         case_data = json.load(f)
@@ -76,6 +88,12 @@ def build_podcast():
                         f.write("Upload mp3s to B2")
 
             argued_date_for_rss = datetime.fromtimestamp(case["date_argued_timestamp"]).strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+            description = case['description']
+            if spotify and 'chapters' in case:
+                description += "\n\nChapters:\n"
+                for chapter in case['chapters']:
+                    description += f"{seconds_to_string(chapter['start'])} - {chapter['title']}\n"
 
             # Build rss item
             rss_items.append(f"""    <item>
@@ -126,10 +144,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
   </channel>
 </rss>"""
     
-    with open("podcast.rss", "w") as file:
+    rss_filename = "podcast.rss" if not spotify else "podcast_spotify.rss"
+    
+    with open(rss_filename, "w") as file:
         file.write(rss)
 
-    upload_rss("podcast.rss")
+    upload_rss(rss_filename)
 
     # # upload RSS if we changed something
     # with open("commit_message.txt", "r") as f:

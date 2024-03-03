@@ -171,7 +171,7 @@ def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True)
     subprocess.call(["node", "add_id3v2.js", mp3_filename, "id3.json"])
     os.remove("id3.json")
 
-    return mp3_length, mp3_size
+    return mp3_length, mp3_size, chapters
 
 def build_description(case_metadata):
     argued_time = get_argued_time(case_metadata)
@@ -273,7 +273,7 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
         log.error(f"Case {case_number} has no oral argument audio. Skipping.")
         return None
 
-    mp3_length, mp3_size = build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=download_audio)
+    mp3_length, mp3_size, chapters = build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=download_audio)
     description = build_description(case_metadata)
 
     argued_time = get_argued_time(case_metadata)
@@ -286,6 +286,7 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
         "mp3_length": int(mp3_length),
         "mp3_size": mp3_size,
         "description_version": CURRENT_DESCRIPTION_VERSION,
+        "chapters": chapters,
         "source": "oyez",
     }
 
