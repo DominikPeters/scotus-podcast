@@ -49,7 +49,7 @@ def upload_rss(rss_filename):
     password = os.environ["FTP_PASSWORD"]
     ftp = ftplib.FTP(server, user, password)
     ftp.cwd("podcast")
-    with open(rss_filename, "rb") as file:
+    with open("data/" + rss_filename, "rb") as file:
         ftp.storbinary(f"STOR {rss_filename}", file)
     ftp.quit()
     log.info(f"RSS upload successful: {rss_filename}")
@@ -146,7 +146,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     
     rss_filename = "podcast.rss" if not spotify else "podcast_spotify.rss"
     
-    with open(rss_filename, "w") as file:
+    with open("data/" + rss_filename, "w") as file:
         file.write(rss)
 
     upload_rss(rss_filename)
