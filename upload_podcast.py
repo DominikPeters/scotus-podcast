@@ -39,7 +39,7 @@ def upload_rss(rss_filename):
     ftp = ftplib.FTP(server, user, password)
     ftp.cwd("podcast")
     with open(rss_filename, "rb") as file:
-        ftp.storbinary(f"STOR podcast.xml", file)
+        ftp.storbinary(f"STOR podcast.rss", file)
     ftp.quit()
     log.info(f"RSS upload successful")
 
@@ -131,7 +131,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
         file.write(rss)
 
     upload_rss("podcast.rss")
-    
+
     # # upload RSS if we changed something
     # with open("commit_message.txt", "r") as f:
     #     commit_message = f.read()
