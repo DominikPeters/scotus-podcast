@@ -109,8 +109,13 @@ def build_podcast():
     <itunes:category text="News"> 
         <itunes:category text="Politics" />
     </itunes:category>
-    <description>Oral argument audio with metadata from oyez.org.</description>
-    <itunes:summary>Oral argument audio with metadata from oyez.org.</itunes:summary>
+    <description>
+    <![CDATA[ A podcast feed of the audio recordings of the oral arguments at the U.S. Supreme Court. <br/>
+<br/>
+* Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
+* Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript). ]]>
+    </description>
     <itunes:image href="https://scotusstats.com/podcast/podcast.jpg"/>
     <language>en-us</language>
     <link>https://scotusstats.com/podcast</link>
