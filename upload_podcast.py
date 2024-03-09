@@ -84,6 +84,7 @@ def build_podcast(spotify=False):
                 json.dump(case_data, open("data/case_data.json", "w"), indent=2)
                 if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
                     upload_to_b2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
+                    case_data[term][docket_number]["vtt_url"] = f"https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt"
                 with open("commit_message.txt", "r") as f:
                     commit_message = f.read()
                 if commit_message == "":
@@ -100,8 +101,9 @@ def build_podcast(spotify=False):
 
             # check if we have a transcript
             transcript_tag = ""
-            if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
-                transcript_tag = f'\n            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt" type="text/vtt" />'
+            if "vtt_url" in case:
+                vtt_url = case["vtt_url"]
+                transcript_tag = f'\n            <podcast:transcript url="{vtt_url}" type="text/vtt" />'
 
             # Build rss item
             rss_items.append(f"""    <item>
