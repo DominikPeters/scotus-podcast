@@ -32,7 +32,7 @@ def seconds_to_string(seconds):
 
     return f"{padded_hours}:{padded_minutes}:{padded_seconds}"
 
-def upload_mp3_to_b2(mp3_filename, b2_filename):
+def upload_to_b2(mp3_filename, b2_filename):
     log.info(f"Uploading {mp3_filename} to B2")
     info = InMemoryAccountInfo()
     b2_api = B2Api(info)
@@ -79,9 +79,11 @@ def build_podcast(spotify=False):
             if not "b2_url" in case:
                 b2_filename = f"{term}/{docket_number}.mp3"
                 mp3_filename = f"mp3/{term}/{docket_number}.mp3"
-                upload_mp3_to_b2(mp3_filename, b2_filename)
+                upload_to_b2(mp3_filename, b2_filename)
                 case_data[term][docket_number]["b2_url"] = f"https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.mp3"
                 json.dump(case_data, open("data/case_data.json", "w"), indent=2)
+                if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
+                    upload_to_b2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
                 with open("commit_message.txt", "r") as f:
                     commit_message = f.read()
                 if commit_message == "":
@@ -99,13 +101,12 @@ def build_podcast(spotify=False):
             # check if we have a transcript
             transcript_tag = ""
             if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
-                upload_mp3_to_b2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
-                transcript_tag = f'\n<podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt" type="text/vtt" />'
+                transcript_tag = f'\n            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt" type="text/vtt" />'
 
             # Build rss item
             rss_items.append(f"""    <item>
             <title>[{docket_number}] {html.escape(case['name'])}</title>
-            <description><![CDATA[{description}]]></description>
+            <description><![CDATA[{description.strip()}]]></description>
             <enclosure url="{case['b2_url']}" length="{case['mp3_size']}" type="audio/mpeg"/>
             <guid>scotus_{term}_{docket_number}_v0</guid>
             <itunes:duration>{case['mp3_length']}</itunes:duration>
