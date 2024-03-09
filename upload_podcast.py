@@ -96,6 +96,12 @@ def build_podcast(spotify=False):
                 for chapter in case['chapters']:
                     description += f"{seconds_to_string(chapter['start'])} {chapter['title']}\n"
 
+            # check if we have a transcript
+            transcript_tag = ""
+            if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
+                upload_mp3_to_b2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
+                transcript_tag = f'\n<podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt" type="text/vtt" />'
+
             # Build rss item
             rss_items.append(f"""    <item>
             <title>[{docket_number}] {html.escape(case['name'])}</title>
@@ -104,7 +110,7 @@ def build_podcast(spotify=False):
             <guid>scotus_{term}_{docket_number}_v0</guid>
             <itunes:duration>{case['mp3_length']}</itunes:duration>
             <itunes:season>{term}</itunes:season>
-            <pubDate>{argued_date_for_rss}</pubDate>
+            <pubDate>{argued_date_for_rss}</pubDate>{transcript_tag}
         </item>""")
             
     rss_items = "\n".join(rss_items)

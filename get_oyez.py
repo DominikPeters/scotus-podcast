@@ -20,6 +20,7 @@ import time
 import sys
 import smtplib, ssl, os
 
+
 def send_email(subject, body):
     port = 465  # For SSL
     smtp_server = "w008ef9a.kasserver.com"
@@ -173,6 +174,34 @@ def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True)
 
     return mp3_length, mp3_size, chapters
 
+def seconds_to_string(seconds):
+    # Input: 1234.567
+    # Output: 00:20:34.567
+    minutes, seconds = divmod(seconds, 60)
+    hours, minutes = divmod(minutes, 60)
+    return f"{hours:02.0f}:{minutes:02.0f}:{seconds:06.3f}"
+
+
+def build_vtt_transcript(case_metadata, oral_argument_transcript):
+    # Extract transcript sections
+    sections = oral_argument_transcript["transcript"]["sections"]
+
+    vtt = ["WEBVTT\n\n"]
+    for section in sections:
+        turns = section["turns"]
+        for turn in turns:
+            speaker_name = turn["speaker"]["name"]
+            text_blocks = turn["text_blocks"]
+            for text_block in text_blocks:
+                start_time = text_block["start"]
+                end_time = text_block["stop"]
+                text = text_block["text"].strip().replace("\n\n", "\n")
+                vtt.append(f"{seconds_to_string(start_time)} --> {seconds_to_string(end_time)}\n<v {speaker_name}>{text}\n\n")
+    vtt = "".join(vtt)
+
+    with open(f"vtt/{case_metadata['term']}/{case_metadata['docket_number']}.vtt", "w") as f:
+        f.write(vtt)
+
 def build_description(case_metadata):
     argued_time = get_argued_time(case_metadata)
     # Format: Jan 1, 2023
@@ -275,6 +304,7 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
 
     mp3_length, mp3_size, chapters = build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=download_audio)
     description = build_description(case_metadata)
+    build_vtt_transcript(case_metadata, oral_argument_transcript)
 
     argued_time = get_argued_time(case_metadata)
 
@@ -297,6 +327,7 @@ def get_term_from_oyez(term):
         case_data = json.load(f)
 
     os.makedirs(f"mp3/{term}", exist_ok=True)
+    os.makedirs(f"vtt/{term}", exist_ok=True)
     if term not in case_data:
         case_data[term] = {}
 
@@ -347,7 +378,6 @@ The oyez link is {case_url.replace("api.", "www.")}.""")
                 else:
                     f.write(f"Oyez metadata for {docket_number}. ")
                     
-        
         time.sleep(1)
 
 def get_from_oyez():
@@ -357,7 +387,11 @@ def get_from_oyez():
 if __name__ == "__main__":
     # Bulk fetch all cases of a term from oyez.org
     if len(sys.argv) > 1:
-        term = sys.argv[1]
-        get_term_from_oyez(term)
+        if sys.argv[1][0] == "2" and len(sys.argv[1]) == 4:
+            term = sys.argv[1]
+            get_term_from_oyez(term)
+        elif "api.oyez.org" in sys.argv[1]:
+            case_url = sys.argv[1]
+            handle_case(case_url)
     else:
         print("Please specify term: python3 get_oyez.py 2023")
