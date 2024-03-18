@@ -696,6 +696,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-3.mp3"
+    },
+    "23-411": {
+      "docket_number": "23-411",
+      "name": "Murthy, Surgeon Gen. v. Missouri",
+      "date_argued_timestamp": 1710720000,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-411",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-411.mp3",
+      "mp3_length": 6151,
+      "mp3_size": 49216961,
+      "source": "scotus",
+      "description": "<p>Murthy v. Missouri</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Murthy_v._Missouri\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-411/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-411.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-411\">oyez.org</a></p>\n    <p></p>\n    <p>Appellant: Vivek H. Murthy, U.S. Surgeon General, et al.<br>Appellee: Missouri, et al.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Multiple plaintiffs, including epidemiologists, consumer and human rights advocates, academics, and media operators, claimed that various defendants, including numerous federal agencies and officials, have engaged in censorship, targeting conservative-leaning speech on topics such as the 2020 presidential election, COVID-19 origins, mask and vaccine efficacy, and election integrity. The plaintiffs argue that the defendants used public statements and threats of regulatory action, such as reforming Section 230 of the Communications Decency Act, to induce social media platforms to suppress content, thereby violating the plaintiffs\u2019 First Amendment rights. The States of Missouri and Louisiana also alleged harm due to the infringement of the free speech rights of their citizens.</p>\n<p>The U.S. District Court for the Western District of Louisiana granted the plaintiffs\u2019 motion for a nationwide preliminary injunction prohibiting the federal government from meeting with social media companies or otherwise seeking to influence their content-moderation policies. The U.S. Supreme Court granted the government\u2019s motion for an emergency stay and granted certiorari to review the case on the merits.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the federal government\u2019s request that private social media companies take steps to prevent the dissemination of purported misinformation transform those companies\u2019 content-moderation decisions into state action and thus violate users\u2019 First Amendment rights?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.mp3"
     }
   },
   "2022": {

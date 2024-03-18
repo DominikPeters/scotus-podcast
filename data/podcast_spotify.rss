@@ -31,6 +31,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-411] Murthy, Surgeon Gen. v. Missouri</title>
+            <description><![CDATA[<p>Murthy v. Missouri</p>
+    <p><a href="https://en.wikipedia.org/wiki/Murthy_v._Missouri">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-411/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-411.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-411">oyez.org</a></p>
+    <p></p>
+    <p>Appellant: Vivek H. Murthy, U.S. Surgeon General, et al.<br>Appellee: Missouri, et al.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Multiple plaintiffs, including epidemiologists, consumer and human rights advocates, academics, and media operators, claimed that various defendants, including numerous federal agencies and officials, have engaged in censorship, targeting conservative-leaning speech on topics such as the 2020 presidential election, COVID-19 origins, mask and vaccine efficacy, and election integrity. The plaintiffs argue that the defendants used public statements and threats of regulatory action, such as reforming Section 230 of the Communications Decency Act, to induce social media platforms to suppress content, thereby violating the plaintiffs’ First Amendment rights. The States of Missouri and Louisiana also alleged harm due to the infringement of the free speech rights of their citizens.</p>
+<p>The U.S. District Court for the Western District of Louisiana granted the plaintiffs’ motion for a nationwide preliminary injunction prohibiting the federal government from meeting with social media companies or otherwise seeking to influence their content-moderation policies. The U.S. Supreme Court granted the government’s motion for an emergency stay and granted certiorari to review the case on the merits.</p>
+
+    <p><b>Question</b></p>
+    <p>Did the federal government’s request that private social media companies take steps to prevent the dissemination of purported misinformation transform those companies’ content-moderation decisions into state action and thus violate users’ First Amendment rights?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.mp3" length="49216961" type="audio/mpeg"/>
+            <guid>scotus_2023_23-411_v0</guid>
+            <itunes:duration>6151</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+        </item>
+    <item>
             <title>[22-976] Garland v. Cargill</title>
             <description><![CDATA[<p>Garland v. Cargill</p>
     <p><a href="https://en.wikipedia.org/wiki/Garland_v._Cargill">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/22-976/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-976.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22-976">oyez.org</a></p>
