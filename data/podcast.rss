@@ -31,6 +31,28 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[22-1025] Gonzalez v. Trevino</title>
+            <description><![CDATA[<p>Gonzalez v. Trevino</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/22-1025/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1025.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22-1025">oyez.org</a></p>
+    <p>Argued on Mar 20, 2024.</p>
+    <p>Petitioner: Sylvia Gonzalez.<br>Respondent: Edward Trevino, II, et al.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Sylvia Gonzalez, a resident of Castle Hills, Texas, was elected to the city council in 2019. During her campaign, she learned of widespread dissatisfaction with the current city manager. After taking office, she organized a nonbinding petition calling for the manager's removal. The petition was presented at a contentious council meeting, after which Mayor Edward Trevino questioned Gonzalez about the petition's location, found in her binder. Two days later, Trevino initiated a criminal complaint against Gonzalez for allegedly stealing the petition. Despite an atypical legal process involving Chief-of-Police John Siemens and special detective Alex Wright, Gonzalez was arrested and spent a night in jail. She is no longer on the council and has refrained from public political activity.</p>
+<p>Gonzalez sued Trevino, Siemens, Wright, and the city (collectively, the Defendants) for violating her First and Fourteenth Amendment rights. She argued that the arrest was in retaliation for engaging in conduct protected by the First Amendment, but she conceded that there was probable cause for the arrest. In support of her retaliation claim, she cited a decade-long review of misdemeanor and felony data in Bexar County that showed no similar cases.</p>
+<p> </p>
+<p>The Defendants moved to dismiss her lawsuit on grounds of the independent-intermediary doctrine and qualified immunity, but the district court allowed Gonzalez’s claims to proceed. On appeal, the U.S. Court of Appeals for the Fifth Circuit reversed, finding that the outcome was controlled by the U.S. Supreme Court’s decision in Nieves v. Bartlett, holding that, in general, the existence of probable cause will defeat a retaliatory arrest claim. The Fifth Circuit noted that Gonzalez’s facts did not trigger the narrow exception recognized in Nieves, under which a plaintiff need not plead lack of probable cause “where officers have probable cause to make arrests, but typically exercise their discretion not to do so.”</p>
+
+    <p><b>Question</b></p>
+    <p>1. Can the probable-cause exception in Nieves v. Barlett be satisfied by objective evidence other than specific examples of arrests that never happened?</p>
+<p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="41161937" type="audio/mpeg"/>
+            <guid>scotus_2023_22-1025_v0</guid>
+            <itunes:duration>5144</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+        </item>
+    <item>
             <title>[23-14] Diaz v. United States</title>
             <description><![CDATA[<p>Diaz v. United States</p>
     <p><a href="https://en.wikipedia.org/wiki/Diaz_v._United_States">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-14/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-14.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-14">oyez.org</a></p>
@@ -117,7 +139,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4465</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Mon, 18 Mar 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-842.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[22-976] Garland v. Cargill</title>
