@@ -699,51 +699,686 @@
     },
     "23-411": {
       "docket_number": "23-411",
-      "name": "Murthy, Surgeon Gen. v. Missouri",
-      "date_argued_timestamp": 1710720000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-411",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-411.mp3",
-      "mp3_length": 6151,
-      "mp3_size": 49216961,
-      "source": "scotus",
+      "name": "Murthy v. Missouri",
+      "date_argued_timestamp": 1710738000,
       "description": "<p>Murthy v. Missouri</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Murthy_v._Missouri\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-411/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-411.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-411\">oyez.org</a></p>\n    <p>Argued on Mar 18, 2024.</p>\n    <p>Appellant: Vivek H. Murthy, U.S. Surgeon General, et al.<br>Appellee: Missouri, et al.</p>\n    <p>Advocates: <ul><li>Brian H. Fletcher (for the Petitioners)</li>\n<li>J. Benjamin Aguinaga (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Multiple plaintiffs, including epidemiologists, consumer and human rights advocates, academics, and media operators, claimed that various defendants, including numerous federal agencies and officials, have engaged in censorship, targeting conservative-leaning speech on topics such as the 2020 presidential election, COVID-19 origins, mask and vaccine efficacy, and election integrity. The plaintiffs argue that the defendants used public statements and threats of regulatory action, such as reforming Section 230 of the Communications Decency Act, to induce social media platforms to suppress content, thereby violating the plaintiffs\u2019 First Amendment rights. The States of Missouri and Louisiana also alleged harm due to the infringement of the free speech rights of their citizens.</p>\n<p>The U.S. District Court for the Western District of Louisiana granted the plaintiffs\u2019 motion for a nationwide preliminary injunction prohibiting the federal government from meeting with social media companies or otherwise seeking to influence their content-moderation policies. The U.S. Supreme Court granted the government\u2019s motion for an emergency stay and granted certiorari to review the case on the merits.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the federal government\u2019s request that private social media companies take steps to prevent the dissemination of purported misinformation transform those companies\u2019 content-moderation decisions into state action and thus violate users\u2019 First Amendment rights?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.mp3"
+      "mp3_length": 6151,
+      "mp3_size": 24635031,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Brian H. Fletcher (for the Petitioners)",
+          "start": 0.11
+        },
+        {
+          "title": "Fletcher - Justice Thomas",
+          "start": 126.67
+        },
+        {
+          "title": "Fletcher - Justice Sotomayor",
+          "start": 279.21
+        },
+        {
+          "title": "Fletcher - Justice Alito",
+          "start": 508.22
+        },
+        {
+          "title": "Fletcher - Justice Kagan",
+          "start": 716.425
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 772.71
+        },
+        {
+          "title": "Fletcher - Justice Alito",
+          "start": 885.835
+        },
+        {
+          "title": "Fletcher - Justice Kavanaugh",
+          "start": 1183.77
+        },
+        {
+          "title": "Fletcher - Justice Alito",
+          "start": 1224.23
+        },
+        {
+          "title": "Fletcher - Justice Kavanaugh",
+          "start": 1273.415
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 1321.82
+        },
+        {
+          "title": "Fletcher - Justice Jackson",
+          "start": 1321.97
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 1386.53
+        },
+        {
+          "title": "Fletcher - Justice Roberts",
+          "start": 1545.105
+        },
+        {
+          "title": "Fletcher - Justice Thomas",
+          "start": 1683.07
+        },
+        {
+          "title": "Fletcher - Justice Alito",
+          "start": 1882.635
+        },
+        {
+          "title": "Fletcher - Justice Sotomayor",
+          "start": 1950.125
+        },
+        {
+          "title": "Fletcher - Justice Kagan",
+          "start": 2071.005
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 2142.67
+        },
+        {
+          "title": "Fletcher - Justice Kavanaugh",
+          "start": 2288.645
+        },
+        {
+          "title": "Fletcher - Justice Barrett",
+          "start": 2532.015
+        },
+        {
+          "title": "Fletcher - Justice Jackson",
+          "start": 2771.3
+        },
+        {
+          "title": "J. Benjamin Aguinaga (for the Respondents)",
+          "start": 2918.75
+        },
+        {
+          "title": "Aguinaga - Justice Thomas",
+          "start": 3037.655
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 3134.87
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 3188.99
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 3303.91
+        },
+        {
+          "title": "Aguinaga - Justice Roberts",
+          "start": 3436.655
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 3536.55
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 3858.62
+        },
+        {
+          "title": "Aguinaga - Justice Barrett",
+          "start": 4176.665
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 4394.845
+        },
+        {
+          "title": "Aguinaga - Justice Roberts",
+          "start": 4664.095
+        },
+        {
+          "title": "Aguinaga - Justice Alito",
+          "start": 4739.955
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 4843.41
+        },
+        {
+          "title": "Aguinaga - Justice Gorsuch",
+          "start": 5112.07
+        },
+        {
+          "title": "Aguinaga - Justice Kavanaugh",
+          "start": 5283.735
+        },
+        {
+          "title": "Aguinaga - Justice Barrett",
+          "start": 5522.035
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 5673.93
+        },
+        {
+          "title": "Brian H. Fletcher (for the Petitioners)",
+          "start": 5873.75500005
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.vtt"
     },
     "22-842": {
       "docket_number": "22-842",
-      "name": "NRA v. Vullo",
-      "date_argued_timestamp": 1710720000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-842",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-842.mp3",
-      "mp3_length": 4465,
-      "mp3_size": 35733015,
-      "source": "scotus",
+      "name": "National Rifle Association of America v. Vullo",
+      "date_argued_timestamp": 1710738000,
       "description": "<p>National Rifle Association of America v. Vullo</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/National_Rifle_Association_of_America_v._Vullo\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/22-842/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-842.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-842\">oyez.org</a></p>\n    <p>Argued on Mar 18, 2024.</p>\n    <p>Petitioner: National Rifle Association of America.<br>Respondent: Maria T. Vullo.</p>\n    <p>Advocates: <ul><li>David D. Cole (for the Petitioner)</li>\n<li>Ephraim McDowell (for the United States, as amicus curiae, supporting neither party)</li>\n<li>Neal Kumar Katyal (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In October 2017, following a referral from the New York County District Attorney's Office, the New York State Department of Financial Services (DFS), under the leadership of Maria T. Vullo, initiated an investigation into NRA-endorsed insurance programs suspected of violating New York law. This scrutiny resulted in three insurance companies acknowledging their fault through consent decrees in 2018. Concurrently, after the Parkland school shooting, Vullo issued guidance and statements encouraging banks and insurers to assess and potentially end their affiliations with gun promotion organizations like the NRA, citing reputational risks. The fallout led to several firms cutting ties with the NRA, prompting the association to file a lawsuit against Vullo and other state officials, asserting violations of its free speech and equal protection rights.</p>\n<p>The district court dismissed most of the claims but allowed the First Amendment allegations against Vullo to proceed, citing unresolved factual questions about her qualified immunity. On appeal, the U.S. Court of Appeals for the Second Circuit reversed. The appellate court reasoned that while the First Amendment protects against the abridgment of free speech by government officials, these officials also have the responsibility to address public concerns. Here, the NRA failed to show that Vullo\u2019s conduct sought to coerce, rather than merely to convince. Furthermore, even if her actions were coercive, Vullo\u2019s conduct as a regulator and public official did not infringe upon any clearly established law, as she appeared to act reasonably and in good faith in performing her duties.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a New York regulator\u2019s discouragement of companies from doing business with the National Rifle Association after the Parkland school shooting constitute coercion in violation of the First Amendment?</p>\n\n    ",
+      "mp3_length": 4465,
+      "mp3_size": 17892827,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "David D. Cole (for the Petitioner)",
+          "start": 0.1
+        },
+        {
+          "title": "Cole - Justice Thomas",
+          "start": 154.075
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 242.005
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 590.77
+        },
+        {
+          "title": "Cole - Justice Kagan",
+          "start": 650.17
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 886.17
+        },
+        {
+          "title": "Cole - Justice Alito",
+          "start": 1050.49
+        },
+        {
+          "title": "Cole - Justice Sotomayor",
+          "start": 1268.44000005
+        },
+        {
+          "title": "Cole - Justice Gorsuch",
+          "start": 1520.905
+        },
+        {
+          "title": "Cole - Justice Kavanaugh",
+          "start": 1702.515
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 1805.675
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 1896.07
+        },
+        {
+          "title": "Ephraim McDowell (for the United States, as amicus curiae, supporting neither party)",
+          "start": 2115.72
+        },
+        {
+          "title": "McDowell - Justice Thomas",
+          "start": 2167.4
+        },
+        {
+          "title": "McDowell - Justice Roberts",
+          "start": 2226.725
+        },
+        {
+          "title": "McDowell - Justice Alito",
+          "start": 2311.655
+        },
+        {
+          "title": "McDowell - Justice Gorsuch",
+          "start": 2502.32
+        },
+        {
+          "title": "McDowell - Justice Kagan",
+          "start": 2541.56
+        },
+        {
+          "title": "McDowell - Justice Alito",
+          "start": 2622.105
+        },
+        {
+          "title": "McDowell - Justice Sotomayor",
+          "start": 2725.13
+        },
+        {
+          "title": "McDowell - Justice Jackson",
+          "start": 2792.385
+        },
+        {
+          "title": "Neal Kumar Katyal (for the Respondent)",
+          "start": 2855.015
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 2981.925
+        },
+        {
+          "title": "Katyal - Justice Sotomayor",
+          "start": 3044.43
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 3217.245
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 3304.955
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 3398.35
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 3447.56
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 3510.285
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 3652.78
+        },
+        {
+          "title": "Katyal - Justice Sotomayor",
+          "start": 3787.21
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 3935.97
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 4072.115
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 4243.33
+        },
+        {
+          "title": "David D. Cole (for the Petitioner)",
+          "start": 4265.905
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-842.mp3"
     },
     "23-14": {
       "docket_number": "23-14",
       "name": "Diaz v. United States",
-      "date_argued_timestamp": 1710806400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-14",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-14.mp3",
-      "mp3_length": 5095,
-      "mp3_size": 40767569,
-      "source": "scotus",
+      "date_argued_timestamp": 1710824400,
       "description": "<p>Diaz v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Diaz_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-14/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-14.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-14\">oyez.org</a></p>\n    <p>Argued on Mar 19, 2024.</p>\n    <p>Petitioner: Delilah Guadalupe Diaz.<br>Respondent: United States.</p>\n    <p>Advocates: <ul><li>Jeffrey L. Fisher (for the Petitioner)</li>\n<li>Matthew Guarnieri (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On August 17, 2020, Delilah Guadalupe Diaz was returning to California from Mexico. At the border, a \u201ccrunch-like sound\u201d was heard when she rolled down the car window, leading the border agent to call for backup and check the car's door panels using a density measuring device. Inspectors found 27.98 kilos of methamphetamine hidden in these panels. Diaz claimed she was unaware of the drugs in the car, explaining that she had initially traveled to Mexico with her daughter, who returned early. Diaz stayed back to visit her boyfriend, and used his car to return home. She stated her boyfriend had told her he would retrieve the car from her in a few days.</p>\n<p>The government charged Diaz with importation of methamphetamine in violation of the Controlled Substances Act. One of the elements of that offense is that the defendant knew she was transporting drugs. 21 U.S.C. \u00a7 960(a)(1). To prove that element, the government called an expert to testify that \u201cnarcotic traffickers do not entrust large and valuable quantities of narcotics to unknowing couriers.\u201d Diaz sought to exclude the expert evidence, arguing that it would violate Federal Rule of Evidence 704(b) by providing \u201ca direct comment on the ultimate issue\u2014Ms. Diaz\u2019s knowledge.\u201d However, the district court allowed the evidence, the jury found Diaz guilty, and the district court sentenced her to seven years in prison. On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Under Federal Rule of Evidence 704(b), may a governmental expert witness testify that couriers know they are carrying drugs and that drug-trafficking organizations do not entrust large quantities of drugs to unknowing transporters to prove that the defendant knew she was carrying illegal drugs?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-14.mp3"
+      "mp3_length": 5095,
+      "mp3_size": 20410404,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioner)",
+          "start": 0.08
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 149.29
+        },
+        {
+          "title": "Fisher - Justice Roberts",
+          "start": 295.72
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 470.18
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 471.28
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 595.07
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 741.385
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 900.38
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 1000.83
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 1141.86
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 1230.89
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 1349.265
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 1470.9
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 1535.17
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 1578.41
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1731.715
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 1739.45
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1749.555
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 1831.29
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 1964.22
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 2121.845
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 2263.095
+        },
+        {
+          "title": "Matthew Guarnieri (for the Respondent)",
+          "start": 2518.32
+        },
+        {
+          "title": "Guarnieri - Justice Thomas",
+          "start": 2640.325
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 2713.76
+        },
+        {
+          "title": "Guarnieri - Justice Jackson",
+          "start": 2825.56
+        },
+        {
+          "title": "Guarnieri - Justice Kagan",
+          "start": 2859.41
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 2901.63
+        },
+        {
+          "title": "Guarnieri - Justice Barrett",
+          "start": 2950.17
+        },
+        {
+          "title": "Guarnieri - Justice Kagan",
+          "start": 3004.53
+        },
+        {
+          "title": "Guarnieri - Justice Sotomayor",
+          "start": 3271.27
+        },
+        {
+          "title": "Guarnieri - Justice Jackson",
+          "start": 3367.98
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 3465.13
+        },
+        {
+          "title": "Guarnieri - Justice Kagan",
+          "start": 3598.12
+        },
+        {
+          "title": "Guarnieri - Justice Alito",
+          "start": 3762.95
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 3924.52
+        },
+        {
+          "title": "Guarnieri - Justice Alito",
+          "start": 4087.98
+        },
+        {
+          "title": "Guarnieri - Justice Sotomayor",
+          "start": 4176.425
+        },
+        {
+          "title": "Guarnieri - Justice Kagan",
+          "start": 4340.48
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 4490.69
+        },
+        {
+          "title": "Guarnieri - Justice Kavanaugh",
+          "start": 4642.78
+        },
+        {
+          "title": "Guarnieri - Justice Jackson",
+          "start": 4689.165
+        },
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioner)",
+          "start": 4845.84
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-14.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-14.vtt"
     },
     "22-1079": {
       "docket_number": "22-1079",
-      "name": "Truck Insurance Exchange v. Kaiser Gypsum Co. Inc.",
-      "date_argued_timestamp": 1710806400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-1079",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-1079.mp3",
-      "mp3_length": 4331,
-      "mp3_size": 34656333,
-      "source": "scotus",
+      "name": "Truck Insurance Exchange v. Kaiser Gypsum Company, Inc.",
+      "date_argued_timestamp": 1710824400,
       "description": "<p>Truck Insurance Exchange v. Kaiser Gypsum Company, Inc.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-1079/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1079.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-1079\">oyez.org</a></p>\n    <p>Argued on Mar 19, 2024.</p>\n    <p>Petitioner: Truck Insurance Exchange.<br>Respondent: Kaiser Gypsum Company, Inc., et al.</p>\n    <p>Advocates: <ul><li>Allyson N. Ho (for the Petitioner)</li>\n<li>Anthony A. Yang (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>C. Kevin Marshall (for the debtor respondents)</li>\n<li>David C. Frederick (for the claimant respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Section 524(g) of the Bankruptcy Code, part of the Bankruptcy Reform Act of 1994, allows a Chapter 11 debtor with significant asbestos liabilities to channel all current and future asbestos claims into a trust funded by the debtor. This provision aims to treat future claimants equitably, given the long latency period of some asbestos-related illnesses, while also enabling the debtor to exit bankruptcy as a viable economic entity. To obtain relief under this section, the debtor must meet several criteria designed to protect the due process rights of claimants, especially future ones. These criteria include the appointment of a representative for future claimants and court determination that the plan is fair to both current and future claimants. Additionally, 75% of current claimants must vote to approve the plan.</p>\n<p>In the face of over 38,000 asbestos-related lawsuits since 1978, Kaiser Gypsum Company, Inc., and Hanson Permanente Cement, Inc., collectively known as the \"Debtors,\" filed for Chapter 11 bankruptcy in 2016. As part of their proposed reorganization Plan, the Debtors negotiated with multiple parties\u2014including insurance companies, creditors, government agencies, and representatives of both current and future asbestos claimants\u2014to establish a \u00a7 524(g) trust. This trust aimed to channel both existing and future asbestos-related claims away from the Debtors. The trust's financial viability heavily depended on primary liability insurance policies issued by Truck Insurance Exchange (\"Truck\") between the 1960s and 1980s, which obligated Truck to investigate and defend each asbestos claim against the Debtors up to a per-claim limit of $500,000. The Debtors would assign their rights under these Truck policies to the \u00a7 524(g) trust as part of the Plan's funding.</p>\n<p>Truck opposed the Plan, arguing it failed to provide anti-fraud measures for insured claims that would be litigated in the tort system, thereby potentially exposing Truck to fraudulent claims. Despite Truck's objections, the bankruptcy court recommended confirmation of the Plan, finding it to be \"insurance neutral\" and therefore not impacting Truck's rights or obligations under the existing policies. The district court upheld this decision, confirming the Plan and thereby nullifying Truck's objections. Importantly, 100% of the asbestos personal-injury claimants had approved the proposed Plan, making Truck the sole objector.</p>\n<p>The district court confirmed the Plan over Truck\u2019s objections, finding Truck lacked standing to challenge the Plan because it was not a \u201cparty in interest\u201d under \u00a7 1109(b). The U.S. Circuit Court for the Fourth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Is an insurer with financial responsibility for a bankruptcy claim a \u201cparty in interest\u201d that may object to a plan of reorganization under Chapter 11 of the Bankruptcy Code?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1079.mp3"
+      "mp3_length": 4331,
+      "mp3_size": 17354704,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Allyson N. Ho (for the Petitioner)",
+          "start": 0.085
+        },
+        {
+          "title": "Ho - Justice Thomas",
+          "start": 128.455
+        },
+        {
+          "title": "Ho - Justice Roberts",
+          "start": 231.885
+        },
+        {
+          "title": "Ho - Justice Kagan",
+          "start": 468.89
+        },
+        {
+          "title": "Ho - Justice Sotomayor",
+          "start": 602.12
+        },
+        {
+          "title": "Ho - Justice Jackson",
+          "start": 785.325
+        },
+        {
+          "title": "Ho - Justice Kavanaugh",
+          "start": 948.11
+        },
+        {
+          "title": "Ho - Justice Gorsuch",
+          "start": 982.43
+        },
+        {
+          "title": "Ho - Justice Sotomayor",
+          "start": 1047.64
+        },
+        {
+          "title": "Ho - Justice Barrett",
+          "start": 1073.28
+        },
+        {
+          "title": "Ho - Justice Roberts",
+          "start": 1219.035
+        },
+        {
+          "title": "Anthony A. Yang (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1224.75
+        },
+        {
+          "title": "Yang - Justice Thomas",
+          "start": 1297.36
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 1416.96
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 1724.07
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 1785.225
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 1847.52
+        },
+        {
+          "title": "Yang - Justice Roberts",
+          "start": 2019.105
+        },
+        {
+          "title": "C. Kevin Marshall (for the debtor respondents)",
+          "start": 2027.24
+        },
+        {
+          "title": "Marshall - Justice Thomas",
+          "start": 2150.46
+        },
+        {
+          "title": "Marshall - Justice Kavanaugh",
+          "start": 2249.01
+        },
+        {
+          "title": "Marshall - Justice Barrett",
+          "start": 2377.03
+        },
+        {
+          "title": "Marshall - Justice Sotomayor",
+          "start": 2395.765
+        },
+        {
+          "title": "Marshall - Justice Kagan",
+          "start": 2524.69
+        },
+        {
+          "title": "Marshall - Justice Kavanaugh",
+          "start": 2684.06
+        },
+        {
+          "title": "Marshall - Justice Roberts",
+          "start": 2746.39
+        },
+        {
+          "title": "Marshall - Justice Barrett",
+          "start": 2764.66
+        },
+        {
+          "title": "Marshall - Justice Gorsuch",
+          "start": 2899.92
+        },
+        {
+          "title": "Marshall - Justice Jackson",
+          "start": 2962.87
+        },
+        {
+          "title": "David C. Frederick (for the claimant respondents)",
+          "start": 3128.185
+        },
+        {
+          "title": "Frederick - Justice Thomas",
+          "start": 3196.59
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 3284.68
+        },
+        {
+          "title": "Frederick - Justice Kagan",
+          "start": 3534.1
+        },
+        {
+          "title": "Frederick - Justice Gorsuch",
+          "start": 3645.5
+        },
+        {
+          "title": "Frederick - Justice Roberts",
+          "start": 3848.13
+        },
+        {
+          "title": "Frederick - Justice Barrett",
+          "start": 3971.5
+        },
+        {
+          "title": "Frederick - Justice Roberts",
+          "start": 4063.285
+        },
+        {
+          "title": "Frederick - Justice Kavanaugh",
+          "start": 4172.43
+        },
+        {
+          "title": "Allyson N. Ho (for the Petitioner)",
+          "start": 4238.835
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1079.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1079.vtt"
     }
   },
   "2022": {
