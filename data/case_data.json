@@ -1572,6 +1572,167 @@
       "source": "scotus",
       "description": "<p>Oral argument for Texas v. New Mexico and Colorado, argued on March 20, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/141-Orig.mp3"
+    },
+    "22O141": {
+      "docket_number": "22O141",
+      "name": "Texas v. New Mexico and Colorado",
+      "date_argued_timestamp": 1710910800,
+      "description": "<p>Texas v. New Mexico and Colorado</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Texas_v._New_Mexico_and_Colorado\">Wikipedia</a> &middot; <a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22O141.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22o141\">oyez.org</a></p>\n    <p>Argued on Mar 20, 2024.</p>\n    <p>Petitioner: Texas.<br>Respondent: New Mexico and Colorado.</p>\n    <p>Advocates: <ul><li>Frederick Liu (for the United States)</li>\n<li>Lanora C. Pettit (for Texas)</li>\n<li>Jeffrey J. Wechsler (for New Mexico)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This is a continuation of an <a href=\"https://www.oyez.org/cases/2017/141-orig\">action</a> involving a dispute over the waters of the Rio Grande Basin and Elephant Butte. The Supreme Court previously held that the United States may intervene in the action, which it did. When the Special Master filed the Third Interim Report, Colorado, Texas, and New Mexico moved for entry of a proposed \"Consent Decree\" that would resolve the dispute without the consent of the United States. The United States claims that the Court should deny the motion because (1) a court's approval of a consent decree cannot dispose of the valid claims of nonconsenting intervenors\u2014i.e., the United States in this case; (2) the consent decree would impose obligations on a party, to wit, the United States, without that party's consent; and (3) the consent decree would be \"contrary to the Compact.\"</p>\n\n    <p><b>Question</b></p>\n    <p>May a court enter a consent decree among Texas, New Mexico, and Colorado regarding the Rio Grande Compact without the consent of the United States, who intervened in the action?</p>\n\n    ",
+      "mp3_length": 4120,
+      "mp3_size": 16510636,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Frederick Liu (for the United States)",
+          "start": 0.075
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 138.01
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 255.47
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 482.57
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 482.78
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 513.15
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 677.05
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 710.3
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 861.13
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 1001.98
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 1251.9
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 1371.29
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 1642.89999995
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 1688.145
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 1902.49
+        },
+        {
+          "title": "Lanora C. Pettit (for Texas)",
+          "start": 1949.895
+        },
+        {
+          "title": "Pettit - Justice Thomas",
+          "start": 2081.61
+        },
+        {
+          "title": "Pettit - Justice Kagan",
+          "start": 2140.78500005
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 2197.84
+        },
+        {
+          "title": "Pettit - Justice Kagan",
+          "start": 2244.525
+        },
+        {
+          "title": "Pettit - Justice Roberts",
+          "start": 2467.55
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 2627.95
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 2717.03
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 2817.13
+        },
+        {
+          "title": "Pettit - Justice Roberts",
+          "start": 2893.45
+        },
+        {
+          "title": "Pettit - Justice Thomas",
+          "start": 2932.61499995
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 3011.33999995
+        },
+        {
+          "title": "Pettit - Justice Gorsuch",
+          "start": 3145.76
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 3252.245
+        },
+        {
+          "title": "Jeffrey J. Wechsler (for New Mexico)",
+          "start": 3364.19
+        },
+        {
+          "title": "Wechsler - Justice Thomas",
+          "start": 3437.74500005
+        },
+        {
+          "title": "Wechsler - Justice Roberts",
+          "start": 3579.625
+        },
+        {
+          "title": "Wechsler - Justice Sotomayor",
+          "start": 3637.24
+        },
+        {
+          "title": "Wechsler - Justice Jackson",
+          "start": 3698.45
+        },
+        {
+          "title": "Wechsler - Justice Gorsuch",
+          "start": 3811.835
+        },
+        {
+          "title": "Wechsler - Justice Roberts",
+          "start": 3877.17
+        },
+        {
+          "title": "Frederick Liu (for the United States)",
+          "start": 3888.8
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3"
     }
   },
   "2022": {
