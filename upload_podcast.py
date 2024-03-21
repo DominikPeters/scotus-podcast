@@ -123,7 +123,8 @@ def build_podcast(spotify=False):
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Supreme Court Oral Arguments</title>
     <itunes:owner>
@@ -131,7 +132,7 @@ def build_podcast(spotify=False):
         <itunes:email>podcast@scotusstats.com</itunes:email>
     </itunes:owner>
     <itunes:author>scotusstats.com</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Government" />
     <itunes:category text="News"> 
