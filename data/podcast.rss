@@ -3,7 +3,8 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Supreme Court Oral Arguments</title>
     <itunes:owner>
@@ -11,7 +12,7 @@
         <itunes:email>podcast@scotusstats.com</itunes:email>
     </itunes:owner>
     <itunes:author>scotusstats.com</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Government" />
     <itunes:category text="News"> 
@@ -48,11 +49,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. Can the probable-cause exception in Nieves v. Barlett be satisfied by objective evidence other than specific examples of arrests that never happened?</p>
 <p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="41161937" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="20607576" type="audio/mpeg"/>
             <guid>scotus_2023_22-1025_v0</guid>
             <itunes:duration>5144</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[141-Orig] Texas v. New Mexico and Colorado</title>
