@@ -31,7 +31,7 @@ def send_email(subject, body):
     message = f"""\
 From: {sender_email}
 To: {receiver_email}
-Subject: SCOTUS Podcast: {subject}
+Subject: SCOTUS: {subject}
 
 {body}
 """
@@ -373,7 +373,8 @@ def get_term_from_oyez(term):
                     f.write(f"Add case {docket_number} from oyez.org. ")
                 elif oral_argument["source"] == "oyez":
                     f.write(f"Oyez transcript for {docket_number}. ")
-                    send_email(f"Oyez transcript for {docket_number} available", f"""The podcast has found a new transcript for case {docket_number} on oyez.org.
+                    send_email(f"Oyez transcript for {docket_number} {case['name'][:20]} available", f"""The podcast has found a new transcript for case {docket_number} on oyez.org.
+{case['name']}
 The oyez link is {case_url.replace("api.", "www.")}.""")
                 else:
                     f.write(f"Oyez metadata for {docket_number}. ")
