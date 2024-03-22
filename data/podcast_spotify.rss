@@ -3,7 +3,8 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Supreme Court Oral Arguments</title>
     <itunes:owner>
@@ -11,7 +12,7 @@
         <itunes:email>podcast@scotusstats.com</itunes:email>
     </itunes:owner>
     <itunes:author>scotusstats.com</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Government" />
     <itunes:category text="News"> 
@@ -47,12 +48,119 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>1. Can the probable-cause exception in Nieves v. Barlett be satisfied by objective evidence other than specific examples of arrests that never happened?</p>
-<p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="41161937" type="audio/mpeg"/>
+<p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>
+
+    
+
+Chapters:
+00:00:00 Anya A. Bidwell (for the Petitioner)
+00:02:07 Bidwell - Justice Thomas
+00:04:21 Bidwell - Justice Sotomayor
+00:07:11 Bidwell - Justice Roberts
+00:08:39 Bidwell - Justice Alito
+00:12:46 Bidwell - Justice Kagan
+00:15:08 Bidwell - Justice Sotomayor
+00:16:18 Bidwell - Justice Kavanaugh
+00:17:00 Bidwell - Justice Roberts
+00:19:14 Bidwell - Justice Barrett
+00:22:37 Bidwell - Justice Kavanaugh
+00:27:11 Bidwell - Justice Jackson
+00:29:48 Nicole F. Reaves (for the United States, as amicus curiae, supporting neither party)
+00:32:39 Reaves - Justice Roberts
+00:35:14 Reaves - Justice Gorsuch
+00:39:52 Reaves - Justice Alito
+00:40:59 Reaves - Justice Sotomayor
+00:42:41 Reaves - Justice Kagan
+00:46:10 Reaves - Justice Gorsuch
+00:47:54 Reaves - Justice Kavanaugh
+00:51:27 Reaves - Justice Barrett
+00:53:58 Reaves - Justice Jackson
+00:56:41 Lisa S. Blatt (for the Respondents)
+00:59:00 Blatt - Justice Thomas
+01:01:43 Blatt - Justice Sotomayor
+01:06:13 Blatt - Justice Jackson
+01:07:13 Blatt - Justice Gorsuch
+01:10:02 Blatt - Justice Kagan
+01:10:50 Blatt - Justice Jackson
+01:11:33 Blatt - Justice Sotomayor
+01:11:42 Blatt - Justice Barrett
+01:12:46 Blatt - Justice Kavanaugh
+01:14:38 Blatt - Justice Barrett
+01:15:09 Blatt - Justice Kavanaugh
+01:15:21 Blatt - Justice Kagan
+01:17:29 Blatt - Justice Gorsuch
+01:17:45 Blatt - Justice Kagan
+01:18:05 Blatt - Justice Gorsuch
+01:18:28 Blatt - Justice Kagan
+01:20:05 Blatt - Justice Alito
+01:22:59 Blatt - Justice Roberts
+01:23:18 Anya A. Bidwell (for the Petitioner)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="20607576" type="audio/mpeg"/>
             <guid>scotus_2023_22-1025_v0</guid>
             <itunes:duration>5144</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
+        </item>
+    <item>
+            <title>[22O141] Texas v. New Mexico and Colorado</title>
+            <description><![CDATA[<p>Texas v. New Mexico and Colorado</p>
+    <p><a href="https://en.wikipedia.org/wiki/Texas_v._New_Mexico_and_Colorado">Wikipedia</a> &middot; <a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22O141.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22o141">oyez.org</a></p>
+    <p>Argued on Mar 20, 2024.</p>
+    <p>Petitioner: Texas.<br>Respondent: New Mexico and Colorado.</p>
+    <p>Advocates: <ul><li>Frederick Liu (for the United States)</li>
+<li>Lanora C. Pettit (for Texas)</li>
+<li>Jeffrey J. Wechsler (for New Mexico)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>This is a continuation of an <a href="https://www.oyez.org/cases/2017/141-orig">action</a> involving a dispute over the waters of the Rio Grande Basin and Elephant Butte. The Supreme Court previously held that the United States may intervene in the action, which it did. When the Special Master filed the Third Interim Report, Colorado, Texas, and New Mexico moved for entry of a proposed "Consent Decree" that would resolve the dispute without the consent of the United States. The United States claims that the Court should deny the motion because (1) a court's approval of a consent decree cannot dispose of the valid claims of nonconsenting intervenors—i.e., the United States in this case; (2) the consent decree would impose obligations on a party, to wit, the United States, without that party's consent; and (3) the consent decree would be "contrary to the Compact."</p>
+
+    <p><b>Question</b></p>
+    <p>May a court enter a consent decree among Texas, New Mexico, and Colorado regarding the Rio Grande Compact without the consent of the United States, who intervened in the action?</p>
+
+    
+
+Chapters:
+00:00:00 Frederick Liu (for the United States)
+00:02:18 Liu - Justice Thomas
+00:04:15 Liu - Justice Gorsuch
+00:08:02 Liu - Justice Jackson
+00:08:02 Liu - Justice Gorsuch
+00:08:33 Liu - Justice Kagan
+00:11:17 Liu - Justice Gorsuch
+00:11:50 Liu - Justice Alito
+00:14:21 Liu - Justice Sotomayor
+00:16:41 Liu - Justice Jackson
+00:20:51 Liu - Justice Kagan
+00:22:51 Liu - Justice Thomas
+00:27:22 Liu - Justice Sotomayor
+00:28:08 Liu - Justice Gorsuch
+00:31:42 Liu - Justice Jackson
+00:32:29 Lanora C. Pettit (for Texas)
+00:34:41 Pettit - Justice Thomas
+00:35:40 Pettit - Justice Kagan
+00:36:37 Pettit - Justice Sotomayor
+00:37:24 Pettit - Justice Kagan
+00:41:07 Pettit - Justice Roberts
+00:43:47 Pettit - Justice Jackson
+00:45:17 Pettit - Justice Sotomayor
+00:46:57 Pettit - Justice Jackson
+00:48:13 Pettit - Justice Roberts
+00:48:52 Pettit - Justice Thomas
+00:50:11 Pettit - Justice Sotomayor
+00:52:25 Pettit - Justice Gorsuch
+00:54:12 Pettit - Justice Jackson
+00:56:04 Jeffrey J. Wechsler (for New Mexico)
+00:57:17 Wechsler - Justice Thomas
+00:59:39 Wechsler - Justice Roberts
+01:00:37 Wechsler - Justice Sotomayor
+01:01:38 Wechsler - Justice Jackson
+01:03:31 Wechsler - Justice Gorsuch
+01:04:37 Wechsler - Justice Roberts
+01:04:48 Frederick Liu (for the United States)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3" length="16510636" type="audio/mpeg"/>
+            <guid>scotus_2023_22O141_v0</guid>
+            <itunes:duration>4120</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
         </item>
     <item>
             <title>[141-Orig] Texas v. New Mexico and Colorado</title>

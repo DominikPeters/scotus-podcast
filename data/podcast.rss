@@ -3,7 +3,8 @@
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md">
   <channel>
     <title>Supreme Court Oral Arguments</title>
     <itunes:owner>
@@ -11,7 +12,7 @@
         <itunes:email>podcast@scotusstats.com</itunes:email>
     </itunes:owner>
     <itunes:author>scotusstats.com</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Government" />
     <itunes:category text="News"> 
@@ -48,11 +49,32 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. Can the probable-cause exception in Nieves v. Barlett be satisfied by objective evidence other than specific examples of arrests that never happened?</p>
 <p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="41161937" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3" length="20607576" type="audio/mpeg"/>
             <guid>scotus_2023_22-1025_v0</guid>
             <itunes:duration>5144</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
+        </item>
+    <item>
+            <title>[22O141] Texas v. New Mexico and Colorado</title>
+            <description><![CDATA[<p>Texas v. New Mexico and Colorado</p>
+    <p><a href="https://en.wikipedia.org/wiki/Texas_v._New_Mexico_and_Colorado">Wikipedia</a> &middot; <a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22O141.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22o141">oyez.org</a></p>
+    <p>Argued on Mar 20, 2024.</p>
+    <p>Petitioner: Texas.<br>Respondent: New Mexico and Colorado.</p>
+    <p>Advocates: <ul><li>Frederick Liu (for the United States)</li>
+<li>Lanora C. Pettit (for Texas)</li>
+<li>Jeffrey J. Wechsler (for New Mexico)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>This is a continuation of an <a href="https://www.oyez.org/cases/2017/141-orig">action</a> involving a dispute over the waters of the Rio Grande Basin and Elephant Butte. The Supreme Court previously held that the United States may intervene in the action, which it did. When the Special Master filed the Third Interim Report, Colorado, Texas, and New Mexico moved for entry of a proposed "Consent Decree" that would resolve the dispute without the consent of the United States. The United States claims that the Court should deny the motion because (1) a court's approval of a consent decree cannot dispose of the valid claims of nonconsenting intervenors—i.e., the United States in this case; (2) the consent decree would impose obligations on a party, to wit, the United States, without that party's consent; and (3) the consent decree would be "contrary to the Compact."</p>
+
+    <p><b>Question</b></p>
+    <p>May a court enter a consent decree among Texas, New Mexico, and Colorado regarding the Rio Grande Compact without the consent of the United States, who intervened in the action?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3" length="16510636" type="audio/mpeg"/>
+            <guid>scotus_2023_22O141_v0</guid>
+            <itunes:duration>4120</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[141-Orig] Texas v. New Mexico and Colorado</title>

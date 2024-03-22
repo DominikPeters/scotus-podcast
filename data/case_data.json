@@ -1383,13 +1383,182 @@
     "22-1025": {
       "docket_number": "22-1025",
       "name": "Gonzalez v. Trevino",
-      "date_argued_timestamp": 1710892800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-1025",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-1025.mp3",
-      "mp3_length": 5144,
-      "mp3_size": 41161937,
-      "source": "scotus",
+      "date_argued_timestamp": 1710910800,
       "description": "<p>Gonzalez v. Trevino</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-1025/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1025.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-1025\">oyez.org</a></p>\n    <p>Argued on Mar 20, 2024.</p>\n    <p>Petitioner: Sylvia Gonzalez.<br>Respondent: Edward Trevino, II, et al.</p>\n    <p>Advocates: <ul><li>Anya A. Bidwell (for the Petitioner)</li>\n<li>Nicole F. Reaves (for the United States, as amicus curiae, supporting neither party)</li>\n<li>Lisa S. Blatt (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Sylvia Gonzalez, a resident of Castle Hills, Texas, was elected to the city council in 2019. During her campaign, she learned of widespread dissatisfaction with the current city manager. After taking office, she organized a nonbinding petition calling for the manager's removal. The petition was presented at a contentious council meeting, after which Mayor Edward Trevino questioned Gonzalez about the petition's location, found in her binder. Two days later, Trevino initiated a criminal complaint against Gonzalez for allegedly stealing the petition. Despite an atypical legal process involving Chief-of-Police John Siemens and special detective Alex Wright, Gonzalez was arrested and spent a night in jail. She is no longer on the council and has refrained from public political activity.</p>\n<p>Gonzalez sued Trevino, Siemens, Wright, and the city (collectively, the Defendants) for violating her First and Fourteenth Amendment rights. She argued that the arrest was in retaliation for engaging in conduct protected by the First Amendment, but she conceded that there was probable cause for the arrest. In support of her retaliation claim, she cited a decade-long review of misdemeanor and felony data in Bexar County that showed no similar cases.</p>\n<p>\u00a0</p>\n<p>The Defendants moved to dismiss her lawsuit on grounds of the independent-intermediary doctrine and qualified immunity, but the district court allowed Gonzalez\u2019s claims to proceed. On appeal, the U.S. Court of Appeals for the Fifth Circuit reversed, finding that the outcome was controlled by the U.S. Supreme Court\u2019s decision in Nieves v. Bartlett, holding that, in general, the existence of probable cause will defeat a retaliatory arrest claim. The Fifth Circuit noted that Gonzalez\u2019s facts did not trigger the narrow exception recognized in Nieves, under which a plaintiff need not plead lack of probable cause \u201cwhere officers have probable cause to make arrests, but typically exercise their discretion not to do so.\u201d</p>\n\n    <p><b>Question</b></p>\n    <p>1. Can the probable-cause exception in Nieves v. Barlett be satisfied by objective evidence other than specific examples of arrests that never happened?</p>\n<p>2. Is Nieves limited to individual claims against arresting officers for split-second arrests?</p>\n\n    ",
+      "mp3_length": 5144,
+      "mp3_size": 20607576,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Anya A. Bidwell (for the Petitioner)",
+          "start": 0.065
+        },
+        {
+          "title": "Bidwell - Justice Thomas",
+          "start": 127.225
+        },
+        {
+          "title": "Bidwell - Justice Sotomayor",
+          "start": 261.25
+        },
+        {
+          "title": "Bidwell - Justice Roberts",
+          "start": 431.23
+        },
+        {
+          "title": "Bidwell - Justice Alito",
+          "start": 519.2
+        },
+        {
+          "title": "Bidwell - Justice Kagan",
+          "start": 766.12
+        },
+        {
+          "title": "Bidwell - Justice Sotomayor",
+          "start": 908.275
+        },
+        {
+          "title": "Bidwell - Justice Kavanaugh",
+          "start": 978.17
+        },
+        {
+          "title": "Bidwell - Justice Roberts",
+          "start": 1020.35
+        },
+        {
+          "title": "Bidwell - Justice Barrett",
+          "start": 1154.84
+        },
+        {
+          "title": "Bidwell - Justice Kavanaugh",
+          "start": 1357.785
+        },
+        {
+          "title": "Bidwell - Justice Jackson",
+          "start": 1631.525
+        },
+        {
+          "title": "Nicole F. Reaves (for the United States, as amicus curiae, supporting neither party)",
+          "start": 1788.66
+        },
+        {
+          "title": "Reaves - Justice Roberts",
+          "start": 1959.975
+        },
+        {
+          "title": "Reaves - Justice Gorsuch",
+          "start": 2114.71
+        },
+        {
+          "title": "Reaves - Justice Alito",
+          "start": 2392.33
+        },
+        {
+          "title": "Reaves - Justice Sotomayor",
+          "start": 2459.72
+        },
+        {
+          "title": "Reaves - Justice Kagan",
+          "start": 2561.415
+        },
+        {
+          "title": "Reaves - Justice Gorsuch",
+          "start": 2770.84
+        },
+        {
+          "title": "Reaves - Justice Kavanaugh",
+          "start": 2874.38
+        },
+        {
+          "title": "Reaves - Justice Barrett",
+          "start": 3087.88
+        },
+        {
+          "title": "Reaves - Justice Jackson",
+          "start": 3238.675
+        },
+        {
+          "title": "Lisa S. Blatt (for the Respondents)",
+          "start": 3401.94
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 3540.14000005
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 3703.24
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 3973.42
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 4033.94
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 4202.29
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 4250.505
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 4293.73
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 4302.74
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 4366.98
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 4478.1
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 4509.38
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 4521.245
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 4649.51
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 4665.41
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 4685.24
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 4708.97
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 4805.225
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 4979.52
+        },
+        {
+          "title": "Anya A. Bidwell (for the Petitioner)",
+          "start": 4998.93500005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3"
     },
     "141-Orig": {
@@ -1403,6 +1572,167 @@
       "source": "scotus",
       "description": "<p>Oral argument for Texas v. New Mexico and Colorado, argued on March 20, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/141-Orig.mp3"
+    },
+    "22O141": {
+      "docket_number": "22O141",
+      "name": "Texas v. New Mexico and Colorado",
+      "date_argued_timestamp": 1710910800,
+      "description": "<p>Texas v. New Mexico and Colorado</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Texas_v._New_Mexico_and_Colorado\">Wikipedia</a> &middot; <a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22O141.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22o141\">oyez.org</a></p>\n    <p>Argued on Mar 20, 2024.</p>\n    <p>Petitioner: Texas.<br>Respondent: New Mexico and Colorado.</p>\n    <p>Advocates: <ul><li>Frederick Liu (for the United States)</li>\n<li>Lanora C. Pettit (for Texas)</li>\n<li>Jeffrey J. Wechsler (for New Mexico)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This is a continuation of an <a href=\"https://www.oyez.org/cases/2017/141-orig\">action</a> involving a dispute over the waters of the Rio Grande Basin and Elephant Butte. The Supreme Court previously held that the United States may intervene in the action, which it did. When the Special Master filed the Third Interim Report, Colorado, Texas, and New Mexico moved for entry of a proposed \"Consent Decree\" that would resolve the dispute without the consent of the United States. The United States claims that the Court should deny the motion because (1) a court's approval of a consent decree cannot dispose of the valid claims of nonconsenting intervenors\u2014i.e., the United States in this case; (2) the consent decree would impose obligations on a party, to wit, the United States, without that party's consent; and (3) the consent decree would be \"contrary to the Compact.\"</p>\n\n    <p><b>Question</b></p>\n    <p>May a court enter a consent decree among Texas, New Mexico, and Colorado regarding the Rio Grande Compact without the consent of the United States, who intervened in the action?</p>\n\n    ",
+      "mp3_length": 4120,
+      "mp3_size": 16510636,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Frederick Liu (for the United States)",
+          "start": 0.075
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 138.01
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 255.47
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 482.57
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 482.78
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 513.15
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 677.05
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 710.3
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 861.13
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 1001.98
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 1251.9
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 1371.29
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 1642.89999995
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 1688.145
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 1902.49
+        },
+        {
+          "title": "Lanora C. Pettit (for Texas)",
+          "start": 1949.895
+        },
+        {
+          "title": "Pettit - Justice Thomas",
+          "start": 2081.61
+        },
+        {
+          "title": "Pettit - Justice Kagan",
+          "start": 2140.78500005
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 2197.84
+        },
+        {
+          "title": "Pettit - Justice Kagan",
+          "start": 2244.525
+        },
+        {
+          "title": "Pettit - Justice Roberts",
+          "start": 2467.55
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 2627.95
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 2717.03
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 2817.13
+        },
+        {
+          "title": "Pettit - Justice Roberts",
+          "start": 2893.45
+        },
+        {
+          "title": "Pettit - Justice Thomas",
+          "start": 2932.61499995
+        },
+        {
+          "title": "Pettit - Justice Sotomayor",
+          "start": 3011.33999995
+        },
+        {
+          "title": "Pettit - Justice Gorsuch",
+          "start": 3145.76
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 3252.245
+        },
+        {
+          "title": "Jeffrey J. Wechsler (for New Mexico)",
+          "start": 3364.19
+        },
+        {
+          "title": "Wechsler - Justice Thomas",
+          "start": 3437.74500005
+        },
+        {
+          "title": "Wechsler - Justice Roberts",
+          "start": 3579.625
+        },
+        {
+          "title": "Wechsler - Justice Sotomayor",
+          "start": 3637.24
+        },
+        {
+          "title": "Wechsler - Justice Jackson",
+          "start": 3698.45
+        },
+        {
+          "title": "Wechsler - Justice Gorsuch",
+          "start": 3811.835
+        },
+        {
+          "title": "Wechsler - Justice Roberts",
+          "start": 3877.17
+        },
+        {
+          "title": "Frederick Liu (for the United States)",
+          "start": 3888.8
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3"
     }
   },
   "2022": {
