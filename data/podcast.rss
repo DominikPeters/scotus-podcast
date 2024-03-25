@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-250] Becerra, Sec. of H&amp;HS v. San Carlos Apache Tribe</title>
+            <description><![CDATA[<p>Becerra v. San Carlos Apache Tribe</p>
+    <p><a href="https://en.wikipedia.org/wiki/Becerra_v._San_Carlos_Apache_Tribe">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-250/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-250.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-250">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Xavier Becerra, Secretary of Health and Human Services, et al.<br>Respondent: San Carlos Apache Tribe.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>The Indian Health Service (IHS) manages healthcare for Native tribes, billing Medicare, Medicaid, or private insurance for services and retaining the revenue. To enhance tribal sovereignty, Congress passed the Indian Self-Determination and Education Assistance Act (ISDA), allowing tribes to administer their healthcare programs. These programs were funded by the IHS, equivalent to what IHS would spend on tribal healthcare. However, tribes faced financial challenges in running these programs due to the lack of bureaucratic and legal support available to the federal government. To address this, Congress mandated IHS to provide tribes with contract support costs (CSC), ensuring they could offer services at par with IHS. Despite this assistance, tribes still struggled with parity issues with IHS, primarily due to slow billing processes and imperfect remittance of funds by IHS. To remedy this, Congress permitted tribes to bill outside insurers directly and retain the third-party revenue, which the Tribe was required to spend on healthcare. The San Carlos Apache Tribe, exercising its sovereignty in Arizona, managed its healthcare programs and billed outside insurers directly. However, the Tribe encountered difficulties in funding the additional healthcare services from third-party revenue without corresponding CSC from IHS.</p>
+<p>The Tribe sued the U.S. Department of Health &amp; Human Services, IHS, and the United States, for the CSC for the years 2011–2013. The district court dismissed the Tribe’s claim for the third-party-revenue-funded portions of the Tribe’s healthcare program from CSC reimbursement, and the Tribe appealed. The U.S. Court of Appeals for the Ninth Circuit concluded that the statutory text of 25 U.S.C. § 5325(a) warranted a reversal of the dismissal and remanded for further proceedings, highlighting ongoing challenges in achieving true parity and financial sustainability for tribal healthcare programs under the existing legislative framework.</p>
+
+    <p><b>Question</b></p>
+    <p>Must the Indian Health Service pay “contract support costs” not only to support IHS-funded activities, but also to support the tribe’s expenditure of income collected from third parties?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3" length="41511885" type="audio/mpeg"/>
+            <guid>scotus_2023_23-250_v0</guid>
+            <itunes:duration>5188</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+        </item>
+    <item>
             <title>[22-1025] Gonzalez v. Trevino</title>
             <description><![CDATA[<p>Gonzalez v. Trevino</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2023/22-1025/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1025.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22-1025">oyez.org</a></p>
@@ -74,7 +93,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4120</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Wed, 20 Mar 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[141-Orig] Texas v. New Mexico and Colorado</title>

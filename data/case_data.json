@@ -1733,6 +1733,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3"
+    },
+    "23-250": {
+      "docket_number": "23-250",
+      "name": "Becerra, Sec. of H&HS v. San Carlos Apache Tribe",
+      "date_argued_timestamp": 1711324800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-250",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-250.mp3",
+      "mp3_length": 5188,
+      "mp3_size": 41511885,
+      "source": "scotus",
+      "description": "<p>Becerra v. San Carlos Apache Tribe</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Becerra_v._San_Carlos_Apache_Tribe\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-250/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-250.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-250\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Xavier Becerra, Secretary of Health and Human Services, et al.<br>Respondent: San Carlos Apache Tribe.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Indian Health Service (IHS) manages healthcare for Native tribes, billing Medicare, Medicaid, or private insurance for services and retaining the revenue. To enhance tribal sovereignty, Congress passed the Indian Self-Determination and Education Assistance Act (ISDA), allowing tribes to administer their healthcare programs. These programs were funded by the IHS, equivalent to what IHS would spend on tribal healthcare. However, tribes faced financial challenges in running these programs due to the lack of bureaucratic and legal support available to the federal government. To address this, Congress mandated IHS to provide tribes with contract support costs (CSC), ensuring they could offer services at par with IHS. Despite this assistance, tribes still struggled with parity issues with IHS, primarily due to slow billing processes and imperfect remittance of funds by IHS. To remedy this, Congress permitted tribes to bill outside insurers directly and retain the third-party revenue, which the Tribe was required to spend on healthcare. The San Carlos Apache Tribe, exercising its sovereignty in Arizona, managed its healthcare programs and billed outside insurers directly. However, the Tribe encountered difficulties in funding the additional healthcare services from third-party revenue without corresponding CSC from IHS.</p>\n<p>The Tribe sued the U.S. Department of Health &amp; Human Services, IHS, and the United States, for the CSC for the years 2011\u20132013. The district court dismissed the Tribe\u2019s claim for the third-party-revenue-funded portions of the Tribe\u2019s healthcare program from CSC reimbursement, and the Tribe appealed. The U.S. Court of Appeals for the Ninth Circuit concluded that the statutory text of 25 U.S.C. \u00a7 5325(a) warranted a reversal of the dismissal and remanded for further proceedings, highlighting ongoing challenges in achieving true parity and financial sustainability for tribal healthcare programs under the existing legislative framework.</p>\n\n    <p><b>Question</b></p>\n    <p>Must the Indian Health Service pay \u201ccontract support costs\u201d not only to support IHS-funded activities, but also to support the tribe\u2019s expenditure of income collected from third parties?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3"
     }
   },
   "2022": {
