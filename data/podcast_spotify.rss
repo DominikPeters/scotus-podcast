@@ -32,6 +32,72 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-235 ] Food and Drug Administration v. Alliance for Hippocratic Medicine</title>
+            <description><![CDATA[<p>Food and Drug Administration v. Alliance for Hippocratic Medicine</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-235 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-235 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-235">oyez.org</a></p>
+    <p>Argued on Mar 26, 2024.</p>
+    <p>Petitioner: Food and Drug Administration, et al.<br>Respondent: Alliance for Hippocratic Medicine, et al.</p>
+    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the federal Petitioners)</li>
+<li>Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)</li>
+<li>Erin M. Hawley (for the Respondents)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Medication abortion in the U.S. is commonly conducted using a combination of mifepristone and misoprostol. Mifepristone was approved by the U.S. Food and Drug Administration (FDA) in September 2000 and is used in over half of all U.S. abortions. Initially, its distribution was limited to hospitals and medical facilities under FDA regulations. The 2007 Food and Drug Administration Amendments Act introduced Risk Evaluation and Mitigation Strategies (REMS), reinforcing FDA's control over drug approvals. Despite REMS review in 2011, mifepristone's distribution remained restricted. In March 2016, the FDA expanded access, allowing medical practitioners to prescribe it and extending the usage period in pregnancy. In April 2021, due to the COVID-19 pandemic, the FDA permitted mail distribution from certified sources, and in January 2023, approved pharmacies also began distributing it.</p>
+<p>However, following the Supreme Court's June 2022 decision in Dobbs v. Jackson Women's Health Organization, which eliminated the constitutional right to abortion, several states sought to restrict mifepristone’s sale. The Alliance for Hippocratic Medicine and other anti-abortion groups challenged the FDA’s approval, claiming inadequate consideration of evidence in 2000. In April 2023, a federal district court judge sided with the plaintiffs, suspending the FDA’s approval. The U.S. Court of Appeals for the Fifth Circuit partially stayed this decision, maintaining the original 2000 approval but striking down the 2016 REMS changes that eased access. After a hearing on the merits, in August 2023, the Fifth Circuit upheld the ban on changes made in 2016. The U.S. Supreme Court granted review and stayed the lower court’s injunction.</p>
+
+    <p><b>Question</b></p>
+    <p>1. Do respondents have Article III standing to challenge the Food and Drug Administration’s 2016 and 2021 actions with respect to mifepristone’s approved conditions of use?</p>
+<p>2. Were the FDA’s 2016 and 2021 approvals of mifepristone arbitrary and capricious?</p>
+<p>3. Did the district court properly grant preliminary relief?</p>
+
+    
+
+Chapters:
+00:00:00 Elizabeth B. Prelogar (for the federal Petitioners)
+00:02:28 Prelogar - Justice Thomas
+00:04:39 Prelogar - Justice Roberts
+00:05:58 Prelogar - Justice Alito
+00:10:37 Prelogar - Justice Sotomayor
+00:11:50 Prelogar - Justice Barrett
+00:15:37 Prelogar - Justice Gorsuch
+00:18:04 Prelogar - Justice Alito
+00:24:00 Prelogar - Justice Sotomayor
+00:25:52 Prelogar - Justice Kagan
+00:29:55 Prelogar - Justice Kavanaugh
+00:30:37 Prelogar - Justice Barrett
+00:35:04 Prelogar - Justice Jackson
+00:39:00 Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)
+00:40:14 Ellsworth - Justice Thomas
+00:41:55 Ellsworth - Justice Roberts
+00:43:24 Ellsworth - Justice Alito
+00:47:46 Ellsworth - Justice Kagan
+00:49:07 Ellsworth - Justice Jackson
+00:50:49 Erin M. Hawley (for the Respondents)
+00:52:52 Hawley - Justice Thomas
+00:55:31 Hawley - Justice Sotomayor
+00:57:21 Hawley - Justice Jackson
+01:00:05 Hawley - Justice Gorsuch
+01:01:58 Hawley - Justice Roberts
+01:02:52 Hawley - Justice Gorsuch
+01:04:13 Hawley - Justice Kagan
+01:09:26 Hawley - Justice Alito
+01:11:03 Hawley - Justice Sotomayor
+01:12:56 Hawley - Justice Barrett
+01:15:48 Hawley - Justice Jackson
+01:17:11 Hawley - Justice Kagan
+01:18:31 Hawley - Justice Jackson
+01:20:25 Hawley - Justice Thomas
+01:22:00 Hawley - Justice Kagan
+01:24:48 Hawley - Justice Barrett
+01:27:31 Hawley - Justice Jackson
+01:29:47 Elizabeth B. Prelogar (for the federal Petitioners)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .mp3" length="22342942" type="audio/mpeg"/>
+            <guid>scotus_2023_23-235 _v0</guid>
+            <itunes:duration>5578</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Tue, 26 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[23-235] FDA v. Alliance Hippocratic Medicine</title>
             <description><![CDATA[<p>Oral argument for FDA v. Alliance Hippocratic Medicine, argued on March 26, 2024.</p>
 <p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
@@ -42,7 +108,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
         </item>
     <item>
-            <title>[23-250] Becerra, Sec. of H&amp;HS v. San Carlos Apache Tribe</title>
+            <title>[23-250] Becerra v. San Carlos Apache Tribe</title>
             <description><![CDATA[<p>Becerra v. San Carlos Apache Tribe</p>
     <p><a href="https://en.wikipedia.org/wiki/Becerra_v._San_Carlos_Apache_Tribe">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-250/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-250.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-250">oyez.org</a></p>
     <p>Argued on Mar 25, 2024.</p>
@@ -55,15 +121,64 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>The Tribe sued the U.S. Department of Health &amp; Human Services, IHS, and the United States, for the CSC for the years 2011–2013. The district court dismissed the Tribe’s claim for the third-party-revenue-funded portions of the Tribe’s healthcare program from CSC reimbursement, and the Tribe appealed. The U.S. Court of Appeals for the Ninth Circuit concluded that the statutory text of 25 U.S.C. § 5325(a) warranted a reversal of the dismissal and remanded for further proceedings, highlighting ongoing challenges in achieving true parity and financial sustainability for tribal healthcare programs under the existing legislative framework.</p>
 
     <p><b>Question</b></p>
-    <p>Must the Indian Health Service pay “contract support costs” not only to support IHS-funded activities, but also to support the tribe’s expenditure of income collected from third parties?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3" length="41511885" type="audio/mpeg"/>
+    <p>Must the Indian Health Service pay “contract support costs” not only to support IHS-funded activities, but also to support the tribe’s expenditure of income collected from third parties?</p>
+
+    
+
+Chapters:
+00:00:00 Caroline A. Flynn (for the Petitioners)
+00:02:08 Flynn - Justice Thomas
+00:03:21 Flynn - Justice Roberts
+00:04:58 Flynn - Justice Kagan
+00:07:24 Flynn - Justice Gorsuch
+00:11:27 Flynn - Justice Kavanaugh
+00:11:47 Flynn - Justice Kagan
+00:13:04 Flynn - Justice Kavanaugh
+00:13:11 Flynn - Justice Sotomayor
+00:16:56 Flynn - Justice Barrett
+00:19:37 Flynn - Justice Gorsuch
+00:21:49 Flynn - Justice Kavanaugh
+00:23:40 Flynn - Justice Jackson
+00:25:21 Flynn - Justice Sotomayor
+00:25:58 Flynn - Justice Kavanaugh
+00:29:17 Flynn - Justice Barrett
+00:32:33 Flynn - Justice Jackson
+00:34:55 Adam G. Unikowsky (for the Respondent in 23-253)
+00:36:32 Unikowsky - Justice Thomas
+00:38:27 Unikowsky - Justice Jackson
+00:39:21 Unikowsky - Justice Roberts
+00:42:29 Unikowsky - Justice Kagan
+00:43:24 Unikowsky - Justice Alito
+00:45:46 Unikowsky - Justice Gorsuch
+00:46:50 Unikowsky - Justice Kagan
+00:47:16 Unikowsky - Justice Sotomayor
+00:49:43 Unikowsky - Justice Kavanaugh
+00:50:35 Unikowsky - Justice Alito
+00:54:11 Unikowsky - Justice Gorsuch
+00:55:55 Unikowsky - Justice Kavanaugh
+00:58:22 Unikowsky - Justice Barrett
+01:02:42 Unikowsky - Justice Jackson
+01:03:49 Lloyd B. Miller (for the Respondent in 23-250)
+01:07:27 Miller - Justice Roberts
+01:09:19 Miller - Justice Kavanaugh
+01:11:48 Miller - Justice Sotomayor
+01:11:57 Miller - Justice Kavanaugh
+01:14:19 Miller - Justice Gorsuch
+01:14:33 Miller - Justice Jackson
+01:14:51 Miller - Justice Kagan
+01:15:40 Miller - Justice Barrett
+01:19:30 Miller - Justice Alito
+01:21:11 Miller - Justice Roberts
+01:21:20 Caroline A. Flynn (for the Petitioners)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3" length="20782492" type="audio/mpeg"/>
             <guid>scotus_2023_23-250_v0</guid>
             <itunes:duration>5188</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 25 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-21] Harrow v. Dept. of Defense</title>
+            <title>[23-21] Harrow v. Department of Defense</title>
             <description><![CDATA[<p>Harrow v. Department of Defense</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-21/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-21.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-21">oyez.org</a></p>
     <p>Argued on Mar 25, 2024.</p>
@@ -74,12 +189,42 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p>Stuart R. Harrow was a federal employee who was furloughed in 2013. He appealed the furlough decision to the Merit Systems Protection Board (MSPB), but due to short staffing, the MSPB did not rule on Harrow’s appeal for more than five years, during which Harrow changed his email address. On May 11, 2022, the MSPB affirmed the agency’s furlough action and attempted to inform Harrow that he had 60 days to seek judicial review. However, because he had changed email addresses, Harrow did not learn of the MSPB’s denial until after 60 days had elapsed. On September 8, 2022, Harrow moved the Board for an extension of time to appeal, but the Board denied the motion for lack of jurisdiction. The U.S. Court of Appeals for the Federal Circuit affirmed the denial, holding that the timely filing of a petition from the Board's final decision is a jurisdictional requirement and “not subject to equitable tolling.”</p>
 
     <p><b>Question</b></p>
-    <p>Is the 60-day filing deadline in 5 U.S.C. § 7703(b)(1)(A) jurisdictional and thus not subject to equitable tolling?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-21.mp3" length="24324313" type="audio/mpeg"/>
+    <p>Is the 60-day filing deadline in 5 U.S.C. § 7703(b)(1)(A) jurisdictional and thus not subject to equitable tolling?</p>
+
+    
+
+Chapters:
+00:00:00 Joshua P. Davis (for the Petitioner)
+00:02:12 Davis - Justice Thomas
+00:03:29 Davis - Justice Roberts
+00:05:19 Davis - Justice Sotomayor
+00:08:22 Davis - Justice Alito
+00:10:31 Davis - Justice Jackson
+00:12:26 Davis - Justice Gorsuch
+00:15:32 Davis - Justice Alito
+00:15:52 Davis - Justice Sotomayor
+00:16:48 Davis - Justice Roberts
+00:17:01 Aimee W. Brown (for the Respondent)
+00:19:14 Brown - Justice Thomas
+00:20:02 Brown - Justice Kagan
+00:21:41 Brown - Justice Barrett
+00:24:00 Brown - Justice Gorsuch
+00:26:34 Brown - Justice Kavanaugh
+00:27:43 Brown - Justice Jackson
+00:31:36 Brown - Justice Alito
+00:37:24 Brown - Justice Roberts
+00:38:38 Brown - Justice Jackson
+00:40:35 Brown - Justice Kagan
+00:42:50 Brown - Justice Kavanaugh
+00:44:27 Brown - Justice Barrett
+00:45:12 Brown - Justice Jackson
+00:46:31 Brown - Justice Sotomayor
+00:46:54 Joshua P. Davis (for the Petitioner)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-21.mp3" length="12188729" type="audio/mpeg"/>
             <guid>scotus_2023_23-21_v0</guid>
             <itunes:duration>3039</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 25 Mar 2024 05:00:00 +0000</pubDate>
         </item>
     <item>
             <title>[22-1025] Gonzalez v. Trevino</title>

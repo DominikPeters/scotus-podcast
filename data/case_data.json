@@ -1736,26 +1736,309 @@
     },
     "23-250": {
       "docket_number": "23-250",
-      "name": "Becerra, Sec. of H&HS v. San Carlos Apache Tribe",
-      "date_argued_timestamp": 1711324800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-250",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-250.mp3",
-      "mp3_length": 5188,
-      "mp3_size": 41511885,
-      "source": "scotus",
+      "name": "Becerra v. San Carlos Apache Tribe",
+      "date_argued_timestamp": 1711342800,
       "description": "<p>Becerra v. San Carlos Apache Tribe</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Becerra_v._San_Carlos_Apache_Tribe\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-250/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-250.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-250\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2024.</p>\n    <p>Petitioner: Xavier Becerra, Secretary of Health and Human Services, et al.<br>Respondent: San Carlos Apache Tribe.</p>\n    <p>Advocates: <ul><li>Caroline A. Flynn (for the Petitioners)</li>\n<li>Adam G. Unikowsky (for the Respondent in 23-253)</li>\n<li>Lloyd B. Miller (for the Respondent in 23-250)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Indian Health Service (IHS) manages healthcare for Native tribes, billing Medicare, Medicaid, or private insurance for services and retaining the revenue. To enhance tribal sovereignty, Congress passed the Indian Self-Determination and Education Assistance Act (ISDA), allowing tribes to administer their healthcare programs. These programs were funded by the IHS, equivalent to what IHS would spend on tribal healthcare. However, tribes faced financial challenges in running these programs due to the lack of bureaucratic and legal support available to the federal government. To address this, Congress mandated IHS to provide tribes with contract support costs (CSC), ensuring they could offer services at par with IHS. Despite this assistance, tribes still struggled with parity issues with IHS, primarily due to slow billing processes and imperfect remittance of funds by IHS. To remedy this, Congress permitted tribes to bill outside insurers directly and retain the third-party revenue, which the Tribe was required to spend on healthcare. The San Carlos Apache Tribe, exercising its sovereignty in Arizona, managed its healthcare programs and billed outside insurers directly. However, the Tribe encountered difficulties in funding the additional healthcare services from third-party revenue without corresponding CSC from IHS.</p>\n<p>The Tribe sued the U.S. Department of Health &amp; Human Services, IHS, and the United States, for the CSC for the years 2011\u20132013. The district court dismissed the Tribe\u2019s claim for the third-party-revenue-funded portions of the Tribe\u2019s healthcare program from CSC reimbursement, and the Tribe appealed. The U.S. Court of Appeals for the Ninth Circuit concluded that the statutory text of 25 U.S.C. \u00a7 5325(a) warranted a reversal of the dismissal and remanded for further proceedings, highlighting ongoing challenges in achieving true parity and financial sustainability for tribal healthcare programs under the existing legislative framework.</p>\n\n    <p><b>Question</b></p>\n    <p>Must the Indian Health Service pay \u201ccontract support costs\u201d not only to support IHS-funded activities, but also to support the tribe\u2019s expenditure of income collected from third parties?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3"
+      "mp3_length": 5188,
+      "mp3_size": 20782492,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Caroline A. Flynn (for the Petitioners)",
+          "start": 0.135
+        },
+        {
+          "title": "Flynn - Justice Thomas",
+          "start": 128.05
+        },
+        {
+          "title": "Flynn - Justice Roberts",
+          "start": 201.84
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 298.38
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 444.925
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 687.8
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 707.85
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 784.93
+        },
+        {
+          "title": "Flynn - Justice Sotomayor",
+          "start": 791.68
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 1016.72
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 1177.02
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 1309.44
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 1420.04
+        },
+        {
+          "title": "Flynn - Justice Sotomayor",
+          "start": 1521.76
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 1558.07
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 1757.25
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 1953.135
+        },
+        {
+          "title": "Adam G. Unikowsky (for the Respondent in 23-253)",
+          "start": 2095.35
+        },
+        {
+          "title": "Unikowsky - Justice Thomas",
+          "start": 2192.98
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 2307.12
+        },
+        {
+          "title": "Unikowsky - Justice Roberts",
+          "start": 2361.94
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 2549.49
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 2604.13
+        },
+        {
+          "title": "Unikowsky - Justice Gorsuch",
+          "start": 2746.085
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 2810.78
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 2836.86500005
+        },
+        {
+          "title": "Unikowsky - Justice Kavanaugh",
+          "start": 2983.34
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 3035.695
+        },
+        {
+          "title": "Unikowsky - Justice Gorsuch",
+          "start": 3251.135
+        },
+        {
+          "title": "Unikowsky - Justice Kavanaugh",
+          "start": 3355.39
+        },
+        {
+          "title": "Unikowsky - Justice Barrett",
+          "start": 3502.94
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 3762
+        },
+        {
+          "title": "Lloyd B. Miller (for the Respondent in 23-250)",
+          "start": 3829.44500005
+        },
+        {
+          "title": "Miller - Justice Roberts",
+          "start": 4047.195
+        },
+        {
+          "title": "Miller - Justice Kavanaugh",
+          "start": 4159.64
+        },
+        {
+          "title": "Miller - Justice Sotomayor",
+          "start": 4308.17
+        },
+        {
+          "title": "Miller - Justice Kavanaugh",
+          "start": 4317.945
+        },
+        {
+          "title": "Miller - Justice Gorsuch",
+          "start": 4459.745
+        },
+        {
+          "title": "Miller - Justice Jackson",
+          "start": 4473.785
+        },
+        {
+          "title": "Miller - Justice Kagan",
+          "start": 4491.37499995
+        },
+        {
+          "title": "Miller - Justice Barrett",
+          "start": 4540.795
+        },
+        {
+          "title": "Miller - Justice Alito",
+          "start": 4770.495
+        },
+        {
+          "title": "Miller - Justice Roberts",
+          "start": 4871.235
+        },
+        {
+          "title": "Caroline A. Flynn (for the Petitioners)",
+          "start": 4880.98
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.vtt"
     },
     "23-21": {
       "docket_number": "23-21",
-      "name": "Harrow v. Dept. of Defense",
-      "date_argued_timestamp": 1711324800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-21",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-21.mp3",
-      "mp3_length": 3039,
-      "mp3_size": 24324313,
-      "source": "scotus",
+      "name": "Harrow v. Department of Defense",
+      "date_argued_timestamp": 1711342800,
       "description": "<p>Harrow v. Department of Defense</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-21/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-21.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-21\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2024.</p>\n    <p>Petitioner: Stuart R. Harrow.<br>Respondent: Department of Defense.</p>\n    <p>Advocates: <ul><li>Joshua P. Davis (for the Petitioner)</li>\n<li>Aimee W. Brown (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Stuart R. Harrow was a federal employee who was furloughed in 2013. He appealed the furlough decision to the Merit Systems Protection Board (MSPB), but due to short staffing, the MSPB did not rule on Harrow\u2019s appeal for more than five years, during which Harrow changed his email address. On May 11, 2022, the MSPB affirmed the agency\u2019s furlough action and attempted to inform Harrow that he had 60 days to seek judicial review. However, because he had changed email addresses, Harrow did not learn of the MSPB\u2019s denial until after 60 days had elapsed. On September 8, 2022, Harrow moved the Board for an extension of time to appeal, but the Board denied the motion for lack of jurisdiction. The U.S. Court of Appeals for the Federal Circuit affirmed the denial, holding that the timely filing of a petition from the Board's final decision is a jurisdictional requirement and \u201cnot subject to equitable tolling.\u201d</p>\n\n    <p><b>Question</b></p>\n    <p>Is the 60-day filing deadline in 5 U.S.C. \u00a7 7703(b)(1)(A) jurisdictional and thus not subject to equitable tolling?</p>\n\n    ",
+      "mp3_length": 3039,
+      "mp3_size": 12188729,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Joshua P. Davis (for the Petitioner)",
+          "start": 0.265
+        },
+        {
+          "title": "Davis - Justice Thomas",
+          "start": 132.97
+        },
+        {
+          "title": "Davis - Justice Roberts",
+          "start": 209.345
+        },
+        {
+          "title": "Davis - Justice Sotomayor",
+          "start": 319.02
+        },
+        {
+          "title": "Davis - Justice Alito",
+          "start": 502.05
+        },
+        {
+          "title": "Davis - Justice Jackson",
+          "start": 631.135
+        },
+        {
+          "title": "Davis - Justice Gorsuch",
+          "start": 746.835
+        },
+        {
+          "title": "Davis - Justice Alito",
+          "start": 932.92
+        },
+        {
+          "title": "Davis - Justice Sotomayor",
+          "start": 952.66
+        },
+        {
+          "title": "Davis - Justice Roberts",
+          "start": 1008.92500005
+        },
+        {
+          "title": "Aimee W. Brown (for the Respondent)",
+          "start": 1021.11
+        },
+        {
+          "title": "Brown - Justice Thomas",
+          "start": 1154.08
+        },
+        {
+          "title": "Brown - Justice Kagan",
+          "start": 1202.845
+        },
+        {
+          "title": "Brown - Justice Barrett",
+          "start": 1301.685
+        },
+        {
+          "title": "Brown - Justice Gorsuch",
+          "start": 1440.49
+        },
+        {
+          "title": "Brown - Justice Kavanaugh",
+          "start": 1594.81
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 1663.08
+        },
+        {
+          "title": "Brown - Justice Alito",
+          "start": 1896.61
+        },
+        {
+          "title": "Brown - Justice Roberts",
+          "start": 2244.25
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 2318.69
+        },
+        {
+          "title": "Brown - Justice Kagan",
+          "start": 2435.805
+        },
+        {
+          "title": "Brown - Justice Kavanaugh",
+          "start": 2570.115
+        },
+        {
+          "title": "Brown - Justice Barrett",
+          "start": 2667.76
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 2712.125
+        },
+        {
+          "title": "Brown - Justice Sotomayor",
+          "start": 2791.23
+        },
+        {
+          "title": "Joshua P. Davis (for the Petitioner)",
+          "start": 2814.935
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-21.mp3"
     },
     "23-235": {
@@ -1769,6 +2052,172 @@
       "source": "scotus",
       "description": "<p>Oral argument for FDA v. Alliance Hippocratic Medicine, argued on March 26, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.mp3"
+    },
+    "23-235 ": {
+      "docket_number": "23-235 ",
+      "name": "Food and Drug Administration v. Alliance for Hippocratic Medicine",
+      "date_argued_timestamp": 1711429200,
+      "description": "<p>Food and Drug Administration v. Alliance for Hippocratic Medicine</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-235 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-235 .htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-235\">oyez.org</a></p>\n    <p>Argued on Mar 26, 2024.</p>\n    <p>Petitioner: Food and Drug Administration, et al.<br>Respondent: Alliance for Hippocratic Medicine, et al.</p>\n    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the federal Petitioners)</li>\n<li>Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)</li>\n<li>Erin M. Hawley (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Medication abortion in the U.S. is commonly conducted using a combination of mifepristone and misoprostol. Mifepristone was approved by the U.S. Food and Drug Administration (FDA) in September 2000 and is used in over half of all U.S. abortions. Initially, its distribution was limited to hospitals and medical facilities under FDA regulations. The 2007 Food and Drug Administration Amendments Act introduced Risk Evaluation and Mitigation Strategies (REMS), reinforcing FDA's control over drug approvals. Despite REMS review in 2011, mifepristone's distribution remained restricted. In March 2016, the FDA expanded access, allowing medical practitioners to prescribe it and extending the usage period in pregnancy. In April 2021, due to the COVID-19 pandemic, the FDA permitted mail distribution from certified sources, and in January 2023, approved pharmacies also began distributing it.</p>\n<p>However, following the Supreme Court's June 2022 decision in Dobbs v. Jackson Women's Health Organization, which eliminated the constitutional right to abortion, several states sought to restrict mifepristone\u2019s sale. The Alliance for Hippocratic Medicine and other anti-abortion groups challenged the FDA\u2019s approval, claiming inadequate consideration of evidence in 2000. In April 2023, a federal district court judge sided with the plaintiffs, suspending the FDA\u2019s approval. The U.S. Court of Appeals for the Fifth Circuit partially stayed this decision, maintaining the original 2000 approval but striking down the 2016 REMS changes that eased access. After a hearing on the merits, in August 2023, the Fifth Circuit upheld the ban on changes made in 2016. The U.S. Supreme Court granted review and stayed the lower court\u2019s injunction.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Do respondents have Article III standing to challenge the Food and Drug Administration\u2019s 2016 and 2021 actions with respect to mifepristone\u2019s approved conditions of use?</p>\n<p>2. Were the FDA\u2019s 2016 and 2021 approvals of mifepristone arbitrary and capricious?</p>\n<p>3. Did the district court properly grant preliminary relief?</p>\n\n    ",
+      "mp3_length": 5578,
+      "mp3_size": 22342942,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Elizabeth B. Prelogar (for the federal Petitioners)",
+          "start": 0
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 148.84
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 279.68
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 358.28
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 637.44
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 710.04
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 937.08
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 1084.32
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 1440.8
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1552.32
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 1795.44
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 1837.8
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 2104.2
+        },
+        {
+          "title": "Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)",
+          "start": 2340.6
+        },
+        {
+          "title": "Ellsworth - Justice Thomas",
+          "start": 2414.32
+        },
+        {
+          "title": "Ellsworth - Justice Roberts",
+          "start": 2515.96
+        },
+        {
+          "title": "Ellsworth - Justice Alito",
+          "start": 2604.8
+        },
+        {
+          "title": "Ellsworth - Justice Kagan",
+          "start": 2866.28
+        },
+        {
+          "title": "Ellsworth - Justice Jackson",
+          "start": 2947.6
+        },
+        {
+          "title": "Erin M. Hawley (for the Respondents)",
+          "start": 3049.48
+        },
+        {
+          "title": "Hawley - Justice Thomas",
+          "start": 3172.4
+        },
+        {
+          "title": "Hawley - Justice Sotomayor",
+          "start": 3331.48
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 3441.12
+        },
+        {
+          "title": "Hawley - Justice Gorsuch",
+          "start": 3605.84
+        },
+        {
+          "title": "Hawley - Justice Roberts",
+          "start": 3718.56
+        },
+        {
+          "title": "Hawley - Justice Gorsuch",
+          "start": 3772.92
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 3853.12
+        },
+        {
+          "title": "Hawley - Justice Alito",
+          "start": 4166.08
+        },
+        {
+          "title": "Hawley - Justice Sotomayor",
+          "start": 4263.16
+        },
+        {
+          "title": "Hawley - Justice Barrett",
+          "start": 4376.04
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 4548.2
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 4631.84
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 4711.28
+        },
+        {
+          "title": "Hawley - Justice Thomas",
+          "start": 4825.6
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 4920.4
+        },
+        {
+          "title": "Hawley - Justice Barrett",
+          "start": 5088.68
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 5251.4
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the federal Petitioners)",
+          "start": 5387.76
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .vtt"
     }
   },
   "2022": {
