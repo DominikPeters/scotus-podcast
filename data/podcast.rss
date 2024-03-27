@@ -46,11 +46,33 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the Constitution require a jury trial and proof beyond a reasonable doubt to find that a defendant’s prior convictions were “committed on occasions different from one another,” as is necessary to impose an enhanced sentence under the Armed Career Criminal Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.mp3" length="44700709" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.mp3" length="22376902" type="audio/mpeg"/>
             <guid>scotus_2023_23-370_v0</guid>
             <itunes:duration>5586</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 27 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[23-146 ] Connelly v. United States</title>
+            <description><![CDATA[<p>Connelly v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-146 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-146 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-146">oyez.org</a></p>
+    <p>Argued on Mar 27, 2024.</p>
+    <p>Petitioner: Thomas A. Connelly, as Executor of the Estate of Michael P. Connelly, Sr.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Kannon K. Shanmugam (for the Petitioner)</li>
+<li>Yaira Dubin (for the Respondent)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Brothers Michael and Thomas Connelly were the sole shareholders of a corporation. The corporation obtained life insurance on each brother so that if one died, the corporation could use the proceeds to redeem his shares. When Michael died, the Internal Revenue Service assessed taxes on his estate, which included his stock interest in the corporation. According to the IRS, the corporation’s fair market value included the life insurance proceeds intended for the stock redemption. Michael’s estate argued otherwise and sued for a tax refund.</p>
+<p>The district court granted summary judgment to the IRS, finding that the stock-purchase agreement did not affect the valuation and furthermore, that a proper valuation of the corporation must include the life insurance proceeds used for redemption because they were a significant asset of the company. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>
+
+    <p><b>Question</b></p>
+    <p>Should the proceeds of a life insurance policy taken out by a closely held corporation on a shareholder in order to facilitate the redemption of the shareholder’s stock be considered a corporate asset when calculating the value of the shareholder’s shares for purposes of the federal estate tax?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146 .mp3" length="12921829" type="audio/mpeg"/>
+            <guid>scotus_2023_23-146 _v0</guid>
+            <itunes:duration>3222</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Wed, 27 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146 .vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-146] Connelly v. United States</title>

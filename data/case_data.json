@@ -2222,14 +2222,168 @@
     "23-370": {
       "docket_number": "23-370",
       "name": "Erlinger v. United States",
-      "date_argued_timestamp": 1711497600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-370",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-370.mp3",
-      "mp3_length": 5586,
-      "mp3_size": 44700709,
-      "source": "scotus",
+      "date_argued_timestamp": 1711515600,
       "description": "<p>Erlinger v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Erlinger_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-370/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-370.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-370\">oyez.org</a></p>\n    <p>Argued on Mar 27, 2024.</p>\n    <p>Petitioner: Paul Erlinger.<br>Respondent: United States.</p>\n    <p>Advocates: <ul><li>Jeffrey L. Fisher (for the Petitioner)</li>\n<li>Eric J. Feigin (for the Respondent, supporting the Petitioner)</li>\n<li>D. Nick Harper (Court-appointed amicus curiae in support of the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Paul Erlinger received a 15-year prison term under the Armed Career Criminal Act (ACCA), 18 U.S.C. \u00a7 924(e), for illegally possessing a firearm. This sentence was based on his three prior convictions for violent felonies, all being Indiana burglaries. Erlinger challenged his sentence on two grounds. First, he argued that Indiana\u2019s definition of burglary extends beyond the federal statute, making it non-applicable as a predicate offense under ACCA. However, the U.S. Court of Appeals for the Seventh Circuit noted that Indiana's definition of burglary is \u201c[a] person who breaks and enters the building or structure of another person, with intent to commit a felony in it.\u201d Ind. Code \u00a7 35-43-2-1 (1990) is no broader than the federal definition of general burglary, which is \u201can unlawful or unprivileged entry into, or remaining in, a building or other structure, with intent to commit a crime.\u201d</p>\n<p>Secondly, Erlinger argued that these burglaries did not occur on separate occasions, and claimed that the determination of this fact should be made by a jury, not a judge, as per the Sixth Amendment and the Supreme Court\u2019s decision in Wooden v. United States (2022). The Seventh Circuit disagreed, finding that under binding circuit precedent, the government was not required to prove to a jury beyond a reasonable doubt that Erlinger committed the Indiana burglaries on separate occasions, only to the sentencing judge by a preponderance of the evidence.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Constitution require a jury trial and proof beyond a reasonable doubt to find that a defendant\u2019s prior convictions were \u201ccommitted on occasions different from one another,\u201d as is necessary to impose an enhanced sentence under the Armed Career Criminal Act?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.mp3"
+      "mp3_length": 5586,
+      "mp3_size": 22376902,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioner)",
+          "start": 0.115
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 103.37
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 164.655
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 296.23
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 601.4
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 688.75
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 743.855
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 1047.43
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1124.53
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 1183.13
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 1357.22
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 1566.175
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent, supporting the Petitioner)",
+          "start": 1822.09
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 1895.315
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 1997.225
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 2285.17
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 2392.88
+        },
+        {
+          "title": "Feigin - Justice Alito",
+          "start": 2749.96
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 3104.765
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 3243.04
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 3338.56
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3507.93
+        },
+        {
+          "title": "D. Nick Harper (Court-appointed amicus curiae in support of the judgment below)",
+          "start": 3786.385
+        },
+        {
+          "title": "Harper - Justice Thomas",
+          "start": 3898.575
+        },
+        {
+          "title": "Harper - Justice Roberts",
+          "start": 3980.165
+        },
+        {
+          "title": "Harper - Justice Alito",
+          "start": 4106.365
+        },
+        {
+          "title": "Harper - Justice Sotomayor",
+          "start": 4316.895
+        },
+        {
+          "title": "Harper - Justice Kagan",
+          "start": 4435.715
+        },
+        {
+          "title": "Harper - Justice Kavanaugh",
+          "start": 4505.845
+        },
+        {
+          "title": "Harper - Justice Barrett",
+          "start": 4735.69
+        },
+        {
+          "title": "Harper - Justice Jackson",
+          "start": 4826.23
+        },
+        {
+          "title": "Harper - Justice Kagan",
+          "start": 4931.19
+        },
+        {
+          "title": "Harper - Justice Kavanaugh",
+          "start": 5002.69
+        },
+        {
+          "title": "Harper - Justice Gorsuch",
+          "start": 5052.01
+        },
+        {
+          "title": "Harper - Justice Kavanaugh",
+          "start": 5203.635
+        },
+        {
+          "title": "Harper - Justice Barrett",
+          "start": 5314.73
+        },
+        {
+          "title": "Harper - Justice Sotomayor",
+          "start": 5393.205
+        },
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioner)",
+          "start": 5414.01000005
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.vtt"
     },
     "23-146": {
       "docket_number": "23-146",
@@ -2242,6 +2396,119 @@
       "source": "scotus",
       "description": "<p>Oral argument for Connelly v. United States, argued on March 27, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.mp3"
+    },
+    "23-146 ": {
+      "docket_number": "23-146 ",
+      "name": "Connelly v. United States",
+      "date_argued_timestamp": 1711515600,
+      "description": "<p>Connelly v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-146 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-146 .htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-146\">oyez.org</a></p>\n    <p>Argued on Mar 27, 2024.</p>\n    <p>Petitioner: Thomas A. Connelly, as Executor of the Estate of Michael P. Connelly, Sr.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Kannon K. Shanmugam (for the Petitioner)</li>\n<li>Yaira Dubin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Brothers Michael and Thomas Connelly were the sole shareholders of a corporation. The corporation obtained life insurance on each brother so that if one died, the corporation could use the proceeds to redeem his shares. When Michael died, the Internal Revenue Service assessed taxes on his estate, which included his stock interest in the corporation. According to the IRS, the corporation\u2019s fair market value included the life insurance proceeds intended for the stock redemption. Michael\u2019s estate argued otherwise and sued for a tax refund.</p>\n<p>The district court granted summary judgment to the IRS, finding that the stock-purchase agreement did not affect the valuation and furthermore, that a proper valuation of the corporation must include the life insurance proceeds used for redemption because they were a significant asset of the company. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Should the proceeds of a life insurance policy taken out by a closely held corporation on a shareholder in order to facilitate the redemption of the shareholder\u2019s stock be considered a corporate asset when calculating the value of the shareholder\u2019s shares for purposes of the federal estate tax?</p>\n\n    ",
+      "mp3_length": 3222,
+      "mp3_size": 12921829,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioner)",
+          "start": 0.37
+        },
+        {
+          "title": "Shanmugam - Justice Thomas",
+          "start": 136.965
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 452.49
+        },
+        {
+          "title": "Shanmugam - Justice Sotomayor",
+          "start": 605.57
+        },
+        {
+          "title": "Shanmugam - Justice Barrett",
+          "start": 716.36
+        },
+        {
+          "title": "Shanmugam - Justice Gorsuch",
+          "start": 885.92
+        },
+        {
+          "title": "Shanmugam - Justice Kavanaugh",
+          "start": 1135.635
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 1350.385
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 1420.03
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 1541.355
+        },
+        {
+          "title": "Yaira Dubin (for the Respondent)",
+          "start": 1643.64
+        },
+        {
+          "title": "Dubin - Justice Thomas",
+          "start": 1756.56999995
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 1845.085
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 1928.94999995
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 1955.28
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 2151.88
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 2176.38
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 2292.25
+        },
+        {
+          "title": "Dubin - Justice Roberts",
+          "start": 2534.73
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2712.595
+        },
+        {
+          "title": "Dubin - Justice Roberts",
+          "start": 2740.54
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 2785.28
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 2820.19
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2855.765
+        },
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioner)",
+          "start": 2908.90999995
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146 .mp3"
     }
   },
   "2022": {
