@@ -62,7 +62,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3501</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[23-108 ] Snyder v. United States</title>
+            <description><![CDATA[<p>Snyder v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-108 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-108 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-108">oyez.org</a></p>
+    <p>Argued on Apr 15, 2024.</p>
+    <p>Petitioner: James E. Snyder.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>
+<li>Colleen E. Roh Sinzdak (for the Respondent)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>James Snyder formerly served as mayor of Portage, Indiana. He was convicted of federal funds bribery in violation of 18 U.S.C. § 666(a)(1)(B) for soliciting and accepting $13,000 in connection with the city’s purchases of garbage trucks, among other federal crimes.</p>
+<p>Before, during, and after trial, Snyder argued that the evidence did not support a finding that there was an agreement to exchange money for the truck contracts before they were awarded. Without a prior quid pro quo agreement, he argued, § 666 cannot apply. Interpreting the plain language of the statute and Sixth Circuit precedent, the district court rejected his interpretation of that provision. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>
+
+    <p><b>Question</b></p>
+    <p>Does 18 U.S.C. § 666(a)(1)(B) criminalize gratuities, i.e., payments in recognition of actions a state or local official has already taken or committed to take, without any quid pro quo agreement to take those actions?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108 .mp3" length="23704654" type="audio/mpeg"/>
+            <guid>scotus_2023_23-108 _v0</guid>
+            <itunes:duration>5918</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108 .vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-108] Snyder v. United States</title>
