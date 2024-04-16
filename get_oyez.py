@@ -342,7 +342,7 @@ def get_term_from_oyez(term):
         scotus_record = None
         download_audio = True
         previous_b2_url = None
-        docket_number = case["docket_number"]
+        docket_number = case["docket_number"].strip()
         if docket_number in case_data[term]:
             if case_data[term][docket_number]["source"] == "oyez":
                 if case_data[term][docket_number]["description_version"] == CURRENT_DESCRIPTION_VERSION:
