@@ -2859,6 +2859,143 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108 .mp3"
+    },
+    "23-5572 ": {
+      "docket_number": "23-5572 ",
+      "name": "Fischer v. United States",
+      "date_argued_timestamp": 1713243600,
+      "description": "<p>Fischer v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Fischer_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-5572 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-5572 .htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-5572\">oyez.org</a></p>\n    <p>Argued on Apr 16, 2024.</p>\n    <p>Petitioner: Joseph W. Fischer.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Jeffrey T. Green (for the Petitioner)</li>\n<li>Elizabeth B. Prelogar (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On January 6, 2021, while Congress was convening to certify the results of the 2020 presidential election in favor of Joe Biden, thousands of supporters of the losing candidate, Donald Trump, converged on the United States Capitol to disrupt the proceedings. The Trump supporters swarmed the building, overwhelming law enforcement officers who attempted to stop them. The chaos wrought by the mob forced members of Congress to stop the certification and flee for safety. Congress was not able to resume its work for six hours.</p>\n<p>Joseph Fischer, Edward Lang, and Garret Miller were indicted for various offenses related to their involvement in the Capitol riot on January 6. All three were charged with felony offenses of assaulting, resisting, or impeding certain officers, and misdemeanor offenses of disorderly conduct in a Capitol building and in restricted grounds, involving the intent to disrupt congressional sessions and government functions. Additionally, each faced a count of obstruction of an official proceeding. The defendants challenged this obstruction charge, claiming that the statute does not prohibit their alleged conduct on that day. The district court agreed, holding that the statute does not apply to assaultive conduct, committed in furtherance of an attempt to stop Congress from performing a constitutionally required duty. The U.S. Court of Appeals for the D.C. Circuit reversed, concluding that the natural, broad reading of that provision is that it applies to forms of obstructive conduct, not just those related to investigations and evidence.</p>\n\n    <p><b>Question</b></p>\n    <p>Does 18 U.S.C. \u00a7 1512(c), which prohibits obstruction of congressional inquiries and investigations, include acts unrelated to investigations and evidence?</p>\n\n    ",
+      "mp3_length": 6035,
+      "mp3_size": 24170887,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey T. Green (for the Petitioner)",
+          "start": 0.135
+        },
+        {
+          "title": "Green - Justice Thomas",
+          "start": 112.075
+        },
+        {
+          "title": "Green - Justice Sotomayor",
+          "start": 233.145
+        },
+        {
+          "title": "Green - Justice Barrett",
+          "start": 410.485
+        },
+        {
+          "title": "Green - Justice Jackson",
+          "start": 581.5
+        },
+        {
+          "title": "Green - Justice Alito",
+          "start": 793.79
+        },
+        {
+          "title": "Green - Justice Kagan",
+          "start": 825.5
+        },
+        {
+          "title": "Green - Justice Alito",
+          "start": 1097.715
+        },
+        {
+          "title": "Green - Justice Kagan",
+          "start": 1340.6
+        },
+        {
+          "title": "Green - Justice Sotomayor",
+          "start": 1431.53
+        },
+        {
+          "title": "Green - Justice Kavanaugh",
+          "start": 1604.09
+        },
+        {
+          "title": "Green - Justice Barrett",
+          "start": 1706.16
+        },
+        {
+          "title": "Green - Justice Jackson",
+          "start": 1816.305
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Respondent)",
+          "start": 2069.745
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 2203.66
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 2414.71
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 2644.61
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 2902.865
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 3269.13
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 3386.52
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 3628.05
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 3847.305
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 3901.035
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 4063.885
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 4283.45
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 4656.205
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 4700.195
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 4875.91
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 5256.13
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 5579.395
+        },
+        {
+          "title": "Jeffrey T. Green (for the Petitioner)",
+          "start": 5776.975
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572 .mp3"
     }
   },
   "2022": {
