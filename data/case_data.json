@@ -2043,14 +2043,167 @@
     },
     "23-235": {
       "docket_number": "23-235",
-      "name": "FDA v. Alliance Hippocratic Medicine",
-      "date_argued_timestamp": 1711411200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-235",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-235.mp3",
+      "name": "Food and Drug Administration v. Alliance for Hippocratic Medicine",
+      "date_argued_timestamp": 1711429200,
+      "description": "<p>Food and Drug Administration v. Alliance for Hippocratic Medicine</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-235 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-235.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-235\">oyez.org</a></p>\n    <p>Argued on Mar 26, 2024.</p>\n    <p>Petitioner: Food and Drug Administration, et al.<br>Respondent: Alliance for Hippocratic Medicine, et al.</p>\n    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the federal Petitioners)</li>\n<li>Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)</li>\n<li>Erin M. Hawley (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Medication abortion in the U.S. is commonly conducted using a combination of mifepristone and misoprostol. Mifepristone was approved by the U.S. Food and Drug Administration (FDA) in September 2000 and is used in over half of all U.S. abortions. Initially, its distribution was limited to hospitals and medical facilities under FDA regulations. The 2007 Food and Drug Administration Amendments Act introduced Risk Evaluation and Mitigation Strategies (REMS), reinforcing FDA's control over drug approvals. Despite REMS review in 2011, mifepristone's distribution remained restricted. In March 2016, the FDA expanded access, allowing medical practitioners to prescribe it and extending the usage period in pregnancy. In April 2021, due to the COVID-19 pandemic, the FDA permitted mail distribution from certified sources, and in January 2023, approved pharmacies also began distributing it.</p>\n<p>However, following the Supreme Court's June 2022 decision in Dobbs v. Jackson Women's Health Organization, which eliminated the constitutional right to abortion, several states sought to restrict mifepristone\u2019s sale. The Alliance for Hippocratic Medicine and other anti-abortion groups challenged the FDA\u2019s approval, claiming inadequate consideration of evidence in 2000. In April 2023, a federal district court judge sided with the plaintiffs, suspending the FDA\u2019s approval. The U.S. Court of Appeals for the Fifth Circuit partially stayed this decision, maintaining the original 2000 approval but striking down the 2016 REMS changes that eased access. After a hearing on the merits, in August 2023, the Fifth Circuit upheld the ban on changes made in 2016. The U.S. Supreme Court granted review and stayed the lower court\u2019s injunction.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Do respondents have Article III standing to challenge the Food and Drug Administration\u2019s 2016 and 2021 actions with respect to mifepristone\u2019s approved conditions of use?</p>\n<p>2. Were the FDA\u2019s 2016 and 2021 approvals of mifepristone arbitrary and capricious?</p>\n<p>3. Did the district court properly grant preliminary relief?</p>\n\n    ",
       "mp3_length": 5578,
-      "mp3_size": 44632785,
-      "source": "scotus",
-      "description": "<p>Oral argument for FDA v. Alliance Hippocratic Medicine, argued on March 26, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "mp3_size": 22342942,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Elizabeth B. Prelogar (for the federal Petitioners)",
+          "start": 0.075
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 148.445
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 279.67
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 358.89500005
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 637.57
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 710.25
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 936.755
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 1056.76
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 1381.775
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1485.47
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 1711.525
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 1751.39
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 1997.615
+        },
+        {
+          "title": "Jessica L. Ellsworth (for Petitioner Danco Laboratories, L.L.C)",
+          "start": 2234.5
+        },
+        {
+          "title": "Ellsworth - Justice Thomas",
+          "start": 2304.325
+        },
+        {
+          "title": "Ellsworth - Justice Roberts",
+          "start": 2435.19499995
+        },
+        {
+          "title": "Ellsworth - Justice Alito",
+          "start": 2522.275
+        },
+        {
+          "title": "Ellsworth - Justice Kagan",
+          "start": 2814.36
+        },
+        {
+          "title": "Ellsworth - Justice Jackson",
+          "start": 2899.21
+        },
+        {
+          "title": "Erin M. Hawley (for the Respondents)",
+          "start": 3014.485
+        },
+        {
+          "title": "Hawley - Justice Thomas",
+          "start": 3143.91
+        },
+        {
+          "title": "Hawley - Justice Sotomayor",
+          "start": 3325.61
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 3440.94
+        },
+        {
+          "title": "Hawley - Justice Gorsuch",
+          "start": 3605.79
+        },
+        {
+          "title": "Hawley - Justice Roberts",
+          "start": 3717.16
+        },
+        {
+          "title": "Hawley - Justice Gorsuch",
+          "start": 3772.99
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 3853.075
+        },
+        {
+          "title": "Hawley - Justice Alito",
+          "start": 4166.1
+        },
+        {
+          "title": "Hawley - Justice Sotomayor",
+          "start": 4262.385
+        },
+        {
+          "title": "Hawley - Justice Barrett",
+          "start": 4375.835
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 4548.11
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 4631.77
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 4710.9
+        },
+        {
+          "title": "Hawley - Justice Thomas",
+          "start": 4825.97
+        },
+        {
+          "title": "Hawley - Justice Kagan",
+          "start": 4920.83
+        },
+        {
+          "title": "Hawley - Justice Barrett",
+          "start": 5089.36
+        },
+        {
+          "title": "Hawley - Justice Jackson",
+          "start": 5250.635
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the federal Petitioners)",
+          "start": 5389.075
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.mp3"
     },
     "23-370": {
@@ -2222,26 +2375,310 @@
     "23-146": {
       "docket_number": "23-146",
       "name": "Connelly v. United States",
-      "date_argued_timestamp": 1711497600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-146",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-146.mp3",
+      "date_argued_timestamp": 1711515600,
+      "description": "<p>Connelly v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-146 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-146.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-146\">oyez.org</a></p>\n    <p>Argued on Mar 27, 2024.</p>\n    <p>Petitioner: Thomas A. Connelly, as Executor of the Estate of Michael P. Connelly, Sr.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Kannon K. Shanmugam (for the Petitioner)</li>\n<li>Yaira Dubin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Brothers Michael and Thomas Connelly were the sole shareholders of a corporation. The corporation obtained life insurance on each brother so that if one died, the corporation could use the proceeds to redeem his shares. When Michael died, the Internal Revenue Service assessed taxes on his estate, which included his stock interest in the corporation. According to the IRS, the corporation\u2019s fair market value included the life insurance proceeds intended for the stock redemption. Michael\u2019s estate argued otherwise and sued for a tax refund.</p>\n<p>The district court granted summary judgment to the IRS, finding that the stock-purchase agreement did not affect the valuation and furthermore, that a proper valuation of the corporation must include the life insurance proceeds used for redemption because they were a significant asset of the company. The U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Should the proceeds of a life insurance policy taken out by a closely held corporation on a shareholder in order to facilitate the redemption of the shareholder\u2019s stock be considered a corporate asset when calculating the value of the shareholder\u2019s shares for purposes of the federal estate tax?</p>\n\n    ",
       "mp3_length": 3222,
-      "mp3_size": 25790437,
-      "source": "scotus",
-      "description": "<p>Oral argument for Connelly v. United States, argued on March 27, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.mp3"
+      "mp3_size": 12921829,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioner)",
+          "start": 0.37
+        },
+        {
+          "title": "Shanmugam - Justice Thomas",
+          "start": 136.965
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 452.49
+        },
+        {
+          "title": "Shanmugam - Justice Sotomayor",
+          "start": 605.57
+        },
+        {
+          "title": "Shanmugam - Justice Barrett",
+          "start": 716.36
+        },
+        {
+          "title": "Shanmugam - Justice Gorsuch",
+          "start": 885.92
+        },
+        {
+          "title": "Shanmugam - Justice Kavanaugh",
+          "start": 1135.635
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 1350.385
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 1420.03
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 1541.355
+        },
+        {
+          "title": "Yaira Dubin (for the Respondent)",
+          "start": 1643.64
+        },
+        {
+          "title": "Dubin - Justice Thomas",
+          "start": 1756.56999995
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 1845.085
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 1928.94999995
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 1955.28
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 2151.88
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 2176.38
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 2292.25
+        },
+        {
+          "title": "Dubin - Justice Roberts",
+          "start": 2534.73
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2712.595
+        },
+        {
+          "title": "Dubin - Justice Roberts",
+          "start": 2740.54
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 2785.28
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 2820.19
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2855.765
+        },
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioner)",
+          "start": 2908.90999995
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.vtt"
     },
     "23-108": {
       "docket_number": "23-108",
       "name": "Snyder v. United States",
-      "date_argued_timestamp": 1713139200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-108",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-108.mp3",
+      "date_argued_timestamp": 1713157200,
+      "description": "<p>Snyder v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-108 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-108.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-108\">oyez.org</a></p>\n    <p>Argued on Apr 15, 2024.</p>\n    <p>Petitioner: James E. Snyder.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>\n<li>Colleen E. Roh Sinzdak (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>James Snyder formerly served as mayor of Portage, Indiana. He was convicted of federal funds bribery in violation of 18 U.S.C. \u00a7 666(a)(1)(B) for soliciting and accepting $13,000 in connection with the city\u2019s purchases of garbage trucks, among other federal crimes.</p>\n<p>Before, during, and after trial, Snyder argued that the evidence did not support a finding that there was an agreement to exchange money for the truck contracts before they were awarded. Without a prior quid pro quo agreement, he argued, \u00a7 666 cannot apply. Interpreting the plain language of the statute and Sixth Circuit precedent, the district court rejected his interpretation of that provision. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does 18 U.S.C. \u00a7 666(a)(1)(B) criminalize gratuities, i.e., payments in recognition of actions a state or local official has already taken or committed to take, without any quid pro quo agreement to take those actions?</p>\n\n    ",
       "mp3_length": 5918,
-      "mp3_size": 47356057,
-      "source": "scotus",
-      "description": "<p>Oral argument for Snyder v. United States, argued on April 15, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3"
+      "mp3_size": 23704654,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 0.115
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 134.24
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 225.17
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 295.64
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 494.13
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 657.985
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 737.44
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 796.14
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 796.82
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 858.33
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 956.63
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 960.905
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1038.935
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 1099.67
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 1254.82
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1268.46
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1521.25499995
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 1621.47
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1684.335
+        },
+        {
+          "title": "Colleen E. Roh Sinzdak (for the Respondent)",
+          "start": 1808.03
+        },
+        {
+          "title": "Roh Sinzdak - Justice Roberts",
+          "start": 1971.29
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kagan",
+          "start": 2076.4
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 2149.54
+        },
+        {
+          "title": "Roh Sinzdak - Justice Gorsuch",
+          "start": 2318.79
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 2451.8
+        },
+        {
+          "title": "Roh Sinzdak - Justice Alito",
+          "start": 2569.51
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kagan",
+          "start": 2589.52
+        },
+        {
+          "title": "Roh Sinzdak - Justice Roberts",
+          "start": 2787.72
+        },
+        {
+          "title": "Roh Sinzdak - Justice Alito",
+          "start": 2830.59
+        },
+        {
+          "title": "Roh Sinzdak - Justice Gorsuch",
+          "start": 2906.97
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 3059.39
+        },
+        {
+          "title": "Roh Sinzdak - Justice Alito",
+          "start": 3112.86
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 3180.24
+        },
+        {
+          "title": "Roh Sinzdak - Justice Roberts",
+          "start": 3251.665
+        },
+        {
+          "title": "Roh Sinzdak - Justice Jackson",
+          "start": 3344.82
+        },
+        {
+          "title": "Roh Sinzdak - Justice Barrett",
+          "start": 3439.69
+        },
+        {
+          "title": "Roh Sinzdak - Justice Sotomayor",
+          "start": 3502.5
+        },
+        {
+          "title": "Roh Sinzdak - Justice Alito",
+          "start": 3647.76
+        },
+        {
+          "title": "Roh Sinzdak - Justice Sotomayor",
+          "start": 4194.865
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kagan",
+          "start": 4324.195
+        },
+        {
+          "title": "Roh Sinzdak - Justice Gorsuch",
+          "start": 4493.715
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 4815.07499995
+        },
+        {
+          "title": "Roh Sinzdak - Justice Barrett",
+          "start": 5102.635
+        },
+        {
+          "title": "Roh Sinzdak - Justice Jackson",
+          "start": 5377.66
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 5660.695
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.vtt"
     },
     "23-50": {
       "docket_number": "23-50",
@@ -2379,14 +2816,140 @@
     "23-5572": {
       "docket_number": "23-5572",
       "name": "Fischer v. United States",
-      "date_argued_timestamp": 1713225600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-5572",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-5572.mp3",
+      "date_argued_timestamp": 1713243600,
+      "description": "<p>Fischer v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Fischer_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-5572 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-5572.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-5572\">oyez.org</a></p>\n    <p>Argued on Apr 16, 2024.</p>\n    <p>Petitioner: Joseph W. Fischer.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Jeffrey T. Green (for the Petitioner)</li>\n<li>Elizabeth B. Prelogar (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On January 6, 2021, while Congress was convening to certify the results of the 2020 presidential election in favor of Joe Biden, thousands of supporters of the losing candidate, Donald Trump, converged on the United States Capitol to disrupt the proceedings. The Trump supporters swarmed the building, overwhelming law enforcement officers who attempted to stop them. The chaos wrought by the mob forced members of Congress to stop the certification and flee for safety. Congress was not able to resume its work for six hours.</p>\n<p>Joseph Fischer, Edward Lang, and Garret Miller were indicted for various offenses related to their involvement in the Capitol riot on January 6. All three were charged with felony offenses of assaulting, resisting, or impeding certain officers, and misdemeanor offenses of disorderly conduct in a Capitol building and in restricted grounds, involving the intent to disrupt congressional sessions and government functions. Additionally, each faced a count of obstruction of an official proceeding. The defendants challenged this obstruction charge, claiming that the statute does not prohibit their alleged conduct on that day. The district court agreed, holding that the statute does not apply to assaultive conduct, committed in furtherance of an attempt to stop Congress from performing a constitutionally required duty. The U.S. Court of Appeals for the D.C. Circuit reversed, concluding that the natural, broad reading of that provision is that it applies to forms of obstructive conduct, not just those related to investigations and evidence.</p>\n\n    <p><b>Question</b></p>\n    <p>Does 18 U.S.C. \u00a7 1512(c), which prohibits obstruction of congressional inquiries and investigations, include acts unrelated to investigations and evidence?</p>\n\n    ",
       "mp3_length": 6035,
-      "mp3_size": 48288613,
-      "source": "scotus",
-      "description": "<p>Oral argument for Fischer v. United States, argued on April 16, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3"
+      "mp3_size": 24170887,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey T. Green (for the Petitioner)",
+          "start": 0.135
+        },
+        {
+          "title": "Green - Justice Thomas",
+          "start": 112.075
+        },
+        {
+          "title": "Green - Justice Sotomayor",
+          "start": 233.145
+        },
+        {
+          "title": "Green - Justice Barrett",
+          "start": 410.485
+        },
+        {
+          "title": "Green - Justice Jackson",
+          "start": 581.5
+        },
+        {
+          "title": "Green - Justice Alito",
+          "start": 793.79
+        },
+        {
+          "title": "Green - Justice Kagan",
+          "start": 825.5
+        },
+        {
+          "title": "Green - Justice Alito",
+          "start": 1097.715
+        },
+        {
+          "title": "Green - Justice Kagan",
+          "start": 1340.6
+        },
+        {
+          "title": "Green - Justice Sotomayor",
+          "start": 1431.53
+        },
+        {
+          "title": "Green - Justice Kavanaugh",
+          "start": 1604.09
+        },
+        {
+          "title": "Green - Justice Barrett",
+          "start": 1706.16
+        },
+        {
+          "title": "Green - Justice Jackson",
+          "start": 1816.305
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Respondent)",
+          "start": 2069.745
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 2203.66
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 2414.71
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 2644.61
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 2902.865
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 3269.13
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 3386.52
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 3628.05
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 3847.305
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 3901.035
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 4063.885
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 4283.45
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 4656.205
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 4700.195
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 4875.91
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 5256.13
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 5579.395
+        },
+        {
+          "title": "Jeffrey T. Green (for the Petitioner)",
+          "start": 5776.975
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.vtt"
     }
   },
   "2022": {

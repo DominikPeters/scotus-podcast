@@ -32,9 +32,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-5572 ] Fischer v. United States</title>
+            <title>[23-5572] Fischer v. United States</title>
             <description><![CDATA[<p>Fischer v. United States</p>
-    <p><a href="https://en.wikipedia.org/wiki/Fischer_v._United_States">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-5572 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-5572 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-5572">oyez.org</a></p>
+    <p><a href="https://en.wikipedia.org/wiki/Fischer_v._United_States">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-5572 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-5572.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-5572">oyez.org</a></p>
     <p>Argued on Apr 16, 2024.</p>
     <p>Petitioner: Joseph W. Fischer.<br>Respondent: United States of America.</p>
     <p>Advocates: <ul><li>Jeffrey T. Green (for the Petitioner)</li>
@@ -45,22 +45,33 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does 18 U.S.C. § 1512(c), which prohibits obstruction of congressional inquiries and investigations, include acts unrelated to investigations and evidence?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572 .mp3" length="24170887" type="audio/mpeg"/>
-            <guid>scotus_2023_23-5572 _v0</guid>
-            <itunes:duration>6035</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 16 Apr 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572 .vtt" type="text/vtt" />
-        </item>
-    <item>
-            <title>[23-5572] Fischer v. United States</title>
-            <description><![CDATA[<p>Oral argument for Fischer v. United States, argued on April 16, 2024.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3" length="48288613" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3" length="24170887" type="audio/mpeg"/>
             <guid>scotus_2023_23-5572_v0</guid>
             <itunes:duration>6035</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 16 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[23-108] Snyder v. United States</title>
+            <description><![CDATA[<p>Snyder v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-108 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-108.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-108">oyez.org</a></p>
+    <p>Argued on Apr 15, 2024.</p>
+    <p>Petitioner: James E. Snyder.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>
+<li>Colleen E. Roh Sinzdak (for the Respondent)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>James Snyder formerly served as mayor of Portage, Indiana. He was convicted of federal funds bribery in violation of 18 U.S.C. § 666(a)(1)(B) for soliciting and accepting $13,000 in connection with the city’s purchases of garbage trucks, among other federal crimes.</p>
+<p>Before, during, and after trial, Snyder argued that the evidence did not support a finding that there was an agreement to exchange money for the truck contracts before they were awarded. Without a prior quid pro quo agreement, he argued, § 666 cannot apply. Interpreting the plain language of the statute and Sixth Circuit precedent, the district court rejected his interpretation of that provision. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>
+
+    <p><b>Question</b></p>
+    <p>Does 18 U.S.C. § 666(a)(1)(B) criminalize gratuities, i.e., payments in recognition of actions a state or local official has already taken or committed to take, without any quid pro quo agreement to take those actions?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3" length="23704654" type="audio/mpeg"/>
+            <guid>scotus_2023_23-108_v0</guid>
+            <itunes:duration>5918</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-50] Chiaverini v. City of Napoleon, Ohio</title>
@@ -85,36 +96,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
         </item>
     <item>
-            <title>[23-108 ] Snyder v. United States</title>
-            <description><![CDATA[<p>Snyder v. United States</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-108 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-108 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-108">oyez.org</a></p>
-    <p>Argued on Apr 15, 2024.</p>
-    <p>Petitioner: James E. Snyder.<br>Respondent: United States of America.</p>
-    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>
-<li>Colleen E. Roh Sinzdak (for the Respondent)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>James Snyder formerly served as mayor of Portage, Indiana. He was convicted of federal funds bribery in violation of 18 U.S.C. § 666(a)(1)(B) for soliciting and accepting $13,000 in connection with the city’s purchases of garbage trucks, among other federal crimes.</p>
-<p>Before, during, and after trial, Snyder argued that the evidence did not support a finding that there was an agreement to exchange money for the truck contracts before they were awarded. Without a prior quid pro quo agreement, he argued, § 666 cannot apply. Interpreting the plain language of the statute and Sixth Circuit precedent, the district court rejected his interpretation of that provision. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>
-
-    <p><b>Question</b></p>
-    <p>Does 18 U.S.C. § 666(a)(1)(B) criminalize gratuities, i.e., payments in recognition of actions a state or local official has already taken or committed to take, without any quid pro quo agreement to take those actions?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108 .mp3" length="23704654" type="audio/mpeg"/>
-            <guid>scotus_2023_23-108 _v0</guid>
-            <itunes:duration>5918</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
-        </item>
-    <item>
-            <title>[23-108] Snyder v. United States</title>
-            <description><![CDATA[<p>Oral argument for Snyder v. United States, argued on April 15, 2024.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3" length="47356057" type="audio/mpeg"/>
-            <guid>scotus_2023_23-108_v0</guid>
-            <itunes:duration>5918</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-        </item>
-    <item>
             <title>[23-370] Erlinger v. United States</title>
             <description><![CDATA[<p>Erlinger v. United States</p>
     <p><a href="https://en.wikipedia.org/wiki/Erlinger_v._United_States">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-370/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-370.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-370">oyez.org</a></p>
@@ -137,9 +118,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-146 ] Connelly v. United States</title>
+            <title>[23-146] Connelly v. United States</title>
             <description><![CDATA[<p>Connelly v. United States</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-146 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-146 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-146">oyez.org</a></p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-146 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-146.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-146">oyez.org</a></p>
     <p>Argued on Mar 27, 2024.</p>
     <p>Petitioner: Thomas A. Connelly, as Executor of the Estate of Michael P. Connelly, Sr.<br>Respondent: United States of America.</p>
     <p>Advocates: <ul><li>Kannon K. Shanmugam (for the Petitioner)</li>
@@ -150,26 +131,17 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Should the proceeds of a life insurance policy taken out by a closely held corporation on a shareholder in order to facilitate the redemption of the shareholder’s stock be considered a corporate asset when calculating the value of the shareholder’s shares for purposes of the federal estate tax?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146 .mp3" length="12921829" type="audio/mpeg"/>
-            <guid>scotus_2023_23-146 _v0</guid>
-            <itunes:duration>3222</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 27 Mar 2024 05:00:00 +0000</pubDate>
-        </item>
-    <item>
-            <title>[23-146] Connelly v. United States</title>
-            <description><![CDATA[<p>Oral argument for Connelly v. United States, argued on March 27, 2024.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.mp3" length="25790437" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.mp3" length="12921829" type="audio/mpeg"/>
             <guid>scotus_2023_23-146_v0</guid>
             <itunes:duration>3222</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 27 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-146.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-235 ] Food and Drug Administration v. Alliance for Hippocratic Medicine</title>
+            <title>[23-235] Food and Drug Administration v. Alliance for Hippocratic Medicine</title>
             <description><![CDATA[<p>Food and Drug Administration v. Alliance for Hippocratic Medicine</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-235 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-235 .htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-235">oyez.org</a></p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-235 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-235.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-235">oyez.org</a></p>
     <p>Argued on Mar 26, 2024.</p>
     <p>Petitioner: Food and Drug Administration, et al.<br>Respondent: Alliance for Hippocratic Medicine, et al.</p>
     <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the federal Petitioners)</li>
@@ -183,22 +155,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p>1. Do respondents have Article III standing to challenge the Food and Drug Administration’s 2016 and 2021 actions with respect to mifepristone’s approved conditions of use?</p>
 <p>2. Were the FDA’s 2016 and 2021 approvals of mifepristone arbitrary and capricious?</p>
 <p>3. Did the district court properly grant preliminary relief?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .mp3" length="22342942" type="audio/mpeg"/>
-            <guid>scotus_2023_23-235 _v0</guid>
-            <itunes:duration>5578</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 26 Mar 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235 .vtt" type="text/vtt" />
-        </item>
-    <item>
-            <title>[23-235] FDA v. Alliance Hippocratic Medicine</title>
-            <description><![CDATA[<p>Oral argument for FDA v. Alliance Hippocratic Medicine, argued on March 26, 2024.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.mp3" length="44632785" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.mp3" length="22342942" type="audio/mpeg"/>
             <guid>scotus_2023_23-235_v0</guid>
             <itunes:duration>5578</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 26 Mar 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-250] Becerra v. San Carlos Apache Tribe</title>
