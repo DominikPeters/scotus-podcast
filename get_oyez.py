@@ -273,6 +273,7 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
     log.info(f"Handling case {case_number}")
 
     case_metadata = requests.get(case_url).json()
+    case_metadata["docket_number"] = case_metadata["docket_number"].strip()
 
     if not "oral_argument_audio" in case_metadata or not case_metadata["oral_argument_audio"]:
         if scotus_record is None:
