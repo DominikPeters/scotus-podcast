@@ -32,17 +32,17 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-108] Snyder v. United States</title>
-            <description><![CDATA[<p>Oral argument for Snyder v. United States, argued on April 15, 2024.</p>
+            <title>[23-5572] Fischer v. United States</title>
+            <description><![CDATA[<p>Oral argument for Fischer v. United States, argued on April 16, 2024.</p>
 <p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3" length="47356057" type="audio/mpeg"/>
-            <guid>scotus_2023_23-108_v0</guid>
-            <itunes:duration>5918</itunes:duration>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3" length="48288613" type="audio/mpeg"/>
+            <guid>scotus_2023_23-5572_v0</guid>
+            <itunes:duration>6035</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
         </item>
     <item>
-            <title>[23-50] Chiaverini v. City of Napoleon</title>
+            <title>[23-50] Chiaverini v. City of Napoleon, Ohio</title>
             <description><![CDATA[<p>Chiaverini v. City of Napoleon, Ohio</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-50/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-50.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-50">oyez.org</a></p>
     <p>Argued on Apr 15, 2024.</p>
@@ -57,9 +57,20 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May a Fourth Amendment malicious-prosecution claim proceed as to a baseless criminal charge so long as other charges brought alongside the baseless charge are supported by probable cause?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.mp3" length="28015733" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.mp3" length="14034436" type="audio/mpeg"/>
             <guid>scotus_2023_23-50_v0</guid>
             <itunes:duration>3501</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Mon, 15 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[23-108] Snyder v. United States</title>
+            <description><![CDATA[<p>Oral argument for Snyder v. United States, argued on April 15, 2024.</p>
+<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3" length="47356057" type="audio/mpeg"/>
+            <guid>scotus_2023_23-108_v0</guid>
+            <itunes:duration>5918</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
         </item>

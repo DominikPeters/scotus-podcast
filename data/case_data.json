@@ -2524,15 +2524,148 @@
     },
     "23-50": {
       "docket_number": "23-50",
-      "name": "Chiaverini v. City of Napoleon",
-      "date_argued_timestamp": 1713139200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-50",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-50.mp3",
-      "mp3_length": 3501,
-      "mp3_size": 28015733,
-      "source": "scotus",
+      "name": "Chiaverini v. City of Napoleon, Ohio",
+      "date_argued_timestamp": 1713157200,
       "description": "<p>Chiaverini v. City of Napoleon, Ohio</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-50/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-50.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-50\">oyez.org</a></p>\n    <p>Argued on Apr 15, 2024.</p>\n    <p>Petitioner: Jascha Chiaverini, et al.<br>Respondent: City of Napoleon, Ohio, et al.</p>\n    <p>Advocates: <ul><li>Easha Anand (for the Petitioners)</li>\n<li>Vivek Suri (for the United States, as amicus curiae, supporting vacatur)</li>\n<li>Megan M. Wold (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Jascha Chiaverini, manager of the Diamond and Gold Outlet in Napoleon, Ohio, bought a men's ring and diamond earring from Brent Burns for $45. He recorded the transaction, including copying Burns' ID and photographing the items. Subsequently, David and Christina Hill contacted Chiaverini, claiming the jewelry was stolen from them. Chiaverini advised them to report to the police but denied buying their described items. After multiple calls, Chiaverini ended the conversation. Both parties contacted the police. Chiaverini expressed his suspicion about holding stolen property and requested police, not the Hills, to visit. When the police arrived, Chiaverini cooperated, providing information and photographs of the jewelry.</p>\n<p>The situation escalated when Chiaverini received a conflicting \"hold letter\" from the police, instructing him to keep the items as evidence but also to release them to the Hills. Chiaverini refused to release the items, citing legal concerns and advice from his counsel. His confrontation with Police Chief Weitzel revealed Chiaverini's lack of a precious-metal-dealer license, prompting a new investigation angle. Officer Steward updated the police report to include Chiaverini's suspicion about the stolen nature of the items, which Chiaverini disputed. Based on these developments, warrants were issued for Chiaverini's arrest and the search of his store, leading to his temporary detention. Although a court later dismissed the criminal case against Chiaverini, he filed a complaint against the officers and the city, alleging various legal violations. The district court granted summary judgment to the officers, citing probable cause for Chiaverini's arrest and dismissing his claims. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n<p>\u00a0</p>\n\n    <p><b>Question</b></p>\n    <p>May a Fourth Amendment malicious-prosecution claim proceed as to a baseless criminal charge so long as other charges brought alongside the baseless charge are supported by probable cause?</p>\n\n    ",
+      "mp3_length": 3501,
+      "mp3_size": 14034436,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Easha Anand (for the Petitioners)",
+          "start": 0.1
+        },
+        {
+          "title": "Anand - Justice Roberts",
+          "start": 105.59
+        },
+        {
+          "title": "Anand - Justice Sotomayor",
+          "start": 245.255
+        },
+        {
+          "title": "Anand - Justice Alito",
+          "start": 304.8
+        },
+        {
+          "title": "Anand - Justice Barrett",
+          "start": 663.375
+        },
+        {
+          "title": "Anand - Justice Sotomayor",
+          "start": 813.6
+        },
+        {
+          "title": "Anand - Justice Jackson",
+          "start": 889.5
+        },
+        {
+          "title": "Anand - Justice Alito",
+          "start": 1142.205
+        },
+        {
+          "title": "Anand - Justice Barrett",
+          "start": 1243.675
+        },
+        {
+          "title": "Anand - Justice Alito",
+          "start": 1341.775
+        },
+        {
+          "title": "Anand - Justice Sotomayor",
+          "start": 1481.16
+        },
+        {
+          "title": "Anand - Justice Gorsuch",
+          "start": 1493.28
+        },
+        {
+          "title": "Vivek Suri (for the United States, as amicus curiae, supporting vacatur)",
+          "start": 1730.705
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 1804.63
+        },
+        {
+          "title": "Suri - Justice Alito",
+          "start": 1865.415
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 1992.93
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 2055.505
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 2172.33
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 2198.505
+        },
+        {
+          "title": "Megan M. Wold (for the Respondents)",
+          "start": 2218.83
+        },
+        {
+          "title": "Wold - Justice Roberts",
+          "start": 2341.16
+        },
+        {
+          "title": "Wold - Justice Sotomayor",
+          "start": 2409.26
+        },
+        {
+          "title": "Wold - Justice Kagan",
+          "start": 2511.1
+        },
+        {
+          "title": "Wold - Justice Jackson",
+          "start": 2632.15
+        },
+        {
+          "title": "Wold - Justice Barrett",
+          "start": 2880.3
+        },
+        {
+          "title": "Wold - Justice Gorsuch",
+          "start": 3021.95
+        },
+        {
+          "title": "Wold - Justice Jackson",
+          "start": 3144.76
+        },
+        {
+          "title": "Wold - Justice Gorsuch",
+          "start": 3368.205
+        },
+        {
+          "title": "Wold - Justice Roberts",
+          "start": 3401.73
+        },
+        {
+          "title": "Easha Anand (for the Petitioners)",
+          "start": 3413.77
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.mp3"
+    },
+    "23-5572": {
+      "docket_number": "23-5572",
+      "name": "Fischer v. United States",
+      "date_argued_timestamp": 1713225600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-5572",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-5572.mp3",
+      "mp3_length": 6035,
+      "mp3_size": 48288613,
+      "source": "scotus",
+      "description": "<p>Oral argument for Fischer v. United States, argued on April 16, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3"
     }
   },
   "2022": {
