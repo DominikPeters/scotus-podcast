@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[22-982] Thornell v. Jones</title>
+            <description><![CDATA[<p>Thornell v. Jones</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/22-982/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-982.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/22-982">oyez.org</a></p>
+    <p>Argued on Apr 17, 2024.</p>
+    <p>Petitioner: Ryan Thornell, Director, Arizona Department of Corrections.<br>Respondent: Danny Lee Jones.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In Bullhead City, Arizona, on March 26, 1992, Danny Lee Jones and Robert Weaver engaged in a day of drinking and using crystal methamphetamine. A violent altercation ensued, resulting in Jones fatally striking Weaver with a baseball bat. Jones also attacked Weaver’s grandmother, Katherine Gumina, and his seven-year-old daughter, Tisha, the latter of whom he also strangled or suffocated. Jones fled to Las Vegas but was arrested and indicted in Arizona on two counts of first-degree murder and one count of attempted murder. His public defender, inexperienced in capital cases, received limited funding for expert witnesses. Jones was convicted on all counts, and a sentencing hearing was scheduled.</p>
+<p>At sentencing, testimony revealed Jones’s troubled childhood, including substance abuse, head injuries, and abuse by his first stepfather. Dr. Jack Potts, a forensic psychiatrist, assessed Jones, citing a history of substance abuse, possible mood disorders, and susceptibility to aggression due to drug use. Potts’s report, submitted late due to delayed receipt of the Presentence Information Report, suggested Jones’s impaired capacity to conform to the law at the time of the offenses. Despite a request for a continuance for further psychological testing, the judge found multiple aggravating factors for the murders and sentenced Jones to death for both murders and an additional twenty-five years for the attempted murder.</p>
+<p>The Arizona Supreme Court upheld the conviction and sentence, and Jones filed a federal petition for habeas relief. After protracted litigation and appeals, the district court dismissed Jones’s habeas petition. The U.S. Court of Appeals for the Ninth Circuit reversed, concluding that application of the appropriate standards pursuant to the Antiterrorism and Effective Death Penalty Act of 1996 ("AEDPA") meant that Jones was denied the effective assistance of counsel at sentencing.</p>
+
+    <p><b>Question</b></p>
+    <p>What is the proper methodology for assessing prejudice, for purposes of an ineffective assistance of counsel claim?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-982.mp3" length="31010885" type="audio/mpeg"/>
+            <guid>scotus_2023_22-982_v0</guid>
+            <itunes:duration>3875</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+        </item>
+    <item>
             <title>[23-5572] Fischer v. United States</title>
             <description><![CDATA[<p>Fischer v. United States</p>
     <p><a href="https://en.wikipedia.org/wiki/Fischer_v._United_States">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-5572 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-5572.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-5572">oyez.org</a></p>
@@ -160,7 +180,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5578</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Tue, 26 Mar 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-250] Becerra v. San Carlos Apache Tribe</title>
