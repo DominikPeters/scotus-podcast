@@ -3095,25 +3095,324 @@
     "23-175": {
       "docket_number": "23-175",
       "name": "City of Grants Pass v. Johnson",
-      "date_argued_timestamp": 1713744000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-175",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-175.mp3",
-      "mp3_length": 8757,
-      "mp3_size": 70063737,
-      "source": "scotus",
+      "date_argued_timestamp": 1713762000,
       "description": "<p>City of Grants Pass v. Johnson</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/City_of_Grants_Pass_v._Johnson\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-175/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-175.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-175\">oyez.org</a></p>\n    <p>Argued on Apr 22, 2024.</p>\n    <p>Petitioner: City of Grants Pass, Oregon.<br>Respondent: Gloria Johnson, et al.</p>\n    <p>Advocates: <ul><li>Theane D. Evangelis (for the Petitioner)</li>\n<li>Edwin S. Kneedler (for the United States, as amicus curiae, supporting neither party)</li>\n<li>Kelsi B. Corkran (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The city of Grants Pass in southern Oregon has a population of approximately 38,000, and of that population, somewhere between 50 and 600 persons are unhoused. Whatever the exact number of unhoused persons, however, it exceeds the number of available shelter beds, requiring that at least some of them sleep on the streets or in parks. However, several provisions of the Grants Pass Municipal Code prohibit them from doing so, including an \u201canti-sleeping\u201d ordinance, two \u201canti-camping\u201d ordinances, a \u201cpark exclusion\u201d ordinance, and a \u201cpark exclusion appeals\u201d ordinance.</p>\n<p>In September 2018, a three-judge panel of the U.S. Court of Appeals for the Ninth Circuit decided Martin v. City of Boise, holding that \u201cthe Eighth Amendment prohibits the imposition of criminal penalties for sitting, sleeping, or lying outside on public property for homeless individuals who cannot obtain shelter.\u201d While the Grants Pass Municipal Code provisions impose only civil penalties, they still can mature into criminal penalties.</p>\n<p>A district court certified a class of plaintiffs of involuntarily unhoused persons living in Grants Pass and concluded that, based on the unavailability of shelter beds, the City\u2019s enforcement of its anti-camping and anti-sleeping ordinances violated the Cruel and Unusual Punishment Clause. A panel of the Ninth Circuit affirmed, and the Ninth Circuit denied rehearing en banc.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a city\u2019s enforcement of public camping against involuntarily homeless people violate the Eighth Amendment\u2019s protection against cruel and unusual punishment?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-175.mp3"
+      "mp3_length": 8757,
+      "mp3_size": 35058410,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Theane D. Evangelis (for the Petitioner)",
+          "start": 0.225
+        },
+        {
+          "title": "Evangelis - Justice Thomas",
+          "start": 145.925
+        },
+        {
+          "title": "Evangelis - Justice Roberts",
+          "start": 217.31999995
+        },
+        {
+          "title": "Evangelis - Justice Sotomayor",
+          "start": 265.805
+        },
+        {
+          "title": "Evangelis - Justice Kagan",
+          "start": 592.96
+        },
+        {
+          "title": "Evangelis - Justice Jackson",
+          "start": 986.22
+        },
+        {
+          "title": "Evangelis - Justice Gorsuch",
+          "start": 1201.775
+        },
+        {
+          "title": "Evangelis - Justice Jackson",
+          "start": 1254.555
+        },
+        {
+          "title": "Evangelis - Justice Gorsuch",
+          "start": 1403.56
+        },
+        {
+          "title": "Evangelis - Justice Barrett",
+          "start": 1412.76
+        },
+        {
+          "title": "Evangelis - Justice Sotomayor",
+          "start": 1471.39
+        },
+        {
+          "title": "Evangelis - Justice Roberts",
+          "start": 1655.47499995
+        },
+        {
+          "title": "Evangelis - Justice Thomas",
+          "start": 1854.45
+        },
+        {
+          "title": "Evangelis - Justice Alito",
+          "start": 1883.27000005
+        },
+        {
+          "title": "Evangelis - Justice Sotomayor",
+          "start": 2005.62
+        },
+        {
+          "title": "Evangelis - Justice Kagan",
+          "start": 2208.83
+        },
+        {
+          "title": "Evangelis - Justice Gorsuch",
+          "start": 2449.79
+        },
+        {
+          "title": "Evangelis - Justice Kavanaugh",
+          "start": 2470.595
+        },
+        {
+          "title": "Evangelis - Justice Barrett",
+          "start": 2745.94
+        },
+        {
+          "title": "Evangelis - Justice Jackson",
+          "start": 3033.14
+        },
+        {
+          "title": "Edwin S. Kneedler (for the United States, as amicus curiae, supporting neither party)",
+          "start": 3266.595
+        },
+        {
+          "title": "Kneedler - Justice Thomas",
+          "start": 3380.705
+        },
+        {
+          "title": "Kneedler - Justice Gorsuch",
+          "start": 3454.97
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 3625
+        },
+        {
+          "title": "Kneedler - Justice Jackson",
+          "start": 3627.08
+        },
+        {
+          "title": "Kneedler - Justice Sotomayor",
+          "start": 3696.12
+        },
+        {
+          "title": "Kneedler - Justice Roberts",
+          "start": 3879.53
+        },
+        {
+          "title": "Kneedler - Justice Alito",
+          "start": 4270.13
+        },
+        {
+          "title": "Kneedler - Justice Sotomayor",
+          "start": 4682.89
+        },
+        {
+          "title": "Kneedler - Justice Kagan",
+          "start": 4797.695
+        },
+        {
+          "title": "Kneedler - Justice Gorsuch",
+          "start": 5060.93
+        },
+        {
+          "title": "Kneedler - Justice Kavanaugh",
+          "start": 5561.965
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 5878.715
+        },
+        {
+          "title": "Kneedler - Justice Jackson",
+          "start": 6244.19
+        },
+        {
+          "title": "Kelsi B. Corkran (for the Respondents)",
+          "start": 6523.605
+        },
+        {
+          "title": "Corkran - Justice Thomas",
+          "start": 6662.04
+        },
+        {
+          "title": "Corkran - Justice Roberts",
+          "start": 6717.31
+        },
+        {
+          "title": "Corkran - Justice Sotomayor",
+          "start": 6874.75
+        },
+        {
+          "title": "Corkran - Justice Barrett",
+          "start": 6935.385
+        },
+        {
+          "title": "Corkran - Justice Roberts",
+          "start": 7072.03
+        },
+        {
+          "title": "Corkran - Justice Barrett",
+          "start": 7098.98
+        },
+        {
+          "title": "Corkran - Justice Kagan",
+          "start": 7227.14
+        },
+        {
+          "title": "Corkran - Justice Gorsuch",
+          "start": 7309.6
+        },
+        {
+          "title": "Corkran - Justice Alito",
+          "start": 7583.1
+        },
+        {
+          "title": "Corkran - Justice Jackson",
+          "start": 7852.77499995
+        },
+        {
+          "title": "Corkran - Justice Sotomayor",
+          "start": 7991.72
+        },
+        {
+          "title": "Corkran - Justice Roberts",
+          "start": 8081.98
+        },
+        {
+          "title": "Corkran - Justice Thomas",
+          "start": 8093.65
+        },
+        {
+          "title": "Corkran - Justice Kavanaugh",
+          "start": 8252.73
+        },
+        {
+          "title": "Corkran - Justice Jackson",
+          "start": 8412.925
+        },
+        {
+          "title": "Theane D. Evangelis (for the Petitioner)",
+          "start": 8448.015
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-175.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-175.vtt"
     },
     "22-1218": {
       "docket_number": "22-1218",
       "name": "Smith v. Spizzirri",
-      "date_argued_timestamp": 1713744000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/22-1218",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/22-1218.mp3",
-      "mp3_length": 2596,
-      "mp3_size": 20777293,
-      "source": "scotus",
+      "date_argued_timestamp": 1713762000,
       "description": "<p>Smith v. Spizzirri</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/22-1218/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/22-1218.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/22-1218\">oyez.org</a></p>\n    <p>Argued on Apr 22, 2024.</p>\n    <p>Petitioner: Wendy Smith, et al.<br>Respondent: Keith Spizzirri, et al.</p>\n    <p>Advocates: <ul><li>Daniel L. Geyser (for the Petitioners)</li>\n<li>E. Joshua Rosenkranz (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Plaintiffs Smith and others were current and former delivery drivers for Intelliserve. They sued Intelliserve in Arizona state court alleging that \u201cIntelliserve violated federal and state employment laws by misclassifying them as independent contractors, failing to pay them required minimum and overtime wages, and failing to provide paid sick leave.\u201d</p>\n<p>Intelliserve removed the case to federal court, then moved to compel arbitration and to dismiss the case. While both parties agreed that, under the FAA, all claims were subject to mandatory arbitration, they disagreed on how the district court was supposed to handle the lawsuit. Intelliserve argued that Section 3 of the FAA permitted the district court to dismiss the action, while the plaintiffs argued that the FAA required the district court to stay the action pending arbitration. The district court dismissed the action without prejudice, and the U.S. Court of Appeals for the Ninth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Section 3 of the Federal Arbitration Act give district courts discretion to dismiss a lawsuit when all claims are subject to arbitration?</p>\n\n    ",
+      "mp3_length": 2596,
+      "mp3_size": 10415223,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Daniel L. Geyser (for the Petitioners)",
+          "start": 0.125
+        },
+        {
+          "title": "Geyser - Justice Thomas",
+          "start": 81.27
+        },
+        {
+          "title": "Geyser - Justice Jackson",
+          "start": 186.315
+        },
+        {
+          "title": "Geyser - Justice Sotomayor",
+          "start": 302.99
+        },
+        {
+          "title": "Geyser - Justice Gorsuch",
+          "start": 463.195
+        },
+        {
+          "title": "Geyser - Justice Roberts",
+          "start": 503.16
+        },
+        {
+          "title": "Geyser - Justice Kagan",
+          "start": 602.845
+        },
+        {
+          "title": "Geyser - Justice Alito",
+          "start": 698.72
+        },
+        {
+          "title": "Geyser - Justice Jackson",
+          "start": 760.115
+        },
+        {
+          "title": "Geyser - Justice Alito",
+          "start": 885.81
+        },
+        {
+          "title": "E. Joshua Rosenkranz (for the Respondents)",
+          "start": 950.44
+        },
+        {
+          "title": "Rosenkranz - Justice Thomas",
+          "start": 1073.6
+        },
+        {
+          "title": "Rosenkranz - Justice Sotomayor",
+          "start": 1148.58
+        },
+        {
+          "title": "Rosenkranz - Justice Roberts",
+          "start": 1342.74
+        },
+        {
+          "title": "Rosenkranz - Justice Jackson",
+          "start": 1463.69
+        },
+        {
+          "title": "Rosenkranz - Justice Roberts",
+          "start": 1493.24
+        },
+        {
+          "title": "Rosenkranz - Justice Kagan",
+          "start": 1525.38
+        },
+        {
+          "title": "Rosenkranz - Justice Jackson",
+          "start": 1584.97
+        },
+        {
+          "title": "Rosenkranz - Justice Roberts",
+          "start": 1751.96
+        },
+        {
+          "title": "Rosenkranz - Justice Kagan",
+          "start": 1790.4
+        },
+        {
+          "title": "Rosenkranz - Justice Jackson",
+          "start": 2066.69
+        },
+        {
+          "title": "Rosenkranz - Justice Kavanaugh",
+          "start": 2127.76
+        },
+        {
+          "title": "Daniel L. Geyser (for the Petitioners)",
+          "start": 2421.93
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1218.mp3"
     }
   },
