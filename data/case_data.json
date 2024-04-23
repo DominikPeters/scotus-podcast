@@ -3417,26 +3417,341 @@
     },
     "23-334": {
       "docket_number": "23-334",
-      "name": "Dept. of State v. Munoz",
-      "date_argued_timestamp": 1713830400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-334",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-334.mp3",
-      "mp3_length": 5485,
-      "mp3_size": 43888733,
-      "source": "scotus",
+      "name": "Department of State v. Munoz",
+      "date_argued_timestamp": 1713848400,
       "description": "<p>Department of State v. Munoz</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-334 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-334.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-334\">oyez.org</a></p>\n    <p>Argued on Apr 23, 2024.</p>\n    <p>Petitioner: Department of State, et al.<br>Respondent: Sandra Munoz, et al.</p>\n    <p>Advocates: <ul><li>Curtis E. Gannon (for the Petitioners)</li>\n<li>Eric T. Lee (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Sandra Mu\u00f1oz, a U.S. citizen, married Luis Asencio-Cordero, an El Salvadoran citizen, in 2010. They have a U.S. citizen child. Asencio-Cordero, who arrived in the U.S. in 2005 and has multiple tattoos, applied for an immigrant visa after Mu\u00f1oz filed an approved immigrant-relative petition and waiver for his inadmissibility. In 2015, he returned to El Salvador for his visa interview, denying any gang affiliations. However, in December 2015, the U.S. Consulate denied his visa under 8 U.S.C. \u00a7 1182(a)(3)(A)(ii), suggesting his potential involvement in unlawful activities. Mu\u00f1oz sought intervention from Congresswoman Judy Chu, but the State Department upheld the decision. A declaration from a gang expert, Humberto Guizar, stated that Asencio-Cordero\u2019s tattoos were not gang-related. Despite this and further appeals, including to the State Department's Office of Inspector General, the decision remained unchanged, with authorities confirming the inadmissibility and indicating no grounds for appeal.</p>\n<p>Following the government\u2019s denial of Asencio-Cordero\u2019s immigrant visa application, the plaintiffs sought judicial review, arguing that the statute was unconstitutionally vague. The district court granted summary judgment to the defendants, invoking the doctrine of consular nonreviewability to prevent judicial scrutiny of the visa decision. However, the U.S. Court of Appeals for the Ninth Circuit found that the government failed to provide the constitutionally required notice within a reasonable time after the visa application was denied. As a result, the appellate court determined that the government was not entitled to summary judgment based on the doctrine of consular nonreviewability and vacated the district court's decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the denial of a visa to the non-citizen spouse of a U.S. citizen infringe on a constitutionally protected interest of the citizen and, if so, did the government properly justify that decision in this case?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3"
+      "mp3_length": 5485,
+      "mp3_size": 21970959,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Curtis E. Gannon (for the Petitioners)",
+          "start": 0.14
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 126.21
+        },
+        {
+          "title": "Gannon - Justice Sotomayor",
+          "start": 229.82
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 559.05
+        },
+        {
+          "title": "Gannon - Justice Roberts",
+          "start": 725.02
+        },
+        {
+          "title": "Gannon - Justice Kavanaugh",
+          "start": 867.825
+        },
+        {
+          "title": "Gannon - Justice Gorsuch",
+          "start": 978.89
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 1055.75
+        },
+        {
+          "title": "Gannon - Justice Sotomayor",
+          "start": 1092.09
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 1184.3
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 1244.64
+        },
+        {
+          "title": "Gannon - Justice Alito",
+          "start": 1279.59
+        },
+        {
+          "title": "Gannon - Justice Gorsuch",
+          "start": 1422.82
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 1539.825
+        },
+        {
+          "title": "Gannon - Justice Sotomayor",
+          "start": 1603.92
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 1770.54
+        },
+        {
+          "title": "Gannon - Justice Gorsuch",
+          "start": 1927.18
+        },
+        {
+          "title": "Gannon - Justice Barrett",
+          "start": 2097.365
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 2464.885
+        },
+        {
+          "title": "Eric T. Lee (for the Respondents)",
+          "start": 2738.62
+        },
+        {
+          "title": "Lee - Justice Thomas",
+          "start": 2860.98
+        },
+        {
+          "title": "Lee - Justice Roberts",
+          "start": 3015.68
+        },
+        {
+          "title": "Lee - Justice Gorsuch",
+          "start": 3122.7
+        },
+        {
+          "title": "Lee - Justice Kavanaugh",
+          "start": 3130.89
+        },
+        {
+          "title": "Lee - Justice Gorsuch",
+          "start": 3168.3
+        },
+        {
+          "title": "Lee - Justice Kavanaugh",
+          "start": 3295.62
+        },
+        {
+          "title": "Lee - Justice Roberts",
+          "start": 3497.24
+        },
+        {
+          "title": "Lee - Justice Kagan",
+          "start": 3654.67
+        },
+        {
+          "title": "Lee - Justice Gorsuch",
+          "start": 3758.71
+        },
+        {
+          "title": "Lee - Justice Barrett",
+          "start": 3987.16
+        },
+        {
+          "title": "Lee - Justice Alito",
+          "start": 4073.27
+        },
+        {
+          "title": "Lee - Justice Kagan",
+          "start": 4383.98
+        },
+        {
+          "title": "Lee - Justice Barrett",
+          "start": 4502.765
+        },
+        {
+          "title": "Lee - Justice Roberts",
+          "start": 4548.19
+        },
+        {
+          "title": "Lee - Justice Alito",
+          "start": 4719.81000005
+        },
+        {
+          "title": "Lee - Justice Sotomayor",
+          "start": 4810.17
+        },
+        {
+          "title": "Lee - Justice Kavanaugh",
+          "start": 4850.03
+        },
+        {
+          "title": "Lee - Justice Jackson",
+          "start": 5076.805
+        },
+        {
+          "title": "Curtis E. Gannon (for the Petitioners)",
+          "start": 5272.04
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.vtt"
     },
     "23-367": {
       "docket_number": "23-367",
-      "name": "Starbucks Corp. v. McKinney",
-      "date_argued_timestamp": 1713830400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-367",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-367.mp3",
-      "mp3_length": 3137,
-      "mp3_size": 25107693,
-      "source": "scotus",
+      "name": "Starbucks Corporation v. McKinney",
+      "date_argued_timestamp": 1713848400,
       "description": "<p>Starbucks Corporation v. McKinney</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Starbucks_Corporation_v._McKinney\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-367/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-367.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-367\">oyez.org</a></p>\n    <p>Argued on Apr 23, 2024.</p>\n    <p>Petitioner: Starbucks Corporation.<br>Respondent: M. Kathleen McKinney.</p>\n    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>\n<li>Austin L. Raynor (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In early January 2022, Nikki Taylor, a supervisor at a Memphis Starbucks, initiated union-organizing efforts, contacting Buffalo, New York, Starbucks employees and the Union for guidance. Conversations with colleagues about unionizing led to managerial scrutiny and disciplinary actions against Taylor for alleged insubordination and a dress code violation. Despite this, Taylor and coworkers held a meeting with Union representatives and drafted a letter to Starbucks's CEO announcing their intent to unionize.</p>\n<p>On January 18, following the public release of the unionization letter, the Memphis store was closed early by management under the pretext of understaffing, coinciding with a media event covering the unionization efforts. Subsequent investigations by Starbucks led to the February 8 firing of seven employees, including key organizing committee members, for policy violations during the media event. These terminations led to a reduced display of union support among the remaining staff and increased anxiety about unionizing in other Starbucks locations. However, the Memphis store voted to join the Union in June.</p>\n<p>The Union filed charges against Starbucks for unfair labor practices. Following an investigation, a district court ordered a temporary injunction, demanding the reinstatement of the terminated employees. On appeal, the U.S. Court of Appeals for the Sixth Circuit affirmed, finding that the NLRB satisfied its burden of showing \u201c\u2018reasonable cause\u2019 to believe that employers engaged in unfair labor practices and that an injunction protects the Board\u2019s remedial power.\u201d</p>\n\n    <p><b>Question</b></p>\n    <p>What test must courts use to evaluate requests for injunctions under Section 10(j) of the National Labor Relations Act?</p>\n\n    ",
+      "mp3_length": 3137,
+      "mp3_size": 12580461,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 0.16
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 115.735
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 200.46
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 377.55
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 616.3
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 680.28
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 700.28
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 870.24999995
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 1045.8
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 1104.795
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1143.48
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1293.39
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1316.25
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1359.81
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 1384.4
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1418.29
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1436.66
+        },
+        {
+          "title": "Austin L. Raynor (for the Respondent)",
+          "start": 1536.525
+        },
+        {
+          "title": "Raynor - Justice Roberts",
+          "start": 1740.8
+        },
+        {
+          "title": "Raynor - Justice Alito",
+          "start": 1807.38
+        },
+        {
+          "title": "Raynor - Justice Gorsuch",
+          "start": 1918.64
+        },
+        {
+          "title": "Raynor - Justice Kavanaugh",
+          "start": 1975.35
+        },
+        {
+          "title": "Raynor - Justice Gorsuch",
+          "start": 1998.28
+        },
+        {
+          "title": "Raynor - Justice Kagan",
+          "start": 2036.42
+        },
+        {
+          "title": "Raynor - Justice Gorsuch",
+          "start": 2097.36
+        },
+        {
+          "title": "Raynor - Justice Jackson",
+          "start": 2185.48
+        },
+        {
+          "title": "Raynor - Justice Kagan",
+          "start": 2264.93
+        },
+        {
+          "title": "Raynor - Justice Barrett",
+          "start": 2330.505
+        },
+        {
+          "title": "Raynor - Justice Gorsuch",
+          "start": 2416.34
+        },
+        {
+          "title": "Raynor - Justice Jackson",
+          "start": 2520.06
+        },
+        {
+          "title": "Raynor - Justice Gorsuch",
+          "start": 2603.44
+        },
+        {
+          "title": "Raynor - Justice Jackson",
+          "start": 2665.525
+        },
+        {
+          "title": "Raynor - Justice Roberts",
+          "start": 2693.03
+        },
+        {
+          "title": "Raynor - Justice Thomas",
+          "start": 2704.08
+        },
+        {
+          "title": "Raynor - Justice Sotomayor",
+          "start": 2746.75
+        },
+        {
+          "title": "Raynor - Justice Kagan",
+          "start": 2807.97
+        },
+        {
+          "title": "Raynor - Justice Kavanaugh",
+          "start": 2927.215
+        },
+        {
+          "title": "Raynor - Justice Jackson",
+          "start": 2950.38
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 3013.71
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-367.mp3"
     }
   },

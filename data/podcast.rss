@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-334] Dept. of State v. Munoz</title>
+            <title>[23-334] Department of State v. Munoz</title>
             <description><![CDATA[<p>Department of State v. Munoz</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-334 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-334.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-334">oyez.org</a></p>
     <p>Argued on Apr 23, 2024.</p>
@@ -45,14 +45,15 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the denial of a visa to the non-citizen spouse of a U.S. citizen infringe on a constitutionally protected interest of the citizen and, if so, did the government properly justify that decision in this case?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3" length="43888733" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3" length="21970959" type="audio/mpeg"/>
             <guid>scotus_2023_23-334_v0</guid>
             <itunes:duration>5485</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 23 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-367] Starbucks Corp. v. McKinney</title>
+            <title>[23-367] Starbucks Corporation v. McKinney</title>
             <description><![CDATA[<p>Starbucks Corporation v. McKinney</p>
     <p><a href="https://en.wikipedia.org/wiki/Starbucks_Corporation_v._McKinney">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-367/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-367.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-367">oyez.org</a></p>
     <p>Argued on Apr 23, 2024.</p>
@@ -66,11 +67,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>What test must courts use to evaluate requests for injunctions under Section 10(j) of the National Labor Relations Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-367.mp3" length="25107693" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-367.mp3" length="12580461" type="audio/mpeg"/>
             <guid>scotus_2023_23-367_v0</guid>
             <itunes:duration>3137</itunes:duration>
             <itunes:season>2023</itunes:season>
-            <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 23 Apr 2024 05:00:00 +0000</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-367.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-175] City of Grants Pass v. Johnson</title>
