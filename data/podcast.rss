@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-334] Dept. of State v. Munoz</title>
+            <description><![CDATA[<p>Department of State v. Munoz</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2023/23-334 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-334.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-334">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Department of State, et al.<br>Respondent: Sandra Munoz, et al.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Sandra Muñoz, a U.S. citizen, married Luis Asencio-Cordero, an El Salvadoran citizen, in 2010. They have a U.S. citizen child. Asencio-Cordero, who arrived in the U.S. in 2005 and has multiple tattoos, applied for an immigrant visa after Muñoz filed an approved immigrant-relative petition and waiver for his inadmissibility. In 2015, he returned to El Salvador for his visa interview, denying any gang affiliations. However, in December 2015, the U.S. Consulate denied his visa under 8 U.S.C. § 1182(a)(3)(A)(ii), suggesting his potential involvement in unlawful activities. Muñoz sought intervention from Congresswoman Judy Chu, but the State Department upheld the decision. A declaration from a gang expert, Humberto Guizar, stated that Asencio-Cordero’s tattoos were not gang-related. Despite this and further appeals, including to the State Department's Office of Inspector General, the decision remained unchanged, with authorities confirming the inadmissibility and indicating no grounds for appeal.</p>
+<p>Following the government’s denial of Asencio-Cordero’s immigrant visa application, the plaintiffs sought judicial review, arguing that the statute was unconstitutionally vague. The district court granted summary judgment to the defendants, invoking the doctrine of consular nonreviewability to prevent judicial scrutiny of the visa decision. However, the U.S. Court of Appeals for the Ninth Circuit found that the government failed to provide the constitutionally required notice within a reasonable time after the visa application was denied. As a result, the appellate court determined that the government was not entitled to summary judgment based on the doctrine of consular nonreviewability and vacated the district court's decision.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the denial of a visa to the non-citizen spouse of a U.S. citizen infringe on a constitutionally protected interest of the citizen and, if so, did the government properly justify that decision in this case?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3" length="43888733" type="audio/mpeg"/>
+            <guid>scotus_2023_23-334_v0</guid>
+            <itunes:duration>5485</itunes:duration>
+            <itunes:season>2023</itunes:season>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+        </item>
+    <item>
             <title>[23-175] City of Grants Pass v. Johnson</title>
             <description><![CDATA[<p>City of Grants Pass v. Johnson</p>
     <p><a href="https://en.wikipedia.org/wiki/City_of_Grants_Pass_v._Johnson">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2023/23-175/">Justia</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-175.htm">Docket</a> &middot; <a href="https://www.oyez.org/cases/2023/23-175">oyez.org</a></p>
@@ -73,7 +92,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>2596</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Mon, 22 Apr 2024 05:00:00 +0000</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1218.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[22-982] Thornell v. Jones</title>

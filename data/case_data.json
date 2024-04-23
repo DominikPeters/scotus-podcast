@@ -3414,6 +3414,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1218.mp3"
+    },
+    "23-334": {
+      "docket_number": "23-334",
+      "name": "Dept. of State v. Munoz",
+      "date_argued_timestamp": 1713830400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-334",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-334.mp3",
+      "mp3_length": 5485,
+      "mp3_size": 43888733,
+      "source": "scotus",
+      "description": "<p>Department of State v. Munoz</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2023/23-334 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-334.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-334\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Department of State, et al.<br>Respondent: Sandra Munoz, et al.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Sandra Mu\u00f1oz, a U.S. citizen, married Luis Asencio-Cordero, an El Salvadoran citizen, in 2010. They have a U.S. citizen child. Asencio-Cordero, who arrived in the U.S. in 2005 and has multiple tattoos, applied for an immigrant visa after Mu\u00f1oz filed an approved immigrant-relative petition and waiver for his inadmissibility. In 2015, he returned to El Salvador for his visa interview, denying any gang affiliations. However, in December 2015, the U.S. Consulate denied his visa under 8 U.S.C. \u00a7 1182(a)(3)(A)(ii), suggesting his potential involvement in unlawful activities. Mu\u00f1oz sought intervention from Congresswoman Judy Chu, but the State Department upheld the decision. A declaration from a gang expert, Humberto Guizar, stated that Asencio-Cordero\u2019s tattoos were not gang-related. Despite this and further appeals, including to the State Department's Office of Inspector General, the decision remained unchanged, with authorities confirming the inadmissibility and indicating no grounds for appeal.</p>\n<p>Following the government\u2019s denial of Asencio-Cordero\u2019s immigrant visa application, the plaintiffs sought judicial review, arguing that the statute was unconstitutionally vague. The district court granted summary judgment to the defendants, invoking the doctrine of consular nonreviewability to prevent judicial scrutiny of the visa decision. However, the U.S. Court of Appeals for the Ninth Circuit found that the government failed to provide the constitutionally required notice within a reasonable time after the visa application was denied. As a result, the appellate court determined that the government was not entitled to summary judgment based on the doctrine of consular nonreviewability and vacated the district court's decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the denial of a visa to the non-citizen spouse of a U.S. citizen infringe on a constitutionally protected interest of the citizen and, if so, did the government properly justify that decision in this case?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3"
     }
   },
   "2022": {
