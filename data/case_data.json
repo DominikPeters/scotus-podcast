@@ -3757,13 +3757,166 @@
     "23-726": {
       "docket_number": "23-726",
       "name": "Moyle v. United States",
-      "date_argued_timestamp": 1713916800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-726",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-726.mp3",
-      "mp3_length": 6780,
-      "mp3_size": 54254425,
-      "source": "scotus",
+      "date_argued_timestamp": 1713934800,
       "description": "<p>Moyle v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Moyle_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-726/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-726.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-726\">oyez.org</a></p>\n    <p>Argued on Apr 24, 2024.</p>\n    <p>Petitioner: Mike Moyle, et al.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Joshua N. Turner (for the Petitioners)</li>\n<li>Elizabeth B. Prelogar (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In August 2022, after the Supreme Court\u2019s decision in Dobbs v. Jackson Women\u2019s Health Organization, which eliminated the constitutional right to an abortion, the Biden administration brought a legal challenge to a restrictive Idaho abortion law. The Biden administration argued that the state law, which criminalizes providing an abortion except in a few narrow circumstances, including to save the life of the mother, is preempted by a federal law, the Emergency Medical Treatment and Labor Act (EMTALA). EMTALA requires hospitals receiving Medicare funding to offer \u201cnecessary stabilizing treatment\u201d to pregnant women in emergencies.</p>\n<p>The district court ruled in favor of the Biden administration and barred Idaho from enforcing its law to the extent that it conflicted with EMTALA. The U.S. Court of Appeals for the Ninth Circuit, sitting en banc, declined to stay the district court's ruling while the state appealed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the federal Emergency Medical Treatment and Labor Act preempt an Idaho law that criminalizes most abortions in that state?</p>\n\n    ",
+      "mp3_length": 6780,
+      "mp3_size": 27153757,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Joshua N. Turner (for the Petitioners)",
+          "start": 0.115
+        },
+        {
+          "title": "Turner - Justice Thomas",
+          "start": 137.075
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 210.14
+        },
+        {
+          "title": "Turner - Justice Kagan",
+          "start": 344.6
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 507.83
+        },
+        {
+          "title": "Turner - Justice Kagan",
+          "start": 508.3
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 560.4
+        },
+        {
+          "title": "Turner - Justice Sotomayor",
+          "start": 597.56
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 598.35
+        },
+        {
+          "title": "Turner - Justice Sotomayor",
+          "start": 616.92
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 900.98
+        },
+        {
+          "title": "Turner - Justice Kagan",
+          "start": 1013.11
+        },
+        {
+          "title": "Turner - Justice Sotomayor",
+          "start": 1214.99
+        },
+        {
+          "title": "Turner - Justice Barrett",
+          "start": 1412.34
+        },
+        {
+          "title": "Turner - Justice Roberts",
+          "start": 1511.39
+        },
+        {
+          "title": "Turner - Justice Alito",
+          "start": 1603.335
+        },
+        {
+          "title": "Turner - Justice Sotomayor",
+          "start": 1705.265
+        },
+        {
+          "title": "Turner - Justice Kagan",
+          "start": 1987.12
+        },
+        {
+          "title": "Turner - Justice Gorsuch",
+          "start": 2251.02
+        },
+        {
+          "title": "Turner - Justice Kavanaugh",
+          "start": 2382.04
+        },
+        {
+          "title": "Turner - Justice Barrett",
+          "start": 2686.37
+        },
+        {
+          "title": "Turner - Justice Jackson",
+          "start": 2950.88
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Respondent)",
+          "start": 3403.685
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 3565.78
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 3734.60000005
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 4214.655
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 4512.095
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 4705.68
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 4725.5
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 4985.43
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 5108.405
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 5300.11999995
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 5673.79000005
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 5777.51
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 5991.315
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 6252.885
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 6337.82
+        },
+        {
+          "title": "Joshua N. Turner (for the Petitioners)",
+          "start": 6480.175
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-726.mp3"
     }
   },
