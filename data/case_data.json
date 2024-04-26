@@ -3922,13 +3922,166 @@
     "23-939": {
       "docket_number": "23-939",
       "name": "Trump v. United States",
-      "date_argued_timestamp": 1714003200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/23-939",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-939.mp3",
-      "mp3_length": 9557,
-      "mp3_size": 76469593,
-      "source": "scotus",
+      "date_argued_timestamp": 1714021200,
       "description": "<p>Trump v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Trump_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-939 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-939.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2023/23-939\">oyez.org</a></p>\n    <p>Argued on Apr 25, 2024.</p>\n    <p>Petitioner: Donald J. Trump.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>D. John Sauer (for the Petitioner)</li>\n<li>Michael R. Dreeben (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Former President Donald Trump was indicted in August 2023 on four counts arising from Special Counsel Jack Smith\u2019s investigation into the January 6, 2021, attacks on the U.S. Capitol. Trump claimed that he cannot be prosecuted for his official acts as president and that a former president cannot be prosecuted unless he has first been impeached by the House and convicted by the Senate.</p>\n<p>U.S. District Judge Tanya Chutkan initially set Trump\u2019s trial for March 4, 2024, but later vacated this date pending resolution of Trump\u2019s immunity claims. Judge Chutkan denied Trump\u2019s motion to dismiss on immunity grounds, and Smith asked the Supreme Court directly to expedite review and bypass a decision by the D.C. Circuit. The Court declined, deferring instead to the D.C. Circuit\u2019s judgment. On February 6, the D.C. Circuit upheld Chutkan\u2019s decision, and Trump requested a stay of the D.C. Circuit\u2019s ruling. Ultimately, the Supreme Court decided to expedite the case.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a former president enjoy presidential immunity from criminal prosecution for conduct alleged to involve official acts during his tenure in office, and if so, to what extent?</p>\n\n    ",
+      "mp3_length": 9557,
+      "mp3_size": 38261336,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "D. John Sauer (for the Petitioner)",
+          "start": 0.175
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 121.58
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 198.98
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 342.6
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 596.74
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 851.32
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 982.775
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1135.88
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 1192.94
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1241.68
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 1340.48
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 1438.84
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 1441.335
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 1528.555
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 1640.26
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 1709.425
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1740.57
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1847.77
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 2284.745
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 2552.015
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 2726.605
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 2941.42500005
+        },
+        {
+          "title": "Michael R. Dreeben (for the Respondent)",
+          "start": 3458.41
+        },
+        {
+          "title": "Dreeben - Justice Thomas",
+          "start": 3569.47
+        },
+        {
+          "title": "Dreeben - Justice Alito",
+          "start": 3819.31
+        },
+        {
+          "title": "Dreeben - Justice Roberts",
+          "start": 3820.74
+        },
+        {
+          "title": "Dreeben - Justice Alito",
+          "start": 4138.82
+        },
+        {
+          "title": "Dreeben - Justice Kavanaugh",
+          "start": 4310.45
+        },
+        {
+          "title": "Dreeben - Justice Gorsuch",
+          "start": 4498.72
+        },
+        {
+          "title": "Dreeben - Justice Sotomayor",
+          "start": 4822.1
+        },
+        {
+          "title": "Dreeben - Justice Alito",
+          "start": 5073.52
+        },
+        {
+          "title": "Dreeben - Justice Sotomayor",
+          "start": 6011.335
+        },
+        {
+          "title": "Dreeben - Justice Kagan",
+          "start": 6136.97
+        },
+        {
+          "title": "Dreeben - Justice Gorsuch",
+          "start": 6984.355
+        },
+        {
+          "title": "Dreeben - Justice Kavanaugh",
+          "start": 7553.36499995
+        },
+        {
+          "title": "Dreeben - Justice Barrett",
+          "start": 8079.175
+        },
+        {
+          "title": "Dreeben - Justice Jackson",
+          "start": 8829.01
+        },
+        {
+          "title": "D. John Sauer (for the Petitioner)",
+          "start": 9552.33
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-939.mp3"
     }
   },
