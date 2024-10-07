@@ -7482,5 +7482,31 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2018/18-726.mp3"
     }
+  },
+  "2024": {
+    "23-191": {
+      "docket_number": "23-191",
+      "name": "Williams v. Washington",
+      "date_argued_timestamp": 1728259200,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-191",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-191.mp3",
+      "mp3_length": 4550,
+      "mp3_size": 36412633,
+      "source": "scotus",
+      "description": "<p>Williams v. Washington</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Williams_v._Washington\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2023/23-191 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-191.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-191\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2024.</p>\n    <p>Petitioner: Nancy Williams, et al.<br>Respondent: Fitzgerald Washington, Alabama Secretary of Labor.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Dissatisfied with the Alabama Department of Labor\u2019s handling of their unemployment benefits applications, 26 plaintiffs filed a complaint and motion for injunctive relief against Secretary Fitzgerald Washington and the Department. The plaintiffs, each having filed applications for benefits, alleged various grievances against the Department\u2019s processing methods. Subsequently, Secretary Washington and the Department filed a motion to dismiss the complaint. In response, the plaintiffs amended their complaint, which resulted in the omission of several initial claims and the exclusion of the Department as a defendant.</p>\n<p>The remaining allegations in the suit were federal claims under 42 U.S.C. \u00a7 1983, accusing Secretary Washington of implementing policies and procedures that violated both the Social Security Act of 1935, 42 U.S.C. \u00a7 503(a)(1), and the Due Process Clause of the Fourteenth Amendment. The plaintiffs sought various forms of relief, including multiple permanent and preliminary injunctions to expedite the handling of unemployment compensation applications and improve communication clarity, as well as attorney fees. Secretary Washington again moved to dismiss the case, citing reasons such as lack of subject-matter jurisdiction, absence of a private cause of action, and the substantive meritlessness of the claims. The court granted the dismissal without stating the basis for it. The plaintiffs moved to alter, amend, or vacate the judgment, but the court denied their motion. They then appealed to the Alabama Supreme Court, which affirmed the dismissal, concluding that the lower court lacked jurisdiction over the suit because the plaintiffs had not yet exhausted mandatory administrative remedies.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a Section 1983 claim brought in state court require the plaintiffs to first exhaust state administrative remedies?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-191.mp3"
+    },
+    "23-677": {
+      "docket_number": "23-677",
+      "name": "Royal Canin U.S.A., Inc. v. Wullschleger",
+      "date_argued_timestamp": 1728259200,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-677",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-677.mp3",
+      "mp3_length": 3921,
+      "mp3_size": 31381729,
+      "source": "scotus",
+      "description": "<p>Royal Canin U.S.A. v. Wullschleger</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-677/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-677.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-677\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2024.</p>\n    <p>Petitioner: Royal Canin U.S.A., Inc.<br>Respondent: Anastasia Wullschleger.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Anastasia Wullschleger filed a class-action complaint in Missouri state court against Royal Canin and Nestle Purina, alleging that their requirement for a prescription for specialized dog food was misleading and led to higher prices. The defendants removed the case to federal court, which remanded it back to state court, and then they appealed to the U.S. Court of Appeals for the Eighth Circuit, which determined that the antitrust and unjust-enrichment claims raised substantial federal issues and belonged in federal court. Upon returning to the district court, Wullschleger amended her complaint to remove references to federal law, dropped the antitrust and unjust-enrichment claims, and added a civil-conspiracy claim. Despite these changes, the district court exercised federal-question jurisdiction and ultimately granted the manufacturers\u2019 motion to dismiss, leading to a second appeal. Reviewing the case de novo, the Eighth Circuit concluded that amending a complaint to eliminate the only federal questions destroys subject-matter jurisdiction and thus returned the case to state court.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a plaintiff whose state-court lawsuit has been removed by the defendants to federal court seek to have the case sent back to state court by amending the complaint to omit all references to federal law?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-677.mp3"
+    }
   }
 }
