@@ -91,7 +91,10 @@ def build_podcast(spotify=False):
                     with open("commit_message.txt", "w") as f:
                         f.write("Upload mp3s to B2")
 
-            argued_date_for_rss = datetime.fromtimestamp(case["date_argued_timestamp"]).strftime("%a, %d %b %Y %H:%M:%S +0000")
+            argued_date = datetime.fromtimestamp(case["date_argued_timestamp"])
+            argued_date = argued_date.replace(hour=10, minute=0, second=0)
+            argued_date = argued_date.astimezone(datetime.timezone(datetime.timedelta(hours=-5)))  # Convert to Eastern Time (UTC-5)
+            argued_date_for_rss = argued_date.strftime("%a, %d %b %Y %H:%M:%S %z")
 
             description = case['description']
             if spotify and 'chapters' in case:
