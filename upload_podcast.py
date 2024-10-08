@@ -92,8 +92,8 @@ def build_podcast(spotify=False):
                         f.write("Upload mp3s to B2")
 
             argued_date = datetime.fromtimestamp(case["date_argued_timestamp"])
-            argued_date = argued_date.replace(hour=15, minute=0, second=0) # 10am ET
-            argued_date_for_rss = argued_date.strftime("%a, %d %b %Y %H:%M:%S %z")
+            argued_date = argued_date.replace(hour=10, minute=0, second=0) # 10am ET
+            argued_date_for_rss = argued_date.strftime("%a, %d %b %Y %H:%M:%S -0400")
 
             description = case['description']
             if spotify and 'chapters' in case:
