@@ -7663,14 +7663,159 @@
     },
     "23-677": {
       "docket_number": "23-677",
-      "name": "Royal Canin U.S.A., Inc. v. Wullschleger",
-      "date_argued_timestamp": 1728259200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-677",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-677.mp3",
-      "mp3_length": 3921,
-      "mp3_size": 31381729,
-      "source": "scotus",
+      "name": "Royal Canin U.S.A. v. Wullschleger",
+      "date_argued_timestamp": 1728277200,
       "description": "<p>Royal Canin U.S.A. v. Wullschleger</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-677/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-677.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-677\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2024.</p>\n    <p>Petitioner: Royal Canin U.S.A., Inc.<br>Respondent: Anastasia Wullschleger.</p>\n    <p>Advocates: <ul><li>Katherine B. Wellington (for the Petitioners)</li>\n<li>Ashley C. Keller (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Anastasia Wullschleger filed a class-action complaint in Missouri state court against Royal Canin and Nestle Purina, alleging that their requirement for a prescription for specialized dog food was misleading and led to higher prices. The defendants removed the case to federal court, which remanded it back to state court, and then they appealed to the U.S. Court of Appeals for the Eighth Circuit, which determined that the antitrust and unjust-enrichment claims raised substantial federal issues and belonged in federal court. Upon returning to the district court, Wullschleger amended her complaint to remove references to federal law, dropped the antitrust and unjust-enrichment claims, and added a civil-conspiracy claim. Despite these changes, the district court exercised federal-question jurisdiction and ultimately granted the manufacturers\u2019 motion to dismiss, leading to a second appeal. Reviewing the case de novo, the Eighth Circuit concluded that amending a complaint to eliminate the only federal questions destroys subject-matter jurisdiction and thus returned the case to state court.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a plaintiff whose state-court lawsuit has been removed by the defendants to federal court seek to have the case sent back to state court by amending the complaint to omit all references to federal law?</p>\n\n    ",
+      "mp3_length": 3921,
+      "mp3_size": 15717454,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Katherine B. Wellington (for the Petitioners)",
+          "start": 0.07
+        },
+        {
+          "title": "Wellington - Justice Thomas",
+          "start": 126.23
+        },
+        {
+          "title": "Wellington - Justice Kagan",
+          "start": 204.99
+        },
+        {
+          "title": "Wellington - Justice Barrett",
+          "start": 377.15
+        },
+        {
+          "title": "Wellington - Justice Sotomayor",
+          "start": 378.18
+        },
+        {
+          "title": "Wellington - Justice Jackson",
+          "start": 509.27
+        },
+        {
+          "title": "Wellington - Justice Barrett",
+          "start": 782.895
+        },
+        {
+          "title": "Wellington - Justice Roberts",
+          "start": 902.715
+        },
+        {
+          "title": "Wellington - Justice Kavanaugh",
+          "start": 1034.56
+        },
+        {
+          "title": "Wellington - Justice Alito",
+          "start": 1241.805
+        },
+        {
+          "title": "Wellington - Justice Kagan",
+          "start": 1437.045
+        },
+        {
+          "title": "Wellington - Justice Roberts",
+          "start": 1566.405
+        },
+        {
+          "title": "Wellington - Justice Thomas",
+          "start": 1634.67
+        },
+        {
+          "title": "Wellington - Justice Alito",
+          "start": 1803.82
+        },
+        {
+          "title": "Wellington - Justice Sotomayor",
+          "start": 2011.76
+        },
+        {
+          "title": "Wellington - Justice Gorsuch",
+          "start": 2157.175
+        },
+        {
+          "title": "Wellington - Justice Kavanaugh",
+          "start": 2295.2
+        },
+        {
+          "title": "Wellington - Justice Jackson",
+          "start": 2464.14
+        },
+        {
+          "title": "Ashley C. Keller (for the Respondents)",
+          "start": 2700.32
+        },
+        {
+          "title": "Keller - Justice Thomas",
+          "start": 2808.405
+        },
+        {
+          "title": "Keller - Justice Kagan",
+          "start": 2864.49
+        },
+        {
+          "title": "Keller - Justice Gorsuch",
+          "start": 3015.55
+        },
+        {
+          "title": "Keller - Justice Kavanaugh",
+          "start": 3066.99
+        },
+        {
+          "title": "Keller - Justice Barrett",
+          "start": 3104.81
+        },
+        {
+          "title": "Keller - Justice Gorsuch",
+          "start": 3107.855
+        },
+        {
+          "title": "Keller - Justice Barrett",
+          "start": 3108.68
+        },
+        {
+          "title": "Keller - Justice Roberts",
+          "start": 3152.415
+        },
+        {
+          "title": "Keller - Justice Kagan",
+          "start": 3189.35
+        },
+        {
+          "title": "Keller - Justice Kavanaugh",
+          "start": 3196.39
+        },
+        {
+          "title": "Keller - Justice Kagan",
+          "start": 3264.1
+        },
+        {
+          "title": "Keller - Justice Alito",
+          "start": 3411.92
+        },
+        {
+          "title": "Keller - Justice Gorsuch",
+          "start": 3460.9
+        },
+        {
+          "title": "Keller - Justice Barrett",
+          "start": 3542.525
+        },
+        {
+          "title": "Keller - Justice Jackson",
+          "start": 3692.305
+        },
+        {
+          "title": "Keller - Justice Roberts",
+          "start": 3749.55
+        },
+        {
+          "title": "Katherine B. Wellington (for the Petitioners)",
+          "start": 3762.845
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-677.mp3"
     },
     "23-852": {
