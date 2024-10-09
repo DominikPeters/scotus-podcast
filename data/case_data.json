@@ -7523,13 +7523,198 @@
     "23-621": {
       "docket_number": "23-621",
       "name": "Lackey v. Stinnie",
-      "date_argued_timestamp": 1728345600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-621",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-621.mp3",
-      "mp3_length": 4674,
-      "mp3_size": 37404293,
-      "source": "scotus",
+      "date_argued_timestamp": 1728363600,
       "description": "<p>Lackey v. Stinnie</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-621/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-621.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-621\">oyez.org</a></p>\n    <p>Argued on Oct 8, 2024.</p>\n    <p>Petitioner: Gerald F. Lackey.<br>Respondent: Damian Stinnie.</p>\n    <p>Advocates: <ul><li>Erika L. Maley (for the Petitioner)</li>\n<li>Anthony A. Yang (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Brian D. Schmalzbach (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Under the so-called \u201cAmerican Rule,\u201d each litigant pays their own attorney\u2019s fees, regardless of whether they win or lose. However, certain statutes permit the payment of \u201ca reasonable attorney\u2019s fee\u201d to \u201cthe prevailing party\u201d in litigation; 42 U.S.C. \u00a7 1988 is one such statute, permitting the payment of attorney\u2019s fees to parties that prevail in civil rights litigation.</p>\n<p>Several indigent Virginia residents challenged in federal court a state statute that required automatic suspension of the driver\u2019s licenses of those who failed to pay certain court fines and fees. Finding the plaintiffs were likely to succeed on the merits of their case, the district court granted a preliminary injunction ordering the state to remove the plaintiffs\u2019 suspensions. The state did not appeal the injunction, so the plaintiffs were able to drive again. Before the case could go to trial, the Virginia legislature repealed the statute. The plaintiffs then petitioned for attorney\u2019s fees under Section 1988, but the district court rejected that request, citing a decision of the U.S. Court of Appeals for the 4th Circuit holding that a grant of a preliminary injunction does not render a plaintiff a \u201cprevailing party.\u201d The plaintiffs appealed. A panel of the U.S. Court of Appeals for the Fourth Circuit affirmed, but, on rehearing, the en banc 4th Circuit reversed.</p>\n<p>\u00a0</p>\n\n    <p><b>Question</b></p>\n    <p>Is a party who obtains a preliminary injunction a \u201cprevailing party\u201d for purposes of being entitled to attorney\u2019s fees under 42 U.S.C \u00a7 1988?</p>\n\n    ",
+      "mp3_length": 4674,
+      "mp3_size": 18728745,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Erika L. Maley (for the Petitioner)",
+          "start": 0.125
+        },
+        {
+          "title": "Maley - Justice Thomas",
+          "start": 111.8
+        },
+        {
+          "title": "Maley - Justice Roberts",
+          "start": 186.025
+        },
+        {
+          "title": "Maley - Justice Sotomayor",
+          "start": 246.97
+        },
+        {
+          "title": "Maley - Justice Kagan",
+          "start": 383.145
+        },
+        {
+          "title": "Maley - Justice Jackson",
+          "start": 491.68
+        },
+        {
+          "title": "Maley - Justice Alito",
+          "start": 719.93
+        },
+        {
+          "title": "Maley - Justice Kagan",
+          "start": 841.02
+        },
+        {
+          "title": "Maley - Justice Sotomayor",
+          "start": 934.56
+        },
+        {
+          "title": "Maley - Justice Roberts",
+          "start": 1092.37
+        },
+        {
+          "title": "Maley - Justice Alito",
+          "start": 1163.945
+        },
+        {
+          "title": "Maley - Justice Barrett",
+          "start": 1267.76
+        },
+        {
+          "title": "Maley - Justice Jackson",
+          "start": 1316.29
+        },
+        {
+          "title": "Anthony A. Yang (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1418.96
+        },
+        {
+          "title": "Yang - Justice Thomas",
+          "start": 1486.76999995
+        },
+        {
+          "title": "Yang - Justice Roberts",
+          "start": 1561.73
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 1603.175
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 1683.64
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 1749.82
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 1873.94
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 2031.85
+        },
+        {
+          "title": "Yang - Justice Alito",
+          "start": 2096.74
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 2203.71
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 2347.395
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 2421.825
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2504.75
+        },
+        {
+          "title": "Brian D. Schmalzbach (for the Respondents)",
+          "start": 2606.39
+        },
+        {
+          "title": "Schmalzbach - Justice Roberts",
+          "start": 2754.92
+        },
+        {
+          "title": "Schmalzbach - Justice Kagan",
+          "start": 2810.01
+        },
+        {
+          "title": "Schmalzbach - Justice Gorsuch",
+          "start": 3030.3
+        },
+        {
+          "title": "Schmalzbach - Justice Barrett",
+          "start": 3251.665
+        },
+        {
+          "title": "Schmalzbach - Justice Sotomayor",
+          "start": 3387.51
+        },
+        {
+          "title": "Schmalzbach - Justice Jackson",
+          "start": 3400.26
+        },
+        {
+          "title": "Schmalzbach - Justice Alito",
+          "start": 3448.855
+        },
+        {
+          "title": "Schmalzbach - Justice Kavanaugh",
+          "start": 3525.07500005
+        },
+        {
+          "title": "Schmalzbach - Justice Roberts",
+          "start": 3729.93
+        },
+        {
+          "title": "Schmalzbach - Justice Jackson",
+          "start": 3815.23
+        },
+        {
+          "title": "Schmalzbach - Justice Roberts",
+          "start": 3929.44
+        },
+        {
+          "title": "Schmalzbach - Justice Jackson",
+          "start": 4024.095
+        },
+        {
+          "title": "Schmalzbach - Justice Roberts",
+          "start": 4033.875
+        },
+        {
+          "title": "Schmalzbach - Justice Gorsuch",
+          "start": 4127.59
+        },
+        {
+          "title": "Schmalzbach - Justice Sotomayor",
+          "start": 4250.22
+        },
+        {
+          "title": "Schmalzbach - Justice Gorsuch",
+          "start": 4343.3
+        },
+        {
+          "title": "Schmalzbach - Justice Thomas",
+          "start": 4419.025
+        },
+        {
+          "title": "Schmalzbach - Justice Roberts",
+          "start": 4502.575
+        },
+        {
+          "title": "Erika L. Maley (for the Petitioner)",
+          "start": 4514.2
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-621.mp3"
     }
   }
