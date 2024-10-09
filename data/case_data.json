@@ -7510,14 +7510,115 @@
     },
     "23-852": {
       "docket_number": "23-852",
-      "name": "Garland, Att'y Gen. v. VanDerStok",
-      "date_argued_timestamp": 1728345600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-852",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-852.mp3",
-      "mp3_length": 4567,
-      "mp3_size": 36544778,
-      "source": "scotus",
+      "name": "Garland v. VanDerStok",
+      "date_argued_timestamp": 1728363600,
       "description": "<p>Garland v. VanDerStok</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Garland_v._VanDerStok\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-852/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/23-852.htm\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-852\">oyez.org</a></p>\n    <p>Argued on Oct 8, 2024.</p>\n    <p>Petitioner: Merrick B. Garland.<br>Respondent: Jennifer VanDerStok.</p>\n    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the Petitioners)</li>\n<li>Peter A. Patterson (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>ATF, created in 1972, is responsible for regulating firearms under the Gun Control Act of 1968 (GCA). The GCA requires federal firearms licensees (FFLs) to conduct background checks, record firearm transfers, and serialize firearms when selling or transferring them. The GCA\u2019s regulation of firearms is based on the definition of \u201cfirearm,\u201d which includes the \u201cframe or receiver.\u201d However, ATF\u2019s 1978 definition of \u201cframe or receiver\u201d became outdated due to changes in modern firearm design, such as the AR-15 and Glock pistols. Furthermore, the rise of privately made firearms (PMFs) or \u201cghost guns\u201d posed challenges to law enforcement because they were not regulated under the GCA and did not require serialization. In response, ATF issued a Final Rule in 2022, updating the definitions of \u201cframe,\u201d \u201creceiver,\u201d and \u201cfirearm\u201d to better capture modern firearm designs and regulate PMFs. The Final Rule took effect on August 24, 2022.</p>\n<p>The respondents in this case challenged the Final Rule\u2019s redefinition of \u201cframe or receiver\u201d and \u201cfirearm,\u201d arguing that it exceeded ATF\u2019s congressionally mandated authority. The district court granted summary judgment to the plaintiffs and vacated the Final Rule in its entirety. The U.S. Court of Appeals for the Fifth Circuit affirmed the district court\u2019s determination that the two provisions exceeded ATF\u2019s statutory authority.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the ATF exceed its statutory authority in promulgating its Final Rule purporting to regulate so-called \u201cghost guns\u201d?</p>\n\n    ",
+      "mp3_length": 4567,
+      "mp3_size": 18298769,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioners)",
+          "start": 0.08
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 147.97
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 293.63
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 565.66
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 752.4
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 931.27
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 1401.06
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 1481.745
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 1599.8
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1758.5
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 2129.99
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 2375.9
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 2479.71
+        },
+        {
+          "title": "Peter A. Patterson (for the Respondents)",
+          "start": 2815.135
+        },
+        {
+          "title": "Patterson - Justice Thomas",
+          "start": 2968.285
+        },
+        {
+          "title": "Patterson - Justice Jackson",
+          "start": 3166.11
+        },
+        {
+          "title": "Patterson - Justice Sotomayor",
+          "start": 3189.09
+        },
+        {
+          "title": "Patterson - Justice Gorsuch",
+          "start": 3355.01
+        },
+        {
+          "title": "Patterson - Justice Roberts",
+          "start": 3356.705
+        },
+        {
+          "title": "Patterson - Justice Gorsuch",
+          "start": 3540.41
+        },
+        {
+          "title": "Patterson - Justice Barrett",
+          "start": 3704.025
+        },
+        {
+          "title": "Patterson - Justice Alito",
+          "start": 3797.255
+        },
+        {
+          "title": "Patterson - Justice Jackson",
+          "start": 3961.275
+        },
+        {
+          "title": "Patterson - Justice Sotomayor",
+          "start": 4153.09
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioners)",
+          "start": 4260.385
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-852.mp3"
     },
     "23-621": {
