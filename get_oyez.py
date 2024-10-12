@@ -252,7 +252,7 @@ def build_description(case_metadata):
         advocates_list = ""
 
     description = f"""<p>{case_metadata['name']}</p>
-    <p>{wikipedia_text}<a href="{case_metadata['justia_url']}">{justia_link_text}</a> &middot; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/{case_metadata['docket_number']}.htm">Docket</a> &middot; <a href="{case_metadata['href'].replace('api.','www.')}">oyez.org</a></p>
+    <p>{wikipedia_text}<a href="{case_metadata['justia_url']}">{justia_link_text}</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/{case_metadata['docket_number']}.html">Docket</a> &middot; <a href="{case_metadata['href'].replace('api.','www.')}">oyez.org</a></p>
     <p>{date_text}</p>
     <p>{parties_text}</p>
     {advocates_list}
