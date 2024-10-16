@@ -8284,13 +8284,134 @@
     "23-365": {
       "docket_number": "23-365",
       "name": "Medical Marijuana, Inc. v. Horn",
-      "date_argued_timestamp": 1728950400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-365",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-365.mp3",
-      "mp3_length": 4097,
-      "mp3_size": 32789051,
-      "source": "scotus",
+      "date_argued_timestamp": 1728968400,
       "description": "<p>Medical Marijuana, Inc. v. Horn</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-365 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-365.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-365\">oyez.org</a></p>\n    <p>Argued on Oct 15, 2024.</p>\n    <p>Petitioner: Medical Marijuana, Inc.<br>Respondent: Douglas J. Horn.</p>\n    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioners)</li>\n<li>Easha Anand (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In February 2012, Douglas J. Horn was involved in a car accident that caused injuries to his hip and right shoulder. While seeking alternative natural remedies, he discovered an advertisement for Dixie X CBD Dew Drops Tincture, which claimed to contain 0% THC and be compliant with federal law. As a commercial truck driver subject to random drug testing, Horn carefully investigated these claims before purchasing and consuming the product in October 2012. However, he subsequently failed a drug test and lost his job, wages, and benefits. Independent lab tests confirmed that Dixie X contained THC, contrary to the advertisement's claims.</p>\n<p>On August 6, 2015, Horn sued the companies who allegedly falsely marketed the product\u2014Medical Marijuana, Inc., Dixie Holdings, LLC, and Red Dice Holdings, LLC\u2014in the U.S. District Court for the Western District of New York, which included a civil RICO claim and eight state law claims. The district court granted partial summary judgment to the defendants, concluding that Horn lacked RICO standing because he sued for the loss of earnings, which was derivative of an antecedent personal injury. The U.S. Court of Appeals for the Second Circuit vacated, concluding that nothing in the text of RICO\u2019s civil-action provision, or in its structure or history, supports a rule that bars plaintiffs from suing simply because their otherwise recoverable economic losses happen to have been connected to a non-recoverable personal injury.</p>\n\n    <p><b>Question</b></p>\n    <p>Are economic harms resulting from personal injuries properly considered injuries to \u201cbusiness or property by reason of\u201d the defendant\u2019s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations Act?</p>\n\n    ",
+      "mp3_length": 4097,
+      "mp3_size": 16421088,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Lisa S. Blatt (for the Petitioners)",
+          "start": 0.13
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 119.06
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 211.47
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 387.73
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 392.015
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 721.64
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 810.91
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 1033.21
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 1145.2
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1206.49
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1289.385
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1362.99
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 1441.25
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 1507.445
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 1563.475
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1730.25
+        },
+        {
+          "title": "Easha Anand (for the Respondent)",
+          "start": 1865.48000005
+        },
+        {
+          "title": "Anand - Justice Thomas",
+          "start": 1998.955
+        },
+        {
+          "title": "Anand - Justice Roberts",
+          "start": 2113.525
+        },
+        {
+          "title": "Anand - Justice Kavanaugh",
+          "start": 2246.51
+        },
+        {
+          "title": "Anand - Justice Gorsuch",
+          "start": 2602.71
+        },
+        {
+          "title": "Anand - Justice Alito",
+          "start": 2816.535
+        },
+        {
+          "title": "Anand - Justice Barrett",
+          "start": 2973.07
+        },
+        {
+          "title": "Anand - Justice Jackson",
+          "start": 3084.13
+        },
+        {
+          "title": "Anand - Justice Gorsuch",
+          "start": 3148.5
+        },
+        {
+          "title": "Anand - Justice Roberts",
+          "start": 3211.09499995
+        },
+        {
+          "title": "Anand - Justice Alito",
+          "start": 3369.64
+        },
+        {
+          "title": "Anand - Justice Kavanaugh",
+          "start": 3544.06
+        },
+        {
+          "title": "Anand - Justice Jackson",
+          "start": 3784.235
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioners)",
+          "start": 3901.48
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3"
     },
     "23-583": {
@@ -8304,6 +8425,18 @@
       "source": "scotus",
       "description": "<p>Bouarfa v. Mayorkas</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-583 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-583.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-583\">oyez.org</a></p>\n    <p>Argued on Oct 15, 2024.</p>\n    <p>Petitioner: Amina Bouarfa.<br>Respondent: Alejandro Mayorkas, Secretary of Homeland Security.</p>\n    <p>Advocates: <ul><li>Samir Deger-Sen (for the Petitioner)</li>\n<li>Colleen E. Roh Sinzdak (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2014, Amina Bouarfa, a U.S. citizen, submitted Form I-130 to petition for her husband, Ala\u2019a Hamayel, to be classified as her immediate relative under the Immigration and Nationality Act. The Secretary approved the petition in 2015 but later notified Bouarfa of an intent to revoke the approval, stating that Hamayel had entered into a previous marriage solely to evade immigration laws. Despite Bouarfa\u2019s response, the Secretary revoked the approval, and Bouarfa\u2019s appeal to the Board of Immigration Appeals was unsuccessful.</p>\n<p>Bouarfa sued in the U.S. District Court for the Middle District of Florida, challenging the officials\u2019 actions as arbitrary and capricious. The Secretary and Director moved to dismiss the complaint, arguing that the revocation decision was unreviewable because it was a discretionary action. The district court granted the motion, concluding that while the action was based on nondiscretionary criteria, the action itself was discretionary and thus that the court lacked subject-matter jurisdiction to review the decision. The U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May a visa petitioner obtain judicial review when an approved petition is revoked on the basis of nondiscretionary criteria?</p>\n\n    ",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.mp3"
+    },
+    "23-713": {
+      "docket_number": "23-713",
+      "name": "Bufkin v. McDonough, Sec. of VA",
+      "date_argued_timestamp": 1729036800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-713",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-713.mp3",
+      "mp3_length": 4364,
+      "mp3_size": 34921597,
+      "source": "scotus",
+      "description": "<p>Bufkin v. McDonough</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-713/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-713\">oyez.org</a></p>\n    <p>Argued on Oct 16, 2024.</p>\n    <p>Petitioner: Joshua E. Bufkin.<br>Respondent: Denis R. McDonough, Secretary of Veterans Affairs.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Veterans Joshua Bufkin and Norman Thornton were each denied benefits despite evidence that appeared to be in \u201capproximate balance.\u201d The benefit-of-the-doubt rule, codified at 38 U.S.C. \u00a7 5107(b), provides that, \u201c[w]hen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary [of Veterans Affairs] shall give the benefit of the doubt to the claimant.\u201d However, in reviewing the Veterans Court decision, the U.S. Court of Appeals for the Federal Circuit held that Section 7261(b)(1), which requires the U.S. Court of Appeals for Veterans Claims to \u201ctake due account of the Department of Veterans Affairs\u2019 application of that rule \u201cdoes not require the Veterans Court to conduct any review of the benefit of the doubt issue beyond\u201d performing the usual review of the underlying factual findings for clear error\u2014a basic procedural requirement that was already in place before enactment of the Veterans Benefits Act.</p>\n\n    <p><b>Question</b></p>\n    <p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. \u00a7 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. \u00a7 7261(b)(1)?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3"
     }
   }
 }

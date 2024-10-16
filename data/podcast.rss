@@ -32,6 +32,24 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-713] Bufkin v. McDonough, Sec. of VA</title>
+            <description><![CDATA[<p>Bufkin v. McDonough</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-713/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-713">oyez.org</a></p>
+    <p>Argued on Oct 16, 2024.</p>
+    <p>Petitioner: Joshua E. Bufkin.<br>Respondent: Denis R. McDonough, Secretary of Veterans Affairs.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Veterans Joshua Bufkin and Norman Thornton were each denied benefits despite evidence that appeared to be in “approximate balance.” The benefit-of-the-doubt rule, codified at 38 U.S.C. § 5107(b), provides that, “[w]hen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary [of Veterans Affairs] shall give the benefit of the doubt to the claimant.” However, in reviewing the Veterans Court decision, the U.S. Court of Appeals for the Federal Circuit held that Section 7261(b)(1), which requires the U.S. Court of Appeals for Veterans Claims to “take due account of the Department of Veterans Affairs’ application of that rule “does not require the Veterans Court to conduct any review of the benefit of the doubt issue beyond” performing the usual review of the underlying factual findings for clear error—a basic procedural requirement that was already in place before enactment of the Veterans Benefits Act.</p>
+
+    <p><b>Question</b></p>
+    <p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. § 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. § 7261(b)(1)?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3" length="34921597" type="audio/mpeg"/>
+            <guid>scotus_2024_23-713_v0</guid>
+            <itunes:duration>4364</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-365] Medical Marijuana, Inc. v. Horn</title>
             <description><![CDATA[<p>Medical Marijuana, Inc. v. Horn</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-365 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-365.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-365">oyez.org</a></p>
@@ -45,11 +63,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Are economic harms resulting from personal injuries properly considered injuries to “business or property by reason of” the defendant’s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3" length="32789051" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3" length="16421088" type="audio/mpeg"/>
             <guid>scotus_2024_23-365_v0</guid>
             <itunes:duration>4097</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 15 Oct 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-583] Bouarfa v. Mayorkas, Sec. of Homeland Security</title>

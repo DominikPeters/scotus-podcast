@@ -32,6 +32,24 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-713] Bufkin v. McDonough, Sec. of VA</title>
+            <description><![CDATA[<p>Bufkin v. McDonough</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-713/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-713">oyez.org</a></p>
+    <p>Argued on Oct 16, 2024.</p>
+    <p>Petitioner: Joshua E. Bufkin.<br>Respondent: Denis R. McDonough, Secretary of Veterans Affairs.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Veterans Joshua Bufkin and Norman Thornton were each denied benefits despite evidence that appeared to be in “approximate balance.” The benefit-of-the-doubt rule, codified at 38 U.S.C. § 5107(b), provides that, “[w]hen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary [of Veterans Affairs] shall give the benefit of the doubt to the claimant.” However, in reviewing the Veterans Court decision, the U.S. Court of Appeals for the Federal Circuit held that Section 7261(b)(1), which requires the U.S. Court of Appeals for Veterans Claims to “take due account of the Department of Veterans Affairs’ application of that rule “does not require the Veterans Court to conduct any review of the benefit of the doubt issue beyond” performing the usual review of the underlying factual findings for clear error—a basic procedural requirement that was already in place before enactment of the Veterans Benefits Act.</p>
+
+    <p><b>Question</b></p>
+    <p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. § 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. § 7261(b)(1)?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3" length="34921597" type="audio/mpeg"/>
+            <guid>scotus_2024_23-713_v0</guid>
+            <itunes:duration>4364</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-365] Medical Marijuana, Inc. v. Horn</title>
             <description><![CDATA[<p>Medical Marijuana, Inc. v. Horn</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-365 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-365.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-365">oyez.org</a></p>
@@ -44,8 +62,42 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>On August 6, 2015, Horn sued the companies who allegedly falsely marketed the product—Medical Marijuana, Inc., Dixie Holdings, LLC, and Red Dice Holdings, LLC—in the U.S. District Court for the Western District of New York, which included a civil RICO claim and eight state law claims. The district court granted partial summary judgment to the defendants, concluding that Horn lacked RICO standing because he sued for the loss of earnings, which was derivative of an antecedent personal injury. The U.S. Court of Appeals for the Second Circuit vacated, concluding that nothing in the text of RICO’s civil-action provision, or in its structure or history, supports a rule that bars plaintiffs from suing simply because their otherwise recoverable economic losses happen to have been connected to a non-recoverable personal injury.</p>
 
     <p><b>Question</b></p>
-    <p>Are economic harms resulting from personal injuries properly considered injuries to “business or property by reason of” the defendant’s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3" length="32789051" type="audio/mpeg"/>
+    <p>Are economic harms resulting from personal injuries properly considered injuries to “business or property by reason of” the defendant’s acts for purposes of a civil treble-damages action under the Racketeer Influenced and Corrupt Organizations Act?</p>
+
+    
+
+Chapters:
+00:00:00 Lisa S. Blatt (for the Petitioners)
+00:01:59 Blatt - Justice Thomas
+00:03:31 Blatt - Justice Sotomayor
+00:06:27 Blatt - Justice Jackson
+00:06:32 Blatt - Justice Kagan
+00:12:01 Blatt - Justice Barrett
+00:13:30 Blatt - Justice Jackson
+00:17:13 Blatt - Justice Kagan
+00:19:05 Blatt - Justice Kavanaugh
+00:20:06 Blatt - Justice Jackson
+00:21:29 Blatt - Justice Gorsuch
+00:22:42 Blatt - Justice Jackson
+00:24:01 Blatt - Justice Kavanaugh
+00:25:07 Blatt - Justice Alito
+00:26:03 Blatt - Justice Sotomayor
+00:28:50 Blatt - Justice Jackson
+00:31:05 Easha Anand (for the Respondent)
+00:33:18 Anand - Justice Thomas
+00:35:13 Anand - Justice Roberts
+00:37:26 Anand - Justice Kavanaugh
+00:43:22 Anand - Justice Gorsuch
+00:46:56 Anand - Justice Alito
+00:49:33 Anand - Justice Barrett
+00:51:24 Anand - Justice Jackson
+00:52:28 Anand - Justice Gorsuch
+00:53:31 Anand - Justice Roberts
+00:56:09 Anand - Justice Alito
+00:59:04 Anand - Justice Kavanaugh
+01:03:04 Anand - Justice Jackson
+01:05:01 Lisa S. Blatt (for the Petitioners)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3" length="16421088" type="audio/mpeg"/>
             <guid>scotus_2024_23-365_v0</guid>
             <itunes:duration>4097</itunes:duration>
             <itunes:season>2024</itunes:season>
