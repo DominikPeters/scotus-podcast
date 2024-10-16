@@ -8416,14 +8416,95 @@
     },
     "23-583": {
       "docket_number": "23-583",
-      "name": "Bouarfa v. Mayorkas, Sec. of Homeland Security",
-      "date_argued_timestamp": 1728950400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-583",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-583.mp3",
-      "mp3_length": 2959,
-      "mp3_size": 23681589,
-      "source": "scotus",
+      "name": "Bouarfa v. Mayorkas",
+      "date_argued_timestamp": 1728968400,
       "description": "<p>Bouarfa v. Mayorkas</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-583 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-583.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-583\">oyez.org</a></p>\n    <p>Argued on Oct 15, 2024.</p>\n    <p>Petitioner: Amina Bouarfa.<br>Respondent: Alejandro Mayorkas, Secretary of Homeland Security.</p>\n    <p>Advocates: <ul><li>Samir Deger-Sen (for the Petitioner)</li>\n<li>Colleen E. Roh Sinzdak (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2014, Amina Bouarfa, a U.S. citizen, submitted Form I-130 to petition for her husband, Ala\u2019a Hamayel, to be classified as her immediate relative under the Immigration and Nationality Act. The Secretary approved the petition in 2015 but later notified Bouarfa of an intent to revoke the approval, stating that Hamayel had entered into a previous marriage solely to evade immigration laws. Despite Bouarfa\u2019s response, the Secretary revoked the approval, and Bouarfa\u2019s appeal to the Board of Immigration Appeals was unsuccessful.</p>\n<p>Bouarfa sued in the U.S. District Court for the Middle District of Florida, challenging the officials\u2019 actions as arbitrary and capricious. The Secretary and Director moved to dismiss the complaint, arguing that the revocation decision was unreviewable because it was a discretionary action. The district court granted the motion, concluding that while the action was based on nondiscretionary criteria, the action itself was discretionary and thus that the court lacked subject-matter jurisdiction to review the decision. The U.S. Court of Appeals for the Eleventh Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May a visa petitioner obtain judicial review when an approved petition is revoked on the basis of nondiscretionary criteria?</p>\n\n    ",
+      "mp3_length": 2959,
+      "mp3_size": 11867318,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Samir Deger-Sen (for the Petitioner)",
+          "start": 0.06
+        },
+        {
+          "title": "Deger-Sen - Justice Thomas",
+          "start": 133.695
+        },
+        {
+          "title": "Deger-Sen - Justice Roberts",
+          "start": 377.03
+        },
+        {
+          "title": "Deger-Sen - Justice Jackson",
+          "start": 534.16
+        },
+        {
+          "title": "Deger-Sen - Justice Barrett",
+          "start": 726.445
+        },
+        {
+          "title": "Deger-Sen - Justice Sotomayor",
+          "start": 861
+        },
+        {
+          "title": "Deger-Sen - Justice Alito",
+          "start": 1050.255
+        },
+        {
+          "title": "Deger-Sen - Justice Kagan",
+          "start": 1283.035
+        },
+        {
+          "title": "Deger-Sen - Justice Jackson",
+          "start": 1528.79
+        },
+        {
+          "title": "Colleen E. Roh Sinzdak (for the Respondents)",
+          "start": 1605.03
+        },
+        {
+          "title": "Roh Sinzdak - Justice Thomas",
+          "start": 1759.125
+        },
+        {
+          "title": "Roh Sinzdak - Justice Gorsuch",
+          "start": 1808.635
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kagan",
+          "start": 2089.495
+        },
+        {
+          "title": "Roh Sinzdak - Justice Jackson",
+          "start": 2322.475
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 2528.95
+        },
+        {
+          "title": "Roh Sinzdak - Justice Jackson",
+          "start": 2536.09
+        },
+        {
+          "title": "Roh Sinzdak - Justice Sotomayor",
+          "start": 2557.83500005
+        },
+        {
+          "title": "Roh Sinzdak - Justice Gorsuch",
+          "start": 2594.7
+        },
+        {
+          "title": "Roh Sinzdak - Justice Roberts",
+          "start": 2694.245
+        },
+        {
+          "title": "Samir Deger-Sen (for the Petitioner)",
+          "start": 2706.54
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.mp3"
     },
     "23-713": {

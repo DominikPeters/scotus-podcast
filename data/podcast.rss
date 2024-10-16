@@ -68,10 +68,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4097</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 15 Oct 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-583] Bouarfa v. Mayorkas, Sec. of Homeland Security</title>
+            <title>[23-583] Bouarfa v. Mayorkas</title>
             <description><![CDATA[<p>Bouarfa v. Mayorkas</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-583 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-583.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-583">oyez.org</a></p>
     <p>Argued on Oct 15, 2024.</p>
@@ -84,11 +83,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May a visa petitioner obtain judicial review when an approved petition is revoked on the basis of nondiscretionary criteria?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.mp3" length="23681589" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.mp3" length="11867318" type="audio/mpeg"/>
             <guid>scotus_2024_23-583_v0</guid>
             <itunes:duration>2959</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 15 Oct 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[22-7466] Glossip v. Oklahoma</title>
