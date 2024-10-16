@@ -37,7 +37,8 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-713/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-713">oyez.org</a></p>
     <p>Argued on Oct 16, 2024.</p>
     <p>Petitioner: Joshua E. Bufkin.<br>Respondent: Denis R. McDonough, Secretary of Veterans Affairs.</p>
-    
+    <p>Advocates: <ul><li>Melanie L. Bostwick (for the Petitioners)</li>
+<li>Sopan Joshi (for the Respondent)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>Veterans Joshua Bufkin and Norman Thornton were each denied benefits despite evidence that appeared to be in “approximate balance.” The benefit-of-the-doubt rule, codified at 38 U.S.C. § 5107(b), provides that, “[w]hen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary [of Veterans Affairs] shall give the benefit of the doubt to the claimant.” However, in reviewing the Veterans Court decision, the U.S. Court of Appeals for the Federal Circuit held that Section 7261(b)(1), which requires the U.S. Court of Appeals for Veterans Claims to “take due account of the Department of Veterans Affairs’ application of that rule “does not require the Veterans Court to conduct any review of the benefit of the doubt issue beyond” performing the usual review of the underlying factual findings for clear error—a basic procedural requirement that was already in place before enactment of the Veterans Benefits Act.</p>
 
@@ -46,6 +47,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3" length="34921597" type="audio/mpeg"/>
             <guid>scotus_2024_23-713_v0</guid>
             <itunes:duration>4364</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[23-753] San Francisco v. EPA</title>
+            <description><![CDATA[<p>City and County of San Francisco v. Environmental Protection Agency</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-753/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-753.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-753">oyez.org</a></p>
+    <p>Argued on Oct 16, 2024.</p>
+    <p>Petitioner: City and County of San Francisco, California.<br>Respondent: Environmental Protection Agency.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>The city of San Francisco operates a combined sewer system that collects both sewage and stormwater runoff. During heavy rains, the system can exceed its capacity, resulting in combined sewer overflows (CSOs) that discharge pollutants into the Pacific Ocean. The Clean Water Act requires cities like San Francisco to obtain a National Pollutant Discharge Elimination System (NPDES) permit for such discharges. San Francisco has been implementing a CSO control plan since the late 1960s and completed construction of its current CSO control facilities in 1997.</p>
+<p>In 2019, the EPA and the California Regional Water Quality Control Board issued a new NPDES permit for San Francisco's Oceanside treatment facility. San Francisco is challenging two provisions in this permit: (1) narrative prohibitions against violating water quality standards, and (2) a requirement that San Francisco update its long-term CSO control plan. San Francisco argues that these provisions are inconsistent with the Clean Water Act and EPA regulations. The EPA’s Environmental Appeals Board denied San Francisco's administrative appeal, the U.S. Court of Appeals for the Ninth Circuit denied San Francisco’s petition for review, holding that the Clean Water Act authorizes EPA to include in the Oceanside NPDES permit the challenged provisions, and that EPA's decision to do so was rationally connected to evidence in the administrative record.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the Clean Water Act allow the Environmental Protection Agency (or an authorized state) to impose generic prohibitions in National Pollutant Discharge Elimination System permits that subject permit-holders to enforcement for violating water quality standards without identifying specific limits to which their discharges must conform?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.mp3" length="46834850" type="audio/mpeg"/>
+            <guid>scotus_2024_23-753_v0</guid>
+            <itunes:duration>5853</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
         </item>
@@ -88,7 +108,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>2959</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 15 Oct 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[22-7466] Glossip v. Oklahoma</title>
