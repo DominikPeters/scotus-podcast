@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-713] Bufkin v. McDonough, Sec. of VA</title>
+            <title>[23-713] Bufkin v. McDonough</title>
             <description><![CDATA[<p>Bufkin v. McDonough</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-713/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-713">oyez.org</a></p>
     <p>Argued on Oct 16, 2024.</p>
@@ -43,8 +43,47 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p>Veterans Joshua Bufkin and Norman Thornton were each denied benefits despite evidence that appeared to be in “approximate balance.” The benefit-of-the-doubt rule, codified at 38 U.S.C. § 5107(b), provides that, “[w]hen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary [of Veterans Affairs] shall give the benefit of the doubt to the claimant.” However, in reviewing the Veterans Court decision, the U.S. Court of Appeals for the Federal Circuit held that Section 7261(b)(1), which requires the U.S. Court of Appeals for Veterans Claims to “take due account of the Department of Veterans Affairs’ application of that rule “does not require the Veterans Court to conduct any review of the benefit of the doubt issue beyond” performing the usual review of the underlying factual findings for clear error—a basic procedural requirement that was already in place before enactment of the Veterans Benefits Act.</p>
 
     <p><b>Question</b></p>
-    <p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. § 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. § 7261(b)(1)?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3" length="34921597" type="audio/mpeg"/>
+    <p>Must the U.S. Court of Appeals for Veterans Claims ensure that the benefit-of-the-doubt rule in 38 U.S.C. § 5107(b) was properly applied during the claims process in order to satisfy 38 U.S.C. § 7261(b)(1)?</p>
+
+    
+
+Chapters:
+00:00:00 Melanie L. Bostwick (for the Petitioners)
+00:02:15 Bostwick - Justice Thomas
+00:03:52 Bostwick - Justice Roberts
+00:05:08 Bostwick - Justice Jackson
+00:07:01 Bostwick - Justice Kavanaugh
+00:07:38 Bostwick - Justice Kagan
+00:10:01 Bostwick - Justice Alito
+00:13:18 Bostwick - Justice Sotomayor
+00:16:30 Bostwick - Justice Barrett
+00:18:17 Bostwick - Justice Gorsuch
+00:21:50 Bostwick - Justice Roberts
+00:23:56 Bostwick - Justice Jackson
+00:25:45 Bostwick - Justice Alito
+00:28:48 Bostwick - Justice Sotomayor
+00:29:48 Bostwick - Justice Kagan
+00:31:54 Bostwick - Justice Gorsuch
+00:34:32 Bostwick - Justice Kavanaugh
+00:35:23 Bostwick - Justice Jackson
+00:36:31 Sopan Joshi (for the Respondent)
+00:38:53 Joshi - Justice Thomas
+00:39:24 Joshi - Justice Gorsuch
+00:42:34 Joshi - Justice Roberts
+00:44:50 Joshi - Justice Kavanaugh
+00:45:27 Joshi - Justice Jackson
+00:45:27 Joshi - Justice Kavanaugh
+00:45:58 Joshi - Justice Jackson
+00:49:26 Joshi - Justice Gorsuch
+00:50:11 Joshi - Justice Jackson
+00:51:18 Joshi - Justice Kagan
+00:54:05 Joshi - Justice Gorsuch
+00:56:19 Joshi - Justice Kavanaugh
+00:56:53 Joshi - Justice Jackson
+01:04:02 Joshi - Justice Sotomayor
+01:07:57 Joshi - Justice Gorsuch
+01:08:22 Melanie L. Bostwick (for the Petitioners)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3" length="17487406" type="audio/mpeg"/>
             <guid>scotus_2024_23-713_v0</guid>
             <itunes:duration>4364</itunes:duration>
             <itunes:season>2024</itunes:season>
@@ -56,7 +95,8 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-753/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-753.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-753">oyez.org</a></p>
     <p>Argued on Oct 16, 2024.</p>
     <p>Petitioner: City and County of San Francisco, California.<br>Respondent: Environmental Protection Agency.</p>
-    
+    <p>Advocates: <ul><li>Tara M. Steeley (for the Petitioner)</li>
+<li>Frederick Liu (for the Respondent)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>The city of San Francisco operates a combined sewer system that collects both sewage and stormwater runoff. During heavy rains, the system can exceed its capacity, resulting in combined sewer overflows (CSOs) that discharge pollutants into the Pacific Ocean. The Clean Water Act requires cities like San Francisco to obtain a National Pollutant Discharge Elimination System (NPDES) permit for such discharges. San Francisco has been implementing a CSO control plan since the late 1960s and completed construction of its current CSO control facilities in 1997.</p>
 <p>In 2019, the EPA and the California Regional Water Quality Control Board issued a new NPDES permit for San Francisco's Oceanside treatment facility. San Francisco is challenging two provisions in this permit: (1) narrative prohibitions against violating water quality standards, and (2) a requirement that San Francisco update its long-term CSO control plan. San Francisco argues that these provisions are inconsistent with the Clean Water Act and EPA regulations. The EPA’s Environmental Appeals Board denied San Francisco's administrative appeal, the U.S. Court of Appeals for the Ninth Circuit denied San Francisco’s petition for review, holding that the Clean Water Act authorizes EPA to include in the Oceanside NPDES permit the challenged provisions, and that EPA's decision to do so was rationally connected to evidence in the administrative record.</p>
