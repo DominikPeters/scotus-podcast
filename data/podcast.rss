@@ -49,10 +49,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4364</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-753] San Francisco v. EPA</title>
+            <title>[23-753] City and County of San Francisco v. Environmental Protection Agency</title>
             <description><![CDATA[<p>City and County of San Francisco v. Environmental Protection Agency</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-753/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-753.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-753">oyez.org</a></p>
     <p>Argued on Oct 16, 2024.</p>
@@ -65,11 +64,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the Clean Water Act allow the Environmental Protection Agency (or an authorized state) to impose generic prohibitions in National Pollutant Discharge Elimination System permits that subject permit-holders to enforcement for violating water quality standards without identifying specific limits to which their discharges must conform?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.mp3" length="46834850" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.mp3" length="23443951" type="audio/mpeg"/>
             <guid>scotus_2024_23-753_v0</guid>
             <itunes:duration>5853</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-365] Medical Marijuana, Inc. v. Horn</title>

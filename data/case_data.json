@@ -8662,14 +8662,171 @@
     },
     "23-753": {
       "docket_number": "23-753",
-      "name": "San Francisco v. EPA",
-      "date_argued_timestamp": 1729036800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-753",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-753.mp3",
-      "mp3_length": 5853,
-      "mp3_size": 46834850,
-      "source": "scotus",
+      "name": "City and County of San Francisco v. Environmental Protection Agency",
+      "date_argued_timestamp": 1729054800,
       "description": "<p>City and County of San Francisco v. Environmental Protection Agency</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-753/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-753.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-753\">oyez.org</a></p>\n    <p>Argued on Oct 16, 2024.</p>\n    <p>Petitioner: City and County of San Francisco, California.<br>Respondent: Environmental Protection Agency.</p>\n    <p>Advocates: <ul><li>Tara M. Steeley (for the Petitioner)</li>\n<li>Frederick Liu (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The city of San Francisco operates a combined sewer system that collects both sewage and stormwater runoff. During heavy rains, the system can exceed its capacity, resulting in combined sewer overflows (CSOs) that discharge pollutants into the Pacific Ocean. The Clean Water Act requires cities like San Francisco to obtain a National Pollutant Discharge Elimination System (NPDES) permit for such discharges. San Francisco has been implementing a CSO control plan since the late 1960s and completed construction of its current CSO control facilities in 1997.</p>\n<p>In 2019, the EPA and the California Regional Water Quality Control Board issued a new NPDES permit for San Francisco's Oceanside treatment facility. San Francisco is challenging two provisions in this permit: (1) narrative prohibitions against violating water quality standards, and (2) a requirement that San Francisco update its long-term CSO control plan. San Francisco argues that these provisions are inconsistent with the Clean Water Act and EPA regulations. The EPA\u2019s Environmental Appeals Board denied San Francisco's administrative appeal, the U.S. Court of Appeals for the Ninth Circuit denied San Francisco\u2019s petition for review, holding that the Clean Water Act authorizes EPA to include in the Oceanside NPDES permit the challenged provisions, and that EPA's decision to do so was rationally connected to evidence in the administrative record.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Clean Water Act allow the Environmental Protection Agency (or an authorized state) to impose generic prohibitions in National Pollutant Discharge Elimination System permits that subject permit-holders to enforcement for violating water quality standards without identifying specific limits to which their discharges must conform?</p>\n\n    ",
+      "mp3_length": 5853,
+      "mp3_size": 23443951,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Tara M. Steeley (for the Petitioner)",
+          "start": 0.135
+        },
+        {
+          "title": "Steeley - Justice Thomas",
+          "start": 128.83500005
+        },
+        {
+          "title": "Steeley - Justice Jackson",
+          "start": 243.155
+        },
+        {
+          "title": "Steeley - Justice Kagan",
+          "start": 352.735
+        },
+        {
+          "title": "Steeley - Justice Sotomayor",
+          "start": 498.5
+        },
+        {
+          "title": "Steeley - Justice Kagan",
+          "start": 886.69
+        },
+        {
+          "title": "Steeley - Justice Roberts",
+          "start": 1064.89
+        },
+        {
+          "title": "Steeley - Justice Kavanaugh",
+          "start": 1080.45
+        },
+        {
+          "title": "Steeley - Justice Sotomayor",
+          "start": 1145.505
+        },
+        {
+          "title": "Steeley - Justice Kagan",
+          "start": 1304.31
+        },
+        {
+          "title": "Steeley - Justice Jackson",
+          "start": 1384.45
+        },
+        {
+          "title": "Steeley - Justice Thomas",
+          "start": 1653.53
+        },
+        {
+          "title": "Steeley - Justice Alito",
+          "start": 1756.76
+        },
+        {
+          "title": "Steeley - Justice Sotomayor",
+          "start": 1868.905
+        },
+        {
+          "title": "Steeley - Justice Kagan",
+          "start": 2070.32
+        },
+        {
+          "title": "Steeley - Justice Gorsuch",
+          "start": 2254.39
+        },
+        {
+          "title": "Steeley - Justice Kavanaugh",
+          "start": 2339.4
+        },
+        {
+          "title": "Steeley - Justice Jackson",
+          "start": 2550.555
+        },
+        {
+          "title": "Frederick Liu (for the Respondent)",
+          "start": 2788.475
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 2925.55
+        },
+        {
+          "title": "Liu - Justice Roberts",
+          "start": 3058.87
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 3340.75
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 3510.65
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 3600.605
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 3603.325
+        },
+        {
+          "title": "Liu - Justice Roberts",
+          "start": 3634.75
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 3675.32
+        },
+        {
+          "title": "Liu - Justice Barrett",
+          "start": 3694.99
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 3819.78
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 4025.37
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 4139.49
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 4522.24
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 4660.59
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 4726.67
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 5086.495
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 5239.26
+        },
+        {
+          "title": "Liu - Justice Barrett",
+          "start": 5433.06
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 5515.11
+        },
+        {
+          "title": "Tara M. Steeley (for the Petitioner)",
+          "start": 5668.43
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.mp3"
     }
   }
