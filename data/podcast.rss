@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-1127] Wisconsin Bell, Inc. v. U.S., ex rel. Heath</title>
+            <description><![CDATA[<p>Wisconsin Bell, Inc. cv. United States, ex rel. Heath</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1127/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1127.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1127">oyez.org</a></p>
+    <p>Argued on Nov 4, 2024.</p>
+    <p>Petitioner: Wisconsin Bell, Inc.<br>Respondent: United States, ex rel. Todd Heath.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In 1996, Congress created the E-rate program to help schools and libraries afford telecommunications services. The program provides federal subsidies on a sliding scale, and service providers must follow the “lowest-corresponding-price” rule, offering schools and libraries the lowest price charged to similarly situated non-residential customers. Wisconsin Bell, aware of this rule since its inception, provided services to hundreds of eligible schools and libraries under the E-rate program.</p>
+<p>Despite knowing about the rule, Wisconsin Bell did not train its sales representatives or implement compliance mechanisms until 2009. The company admitted to treating pricing contracts for schools and libraries the same as other customers, often instructing sales representatives to offer the highest prices possible. In 2009, following a settlement by its parent company with the Department of Justice and FCC, Wisconsin Bell developed a compliance plan. In 2008, Todd Heath filed a qui tam action under the False Claims Act, alleging that Wisconsin Bell submitted false claims and certifications related to the E-rate program. After initial dismissal and subsequent appeal, the case proceeded to discovery, and the district court granted summary judgment in favor of Wisconsin Bell. The U.S. Court of Appeals for the Seventh Circuit reversed and remanded, finding that Heath identified enough specific evidence of discriminatory pricing to allow a reasonable jury to find that Wisconsin Bell, acting with the required scienter, charged specific schools and libraries more than it charged similarly situated customers.</p>
+
+    <p><b>Question</b></p>
+    <p>Do reimbursement requests submitted to the Federal Communications Commission's E-rate program qualify as “claims” under the False Claims Act?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1127.mp3" length="45092066" type="audio/mpeg"/>
+            <guid>scotus_2024_23-1127_v0</guid>
+            <itunes:duration>5635</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 04 Nov 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-713] Bufkin v. McDonough</title>
             <description><![CDATA[<p>Bufkin v. McDonough</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-713/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-713.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-713">oyez.org</a></p>
@@ -69,7 +88,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5853</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 16 Oct 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-365] Medical Marijuana, Inc. v. Horn</title>
