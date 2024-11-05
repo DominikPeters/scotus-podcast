@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-715] Advocate Christ Medical v. Becerra, Sec. of H&amp;HS</title>
+            <description><![CDATA[<p>Advocate Christ Medical Center v. Becerra</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-715/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-715.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-715">oyez.org</a></p>
+    <p>Argued on Nov 5, 2024.</p>
+    <p>Petitioner: Advocate Christ Medical Center, et al.<br>Respondent: Xavier Becerra, Secretary of Health and Human Services.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>This case involves the calculation of Medicare reimbursements to hospitals under the “disproportionate share hospital” (DSH) adjustment, which provides additional compensation to hospitals serving a high percentage of low-income patients. The adjustment is based on two formulas: the Medicare fraction and the Medicaid fraction. The Medicare fraction, which is at the center of this dispute, represents the percentage of a hospital's Medicare patients who are also entitled to Supplemental Security Income (SSI) benefits.</p>
+<p>Over 200 hospitals are challenging the Department of Health and Human Services’ (HHS) interpretation of who counts as “entitled to supplementary security income benefits” for the Medicare fraction calculation. HHS considers only patients who qualify for the monthly SSI cash payment during their hospital stay, while the hospitals argue that all patients enrolled in the SSI program should be included, even if they don't receive a payment that month. The hospitals also dispute HHS’s matching process and seek access to detailed SSI payment codes for their patients. After being denied relief by HHS’s internal review board and the Centers for Medicare and Medicaid Services, the hospitals sought judicial review, but the district court granted summary judgment to HHS. The U.S. Circuit Court for the D.C. Circuit affirmed.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the phrase “entitled… to benefits” include all who meet basic program eligibility criteria, whether or not benefits are actually received?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.mp3" length="33830349" type="audio/mpeg"/>
+            <guid>scotus_2024_23-715_v0</guid>
+            <itunes:duration>4227</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Tue, 05 Nov 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-1127] Wisconsin Bell, Inc. v. U.S., ex rel. Heath</title>
             <description><![CDATA[<p>Wisconsin Bell, Inc. cv. United States, ex rel. Heath</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1127/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1127.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1127">oyez.org</a></p>
