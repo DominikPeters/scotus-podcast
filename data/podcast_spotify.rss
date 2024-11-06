@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-980] Facebook, Inc. v. Amalgamated Bank</title>
+            <description><![CDATA[<p>Facebook v. Amalgamated Bank</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-980/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-980.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-980">oyez.org</a></p>
+    <p>Argued on Nov 6, 2024.</p>
+    <p>Petitioner: Facebook, Inc., et al.<br>Respondent: Amalgamated Bank, et al.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Facebook, the world’s largest social media platform, faced scrutiny in 2018 when news broke that Cambridge Analytica, a British political consulting firm, had improperly harvested personal data from millions of unwitting Facebook users. The data originated from a personality quiz integrated on Facebook by Aleksandr Kogan, who gained access to users’ data and their Facebook friends’ data without consent. Although only about 270,000 users took the quiz, Kogan harvested data from over 30 million users. Cambridge Analytica used this data to create personality profiles of American voters, which were allegedly used to benefit political campaigns, including Donald Trump’s 2016 presidential campaign.</p>
+<p>Facebook learned of Cambridge Analytica’s misconduct in 2015 but failed to inform affected users. The company continued to investigate the data usage and negotiated a confidential settlement with Kogan in 2016. Despite assurances that the data had been deleted, Facebook discovered in 2016 that Cambridge Analytica was still using the data. The scandal became public in March 2018, leading to significant drops in Facebook's stock price. Shortly after, it was revealed that Facebook had been sharing user data with dozens of whitelisted third parties without express user consent, contradicting previous statements about data control and privacy. These revelations, along with subsequent privacy concerns and regulatory actions, led to further stock price declines and reduced revenue growth for Facebook. Shareholders filed a securities fraud action against Facebook and its executives, alleging violations of Sections 10(b), 20(a), and 20A of the Securities Exchange Act of 1934 and Rule 10b-5 of the Exchange Act's implementing regulations.</p>
+<p>The district court dismissed the shareholders’ claims, and the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that under the heightened standard of the Private Securities Litigation Reform Act, the shareholders adequately pleaded falsity as to some of the challenged risk statements.</p>
+
+    <p><b>Question</b></p>
+    <p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3" length="49727113" type="audio/mpeg"/>
+            <guid>scotus_2024_23-980_v0</guid>
+            <itunes:duration>6215</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Wed, 06 Nov 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-715] Advocate Christ Medical v. Becerra, Sec. of H&amp;HS</title>
             <description><![CDATA[<p>Advocate Christ Medical Center v. Becerra</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-715/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-715.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-715">oyez.org</a></p>
