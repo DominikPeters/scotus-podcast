@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-980] Facebook, Inc. v. Amalgamated Bank</title>
+            <title>[23-980] Facebook v. Amalgamated Bank</title>
             <description><![CDATA[<p>Facebook v. Amalgamated Bank</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-980/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-980.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-980">oyez.org</a></p>
     <p>Argued on Nov 6, 2024.</p>
@@ -46,8 +46,56 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>The district court dismissed the shareholders’ claims, and the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that under the heightened standard of the Private Securities Litigation Reform Act, the shareholders adequately pleaded falsity as to some of the challenged risk statements.</p>
 
     <p><b>Question</b></p>
-    <p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3" length="49727113" type="audio/mpeg"/>
+    <p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>
+
+    
+
+Chapters:
+00:00:00 Kannon K. Shanmugam (for the Petitioners)
+00:02:12 Shanmugam - Justice Thomas
+00:05:42 Shanmugam - Justice Kagan
+00:10:24 Shanmugam - Justice Jackson
+00:14:16 Shanmugam - Justice Kavanaugh
+00:15:57 Shanmugam - Justice Roberts
+00:17:15 Shanmugam - Justice Sotomayor
+00:22:16 Shanmugam - Justice Gorsuch
+00:25:31 Shanmugam - Justice Thomas
+00:26:45 Shanmugam - Justice Alito
+00:30:49 Shanmugam - Justice Kagan
+00:34:21 Shanmugam - Justice Gorsuch
+00:36:04 Shanmugam - Justice Kavanaugh
+00:37:33 Shanmugam - Justice Barrett
+00:42:06 Shanmugam - Justice Jackson
+00:46:46 Kevin K. Russell (for the Respondents)
+00:48:50 Russell - Justice Thomas
+00:49:51 Russell - Justice Roberts
+00:52:23 Russell - Justice Gorsuch
+00:55:53 Russell - Justice Barrett
+00:56:16 Russell - Justice Kagan
+00:56:34 Russell - Justice Barrett
+00:57:17 Russell - Justice Kavanaugh
+00:59:27 Russell - Justice Alito
+01:04:25 Russell - Justice Jackson
+01:05:20 Russell - Justice Sotomayor
+01:06:49 Russell - Justice Thomas
+01:10:18 Russell - Justice Kavanaugh
+01:12:34 Russell - Justice Jackson
+01:13:17 Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondents)
+01:14:24 Barber - Justice Thomas
+01:15:27 Barber - Justice Roberts
+01:17:13 Barber - Justice Alito
+01:19:38 Barber - Justice Kagan
+01:19:58 Barber - Justice Alito
+01:20:06 Barber - Justice Kagan
+01:21:14 Barber - Justice Gorsuch
+01:24:11 Barber - Justice Sotomayor
+01:27:01 Barber - Justice Kagan
+01:29:14 Barber - Justice Gorsuch
+01:30:24 Barber - Justice Kavanaugh
+01:33:49 Barber - Justice Barrett
+01:36:35 Barber - Justice Jackson
+01:38:49 Kannon K. Shanmugam (for the Petitioners)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3" length="24890090" type="audio/mpeg"/>
             <guid>scotus_2024_23-980_v0</guid>
             <itunes:duration>6215</itunes:duration>
             <itunes:season>2024</itunes:season>

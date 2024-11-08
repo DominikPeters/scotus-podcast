@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-980] Facebook, Inc. v. Amalgamated Bank</title>
+            <title>[23-980] Facebook v. Amalgamated Bank</title>
             <description><![CDATA[<p>Facebook v. Amalgamated Bank</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-980/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-980.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-980">oyez.org</a></p>
     <p>Argued on Nov 6, 2024.</p>
@@ -47,11 +47,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3" length="49727113" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3" length="24890090" type="audio/mpeg"/>
             <guid>scotus_2024_23-980_v0</guid>
             <itunes:duration>6215</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 06 Nov 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-715] Advocate Christ Medical v. Becerra, Sec. of H&amp;HS</title>

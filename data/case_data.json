@@ -8867,14 +8867,191 @@
     },
     "23-980": {
       "docket_number": "23-980",
-      "name": "Facebook, Inc. v. Amalgamated Bank",
-      "date_argued_timestamp": 1730851200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-980",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-980.mp3",
-      "mp3_length": 6215,
-      "mp3_size": 49727113,
-      "source": "scotus",
+      "name": "Facebook v. Amalgamated Bank",
+      "date_argued_timestamp": 1730872800,
       "description": "<p>Facebook v. Amalgamated Bank</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-980/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-980.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-980\">oyez.org</a></p>\n    <p>Argued on Nov 6, 2024.</p>\n    <p>Petitioner: Facebook, Inc., et al.<br>Respondent: Amalgamated Bank, et al.</p>\n    <p>Advocates: <ul><li>Kannon K. Shanmugam (for the Petitioners)</li>\n<li>Kevin K. Russell (for the Respondents)</li>\n<li>Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Facebook, the world\u2019s largest social media platform, faced scrutiny in 2018 when news broke that Cambridge Analytica, a British political consulting firm, had improperly harvested personal data from millions of unwitting Facebook users. The data originated from a personality quiz integrated on Facebook by Aleksandr Kogan, who gained access to users\u2019 data and their Facebook friends\u2019 data without consent. Although only about 270,000 users took the quiz, Kogan harvested data from over 30 million users. Cambridge Analytica used this data to create personality profiles of American voters, which were allegedly used to benefit political campaigns, including Donald Trump\u2019s 2016 presidential campaign.</p>\n<p>Facebook learned of Cambridge Analytica\u2019s misconduct in 2015 but failed to inform affected users. The company continued to investigate the data usage and negotiated a confidential settlement with Kogan in 2016. Despite assurances that the data had been deleted, Facebook discovered in 2016 that Cambridge Analytica was still using the data. The scandal became public in March 2018, leading to significant drops in Facebook's stock price. Shortly after, it was revealed that Facebook had been sharing user data with dozens of whitelisted third parties without express user consent, contradicting previous statements about data control and privacy. These revelations, along with subsequent privacy concerns and regulatory actions, led to further stock price declines and reduced revenue growth for Facebook. Shareholders filed a securities fraud action against Facebook and its executives, alleging violations of Sections 10(b), 20(a), and 20A of the Securities Exchange Act of 1934 and Rule 10b-5 of the Exchange Act's implementing regulations.</p>\n<p>The district court dismissed the shareholders\u2019 claims, and the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that under the heightened standard of the Private Securities Litigation Reform Act, the shareholders adequately pleaded falsity as to some of the challenged risk statements.</p>\n\n    <p><b>Question</b></p>\n    <p>Are risk disclosures false or misleading when they do not disclose that a risk has materialized in the past, even if that past event presents no known risk of ongoing or future business harm?</p>\n\n    ",
+      "mp3_length": 6215,
+      "mp3_size": 24890090,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioners)",
+          "start": 0.12
+        },
+        {
+          "title": "Shanmugam - Justice Thomas",
+          "start": 132.93
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 342.94
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 624.43
+        },
+        {
+          "title": "Shanmugam - Justice Kavanaugh",
+          "start": 856.33
+        },
+        {
+          "title": "Shanmugam - Justice Roberts",
+          "start": 957.275
+        },
+        {
+          "title": "Shanmugam - Justice Sotomayor",
+          "start": 1035.415
+        },
+        {
+          "title": "Shanmugam - Justice Gorsuch",
+          "start": 1336.07
+        },
+        {
+          "title": "Shanmugam - Justice Thomas",
+          "start": 1531.29
+        },
+        {
+          "title": "Shanmugam - Justice Alito",
+          "start": 1605.22
+        },
+        {
+          "title": "Shanmugam - Justice Kagan",
+          "start": 1849.655
+        },
+        {
+          "title": "Shanmugam - Justice Gorsuch",
+          "start": 2061.585
+        },
+        {
+          "title": "Shanmugam - Justice Kavanaugh",
+          "start": 2164.52
+        },
+        {
+          "title": "Shanmugam - Justice Barrett",
+          "start": 2253.66
+        },
+        {
+          "title": "Shanmugam - Justice Jackson",
+          "start": 2526.08
+        },
+        {
+          "title": "Kevin K. Russell (for the Respondents)",
+          "start": 2806.015
+        },
+        {
+          "title": "Russell - Justice Thomas",
+          "start": 2930.92
+        },
+        {
+          "title": "Russell - Justice Roberts",
+          "start": 2991.715
+        },
+        {
+          "title": "Russell - Justice Gorsuch",
+          "start": 3143.93
+        },
+        {
+          "title": "Russell - Justice Barrett",
+          "start": 3353.825
+        },
+        {
+          "title": "Russell - Justice Kagan",
+          "start": 3376.33
+        },
+        {
+          "title": "Russell - Justice Barrett",
+          "start": 3394.595
+        },
+        {
+          "title": "Russell - Justice Kavanaugh",
+          "start": 3437.86
+        },
+        {
+          "title": "Russell - Justice Alito",
+          "start": 3567.93
+        },
+        {
+          "title": "Russell - Justice Jackson",
+          "start": 3865.61
+        },
+        {
+          "title": "Russell - Justice Sotomayor",
+          "start": 3920.25999995
+        },
+        {
+          "title": "Russell - Justice Thomas",
+          "start": 4009.74
+        },
+        {
+          "title": "Russell - Justice Kavanaugh",
+          "start": 4218.24
+        },
+        {
+          "title": "Russell - Justice Jackson",
+          "start": 4354.805
+        },
+        {
+          "title": "Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 4397.155
+        },
+        {
+          "title": "Barber - Justice Thomas",
+          "start": 4464
+        },
+        {
+          "title": "Barber - Justice Roberts",
+          "start": 4527.14
+        },
+        {
+          "title": "Barber - Justice Alito",
+          "start": 4633.99
+        },
+        {
+          "title": "Barber - Justice Kagan",
+          "start": 4778.935
+        },
+        {
+          "title": "Barber - Justice Alito",
+          "start": 4798.73
+        },
+        {
+          "title": "Barber - Justice Kagan",
+          "start": 4806.245
+        },
+        {
+          "title": "Barber - Justice Gorsuch",
+          "start": 4874.895
+        },
+        {
+          "title": "Barber - Justice Sotomayor",
+          "start": 5051.825
+        },
+        {
+          "title": "Barber - Justice Kagan",
+          "start": 5221.36
+        },
+        {
+          "title": "Barber - Justice Gorsuch",
+          "start": 5354.14
+        },
+        {
+          "title": "Barber - Justice Kavanaugh",
+          "start": 5424.455
+        },
+        {
+          "title": "Barber - Justice Barrett",
+          "start": 5629.265
+        },
+        {
+          "title": "Barber - Justice Jackson",
+          "start": 5795.72
+        },
+        {
+          "title": "Kannon K. Shanmugam (for the Petitioners)",
+          "start": 5929.96
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3"
     }
   }
