@@ -8831,27 +8831,322 @@
     },
     "23-1127": {
       "docket_number": "23-1127",
-      "name": "Wisconsin Bell, Inc. v. U.S., ex rel. Heath",
-      "date_argued_timestamp": 1730678400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1127",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1127.mp3",
-      "mp3_length": 5635,
-      "mp3_size": 45092066,
-      "source": "scotus",
+      "name": "Wisconsin Bell, Inc. cv. United States, ex rel. Heath",
+      "date_argued_timestamp": 1730700000,
       "description": "<p>Wisconsin Bell, Inc. cv. United States, ex rel. Heath</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1127/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1127.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1127\">oyez.org</a></p>\n    <p>Argued on Nov 4, 2024.</p>\n    <p>Petitioner: Wisconsin Bell, Inc.<br>Respondent: United States, ex rel. Todd Heath.</p>\n    <p>Advocates: <ul><li>Allyson N. Ho (for the Petitioner)</li>\n<li>Tejinder Singh (for the Respondent)</li>\n<li>Vivek Suri (for the United States, as amicus curiae, supporting the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 1996, Congress created the E-rate program to help schools and libraries afford telecommunications services. The program provides federal subsidies on a sliding scale, and service providers must follow the \u201clowest-corresponding-price\u201d rule, offering schools and libraries the lowest price charged to similarly situated non-residential customers. Wisconsin Bell, aware of this rule since its inception, provided services to hundreds of eligible schools and libraries under the E-rate program.</p>\n<p>Despite knowing about the rule, Wisconsin Bell did not train its sales representatives or implement compliance mechanisms until 2009. The company admitted to treating pricing contracts for schools and libraries the same as other customers, often instructing sales representatives to offer the highest prices possible. In 2009, following a settlement by its parent company with the Department of Justice and FCC, Wisconsin Bell developed a compliance plan. In 2008, Todd Heath filed a qui tam action under the False Claims Act, alleging that Wisconsin Bell submitted false claims and certifications related to the E-rate program. After initial dismissal and subsequent appeal, the case proceeded to discovery, and the district court granted summary judgment in favor of Wisconsin Bell. The U.S. Court of Appeals for the Seventh Circuit reversed and remanded, finding that Heath identified enough specific evidence of discriminatory pricing to allow a reasonable jury to find that Wisconsin Bell, acting with the required scienter, charged specific schools and libraries more than it charged similarly situated customers.</p>\n\n    <p><b>Question</b></p>\n    <p>Do reimbursement requests submitted to the Federal Communications Commission's E-rate program qualify as \u201cclaims\u201d under the False Claims Act?</p>\n\n    ",
+      "mp3_length": 5635,
+      "mp3_size": 22572402,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Allyson N. Ho (for the Petitioner)",
+          "start": 0.09
+        },
+        {
+          "title": "Ho - Justice Thomas",
+          "start": 136.22
+        },
+        {
+          "title": "Ho - Justice Jackson",
+          "start": 305.54
+        },
+        {
+          "title": "Ho - Justice Roberts",
+          "start": 307.145
+        },
+        {
+          "title": "Ho - Justice Jackson",
+          "start": 369.58
+        },
+        {
+          "title": "Ho - Justice Barrett",
+          "start": 652.75
+        },
+        {
+          "title": "Ho - Justice Kagan",
+          "start": 747.89
+        },
+        {
+          "title": "Ho - Justice Barrett",
+          "start": 938.5
+        },
+        {
+          "title": "Ho - Justice Kavanaugh",
+          "start": 1112.37
+        },
+        {
+          "title": "Ho - Justice Roberts",
+          "start": 1326.91
+        },
+        {
+          "title": "Ho - Justice Kagan",
+          "start": 1409.86
+        },
+        {
+          "title": "Ho - Justice Gorsuch",
+          "start": 1447.815
+        },
+        {
+          "title": "Ho - Justice Kagan",
+          "start": 1450.19
+        },
+        {
+          "title": "Ho - Justice Sotomayor",
+          "start": 1551.43999995
+        },
+        {
+          "title": "Ho - Justice Gorsuch",
+          "start": 1744.165
+        },
+        {
+          "title": "Ho - Justice Kavanaugh",
+          "start": 1790.15
+        },
+        {
+          "title": "Ho - Justice Barrett",
+          "start": 1888.42
+        },
+        {
+          "title": "Ho - Justice Jackson",
+          "start": 2080.69
+        },
+        {
+          "title": "Tejinder Singh (for the Respondent)",
+          "start": 2397.385
+        },
+        {
+          "title": "Singh - Justice Thomas",
+          "start": 2529.70999995
+        },
+        {
+          "title": "Singh - Justice Roberts",
+          "start": 2699.295
+        },
+        {
+          "title": "Singh - Justice Gorsuch",
+          "start": 2983.71
+        },
+        {
+          "title": "Singh - Justice Barrett",
+          "start": 3108.46
+        },
+        {
+          "title": "Singh - Justice Kavanaugh",
+          "start": 3151.83
+        },
+        {
+          "title": "Singh - Justice Gorsuch",
+          "start": 3296.85
+        },
+        {
+          "title": "Singh - Justice Kavanaugh",
+          "start": 3400.5
+        },
+        {
+          "title": "Singh - Justice Jackson",
+          "start": 3471.1
+        },
+        {
+          "title": "Singh - Justice Barrett",
+          "start": 3547.94
+        },
+        {
+          "title": "Singh - Justice Thomas",
+          "start": 3625.955
+        },
+        {
+          "title": "Singh - Justice Alito",
+          "start": 3826.84
+        },
+        {
+          "title": "Singh - Justice Sotomayor",
+          "start": 3962.555
+        },
+        {
+          "title": "Singh - Justice Kagan",
+          "start": 4250.595
+        },
+        {
+          "title": "Singh - Justice Gorsuch",
+          "start": 4410.55000005
+        },
+        {
+          "title": "Singh - Justice Jackson",
+          "start": 4451.85
+        },
+        {
+          "title": "Vivek Suri (for the United States, as amicus curiae, supporting the Respondent)",
+          "start": 4583.58
+        },
+        {
+          "title": "Suri - Justice Thomas",
+          "start": 4696.435
+        },
+        {
+          "title": "Suri - Justice Roberts",
+          "start": 4756.84
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 4887.385
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 4951.82
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 5055.17
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 5233.5
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 5307.96
+        },
+        {
+          "title": "Allyson N. Ho (for the Petitioner)",
+          "start": 5379.64
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1127.mp3"
     },
     "23-715": {
       "docket_number": "23-715",
-      "name": "Advocate Christ Medical v. Becerra, Sec. of H&HS",
-      "date_argued_timestamp": 1730764800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-715",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-715.mp3",
-      "mp3_length": 4227,
-      "mp3_size": 33830349,
-      "source": "scotus",
+      "name": "Advocate Christ Medical Center v. Becerra",
+      "date_argued_timestamp": 1730786400,
       "description": "<p>Advocate Christ Medical Center v. Becerra</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-715/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-715.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-715\">oyez.org</a></p>\n    <p>Argued on Nov 5, 2024.</p>\n    <p>Petitioner: Advocate Christ Medical Center, et al.<br>Respondent: Xavier Becerra, Secretary of Health and Human Services.</p>\n    <p>Advocates: <ul><li>Melissa Arbus Sherry (for the Petitioners)</li>\n<li>Ephraim McDowell (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves the calculation of Medicare reimbursements to hospitals under the \u201cdisproportionate share hospital\u201d (DSH) adjustment, which provides additional compensation to hospitals serving a high percentage of low-income patients. The adjustment is based on two formulas: the Medicare fraction and the Medicaid fraction. The Medicare fraction, which is at the center of this dispute, represents the percentage of a hospital's Medicare patients who are also entitled to Supplemental Security Income (SSI) benefits.</p>\n<p>Over 200 hospitals are challenging the Department of Health and Human Services\u2019 (HHS) interpretation of who counts as \u201centitled to supplementary security income benefits\u201d for the Medicare fraction calculation. HHS considers only patients who qualify for the monthly SSI cash payment during their hospital stay, while the hospitals argue that all patients enrolled in the SSI program should be included, even if they don't receive a payment that month. The hospitals also dispute HHS\u2019s matching process and seek access to detailed SSI payment codes for their patients. After being denied relief by HHS\u2019s internal review board and the Centers for Medicare and Medicaid Services, the hospitals sought judicial review, but the district court granted summary judgment to HHS. The U.S. Circuit Court for the D.C. Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the phrase \u201centitled\u2026 to benefits\u201d include all who meet basic program eligibility criteria, whether or not benefits are actually received?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.mp3"
+      "mp3_length": 4227,
+      "mp3_size": 16941656,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Melissa Arbus Sherry (for the Petitioners)",
+          "start": 0.07
+        },
+        {
+          "title": "Sherry - Justice Thomas",
+          "start": 125.83
+        },
+        {
+          "title": "Sherry - Justice Sotomayor",
+          "start": 179.955
+        },
+        {
+          "title": "Sherry - Justice Barrett",
+          "start": 356.16
+        },
+        {
+          "title": "Sherry - Justice Jackson",
+          "start": 543.58
+        },
+        {
+          "title": "Sherry - Justice Kagan",
+          "start": 720.18
+        },
+        {
+          "title": "Sherry - Justice Kavanaugh",
+          "start": 968.67
+        },
+        {
+          "title": "Sherry - Justice Alito",
+          "start": 970.57
+        },
+        {
+          "title": "Sherry - Justice Kavanaugh",
+          "start": 1127.575
+        },
+        {
+          "title": "Sherry - Justice Gorsuch",
+          "start": 1363.35
+        },
+        {
+          "title": "Sherry - Justice Kagan",
+          "start": 1461.25
+        },
+        {
+          "title": "Sherry - Justice Sotomayor",
+          "start": 1556.03
+        },
+        {
+          "title": "Sherry - Justice Kavanaugh",
+          "start": 1774.14
+        },
+        {
+          "title": "Sherry - Justice Jackson",
+          "start": 1993.5
+        },
+        {
+          "title": "Ephraim McDowell (for the Respondent)",
+          "start": 2170.45
+        },
+        {
+          "title": "McDowell - Justice Thomas",
+          "start": 2289.79
+        },
+        {
+          "title": "McDowell - Justice Jackson",
+          "start": 2345.3
+        },
+        {
+          "title": "McDowell - Justice Sotomayor",
+          "start": 2573.24
+        },
+        {
+          "title": "McDowell - Justice Barrett",
+          "start": 2705.83
+        },
+        {
+          "title": "McDowell - Justice Kavanaugh",
+          "start": 2768.26
+        },
+        {
+          "title": "McDowell - Justice Jackson",
+          "start": 2987.295
+        },
+        {
+          "title": "McDowell - Justice Kagan",
+          "start": 2990.98
+        },
+        {
+          "title": "McDowell - Justice Kavanaugh",
+          "start": 2992.38
+        },
+        {
+          "title": "McDowell - Justice Kagan",
+          "start": 3021.6
+        },
+        {
+          "title": "McDowell - Justice Gorsuch",
+          "start": 3182.015
+        },
+        {
+          "title": "McDowell - Justice Jackson",
+          "start": 3349.025
+        },
+        {
+          "title": "McDowell - Justice Kavanaugh",
+          "start": 3621.45
+        },
+        {
+          "title": "McDowell - Justice Kagan",
+          "start": 3712.885
+        },
+        {
+          "title": "McDowell - Justice Kavanaugh",
+          "start": 3778.55
+        },
+        {
+          "title": "Melissa Arbus Sherry (for the Petitioners)",
+          "start": 3918.555
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.vtt"
     },
     "23-217": {
       "docket_number": "23-217",
