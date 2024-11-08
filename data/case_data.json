@@ -8856,13 +8856,114 @@
     "23-217": {
       "docket_number": "23-217",
       "name": "E.M.D. Sales, Inc. v. Carrera",
-      "date_argued_timestamp": 1730764800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-217",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-217.mp3",
-      "mp3_length": 2529,
-      "mp3_size": 20242805,
-      "source": "scotus",
+      "date_argued_timestamp": 1730786400,
       "description": "<p>E.M.D. Sales, Inc. v. Carrera</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-217/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-217.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-217\">oyez.org</a></p>\n    <p>Argued on Nov 5, 2024.</p>\n    <p>Petitioner: E.M.D. Sales, Inc.<br>Respondent: Faustino Sanchez Carrera.</p>\n    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioners)</li>\n<li>Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Lauren E. Bateman (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>E.M.D. Sales Inc. (EMD) is a distributor of Latin American, Caribbean, and Asian food products to grocery stores in the Washington, D.C. area. Three of EMD\u2019s sales representatives\u2014Faustino Sanchez Carrera, Magdaleno Gervacio, and Jesus David Muro\u2014sued EMD and its CEO, Elda Devarie, in 2017 for allegedly violating the Fair Labor Standards Act (FLSA) by denying them overtime wages. The plaintiffs claimed they worked about 60 hours per week, paid on commission without overtime compensation.</p>\n<p>The sales representatives were assigned routes of stores, spending most of their time servicing chain stores and some independent groceries. Their duties included restocking shelves, managing inventory, and submitting orders for EMD products. While they could make some sales to independent stores, their ability to make sales at chain stores was limited, as high-level negotiations between EMD management and corporate buyers typically determined product placement. EMD argued that the sales representatives were exempt from overtime pay under the FLSA\u2019s \u201coutside sales\u201d exemption. The case went to a bench trial, where the court had to determine whether the plaintiffs\u2019 primary duty was making sales, qualifying them for the exemption, or if their work was primarily incidental to sales made by others. The district court ruled in favor of the plaintiffs, finding that EMD failed to prove the outside sales exemption applied, awarded both unpaid overtime wages and liquidated damages, but limited the damages to a two-year period after concluding that EMD's violation was not willful. The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Is the burden of proof that employers must satisfy to demonstrate the applicability of a Fair Labor Standards Act exemption a mere preponderance of the evidence or clear and convincing evidence?</p>\n\n    ",
+      "mp3_length": 2529,
+      "mp3_size": 10147938,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Lisa S. Blatt (for the Petitioners)",
+          "start": 0.13
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 113.885
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 195.46999995
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 289.785
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 451.165
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 653.35
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 741.285
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 852.68
+        },
+        {
+          "title": "Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 858.125
+        },
+        {
+          "title": "Brown - Justice Thomas",
+          "start": 919.17
+        },
+        {
+          "title": "Brown - Justice Roberts",
+          "start": 962.245
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 1010.32
+        },
+        {
+          "title": "Brown - Justice Kagan",
+          "start": 1301.565
+        },
+        {
+          "title": "Brown - Justice Roberts",
+          "start": 1333.305
+        },
+        {
+          "title": "Brown - Justice Sotomayor",
+          "start": 1394.85
+        },
+        {
+          "title": "Brown - Justice Alito",
+          "start": 1428.36
+        },
+        {
+          "title": "Lauren E. Bateman (for the Respondents)",
+          "start": 1573.58
+        },
+        {
+          "title": "Bateman - Justice Thomas",
+          "start": 1700.95
+        },
+        {
+          "title": "Bateman - Justice Roberts",
+          "start": 1772.00000005
+        },
+        {
+          "title": "Bateman - Justice Jackson",
+          "start": 1831.38
+        },
+        {
+          "title": "Bateman - Justice Kagan",
+          "start": 2050.08
+        },
+        {
+          "title": "Bateman - Justice Alito",
+          "start": 2116.54
+        },
+        {
+          "title": "Bateman - Justice Roberts",
+          "start": 2254.425
+        },
+        {
+          "title": "Bateman - Justice Kagan",
+          "start": 2314.06500005
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioners)",
+          "start": 2425.22
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-217.mp3"
     },
     "23-980": {
