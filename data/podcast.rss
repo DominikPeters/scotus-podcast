@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-929] Velazquez v. Garland, Att&#x27;y Gen.</title>
+            <description><![CDATA[<p>Velazquez v. Garland</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-929/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-929.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-929">oyez.org</a></p>
+    <p>Argued on Nov 12, 2024.</p>
+    <p>Petitioner: Hugo Abisai Monsalvo Velazquez.<br>Respondent: Merrick B. Garland, Attorney General.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Mr. Velázquez, a Mexican citizen, entered the U.S. without authorization in 2005. In 2011, the Department of Homeland Security sought to remove him and served a deficient Notice to Appear that lacked time and place details. In 2013, Velázquez admitted to unlawful entry and sought withholding of removal and protection under the Convention Against Torture. In March 2019, an Immigration Judge denied these requests but granted voluntary departure within 60 days. Velázquez appealed to the Board of Immigration Appeals (BIA), which dismissed his appeal in October 2021 and reinstated the 60-day voluntary departure period.</p>
+<p>On December 13, 2021, Velázquez filed a motion to reopen his case to apply for cancellation of removal, arguing he had accrued 10 years of continuous presence due to his deficient Notice to Appear. The BIA denied this motion, finding Velázquez had not asserted “new facts” and that the motion was untimely, filed after the 60-day voluntary departure period. Velázquez then filed a motion to reconsider, challenging only the timeliness determination, which the BIA also denied. Velázquez filed a petition for review in federal court, but the U.S. Court of Appeals for the Tenth Circuit denied review, concluding that Mr. Velázquez failed to voluntarily depart or file an administrative motion within 60 calendar days, the maximum period provided by statute. 8 U.S.C. § 1229c(b)(2).</p>
+
+    <p><b>Question</b></p>
+    <p>When a noncitizen’s voluntary-departure period ends on a weekend or public holiday, is a motion to reopen filed the next business day sufficient to avoid the penalties for failure to depart under 8 U.S.C. § 1229c(d)(1)?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-929.mp3" length="32274499" type="audio/mpeg"/>
+            <guid>scotus_2024_23-929_v0</guid>
+            <itunes:duration>4033</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Tue, 12 Nov 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-980] Facebook v. Amalgamated Bank</title>
             <description><![CDATA[<p>Facebook v. Amalgamated Bank</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-980/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-980.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-980">oyez.org</a></p>
@@ -115,7 +134,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5635</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 04 Nov 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1127.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-713] Bufkin v. McDonough</title>

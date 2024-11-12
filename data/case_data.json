@@ -9449,6 +9449,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3"
+    },
+    "23-929": {
+      "docket_number": "23-929",
+      "name": "Velazquez v. Garland, Att'y Gen.",
+      "date_argued_timestamp": 1731369600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-929",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-929.mp3",
+      "mp3_length": 4033,
+      "mp3_size": 32274499,
+      "source": "scotus",
+      "description": "<p>Velazquez v. Garland</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-929/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-929.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-929\">oyez.org</a></p>\n    <p>Argued on Nov 12, 2024.</p>\n    <p>Petitioner: Hugo Abisai Monsalvo Velazquez.<br>Respondent: Merrick B. Garland, Attorney General.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Mr. Vel\u00e1zquez, a Mexican citizen, entered the U.S. without authorization in 2005. In 2011, the Department of Homeland Security sought to remove him and served a deficient Notice to Appear that lacked time and place details. In 2013, Vel\u00e1zquez admitted to unlawful entry and sought withholding of removal and protection under the Convention Against Torture. In March 2019, an Immigration Judge denied these requests but granted voluntary departure within 60 days. Vel\u00e1zquez appealed to the Board of Immigration Appeals (BIA), which dismissed his appeal in October 2021 and reinstated the 60-day voluntary departure period.</p>\n<p>On December 13, 2021, Vel\u00e1zquez filed a motion to reopen his case to apply for cancellation of removal, arguing he had accrued 10 years of continuous presence due to his deficient Notice to Appear. The BIA denied this motion, finding Vel\u00e1zquez had not asserted \u201cnew facts\u201d and that the motion was untimely, filed after the 60-day voluntary departure period. Vel\u00e1zquez then filed a motion to reconsider, challenging only the timeliness determination, which the BIA also denied. Vel\u00e1zquez filed a petition for review in federal court, but the U.S. Court of Appeals for the Tenth Circuit denied review, concluding that Mr. Vel\u00e1zquez failed to voluntarily depart or file an administrative motion within 60 calendar days, the maximum period provided by statute. 8 U.S.C. \u00a7 1229c(b)(2).</p>\n\n    <p><b>Question</b></p>\n    <p>When a noncitizen\u2019s voluntary-departure period ends on a weekend or public holiday, is a motion to reopen filed the next business day sufficient to avoid the penalties for failure to depart under 8 U.S.C. \u00a7 1229c(d)(1)?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-929.mp3"
     }
   }
 }
