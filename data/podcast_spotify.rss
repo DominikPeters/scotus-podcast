@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-970] NVIDIA Corp. v. E. Ohman J:or Fonder AB</title>
+            <description><![CDATA[<p>NVIDIA Corporation v. E. Ohman J:or Fonder AB</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-970/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-970.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-970">oyez.org</a></p>
+    <p>Argued on Nov 13, 2024.</p>
+    <p>Petitioner: NVIDIA Corporation.<br>Respondent: E. Ohman J:or Fonder AB.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>NVIDIA, a major producer of graphics processing units (GPUs), experienced a surge in demand for its gaming GPUs due to cryptocurrency mining, particularly for Ethereum, during 2017-2018. This mirrored a previous crypto-driven boom and bust cycle experienced by NVIDIA’s rival, AMD. Despite introducing specialized crypto mining GPUs (Crypto SKUs) and reporting their sales separately, NVIDIA continued to see substantial crypto-related purchases of its gaming GPUs. However, the company’s executives, particularly CEO Jensen Huang and CFO Colette Kress, repeatedly downplayed the impact of crypto mining on their gaming segment revenues when questioned by analysts and investors.</p>
+<p>As cryptocurrency prices began to decline in 2018, NVIDIA’s GPU sales dropped. On August 16, 2018, the company lowered its revenue guidance, which was followed by a more significant miss in November. On November 15, 2018, NVIDIA disclosed that post-crypto channel inventory was taking longer than expected to sell through, with Huang referring to it as a “crypto hangover.” This revelation led to a sharp decline in NVIDIA's stock price, dropping 28.5% in two trading days. The plaintiffs in this case alleged that during the class period (May 10, 2017, to November 14, 2018), NVIDIA's executives knowingly or recklessly misled investors about the company's exposure to crypto volatility by understating the impact of crypto-related purchases on their gaming segment revenues.</p>
+<p>The district court dismissed the plaintiffs’ claims, but the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that the amended complaint sufficiently alleged that, during the Class Period, Huang made false or misleading statements and did so knowingly or recklessly.</p>
+
+    <p><b>Question</b></p>
+    <p>What is the proper pleading standard to show knowledge or intent for Private Securities Litigation Reform Act claims that rely on internal company documents?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.mp3" length="41869114" type="audio/mpeg"/>
+            <guid>scotus_2024_23-970_v0</guid>
+            <itunes:duration>5232</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Wed, 13 Nov 2024 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-929] Velazquez v. Garland, Att&#x27;y Gen.</title>
             <description><![CDATA[<p>Velazquez v. Garland</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-929/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-929.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-929">oyez.org</a></p>
