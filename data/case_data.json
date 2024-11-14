@@ -9452,14 +9452,159 @@
     },
     "23-929": {
       "docket_number": "23-929",
-      "name": "Velazquez v. Garland, Att'y Gen.",
-      "date_argued_timestamp": 1731369600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-929",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-929.mp3",
-      "mp3_length": 4033,
-      "mp3_size": 32274499,
-      "source": "scotus",
+      "name": "Velazquez v. Garland",
+      "date_argued_timestamp": 1731391200,
       "description": "<p>Velazquez v. Garland</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-929/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-929.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-929\">oyez.org</a></p>\n    <p>Argued on Nov 12, 2024.</p>\n    <p>Petitioner: Hugo Abisai Monsalvo Velazquez.<br>Respondent: Merrick B. Garland, Attorney General.</p>\n    <p>Advocates: <ul><li>Gerard J. Cedrone (for the Petitioner)</li>\n<li>Anthony A. Yang (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Mr. Vel\u00e1zquez, a Mexican citizen, entered the U.S. without authorization in 2005. In 2011, the Department of Homeland Security sought to remove him and served a deficient Notice to Appear that lacked time and place details. In 2013, Vel\u00e1zquez admitted to unlawful entry and sought withholding of removal and protection under the Convention Against Torture. In March 2019, an Immigration Judge denied these requests but granted voluntary departure within 60 days. Vel\u00e1zquez appealed to the Board of Immigration Appeals (BIA), which dismissed his appeal in October 2021 and reinstated the 60-day voluntary departure period.</p>\n<p>On December 13, 2021, Vel\u00e1zquez filed a motion to reopen his case to apply for cancellation of removal, arguing he had accrued 10 years of continuous presence due to his deficient Notice to Appear. The BIA denied this motion, finding Vel\u00e1zquez had not asserted \u201cnew facts\u201d and that the motion was untimely, filed after the 60-day voluntary departure period. Vel\u00e1zquez then filed a motion to reconsider, challenging only the timeliness determination, which the BIA also denied. Vel\u00e1zquez filed a petition for review in federal court, but the U.S. Court of Appeals for the Tenth Circuit denied review, concluding that Mr. Vel\u00e1zquez failed to voluntarily depart or file an administrative motion within 60 calendar days, the maximum period provided by statute. 8 U.S.C. \u00a7 1229c(b)(2).</p>\n\n    <p><b>Question</b></p>\n    <p>When a noncitizen\u2019s voluntary-departure period ends on a weekend or public holiday, is a motion to reopen filed the next business day sufficient to avoid the penalties for failure to depart under 8 U.S.C. \u00a7 1229c(d)(1)?</p>\n\n    ",
+      "mp3_length": 4033,
+      "mp3_size": 16163625,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Gerard J. Cedrone (for the Petitioner)",
+          "start": 0.06
+        },
+        {
+          "title": "Cedrone - Justice Thomas",
+          "start": 134.81
+        },
+        {
+          "title": "Cedrone - Justice Roberts",
+          "start": 236.845
+        },
+        {
+          "title": "Cedrone - Justice Sotomayor",
+          "start": 399.74
+        },
+        {
+          "title": "Cedrone - Justice Gorsuch",
+          "start": 643.88
+        },
+        {
+          "title": "Cedrone - Justice Barrett",
+          "start": 732.97
+        },
+        {
+          "title": "Cedrone - Justice Alito",
+          "start": 961.54
+        },
+        {
+          "title": "Cedrone - Justice Sotomayor",
+          "start": 1182.42
+        },
+        {
+          "title": "Cedrone - Justice Alito",
+          "start": 1331.115
+        },
+        {
+          "title": "Cedrone - Justice Kagan",
+          "start": 1458.91
+        },
+        {
+          "title": "Cedrone - Justice Jackson",
+          "start": 1525.25
+        },
+        {
+          "title": "Anthony A. Yang (for the Respondent)",
+          "start": 1616.08000005
+        },
+        {
+          "title": "Yang - Justice Thomas",
+          "start": 1754.43500005
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 1814.82
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 1849.475
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 1933.13
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2029.7
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 2074.43
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2157.07
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 2238.31
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 2299.81
+        },
+        {
+          "title": "Yang - Justice Roberts",
+          "start": 2461.995
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 2510.48
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2613.22
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 2733.24
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2995.5
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 3050.665
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 3053.73
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 3233.75
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 3353.64
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 3378.02
+        },
+        {
+          "title": "Yang - Justice Thomas",
+          "start": 3442.81
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 3548.305
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 3634.765
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 3765.735
+        },
+        {
+          "title": "Gerard J. Cedrone (for the Petitioner)",
+          "start": 3839.74
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-929.mp3"
     },
     "23-825": {
