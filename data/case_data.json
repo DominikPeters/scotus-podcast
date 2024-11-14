@@ -9610,13 +9610,150 @@
     "23-825": {
       "docket_number": "23-825",
       "name": "Delligatti v. United States",
-      "date_argued_timestamp": 1731369600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-825",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-825.mp3",
-      "mp3_length": 3792,
-      "mp3_size": 30344410,
-      "source": "scotus",
+      "date_argued_timestamp": 1731391200,
       "description": "<p>Delligatti v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-825/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-825.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-825\">oyez.org</a></p>\n    <p>Argued on Nov 12, 2024.</p>\n    <p>Petitioner: Salvatore Delligatti.<br>Respondent: United States.</p>\n    <p>Advocates: <ul><li>Allon Kedem (for the Petitioner)</li>\n<li>Eric J. Feigin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Salvatore Delligatti, an associate of the Genovese Crime Family, was convicted of various charges, including attempted murder in aid of racketeering (under the Violent Crimes in Aid of Racketeering (VICAR) statute, 18 U.S.C. \u00a7 1959(a)(5)), and possession of a firearm in furtherance of a crime of violence (under 18 U.S.C. \u00a7 924(c)(1)(A)(i)). Delligatti had organized a plot to murder Joseph Bonelli, a neighborhood bully who had been stealing from a local gas station owner and was suspected of cooperating against bookies associated with the Genovese Crime Family. Delligatti paid another man to coordinate the murder with gang members, providing them with a gun and a car. The murder attempts were ultimately unsuccessful due to the presence of potential witnesses and the arrest of the would-be murderers by law enforcement.</p>\n<p>On appeal, Delligatti argued that his firearms conviction should be vacated because the predicate offenses, including the attempted murder charge, were not \u201ccrimes of violence\u201d under the law. The U.S. Court of Appeals for the Second Circuit affirmed the lower court\u2019s judgment, concluding that attempted murder in aid of racketeering qualifies as a crime of violence, as it necessarily involves the attempted use of physical force, and therefore upheld Delligatti's firearms conviction.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a crime that requires proof of bodily injury or death, but which can be committed by failing to take action, have as an element the use, attempted use, or threatened use of physical force?</p>\n\n    ",
+      "mp3_length": 3792,
+      "mp3_size": 15198766,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Allon Kedem (for the Petitioner)",
+          "start": 0.06
+        },
+        {
+          "title": "Kedem - Justice Thomas",
+          "start": 99.155
+        },
+        {
+          "title": "Kedem - Justice Sotomayor",
+          "start": 150.64
+        },
+        {
+          "title": "Kedem - Justice Kagan",
+          "start": 288.78
+        },
+        {
+          "title": "Kedem - Justice Barrett",
+          "start": 339.925
+        },
+        {
+          "title": "Kedem - Justice Gorsuch",
+          "start": 366.79
+        },
+        {
+          "title": "Kedem - Justice Barrett",
+          "start": 367
+        },
+        {
+          "title": "Kedem - Justice Gorsuch",
+          "start": 443.26
+        },
+        {
+          "title": "Kedem - Justice Jackson",
+          "start": 649.57
+        },
+        {
+          "title": "Kedem - Justice Kagan",
+          "start": 718.2
+        },
+        {
+          "title": "Kedem - Justice Jackson",
+          "start": 778.7
+        },
+        {
+          "title": "Kedem - Justice Kagan",
+          "start": 780.84
+        },
+        {
+          "title": "Kedem - Justice Jackson",
+          "start": 890.5
+        },
+        {
+          "title": "Kedem - Justice Alito",
+          "start": 934.57
+        },
+        {
+          "title": "Kedem - Justice Jackson",
+          "start": 989.48
+        },
+        {
+          "title": "Kedem - Justice Barrett",
+          "start": 1014.6
+        },
+        {
+          "title": "Kedem - Justice Jackson",
+          "start": 1168.43
+        },
+        {
+          "title": "Kedem - Justice Roberts",
+          "start": 1282.435
+        },
+        {
+          "title": "Kedem - Justice Kagan",
+          "start": 1338.765
+        },
+        {
+          "title": "Kedem - Justice Gorsuch",
+          "start": 1431.91
+        },
+        {
+          "title": "Kedem - Justice Thomas",
+          "start": 1535.36
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent)",
+          "start": 1620.09
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 1750.58
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 1873.21
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 2125.305
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 2415.37
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 2547.65
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 2678.93
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 2921.74
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 3023.355
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 3082.8
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3190.87
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 3467.08
+        },
+        {
+          "title": "Allon Kedem (for the Petitioner)",
+          "start": 3484.18
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.mp3"
     },
     "23-970": {

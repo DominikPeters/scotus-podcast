@@ -72,7 +72,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4033</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 12 Nov 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-929.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-825] Delligatti v. United States</title>
@@ -88,11 +87,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does a crime that requires proof of bodily injury or death, but which can be committed by failing to take action, have as an element the use, attempted use, or threatened use of physical force?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.mp3" length="30344410" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.mp3" length="15198766" type="audio/mpeg"/>
             <guid>scotus_2024_23-825_v0</guid>
             <itunes:duration>3792</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 12 Nov 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-980] Facebook v. Amalgamated Bank</title>
