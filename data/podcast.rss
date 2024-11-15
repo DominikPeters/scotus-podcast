@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-970] NVIDIA Corp. v. E. Ohman J:or Fonder AB</title>
+            <title>[23-970] NVIDIA Corporation v. E. Ohman J:or Fonder AB</title>
             <description><![CDATA[<p>NVIDIA Corporation v. E. Ohman J:or Fonder AB</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-970/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-970.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-970">oyez.org</a></p>
     <p>Argued on Nov 13, 2024.</p>
@@ -47,11 +47,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>What is the proper pleading standard to show knowledge or intent for Private Securities Litigation Reform Act claims that rely on internal company documents?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.mp3" length="41869114" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.mp3" length="20961065" type="audio/mpeg"/>
             <guid>scotus_2024_23-970_v0</guid>
             <itunes:duration>5232</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 13 Nov 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-929] Velazquez v. Garland</title>
@@ -92,7 +93,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3792</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 12 Nov 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-980] Facebook v. Amalgamated Bank</title>

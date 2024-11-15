@@ -9758,14 +9758,155 @@
     },
     "23-970": {
       "docket_number": "23-970",
-      "name": "NVIDIA Corp. v. E. Ohman J:or Fonder AB",
-      "date_argued_timestamp": 1731456000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-970",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-970.mp3",
-      "mp3_length": 5232,
-      "mp3_size": 41869114,
-      "source": "scotus",
+      "name": "NVIDIA Corporation v. E. Ohman J:or Fonder AB",
+      "date_argued_timestamp": 1731477600,
       "description": "<p>NVIDIA Corporation v. E. Ohman J:or Fonder AB</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-970/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-970.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-970\">oyez.org</a></p>\n    <p>Argued on Nov 13, 2024.</p>\n    <p>Petitioner: NVIDIA Corporation.<br>Respondent: E. Ohman J:or Fonder AB.</p>\n    <p>Advocates: <ul><li>Neal Kumar Katyal (for the Petitioners)</li>\n<li>Deepak Gupta (for the Respondents)</li>\n<li>Colleen E. Roh Sinzdak (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>NVIDIA, a major producer of graphics processing units (GPUs), experienced a surge in demand for its gaming GPUs due to cryptocurrency mining, particularly for Ethereum, during 2017-2018. This mirrored a previous crypto-driven boom and bust cycle experienced by NVIDIA\u2019s rival, AMD. Despite introducing specialized crypto mining GPUs (Crypto SKUs) and reporting their sales separately, NVIDIA continued to see substantial crypto-related purchases of its gaming GPUs. However, the company\u2019s executives, particularly CEO Jensen Huang and CFO Colette Kress, repeatedly downplayed the impact of crypto mining on their gaming segment revenues when questioned by analysts and investors.</p>\n<p>As cryptocurrency prices began to decline in 2018, NVIDIA\u2019s GPU sales dropped. On August 16, 2018, the company lowered its revenue guidance, which was followed by a more significant miss in November. On November 15, 2018, NVIDIA disclosed that post-crypto channel inventory was taking longer than expected to sell through, with Huang referring to it as a \u201ccrypto hangover.\u201d This revelation led to a sharp decline in NVIDIA's stock price, dropping 28.5% in two trading days. The plaintiffs in this case alleged that during the class period (May 10, 2017, to November 14, 2018), NVIDIA's executives knowingly or recklessly misled investors about the company's exposure to crypto volatility by understating the impact of crypto-related purchases on their gaming segment revenues.</p>\n<p>The district court dismissed the plaintiffs\u2019 claims, but the U.S. Court of Appeals for the Ninth Circuit reversed, concluding that the amended complaint sufficiently alleged that, during the Class Period, Huang made false or misleading statements and did so knowingly or recklessly.</p>\n\n    <p><b>Question</b></p>\n    <p>What is the proper pleading standard to show knowledge or intent for Private Securities Litigation Reform Act claims that rely on internal company documents?</p>\n\n    ",
+      "mp3_length": 5232,
+      "mp3_size": 20961065,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Neal Kumar Katyal (for the Petitioners)",
+          "start": 0.08
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 144.11
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 208.27
+        },
+        {
+          "title": "Katyal - Justice Sotomayor",
+          "start": 431.54
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 797.23
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 979.35
+        },
+        {
+          "title": "Katyal - Justice Kagan",
+          "start": 1073.54
+        },
+        {
+          "title": "Katyal - Justice Barrett",
+          "start": 1329
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 1382.6
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 1514.48
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 1609.135
+        },
+        {
+          "title": "Katyal - Justice Kagan",
+          "start": 1878.515
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 2024.445
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 2172.29
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 2303.45
+        },
+        {
+          "title": "Deepak Gupta (for the Respondents)",
+          "start": 2515.915
+        },
+        {
+          "title": "Gupta - Justice Thomas",
+          "start": 2644.935
+        },
+        {
+          "title": "Gupta - Justice Roberts",
+          "start": 2771.145
+        },
+        {
+          "title": "Gupta - Justice Gorsuch",
+          "start": 3077.12
+        },
+        {
+          "title": "Gupta - Justice Kavanaugh",
+          "start": 3332.05
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 3384.74
+        },
+        {
+          "title": "Gupta - Justice Jackson",
+          "start": 3582.77
+        },
+        {
+          "title": "Gupta - Justice Roberts",
+          "start": 3722.92
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 3834.835
+        },
+        {
+          "title": "Gupta - Justice Sotomayor",
+          "start": 3984.195
+        },
+        {
+          "title": "Gupta - Justice Kagan",
+          "start": 4090.19
+        },
+        {
+          "title": "Gupta - Justice Kavanaugh",
+          "start": 4154.93
+        },
+        {
+          "title": "Colleen E. Roh Sinzdak (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 4366.47
+        },
+        {
+          "title": "Roh Sinzdak - Justice Thomas",
+          "start": 4461.07
+        },
+        {
+          "title": "Roh Sinzdak - Justice Roberts",
+          "start": 4494.95500005
+        },
+        {
+          "title": "Roh Sinzdak - Justice Barrett",
+          "start": 4549.88
+        },
+        {
+          "title": "Roh Sinzdak - Justice Alito",
+          "start": 4622.955
+        },
+        {
+          "title": "Roh Sinzdak - Justice Sotomayor",
+          "start": 4686.495
+        },
+        {
+          "title": "Roh Sinzdak - Justice Kavanaugh",
+          "start": 4779.505
+        },
+        {
+          "title": "Neal Kumar Katyal (for the Petitioners)",
+          "start": 4918.785
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.mp3"
     }
   }
