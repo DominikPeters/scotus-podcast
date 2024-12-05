@@ -9935,14 +9935,175 @@
     },
     "23-867": {
       "docket_number": "23-867",
-      "name": "Hungary v. Simon",
-      "date_argued_timestamp": 1733184000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-867",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-867.mp3",
-      "mp3_length": 5041,
-      "mp3_size": 40339348,
-      "source": "scotus",
+      "name": "Republic of Hungary v. Simon",
+      "date_argued_timestamp": 1733205600,
       "description": "<p>Republic of Hungary v. Simon</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Republic_of_Hungary_v._Simon\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-867/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-867.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-867\">oyez.org</a></p>\n    <p>Argued on Dec 3, 2024.</p>\n    <p>Petitioner: Republic of Hungary.<br>Respondent: Rosalie Simon.</p>\n    <p>Advocates: <ul><li>Joshua S. Glasgow (for the Petitioners)</li>\n<li>Sopan Joshi (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Shay Dvoretzky (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case arises from the Hungarian government\u2019s confiscation of Jewish-owned property during the Holocaust. In 1944, Hungary rapidly exterminated over half a million Jews and seized their property. Fourteen Holocaust survivors sued Hungary and its agency, Magyar \u00c1llamvasutak Zrt., seeking compensation for this seized property. To overcome Hungary\u2019s sovereign immunity, the plaintiffs invoked the Foreign Sovereign Immunities Act\u2019s expropriation exception, asserting they were either stateless or Czechoslovakian nationals at the time of the takings, not Hungarian nationals. This claim was made in response to the Supreme Court\u2019s recent ruling in Fed. Republic of Germany v. Philipp that a country\u2019s taking of property from its own nationals is generally excluded from the FSIA\u2019s expropriation exception.</p>\n<p>The case has a complex litigation history, with multiple appeals focusing on the plaintiffs\u2019 nationality status and FSIA jurisdiction. The U.S. Court of Appeals for the D.C. Circuit ruled that the plaintiffs\u2019 allegations were sufficient to shift the burden of proof to Hungary to disprove, contrasting with the Second Circuit\u2019s decision that plaintiffs must demonstrate a link between the expropriated property\u2019s funds and U.S. commercial activity.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does historical commingling of assets suffice to establish that proceeds of seized property have a commercial nexus with the United States under the expropriation exception to the Foreign Sovereign Immunities Act?</p>\n<p>2. Must a plaintiff make out a valid claim that an exception to the FSIA applies at the pleading stage, rather than merely raising a plausible inference?</p>\n<p>3. Does a sovereign defendant bear the burden of producing evidence to affirmatively disprove that the proceeds of property taken in violation of international law have a commercial nexus with the United States under the expropriation exception to the FSIA?</p>\n<p>\u00a0</p>\n\n    ",
+      "mp3_length": 5041,
+      "mp3_size": 20195886,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Joshua S. Glasgow (for the Petitioners)",
+          "start": 0.165
+        },
+        {
+          "title": "Glasgow - Justice Thomas",
+          "start": 111.23
+        },
+        {
+          "title": "Glasgow - Justice Roberts",
+          "start": 184.445
+        },
+        {
+          "title": "Glasgow - Justice Kagan",
+          "start": 260.365
+        },
+        {
+          "title": "Glasgow - Justice Barrett",
+          "start": 361.87
+        },
+        {
+          "title": "Glasgow - Justice Gorsuch",
+          "start": 453.49
+        },
+        {
+          "title": "Glasgow - Justice Sotomayor",
+          "start": 503.465
+        },
+        {
+          "title": "Glasgow - Justice Gorsuch",
+          "start": 650.72
+        },
+        {
+          "title": "Glasgow - Justice Barrett",
+          "start": 738.86
+        },
+        {
+          "title": "Glasgow - Justice Jackson",
+          "start": 860.02
+        },
+        {
+          "title": "Glasgow - Justice Kagan",
+          "start": 1001.345
+        },
+        {
+          "title": "Glasgow - Justice Alito",
+          "start": 1128.78
+        },
+        {
+          "title": "Glasgow - Justice Sotomayor",
+          "start": 1310.095
+        },
+        {
+          "title": "Glasgow - Justice Roberts",
+          "start": 1426.395
+        },
+        {
+          "title": "Sopan Joshi (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1440.105
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 1522
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 1615.56
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 1717.7
+        },
+        {
+          "title": "Joshi - Justice Alito",
+          "start": 1718.17
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 1875.72
+        },
+        {
+          "title": "Joshi - Justice Roberts",
+          "start": 2058.275
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 2076.68
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 2146.25000005
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 2356.79
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 2597.265
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 2832.87
+        },
+        {
+          "title": "Shay Dvoretzky (for the Respondents)",
+          "start": 3057.16
+        },
+        {
+          "title": "Dvoretzky - Justice Thomas",
+          "start": 3183.975
+        },
+        {
+          "title": "Dvoretzky - Justice Roberts",
+          "start": 3400.645
+        },
+        {
+          "title": "Dvoretzky - Justice Kagan",
+          "start": 3609.43
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 3684.84
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 4010.23
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 4249.885
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 4365.36
+        },
+        {
+          "title": "Dvoretzky - Justice Gorsuch",
+          "start": 4605.8
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 4672.17
+        },
+        {
+          "title": "Dvoretzky - Justice Kagan",
+          "start": 4758.88
+        },
+        {
+          "title": "Dvoretzky - Justice Alito",
+          "start": 4825.815
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 4876.285
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 4886.98
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-867.mp3"
     },
     "23-477": {
