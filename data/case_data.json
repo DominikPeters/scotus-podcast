@@ -10109,13 +10109,178 @@
     "23-477": {
       "docket_number": "23-477",
       "name": "United States v. Skrmetti",
-      "date_argued_timestamp": 1733270400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-477",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-477.mp3",
-      "mp3_length": 8470,
-      "mp3_size": 67769711,
-      "source": "scotus",
+      "date_argued_timestamp": 1733292000,
       "description": "<p>United States v. Skrmetti</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/United_States_v._Skrmetti\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-477/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-477.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-477\">oyez.org</a></p>\n    <p>Argued on Dec 4, 2024.</p>\n    <p>Petitioner: United States of America.<br>Respondent: Jonathan Skrmetti, Attorney General and Reporter for Tennessee.</p>\n    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the Petitioner)</li>\n<li>Chase B. Strangio (for the Respondents L.W., et al., supporting the Petitioner)</li>\n<li>J. Matthew Rice (for the Respondents Jonathan Skrmetti, et al.)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2023, Tennessee and Kentucky passed laws restricting certain medical treatments for transgender minors. These laws prohibited healthcare providers from administering puberty blockers, hormone therapy, and sex-transition surgeries to minors for the purpose of altering their appearance or validating their gender identity when inconsistent with their biological sex. Both laws included exceptions for certain medical conditions and provided mechanisms for enforcement, including professional discipline for healthcare providers and extended statutes of limitations for lawsuits.</p>\n<p>In response, groups of transgender minors, their parents, and healthcare providers challenged these laws in federal court. The plaintiffs argued that the laws violated their constitutional rights to due process and equal protection. They sought preliminary injunctions to prevent the laws from taking effect. In both cases, district courts initially granted injunctions, finding that the laws likely infringed on parents\u2019 fundamental rights to direct their children's medical care and discriminated based on sex. The U.S. Court of Appeals for the Sixth Circuit stayed these injunctions, allowing the laws to go into effect pending further legal proceedings.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a Tennessee law restricting certain medical treatments for transgender minors violate the Equal Protection Clause of the 14th Amendment?</p>\n\n    ",
+      "mp3_length": 8470,
+      "mp3_size": 33911112,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioner)",
+          "start": 0.1
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 146.37
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 333.74
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 581.96
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 1350.69
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1681.69
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 2076.065
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 2914.22
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 3443.625
+        },
+        {
+          "title": "Chase B. Strangio (for the Respondents L.W., et al., supporting the Petitioner)",
+          "start": 3890.82
+        },
+        {
+          "title": "Strangio - Justice Thomas",
+          "start": 3957.255
+        },
+        {
+          "title": "Strangio - Justice Roberts",
+          "start": 4014.23
+        },
+        {
+          "title": "Strangio - Justice Barrett",
+          "start": 4159.36
+        },
+        {
+          "title": "Strangio - Justice Sotomayor",
+          "start": 4287.98
+        },
+        {
+          "title": "Strangio - Justice Alito",
+          "start": 4517.705
+        },
+        {
+          "title": "Strangio - Justice Roberts",
+          "start": 4843.7
+        },
+        {
+          "title": "Strangio - Justice Thomas",
+          "start": 5086.42
+        },
+        {
+          "title": "Strangio - Justice Alito",
+          "start": 5215.935
+        },
+        {
+          "title": "Strangio - Justice Sotomayor",
+          "start": 5471.455
+        },
+        {
+          "title": "Strangio - Justice Kavanaugh",
+          "start": 5589.53
+        },
+        {
+          "title": "Strangio - Justice Barrett",
+          "start": 5993.89
+        },
+        {
+          "title": "Strangio - Justice Jackson",
+          "start": 6085.13
+        },
+        {
+          "title": "J. Matthew Rice (for the Respondents Jonathan Skrmetti, et al.)",
+          "start": 6324.43
+        },
+        {
+          "title": "Rice - Justice Thomas",
+          "start": 6425.585
+        },
+        {
+          "title": "Rice - Justice Sotomayor",
+          "start": 6474.47
+        },
+        {
+          "title": "Rice - Justice Jackson",
+          "start": 6637.91
+        },
+        {
+          "title": "Rice - Justice Kagan",
+          "start": 6871.6
+        },
+        {
+          "title": "Rice - Justice Roberts",
+          "start": 6965.695
+        },
+        {
+          "title": "Rice - Justice Sotomayor",
+          "start": 7005.84
+        },
+        {
+          "title": "Rice - Justice Barrett",
+          "start": 7096.36
+        },
+        {
+          "title": "Rice - Justice Sotomayor",
+          "start": 7100.45
+        },
+        {
+          "title": "Rice - Justice Barrett",
+          "start": 7119.005
+        },
+        {
+          "title": "Rice - Justice Jackson",
+          "start": 7295.6
+        },
+        {
+          "title": "Rice - Justice Kagan",
+          "start": 7510.39
+        },
+        {
+          "title": "Rice - Justice Kavanaugh",
+          "start": 7731.88
+        },
+        {
+          "title": "Rice - Justice Barrett",
+          "start": 7801.18
+        },
+        {
+          "title": "Rice - Justice Jackson",
+          "start": 7817.045
+        },
+        {
+          "title": "Rice - Justice Thomas",
+          "start": 8016.46
+        },
+        {
+          "title": "Rice - Justice Kavanaugh",
+          "start": 8164.93
+        },
+        {
+          "title": "Rice - Justice Jackson",
+          "start": 8221.69
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioner)",
+          "start": 8299.925
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-477.mp3"
     }
   }
