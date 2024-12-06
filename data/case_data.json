@@ -9924,13 +9924,134 @@
     "23-824": {
       "docket_number": "23-824",
       "name": "United States v. Miller",
-      "date_argued_timestamp": 1733097600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-824",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-824.mp3",
-      "mp3_length": 3217,
-      "mp3_size": 25747529,
-      "source": "scotus",
+      "date_argued_timestamp": 1733119200,
       "description": "<p>United States v. Miller</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/United_States_v._Miller\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-824/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-824.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-824\">oyez.org</a></p>\n    <p>Argued on Dec 2, 2024.</p>\n    <p>Petitioner: United States of America.<br>Respondent: David L. Miller.</p>\n    <p>Advocates: <ul><li>Yaira Dubin (for the Petitioner)</li>\n<li>Lisa S. Blatt (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2014, All Resorts Group, Inc. paid $145,138.78 to the Internal Revenue Service to cover personal tax debts of two of its principals. The company filed for Chapter 7 bankruptcy in 2017. Subsequently, the United States Trustee initiated an adversary proceeding against the United States to avoid these transfers, relying on Section 544(b)(1) of the Bankruptcy Code and Utah's Uniform Fraudulent Transfer Act. The United States did not contest the substantive elements required to establish a voidable transfer but argued that sovereign immunity would bar an actual creditor from avoiding the tax payments outside of bankruptcy. This prevented the Trustee from satisfying the \"actual creditor requirement\" of Section 544(b)(1). The Trustee countered that the sovereign immunity waiver in Section 106(a) of the Bankruptcy Code applied not only to the adversary proceeding but also to the underlying state law cause of action. The bankruptcy court ruled in favor of the Trustee, and both the district court and the U.S. Court of Appeals for the Tenth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May a bankruptcy trustee avoid a debtor\u2019s tax payment to the United States under 11 U.S.C. \u00a7 544(b) when no actual creditor could have obtained relief under the applicable state fraudulent-transfer law outside of bankruptcy?</p>\n\n    ",
+      "mp3_length": 3217,
+      "mp3_size": 12899886,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Yaira Dubin (for the Petitioner)",
+          "start": 0.215
+        },
+        {
+          "title": "Dubin - Justice Thomas",
+          "start": 142.36
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 202.34499995
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 255.565
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 256.25
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 258.48
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 258.95
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 305.25
+        },
+        {
+          "title": "Dubin - Justice Jackson",
+          "start": 636.41
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 761.41
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 825.155
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 926.04999995
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 952.88
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 1007.89999995
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 1156.98
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 1249.555
+        },
+        {
+          "title": "Dubin - Justice Barrett",
+          "start": 1284.94
+        },
+        {
+          "title": "Dubin - Justice Jackson",
+          "start": 1482.38
+        },
+        {
+          "title": "Lisa S. Blatt (for the Respondent)",
+          "start": 1612.025
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 1728.365
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 1872.32
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 2016.52
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 2136.72
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 2250.19
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 2370.86
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 2371.35
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 2511.34
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 2580.09
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 2980.93
+        },
+        {
+          "title": "Yaira Dubin (for the Petitioner)",
+          "start": 2992.7
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-824.mp3"
     },
     "23-867": {
