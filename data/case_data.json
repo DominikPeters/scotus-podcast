@@ -10544,13 +10544,166 @@
     "23-909": {
       "docket_number": "23-909",
       "name": "Kousisis v. United States",
-      "date_argued_timestamp": 1733702400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-909",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-909.mp3",
-      "mp3_length": 5211,
-      "mp3_size": 41701477,
-      "source": "scotus",
+      "date_argued_timestamp": 1733724000,
       "description": "<p>Kousisis v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-909/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-909.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-909\">oyez.org</a></p>\n    <p>Argued on Dec 9, 2024.</p>\n    <p>Petitioner: Stamatios Kousisis.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Jeffrey L. Fisher (for the Petitioners)</li>\n<li>Eric J. Feigin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The U.S. Department of Transportation provides funds to state agencies for transportation projects, requiring recipients to set participation goals for disadvantaged business enterprises (DBEs). Kousisis, Frangos, and their companies, Alpha and Liberty Maintenance, were awarded contracts for two Philadelphia projects with DBE requirements. They committed to working with Markias, Inc., a certified DBE, claiming they would obtain millions in paint supplies from the company.</p>\n<p>However, the defendants submitted false documentation about Markias\u2019s role in the projects. Instead of Markias supplying products or performing a commercially useful function as required, it served merely as a pass-through. The defendants arranged for actual suppliers to send invoices to Markias, which then issued its own invoices with a 2.25% fee added. This scheme allowed the defendants to appear compliant with DBE requirements, a condition for receiving payments and avoiding penalties. The jury convicted Kousisis and Alpha of false statements, conspiracy to commit wire fraud, and wire fraud.</p>\n<p>The district court calculated the loss based on the defendants\u2019 \u201cill-gotten profits,\u201d determining that this was an appropriate measure of loss when the actual loss to the government was not measurable at the time of sentencing. This calculation led to a 20-point sentencing enhancement corresponding to a loss between $9.5 million and $25 million.</p>\n<p>Kousisis and Alpha appealed their convictions and the calculation of the loss for sentencing purposes. The U.S. Court of Appeals for the Third Circuit affirmed the convictions but vacated the loss calculation.</p>\n\n    <p><b>Question</b></p>\n    <p>Can deception to induce a commercial exchange constitute mail or wire fraud, even if inflicting economic harm on the alleged victim was not the object of the scheme?</p>\n\n    ",
+      "mp3_length": 5211,
+      "mp3_size": 20877264,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioners)",
+          "start": 0.095
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 146.245
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 205.05
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 361.385
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 362.15
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 449.27
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 583.225
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 585.57
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 640.69
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 1173.2
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1314.56
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 1474.575
+        },
+        {
+          "title": "Fisher - Justice Roberts",
+          "start": 1531.395
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 1587.075
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1769.85
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 1890.275
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 2028.26
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 2136.045
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 2215.29
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent)",
+          "start": 2441.125
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 2578.635
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 2649.005
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 2796.995
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 2852.73
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 2930.42
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 3193.17
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 3306.835
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 3307.35
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 3400.935
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 3666.68
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 3800.71
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 4075.25
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 4231.78
+        },
+        {
+          "title": "Feigin - Justice Alito",
+          "start": 4249.895
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 4670.2
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 4713.095
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 4813.9
+        },
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioners)",
+          "start": 4897.725
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-909.mp3"
     },
     "23-861": {
