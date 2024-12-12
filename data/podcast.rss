@@ -37,7 +37,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-900/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-900.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-900">oyez.org</a></p>
     <p>Argued on Dec 11, 2024.</p>
     <p>Petitioner: Dewberry Group, Inc.<br>Respondent: Dewberry Engineers Inc.</p>
-    
+    <p>Advocates: <ul><li>Thomas G. Hungar (for the Petitioner)</li>
+<li>Nicholas S. Crown (for the United States, as amicus curiae, supporting neither party)</li>
+<li>Elbert Lin (for the Respondent)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>Dewberry Engineers and Dewberry Group are two businesses in the real estate development industry that both use the “Dewberry” name. In 2006, they confronted each other over their competing brands, leading to a lawsuit that was settled in 2007 with a confidential settlement agreement (CSA). The CSA allowed Dewberry Engineers to use its registered marks freely while strictly limiting Dewberry Group’s use of “Dewberry.” It prohibited Dewberry Group from challenging Dewberry Engineers’ federal trademark registrations and required Dewberry Group to abandon pending applications for the “Dewberry Capital” mark.</p>
 <p>In 2017, Dewberry Group decided to rebrand, changing its name from “Dewberry Capital” to "Dewberry Group” and adopting several subbrands. Despite the CSA, Dewberry Group applied to register new “Dewberry” marks with the U.S. Patent and Trademark Office (USPTO) for real estate-related services. The USPTO rejected these applications due to likelihood of confusion with Dewberry Engineers’ marks. Dewberry Engineers sent cease-and-desist letters to Dewberry Group, claiming trademark infringement and breach of the CSA. Dewberry Group refused to abandon its applications, arguing that the CSA allowed its use of “Dewberry” marks other than “Dewberry Capital” for non-architectural services.</p>
@@ -94,10 +96,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5211</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 09 Dec 2024 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-909.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-861] Feliciano v. Dept. of Transportation</title>
+            <title>[23-861] Feliciano v. Department of Transportation</title>
             <description><![CDATA[<p>Feliciano v. Department of Transportation</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-861/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-861.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-861">oyez.org</a></p>
     <p>Argued on Dec 9, 2024.</p>
@@ -109,11 +110,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Is a federal civilian employee called or ordered to active duty under a provision of law during a national emergency is entitled to differential pay even if the duty is not directly connected to the national emergency.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-861.mp3" length="35314065" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-861.mp3" length="17683534" type="audio/mpeg"/>
             <guid>scotus_2024_23-861_v0</guid>
             <itunes:duration>4413</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 09 Dec 2024 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-861.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-477] United States v. Skrmetti</title>
