@@ -11043,13 +11043,134 @@
     "23-900": {
       "docket_number": "23-900",
       "name": "Dewberry Group, Inc. v. Dewberry Engineers Inc.",
-      "date_argued_timestamp": 1733875200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-900",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-900.mp3",
-      "mp3_length": 4257,
-      "mp3_size": 34064381,
-      "source": "scotus",
+      "date_argued_timestamp": 1733896800,
       "description": "<p>Dewberry Group, Inc. v. Dewberry Engineers Inc.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-900/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-900.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-900\">oyez.org</a></p>\n    <p>Argued on Dec 11, 2024.</p>\n    <p>Petitioner: Dewberry Group, Inc.<br>Respondent: Dewberry Engineers Inc.</p>\n    <p>Advocates: <ul><li>Thomas G. Hungar (for the Petitioner)</li>\n<li>Nicholas S. Crown (for the United States, as amicus curiae, supporting neither party)</li>\n<li>Elbert Lin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Dewberry Engineers and Dewberry Group are two businesses in the real estate development industry that both use the \u201cDewberry\u201d name. In 2006, they confronted each other over their competing brands, leading to a lawsuit that was settled in 2007 with a confidential settlement agreement (CSA). The CSA allowed Dewberry Engineers to use its registered marks freely while strictly limiting Dewberry Group\u2019s use of \u201cDewberry.\u201d It prohibited Dewberry Group from challenging Dewberry Engineers\u2019 federal trademark registrations and required Dewberry Group to abandon pending applications for the \u201cDewberry Capital\u201d mark.</p>\n<p>In 2017, Dewberry Group decided to rebrand, changing its name from \u201cDewberry Capital\u201d to \"Dewberry Group\u201d and adopting several subbrands. Despite the CSA, Dewberry Group applied to register new \u201cDewberry\u201d marks with the U.S. Patent and Trademark Office (USPTO) for real estate-related services. The USPTO rejected these applications due to likelihood of confusion with Dewberry Engineers\u2019 marks. Dewberry Engineers sent cease-and-desist letters to Dewberry Group, claiming trademark infringement and breach of the CSA. Dewberry Group refused to abandon its applications, arguing that the CSA allowed its use of \u201cDewberry\u201d marks other than \u201cDewberry Capital\u201d for non-architectural services.</p>\n<p>The district court ruled in favor of Dewberry Engineers and ordered Dewberry Group to pay almost $43 million in disgorged profits for infringing on Dewberry Engineers\u2019 trademark. The district court also enjoined Dewberry Group from further violating its agreement with Dewberry Engineers and required Dewberry Group to pay Dewberry Engineers\u2019 attorney fees. The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does an award of the \u201cdefendant's profits\u201d under the Lanham Act allow a court to require the defendant to disgorge profits earned by legally separate, non-party corporate affiliates?</p>\n\n    ",
+      "mp3_length": 4257,
+      "mp3_size": 17058685,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Thomas G. Hungar (for the Petitioner)",
+          "start": 0.075
+        },
+        {
+          "title": "Hungar - Justice Thomas",
+          "start": 129.58
+        },
+        {
+          "title": "Hungar - Justice Jackson",
+          "start": 294.065
+        },
+        {
+          "title": "Hungar - Justice Sotomayor",
+          "start": 453.65
+        },
+        {
+          "title": "Hungar - Justice Gorsuch",
+          "start": 779.63
+        },
+        {
+          "title": "Hungar - Justice Jackson",
+          "start": 849.91
+        },
+        {
+          "title": "Hungar - Justice Roberts",
+          "start": 988.075
+        },
+        {
+          "title": "Hungar - Justice Kagan",
+          "start": 1167.485
+        },
+        {
+          "title": "Hungar - Justice Jackson",
+          "start": 1520.1
+        },
+        {
+          "title": "Nicholas S. Crown (for the United States, as amicus curiae, supporting neither party)",
+          "start": 1694.45
+        },
+        {
+          "title": "Crown - Justice Thomas",
+          "start": 1778.95
+        },
+        {
+          "title": "Crown - Justice Roberts",
+          "start": 1907.29
+        },
+        {
+          "title": "Crown - Justice Alito",
+          "start": 2037.72
+        },
+        {
+          "title": "Crown - Justice Barrett",
+          "start": 2138.86
+        },
+        {
+          "title": "Crown - Justice Jackson",
+          "start": 2192.445
+        },
+        {
+          "title": "Crown - Justice Roberts",
+          "start": 2334
+        },
+        {
+          "title": "Crown - Justice Alito",
+          "start": 2388.79
+        },
+        {
+          "title": "Crown - Justice Kagan",
+          "start": 2485.095
+        },
+        {
+          "title": "Elbert Lin (for the Respondent)",
+          "start": 2614.14
+        },
+        {
+          "title": "Lin - Justice Thomas",
+          "start": 2739.395
+        },
+        {
+          "title": "Lin - Justice Gorsuch",
+          "start": 2904.27
+        },
+        {
+          "title": "Lin - Justice Barrett",
+          "start": 3140.135
+        },
+        {
+          "title": "Lin - Justice Sotomayor",
+          "start": 3284.07
+        },
+        {
+          "title": "Lin - Justice Jackson",
+          "start": 3547.615
+        },
+        {
+          "title": "Lin - Justice Gorsuch",
+          "start": 3716.33
+        },
+        {
+          "title": "Lin - Justice Kagan",
+          "start": 3718.545
+        },
+        {
+          "title": "Lin - Justice Alito",
+          "start": 3766.88
+        },
+        {
+          "title": "Lin - Justice Thomas",
+          "start": 3881.67
+        },
+        {
+          "title": "Lin - Justice Jackson",
+          "start": 3960.01
+        },
+        {
+          "title": "Thomas G. Hungar (for the Petitioner)",
+          "start": 4000.56
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-900.mp3"
     }
   }
