@@ -10853,14 +10853,191 @@
     },
     "23-975": {
       "docket_number": "23-975",
-      "name": "Seven County Coalition v. Eagle County",
-      "date_argued_timestamp": 1733788800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-975",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-975.mp3",
-      "mp3_length": 6636,
-      "mp3_size": 53096370,
-      "source": "scotus",
+      "name": "Seven County Infrastructure Coalition v. Eagle County, Colorado",
+      "date_argued_timestamp": 1733810400,
       "description": "<p>Seven County Infrastructure Coalition v. Eagle County, Colorado</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Seven_County_Infrastructure_Coalition_v._Eagle_County,_Colorado\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-975/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-975.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-975\">oyez.org</a></p>\n    <p>Argued on Dec 10, 2024.</p>\n    <p>Petitioner: Seven County Infrastructure Coalition.<br>Respondent: Eagle County, Colorado.</p>\n    <p>Advocates: <ul><li>Paul D. Clement (for the Petitioners)</li>\n<li>Edwin S. Kneedler (for the Federal Respondents)</li>\n<li>William M. Jay (for Respondents Eagle County, et al.)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Surface Transportation Board (STB) granted a petition from the Seven County Infrastructure Coalition to construct and operate an 80-mile railway in Utah\u2019s Uinta Basin. The railway\u2019s primary purpose would be to transport waxy crude oil from the basin to the national rail network. The STB conducted an environmental review process, including the preparation of an Environmental Impact Statement (EIS), as required by the National Environmental Policy Act (NEPA). The Board issued a final decision in December 2021, authorizing the construction and operation of the railway subject to environmental mitigation conditions.</p>\n<p>In its environmental analysis, the STB considered various impacts of the railway\u2019s construction and operation within the project area, including effects on water resources, air quality, special status species, land use, and local economies. However, the Board declined to analyze certain \u201cdownline impacts\u201d\u2014effects from increased train traffic on existing rail lines beyond the new railway. The STB also omitted analysis of other potential environmental effects, such as increased crude oil refining impacts on Gulf Coast communities, upline impacts of increased drilling in the Uinta Basin, and downline effects of potential oil spills along the Colorado River. Finally, the Board did not disclose the potential effects of the project on historic sites or structures along the Union Pacific line in Eagle County. The Board justified these omissions by arguing that minimal increases in train traffic on existing lines were unlikely to cause significant impacts, and that some effects were beyond the scope of its regulatory authority.</p>\n<p>Eagle County asked the U.S. Court of Appeals for the D.C. Circuit to review the Board\u2019s orders, and the granted the petitions in part, denied them in part, and vacated the underlying order.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the National Environmental Policy Act require an agency to study environmental impacts beyond the proximate effects of the action over which the agency has regulatory authority?</p>\n\n    ",
+      "mp3_length": 6636,
+      "mp3_size": 26574570,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 0
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 136.68
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 231.8
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 566.08
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 710.16
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 711.4
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 871.48
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 1021.52
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 1126.52
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 1195.08
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 1336.6
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 1578.32
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 1863.12
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 2178.72
+        },
+        {
+          "title": "Edwin S. Kneedler (for the Federal Respondents)",
+          "start": 2556.16
+        },
+        {
+          "title": "Kneedler - Justice Thomas",
+          "start": 2833.04
+        },
+        {
+          "title": "Kneedler - Justice Kagan",
+          "start": 2907.84
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 3071.8
+        },
+        {
+          "title": "Kneedler - Justice Jackson",
+          "start": 3142.04
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 3177.16
+        },
+        {
+          "title": "Kneedler - Justice Alito",
+          "start": 3212.16
+        },
+        {
+          "title": "Kneedler - Justice Kagan",
+          "start": 3272
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 3342.24
+        },
+        {
+          "title": "Kneedler - Justice Kagan",
+          "start": 3390.24
+        },
+        {
+          "title": "Kneedler - Justice Sotomayor",
+          "start": 3440.2
+        },
+        {
+          "title": "Kneedler - Justice Roberts",
+          "start": 3554.4
+        },
+        {
+          "title": "Kneedler - Justice Sotomayor",
+          "start": 3714.28
+        },
+        {
+          "title": "Kneedler - Justice Kavanaugh",
+          "start": 3834.6
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 4152.6
+        },
+        {
+          "title": "Kneedler - Justice Jackson",
+          "start": 4184.76
+        },
+        {
+          "title": "William M. Jay (for Respondents Eagle County, et al.)",
+          "start": 4397.56
+        },
+        {
+          "title": "Jay - Justice Roberts",
+          "start": 4534.56
+        },
+        {
+          "title": "Jay - Justice Thomas",
+          "start": 4539.8
+        },
+        {
+          "title": "Jay - Justice Sotomayor",
+          "start": 4603.92
+        },
+        {
+          "title": "Jay - Justice Kagan",
+          "start": 4801.2
+        },
+        {
+          "title": "Jay - Justice Jackson",
+          "start": 4865.44
+        },
+        {
+          "title": "Jay - Justice Kagan",
+          "start": 5182.88
+        },
+        {
+          "title": "Jay - Justice Jackson",
+          "start": 5464.4
+        },
+        {
+          "title": "Jay - Justice Kavanaugh",
+          "start": 5850.08
+        },
+        {
+          "title": "Jay - Justice Jackson",
+          "start": 5988.56
+        },
+        {
+          "title": "Jay - Justice Sotomayor",
+          "start": 6195.12
+        },
+        {
+          "title": "Jay - Justice Kagan",
+          "start": 6263
+        },
+        {
+          "title": "Jay - Justice Roberts",
+          "start": 6437.36
+        },
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 6446.64
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-975.mp3"
     },
     "23-900": {
