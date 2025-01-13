@@ -11175,15 +11175,228 @@
     },
     "24-656": {
       "docket_number": "24-656",
-      "name": "TikTok, Inc. v. Garland, Att'y Gen.",
-      "date_argued_timestamp": 1736467200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-656",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-656.mp3",
-      "mp3_length": 8929,
-      "mp3_size": 71442714,
-      "source": "scotus",
+      "name": "TikTok, Inc. v. Garland",
+      "date_argued_timestamp": 1736488800,
       "description": "<p>TikTok, Inc. v. Garland</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/TikTok,_Inc._v._Garland\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-656/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-656.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-656\">oyez.org</a></p>\n    <p>Argued on Jan 10, 2025.</p>\n    <p>Petitioner: TikTok, Inc.<br>Respondent: Merrick B. Garland, Attorney General.</p>\n    <p>Advocates: <ul><li>Noel J. Francisco (for the Petitioners TikTok, Inc., et al.)</li>\n<li>Jeffrey L. Fisher (for the Petitioners Brian Firebaugh, et al.)</li>\n<li>Elizabeth B. Prelogar (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>TikTok is a social media platform with approximately 170 million monthly U.S. users that allows users to create and watch short video clips. The platform\u2019s content is determined by a recommendation engine originally developed by ByteDance, a China-based company that is TikTok\u2019s ultimate parent. While TikTok created a U.S. subsidiary (TTUSDS) and partnered with Oracle to handle U.S. operations and data security, ByteDance retains significant control over the platform's global operations and source code development.</p>\n<p>In response to national security concerns about Chinese influence over TikTok, both the Trump and Biden administrations attempted various measures to address these risks, including attempted forced divestiture and transaction bans. After lengthy negotiations over TikTok\u2019s proposed National Security Agreement proved unsuccessful, Congress passed a law in 2024 requiring \u201cforeign adversary controlled applications\u201d (specifically including TikTok) to divest from foreign ownership or face effective shutdown through prohibitions on U.S. companies providing hosting and distribution services. The law takes effect on January 19, 2025, though companies can avoid the prohibitions by completing a qualified divestiture that eliminates foreign adversary control and operational relationships.</p>\n<p>Three sets of petitioners (ByteDance/TikTok, Based Politics, and eight individual TikTok creators) filed constitutional challenges to the Act in May 2024, but the U.S. Court of Appeals for the D.C. Circuit concluded that the Act survived constitutional scrutiny.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Protecting Americans from Foreign Adversary Controlled Applications Act, as applied to TikTok, violate the First Amendment?</p>\n\n    ",
+      "mp3_length": 8929,
+      "mp3_size": 35747729,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Noel J. Francisco (for the Petitioners TikTok, Inc., et al.)",
+          "start": 0.125
+        },
+        {
+          "title": "Francisco - Justice Thomas",
+          "start": 172.72
+        },
+        {
+          "title": "Francisco - Justice Roberts",
+          "start": 264.775
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 404.8
+        },
+        {
+          "title": "Francisco - Justice Kavanaugh",
+          "start": 648.78
+        },
+        {
+          "title": "Francisco - Justice Alito",
+          "start": 729.695
+        },
+        {
+          "title": "Francisco - Justice Gorsuch",
+          "start": 923.25
+        },
+        {
+          "title": "Francisco - Justice Barrett",
+          "start": 1208.9
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 1464.37
+        },
+        {
+          "title": "Francisco - Justice Roberts",
+          "start": 1812.165
+        },
+        {
+          "title": "Francisco - Justice Alito",
+          "start": 2062.79
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 2296.075
+        },
+        {
+          "title": "Francisco - Justice Kavanaugh",
+          "start": 2568.535
+        },
+        {
+          "title": "Francisco - Justice Barrett",
+          "start": 2846.005
+        },
+        {
+          "title": "Francisco - Justice Jackson",
+          "start": 3085.45
+        },
+        {
+          "title": "Jeffrey L. Fisher (for the Petitioners Brian Firebaugh, et al.)",
+          "start": 3567.665
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 3653.96
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 3782.6
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 4032.815
+        },
+        {
+          "title": "Fisher - Justice Roberts",
+          "start": 4033.02
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 4238.34
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 4290.94
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 4519.25
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 4794.13
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 5015.72
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 5365.42
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 5598.65499995
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 5606.41
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Respondent)",
+          "start": 5675.7
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 5826.215
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 5890.62
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 6011.03
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 6295.82
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 6296.64
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 6377.97
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 6494.485
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 6564.81
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 6789.79
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 6900.89
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 7064.685
+        },
+        {
+          "title": "Prelogar - Justice Roberts",
+          "start": 7196.925
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 7212.965
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 7372.92
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 7503.85
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 7628.5
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 7834.46499995
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 8007.6500001
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 8105.685
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 8520.81000005
+        },
+        {
+          "title": "Noel J. Francisco (for the Petitioners TikTok, Inc., et al.)",
+          "start": 8614.31
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-656.mp3"
+    },
+    "23-1002": {
+      "docket_number": "23-1002",
+      "name": "Hewitt v. United States",
+      "date_argued_timestamp": 1736726400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1002",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1002.mp3",
+      "mp3_length": 5442,
+      "mp3_size": 43543137,
+      "source": "scotus",
+      "description": "<p>Hewitt v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1002/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1002.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1002\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Tony R. Hewitt.<br>Respondent: United States of America.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2009, Corey Deyon Duffey, Jarvis Dupree Ross, and Tony R. Hewitt were convicted of multiple counts of conspiracy, attempted bank robbery, bank robbery, and using firearms in furtherance of these crimes under 18 U.S.C. \u00a7 924(c). After appeals and resentencing, they received mandatory minimum sentences of 5 years for their first \u00a7 924(c) conviction and 25 years for each subsequent conviction, as per the law at that time which allowed \u201cstacking\u201d of these charges.</p>\n<p>In 2020, following the Supreme Court\u2019s decision in United States v. Davis, the appellants successfully filed for habeas relief. The district court vacated their \u00a7 924(c) conspiracy convictions and ordered resentencing. Before their resentencing in 2022, the appellants argued that \u00a7 403 of the First Step Act of 2018, which eliminated sentence stacking for \u00a7 924(c) convictions, should apply to their cases. The government initially opposed this view but later changed its position to support the application of \u00a7 403. The U.S. Court of Appeals for the Fifth Circuit rejected their challenges and affirmed the convictions.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the First Step Act\u2019s sentencing reduction provision apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, but was later vacated and resentenced after the Act took effect?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.mp3"
     }
   }
 }

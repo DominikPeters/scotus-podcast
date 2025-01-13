@@ -32,7 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[24-656] TikTok, Inc. v. Garland, Att&#x27;y Gen.</title>
+            <title>[23-1002] Hewitt v. United States</title>
+            <description><![CDATA[<p>Hewitt v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1002/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1002.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1002">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Tony R. Hewitt.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In 2009, Corey Deyon Duffey, Jarvis Dupree Ross, and Tony R. Hewitt were convicted of multiple counts of conspiracy, attempted bank robbery, bank robbery, and using firearms in furtherance of these crimes under 18 U.S.C. § 924(c). After appeals and resentencing, they received mandatory minimum sentences of 5 years for their first § 924(c) conviction and 25 years for each subsequent conviction, as per the law at that time which allowed “stacking” of these charges.</p>
+<p>In 2020, following the Supreme Court’s decision in United States v. Davis, the appellants successfully filed for habeas relief. The district court vacated their § 924(c) conspiracy convictions and ordered resentencing. Before their resentencing in 2022, the appellants argued that § 403 of the First Step Act of 2018, which eliminated sentence stacking for § 924(c) convictions, should apply to their cases. The government initially opposed this view but later changed its position to support the application of § 403. The U.S. Court of Appeals for the Fifth Circuit rejected their challenges and affirmed the convictions.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the First Step Act’s sentencing reduction provision apply to a defendant whose original sentence was imposed before the Act’s enactment, but was later vacated and resentenced after the Act took effect?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.mp3" length="43543137" type="audio/mpeg"/>
+            <guid>scotus_2024_23-1002_v0</guid>
+            <itunes:duration>5442</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 13 Jan 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[24-656] TikTok, Inc. v. Garland</title>
             <description><![CDATA[<p>TikTok, Inc. v. Garland</p>
     <p><a href="https://en.wikipedia.org/wiki/TikTok,_Inc._v._Garland">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/24-656/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-656.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-656">oyez.org</a></p>
     <p>Argued on Jan 10, 2025.</p>
@@ -47,11 +66,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the Protecting Americans from Foreign Adversary Controlled Applications Act, as applied to TikTok, violate the First Amendment?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-656.mp3" length="71442714" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-656.mp3" length="35747729" type="audio/mpeg"/>
             <guid>scotus_2024_24-656_v0</guid>
             <itunes:duration>8929</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Fri, 10 Jan 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-656.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-900] Dewberry Group, Inc. v. Dewberry Engineers Inc.</title>
