@@ -11389,25 +11389,316 @@
     "23-1002": {
       "docket_number": "23-1002",
       "name": "Hewitt v. United States",
-      "date_argued_timestamp": 1736726400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1002",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1002.mp3",
-      "mp3_length": 5442,
-      "mp3_size": 43543137,
-      "source": "scotus",
+      "date_argued_timestamp": 1736748000,
       "description": "<p>Hewitt v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1002/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1002.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1002\">oyez.org</a></p>\n    <p>Argued on Jan 13, 2025.</p>\n    <p>Petitioner: Tony R. Hewitt.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Michael B. Kimberly (for the Petitioners)</li>\n<li>Masha G. Hansford (for the Respondent, supporting the Petitioners)</li>\n<li>Michael H. McGinley (in support of the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2009, Corey Deyon Duffey, Jarvis Dupree Ross, and Tony R. Hewitt were convicted of multiple counts of conspiracy, attempted bank robbery, bank robbery, and using firearms in furtherance of these crimes under 18 U.S.C. \u00a7 924(c). After appeals and resentencing, they received mandatory minimum sentences of 5 years for their first \u00a7 924(c) conviction and 25 years for each subsequent conviction, as per the law at that time which allowed \u201cstacking\u201d of these charges.</p>\n<p>In 2020, following the Supreme Court\u2019s decision in United States v. Davis, the appellants successfully filed for habeas relief. The district court vacated their \u00a7 924(c) conspiracy convictions and ordered resentencing. Before their resentencing in 2022, the appellants argued that \u00a7 403 of the First Step Act of 2018, which eliminated sentence stacking for \u00a7 924(c) convictions, should apply to their cases. The government initially opposed this view but later changed its position to support the application of \u00a7 403. The U.S. Court of Appeals for the Fifth Circuit rejected their challenges and affirmed the convictions.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the First Step Act\u2019s sentencing reduction provision apply to a defendant whose original sentence was imposed before the Act\u2019s enactment, but was later vacated and resentenced after the Act took effect?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.mp3"
+      "mp3_length": 5442,
+      "mp3_size": 21798133,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Michael B. Kimberly (for the Petitioners)",
+          "start": 0.08
+        },
+        {
+          "title": "Kimberly - Justice Thomas",
+          "start": 133.795
+        },
+        {
+          "title": "Kimberly - Justice Roberts",
+          "start": 237.22
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 371.1
+        },
+        {
+          "title": "Kimberly - Justice Alito",
+          "start": 580.08
+        },
+        {
+          "title": "Kimberly - Justice Sotomayor",
+          "start": 814.135
+        },
+        {
+          "title": "Kimberly - Justice Kagan",
+          "start": 964.97
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 1152.845
+        },
+        {
+          "title": "Kimberly - Justice Barrett",
+          "start": 1324.52499995
+        },
+        {
+          "title": "Kimberly - Justice Jackson",
+          "start": 1482.345
+        },
+        {
+          "title": "Masha G. Hansford (for the Respondent, supporting the Petitioners)",
+          "start": 1730.985
+        },
+        {
+          "title": "Hansford - Justice Thomas",
+          "start": 1805.735
+        },
+        {
+          "title": "Hansford - Justice Kagan",
+          "start": 1821.56
+        },
+        {
+          "title": "Hansford - Justice Kavanaugh",
+          "start": 2079.47
+        },
+        {
+          "title": "Hansford - Justice Alito",
+          "start": 2344.19
+        },
+        {
+          "title": "Hansford - Justice Gorsuch",
+          "start": 2488.1
+        },
+        {
+          "title": "Hansford - Justice Alito",
+          "start": 2601.45
+        },
+        {
+          "title": "Hansford - Justice Sotomayor",
+          "start": 2745.24
+        },
+        {
+          "title": "Hansford - Justice Kavanaugh",
+          "start": 2997.45
+        },
+        {
+          "title": "Michael H. McGinley (in support of the judgment below)",
+          "start": 3110.31
+        },
+        {
+          "title": "McGinley - Justice Thomas",
+          "start": 3221.775
+        },
+        {
+          "title": "McGinley - Justice Sotomayor",
+          "start": 3280.055
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 3426.77
+        },
+        {
+          "title": "McGinley - Justice Sotomayor",
+          "start": 3427.44
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 3484.345
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 3631.805
+        },
+        {
+          "title": "McGinley - Justice Kagan",
+          "start": 3981.33
+        },
+        {
+          "title": "McGinley - Justice Kavanaugh",
+          "start": 4170.79
+        },
+        {
+          "title": "McGinley - Justice Sotomayor",
+          "start": 4313.25
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 4427.83
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 4671.91
+        },
+        {
+          "title": "McGinley - Justice Kavanaugh",
+          "start": 4851.475
+        },
+        {
+          "title": "McGinley - Justice Alito",
+          "start": 4931.32
+        },
+        {
+          "title": "McGinley - Justice Kagan",
+          "start": 5096.45
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 5167.21
+        },
+        {
+          "title": "Michael B. Kimberly (for the Petitioners)",
+          "start": 5240.88
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.vtt"
     },
     "23-997": {
       "docket_number": "23-997",
-      "name": "Stanley v. City of Sanford",
-      "date_argued_timestamp": 1736726400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-997",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-997.mp3",
-      "mp3_length": 4683,
-      "mp3_size": 37475899,
-      "source": "scotus",
+      "name": "Stanley v. City of Sanford, Florida",
+      "date_argued_timestamp": 1736748000,
       "description": "<p>Stanley v. City of Sanford, Florida</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-997/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-997.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-997\">oyez.org</a></p>\n    <p>Argued on Jan 13, 2025.</p>\n    <p>Petitioner: Karyn D. Stanley.<br>Respondent: City of Sanford, Florida.</p>\n    <p>Advocates: <ul><li>Deepak Gupta (for the Petitioner)</li>\n<li>Frederick Liu (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Jessica C. Conner (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Karyn Stanley, a firefighter for the City of Sanford, Florida, retired due to Parkinson's disease in 2018 after serving for about 19 years. When she joined in 1999, the City's policy provided free health insurance until age 65 for employees retiring due to disability. However, in 2003, the City changed its plan, limiting the health insurance subsidy for disability retirees to 24 months post-retirement. Unaware of this change, Stanley filed suit in April 2020, shortly before her subsidy was set to expire, alleging violations of the Americans with Disabilities Act, Rehabilitation Act, Florida Civil Rights Act, Equal Protection Clause, and Florida Statutes section 112.0801. The district court dismissed or granted summary judgment on all claims in favor of the City, the U.S. Court of Appeals for the Eleventh Circuit affirmed, relying on (and reaffirming) binding precedent within that circuit that \u201ca Title I plaintiff must \u2018hold[ ] or desire[ ]\u2019 an employment position with the defendant at the time of the defendant's allegedly wrongful act.\u201d</p>\n\n    <p><b>Question</b></p>\n    <p>Under the Americans with Disabilities Act, does a former employee \u2014 who was qualified to perform her job and who earned post-employment benefits while employed \u2014 lose her right to sue over discrimination with respect to those benefits solely because she no longer holds her job?</p>\n\n    ",
+      "mp3_length": 4683,
+      "mp3_size": 18764167,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Deepak Gupta (for the Petitioner)",
+          "start": 0.07
+        },
+        {
+          "title": "Gupta - Justice Thomas",
+          "start": 173.885
+        },
+        {
+          "title": "Gupta - Justice Jackson",
+          "start": 268.395
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 508.33
+        },
+        {
+          "title": "Gupta - Justice Roberts",
+          "start": 734.19
+        },
+        {
+          "title": "Gupta - Justice Sotomayor",
+          "start": 855.05
+        },
+        {
+          "title": "Gupta - Justice Roberts",
+          "start": 1028.93
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 1055.75
+        },
+        {
+          "title": "Gupta - Justice Sotomayor",
+          "start": 1454.395
+        },
+        {
+          "title": "Gupta - Justice Jackson",
+          "start": 1636.795
+        },
+        {
+          "title": "Frederick Liu (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1709
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 1782.135
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 1910.84
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 2181.24
+        },
+        {
+          "title": "Liu - Justice Alito",
+          "start": 2258.13
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 2339.97
+        },
+        {
+          "title": "Liu - Justice Kagan",
+          "start": 2452.385
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 2575.245
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 2612.61
+        },
+        {
+          "title": "Jessica C. Conner (for the Respondent)",
+          "start": 2695.7
+        },
+        {
+          "title": "Conner - Justice Thomas",
+          "start": 2824.495
+        },
+        {
+          "title": "Conner - Justice Kagan",
+          "start": 2919.54
+        },
+        {
+          "title": "Conner - Justice Jackson",
+          "start": 2988.54
+        },
+        {
+          "title": "Conner - Justice Sotomayor",
+          "start": 3383.49
+        },
+        {
+          "title": "Conner - Justice Jackson",
+          "start": 3526.98
+        },
+        {
+          "title": "Conner - Justice Kagan",
+          "start": 3627.96
+        },
+        {
+          "title": "Conner - Justice Sotomayor",
+          "start": 3646.41
+        },
+        {
+          "title": "Conner - Justice Kagan",
+          "start": 3657.23
+        },
+        {
+          "title": "Conner - Justice Alito",
+          "start": 3844.105
+        },
+        {
+          "title": "Conner - Justice Roberts",
+          "start": 3958.685
+        },
+        {
+          "title": "Conner - Justice Kavanaugh",
+          "start": 4061.27
+        },
+        {
+          "title": "Conner - Justice Sotomayor",
+          "start": 4151.06
+        },
+        {
+          "title": "Conner - Justice Jackson",
+          "start": 4238.075
+        },
+        {
+          "title": "Conner - Justice Kagan",
+          "start": 4388.12
+        },
+        {
+          "title": "Conner - Justice Kavanaugh",
+          "start": 4502.00999995
+        },
+        {
+          "title": "Deepak Gupta (for the Petitioner)",
+          "start": 4535.76
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-997.mp3"
     },
     "23-1095": {
