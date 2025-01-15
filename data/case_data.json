@@ -11704,13 +11704,186 @@
     "23-1095": {
       "docket_number": "23-1095",
       "name": "Thompson v. United States",
-      "date_argued_timestamp": 1736812800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1095",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1095.mp3",
-      "mp3_length": 4622,
-      "mp3_size": 36983273,
-      "source": "scotus",
+      "date_argued_timestamp": 1736834400,
       "description": "<p>Thompson v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1095/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1095.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1095\">oyez.org</a></p>\n    <p>Argued on Jan 14, 2025.</p>\n    <p>Petitioner: Patrick D. Thompson.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Chris C. Gair (for the Petitioner)</li>\n<li>Caroline A. Flynn (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Patrick Thompson took out three loans from Washington Federal Bank for Savings between 2011 and 2014, totaling $219,000. In late 2017, Washington Federal failed, and the Federal Deposit Insurance Corporation (FDIC) became its receiver, hiring Planet Home Lending to service the loans. Thompson received an invoice showing a loan balance of $269,120.58, which included interest.</p>\n<p>In subsequent phone calls with Planet Home and FDIC contractors in February and March 2018, Thompson disputed the higher balance. He acknowledged borrowing money but claimed he had only borrowed $110,000, omitting mention of the two additional loans. When the contractors found out about Thompson\u2019s 2013 and 2014 loans shortly thereafter, they called Thompson back on March 5, 2018, he again expressed doubt over the accuracy of the higher loan balance. Eventually, Thompson and the FDIC agreed to settle his debt for $219,000\u2014the amount Thompson owed without interest in December 2018.</p>\n<p>In April 2021, a grand jury charged Thompson with two counts of violating 18 U.S.C. \u00a7 1014\u2014a statute that criminalizes making a \u201cfalse statement . . . for the purpose of influencing in any way the action\u201d of the FDIC or a mortgage lending business. After a six-day trial, a jury convicted Thompson of both counts, and the U.S. Court of Appeals for the Seventh Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the prohibition in 18 U.S.C. \u00a7 1014 on making a \u201cfalse statement\u201d for the purposes of influencing certain financial institutions and federal agencies include making statements that are misleading but not false?</p>\n\n    ",
+      "mp3_length": 4622,
+      "mp3_size": 18518198,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Chris C. Gair (for the Petitioner)",
+          "start": 0.14
+        },
+        {
+          "title": "Gair - Justice Thomas",
+          "start": 85.025
+        },
+        {
+          "title": "Gair - Justice Alito",
+          "start": 248.13
+        },
+        {
+          "title": "Gair - Justice Barrett",
+          "start": 287.79
+        },
+        {
+          "title": "Gair - Justice Jackson",
+          "start": 289.105
+        },
+        {
+          "title": "Gair - Justice Sotomayor",
+          "start": 535.71
+        },
+        {
+          "title": "Gair - Justice Barrett",
+          "start": 537.725
+        },
+        {
+          "title": "Gair - Justice Kagan",
+          "start": 644.63
+        },
+        {
+          "title": "Gair - Justice Sotomayor",
+          "start": 805.09
+        },
+        {
+          "title": "Gair - Justice Roberts",
+          "start": 999.88
+        },
+        {
+          "title": "Gair - Justice Kavanaugh",
+          "start": 1072.52
+        },
+        {
+          "title": "Gair - Justice Kagan",
+          "start": 1107.765
+        },
+        {
+          "title": "Gair - Justice Kavanaugh",
+          "start": 1227.5
+        },
+        {
+          "title": "Gair - Justice Alito",
+          "start": 1273.15
+        },
+        {
+          "title": "Gair - Justice Kagan",
+          "start": 1331.97
+        },
+        {
+          "title": "Gair - Justice Alito",
+          "start": 1345.79
+        },
+        {
+          "title": "Gair - Justice Gorsuch",
+          "start": 1444.03
+        },
+        {
+          "title": "Gair - Justice Roberts",
+          "start": 1620.91
+        },
+        {
+          "title": "Gair - Justice Alito",
+          "start": 1632.88
+        },
+        {
+          "title": "Gair - Justice Kavanaugh",
+          "start": 1765.455
+        },
+        {
+          "title": "Gair - Justice Barrett",
+          "start": 1793.235
+        },
+        {
+          "title": "Gair - Justice Jackson",
+          "start": 1963.755
+        },
+        {
+          "title": "Caroline A. Flynn (for the Respondent)",
+          "start": 2203.84
+        },
+        {
+          "title": "Flynn - Justice Thomas",
+          "start": 2320.165
+        },
+        {
+          "title": "Flynn - Justice Roberts",
+          "start": 2386.03
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 2537.255
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 2710.51
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 2741.375
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 2915.24
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 2959.23
+        },
+        {
+          "title": "Flynn - Justice Alito",
+          "start": 3039.52
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 3044.525
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 3093.38
+        },
+        {
+          "title": "Flynn - Justice Sotomayor",
+          "start": 3249.98
+        },
+        {
+          "title": "Flynn - Justice Roberts",
+          "start": 3526.13
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 3590.11
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 3751.255
+        },
+        {
+          "title": "Flynn - Justice Alito",
+          "start": 3808.055
+        },
+        {
+          "title": "Flynn - Justice Sotomayor",
+          "start": 4032.875
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 4071.01
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 4175.185
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 4243.07
+        },
+        {
+          "title": "Chris C. Gair (for the Petitioner)",
+          "start": 4373.675
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1095.mp3"
     },
     "23-971": {
