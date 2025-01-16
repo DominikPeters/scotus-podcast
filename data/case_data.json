@@ -11985,14 +11985,223 @@
     },
     "23-1122": {
       "docket_number": "23-1122",
-      "name": "Free Speech Coalition v. Paxton",
-      "date_argued_timestamp": 1736899200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1122",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1122.mp3",
-      "mp3_length": 7531,
-      "mp3_size": 60259265,
-      "source": "scotus",
+      "name": "Free Speech Coalition, Inc. v. Paxton",
+      "date_argued_timestamp": 1736920800,
       "description": "<p>Free Speech Coalition, Inc. v. Paxton</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1122/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1122.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1122\">oyez.org</a></p>\n    <p>Argued on Jan 15, 2025.</p>\n    <p>Petitioner: Free Speech Coalition, Inc.<br>Respondent: Ken Paxton, Attorney General of Texas.</p>\n    <p>Advocates: <ul><li>Derek L. Shaffer (for the Petitioners)</li>\n<li>Brian H. Fletcher (for the United States, as amicus curiae, supporting vacatur)</li>\n<li>Aaron L. Nielson (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Texas enacted H.B. 1181, a law regulating commercial entities that publish or distribute material on internet websites, including social media platforms, where more than one-third of the content is sexual material harmful to minors. The law requires these entities to implement age verification methods to limit access to adults and display specific health warnings on their landing pages and advertisements. It defines sexual material harmful to minors using a modified version of the Miller test for obscenity.</p>\n<p>Shortly after the law was enacted but before it took effect, plaintiffs sued, claiming H.B. 1181 violates their First Amendment rights and, for some plaintiffs, conflicts with Section 230 of the Communications Decency Act. The district court issued a pre-enforcement preliminary injunction, finding that the plaintiffs were likely to succeed on the merits of their claim and suffer irreparable harm. The court ruled that the age-verification requirement and health warnings fail strict scrutiny\u2014that is, that it is not narrowly tailored to achieve a compelling government interest using the least restrictive means to achieve that interest\u2014and that Section 230 preempts H.B. 1181 for certain plaintiffs. On appeal, the U.S. Court of Appeals for the Fifth Circuit concluded that rational basis review\u2014i.e., rationally related to a legitimate government interest\u2014was the proper standard of review and thus vacated the injunction against the age-verification requirement but affirmed as to the health warnings.</p>\n\n    <p><b>Question</b></p>\n    <p>Is a Texas law that requires any website that publishes content one-third or more of which is \u201charmful to minors\u201d to verify the age of each of its users before providing access subject to \u201crational basis\u201d review or \u201cstrict scrutiny\u201d?</p>\n\n    ",
+      "mp3_length": 7531,
+      "mp3_size": 30156167,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Derek L. Shaffer (for the Petitioners)",
+          "start": 0.125
+        },
+        {
+          "title": "Shaffer - Justice Barrett",
+          "start": 231.55
+        },
+        {
+          "title": "Shaffer - Justice Alito",
+          "start": 406.16
+        },
+        {
+          "title": "Shaffer - Justice Kavanaugh",
+          "start": 492.82
+        },
+        {
+          "title": "Shaffer - Justice Kagan",
+          "start": 618.69
+        },
+        {
+          "title": "Shaffer - Justice Gorsuch",
+          "start": 758.775
+        },
+        {
+          "title": "Shaffer - Justice Alito",
+          "start": 870.9
+        },
+        {
+          "title": "Shaffer - Justice Sotomayor",
+          "start": 1008.56
+        },
+        {
+          "title": "Shaffer - Justice Roberts",
+          "start": 1259.15
+        },
+        {
+          "title": "Shaffer - Justice Alito",
+          "start": 1359.97
+        },
+        {
+          "title": "Shaffer - Justice Sotomayor",
+          "start": 1491.23
+        },
+        {
+          "title": "Shaffer - Justice Alito",
+          "start": 1496.085
+        },
+        {
+          "title": "Shaffer - Justice Sotomayor",
+          "start": 1753.08
+        },
+        {
+          "title": "Shaffer - Justice Gorsuch",
+          "start": 1862.645
+        },
+        {
+          "title": "Shaffer - Justice Kavanaugh",
+          "start": 2121.82
+        },
+        {
+          "title": "Shaffer - Justice Barrett",
+          "start": 2435.4
+        },
+        {
+          "title": "Shaffer - Justice Jackson",
+          "start": 2614.64
+        },
+        {
+          "title": "Brian H. Fletcher (for the United States, as amicus curiae, supporting vacatur)",
+          "start": 2914.12
+        },
+        {
+          "title": "Fletcher - Justice Thomas",
+          "start": 2983.61
+        },
+        {
+          "title": "Fletcher - Justice Kagan",
+          "start": 3089.71
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 3282.83
+        },
+        {
+          "title": "Fletcher - Justice Barrett",
+          "start": 3428.73
+        },
+        {
+          "title": "Fletcher - Justice Roberts",
+          "start": 3526.555
+        },
+        {
+          "title": "Fletcher - Justice Thomas",
+          "start": 3688.915
+        },
+        {
+          "title": "Fletcher - Justice Alito",
+          "start": 3802.185
+        },
+        {
+          "title": "Fletcher - Justice Sotomayor",
+          "start": 4133.045
+        },
+        {
+          "title": "Fletcher - Justice Kagan",
+          "start": 4263.925
+        },
+        {
+          "title": "Fletcher - Justice Gorsuch",
+          "start": 4502.835
+        },
+        {
+          "title": "Fletcher - Justice Kavanaugh",
+          "start": 4619.56
+        },
+        {
+          "title": "Fletcher - Justice Jackson",
+          "start": 4796.88
+        },
+        {
+          "title": "Aaron L. Nielson (for the Respondent)",
+          "start": 5000.21499995
+        },
+        {
+          "title": "Nielson - Justice Thomas",
+          "start": 5125.54000005
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 5249.92
+        },
+        {
+          "title": "Nielson - Justice Kagan",
+          "start": 5437.55
+        },
+        {
+          "title": "Nielson - Justice Alito",
+          "start": 5668.53
+        },
+        {
+          "title": "Nielson - Justice Sotomayor",
+          "start": 5722.845
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 5886.92
+        },
+        {
+          "title": "Nielson - Justice Barrett",
+          "start": 6018.37
+        },
+        {
+          "title": "Nielson - Justice Kagan",
+          "start": 6110.02
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 6179.4
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 6215.28
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 6217.58
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 6233.03
+        },
+        {
+          "title": "Nielson - Justice Barrett",
+          "start": 6420.09
+        },
+        {
+          "title": "Nielson - Justice Kagan",
+          "start": 6500.46
+        },
+        {
+          "title": "Nielson - Justice Alito",
+          "start": 6525.36
+        },
+        {
+          "title": "Nielson - Justice Sotomayor",
+          "start": 6606.41
+        },
+        {
+          "title": "Nielson - Justice Gorsuch",
+          "start": 6856.57
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 6942.82
+        },
+        {
+          "title": "Nielson - Justice Barrett",
+          "start": 7006.06
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 7068.31
+        },
+        {
+          "title": "Derek L. Shaffer (for the Petitioners)",
+          "start": 7217.69
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.mp3"
     }
   }

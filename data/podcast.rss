@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-1122] Free Speech Coalition v. Paxton</title>
+            <title>[23-1122] Free Speech Coalition, Inc. v. Paxton</title>
             <description><![CDATA[<p>Free Speech Coalition, Inc. v. Paxton</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1122/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1122.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1122">oyez.org</a></p>
     <p>Argued on Jan 15, 2025.</p>
@@ -46,11 +46,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Is a Texas law that requires any website that publishes content one-third or more of which is “harmful to minors” to verify the age of each of its users before providing access subject to “rational basis” review or “strict scrutiny”?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.mp3" length="60259265" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.mp3" length="30156167" type="audio/mpeg"/>
             <guid>scotus_2024_23-1122_v0</guid>
             <itunes:duration>7531</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 15 Jan 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1095] Thompson v. United States</title>
