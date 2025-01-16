@@ -11888,14 +11888,99 @@
     },
     "23-971": {
       "docket_number": "23-971",
-      "name": "Waetzig v. Halliburton Energy Services",
-      "date_argued_timestamp": 1736812800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-971",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-971.mp3",
-      "mp3_length": 2940,
-      "mp3_size": 23530073,
-      "source": "scotus",
+      "name": "Waetzig v. Halliburton Energy Services, Inc.",
+      "date_argued_timestamp": 1736834400,
       "description": "<p>Waetzig v. Halliburton Energy Services, Inc.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-971/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-971.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-971\">oyez.org</a></p>\n    <p>Argued on Jan 14, 2025.</p>\n    <p>Petitioner: Gary Waetzig.<br>Respondent: Halliburton Energy Services, Inc.</p>\n    <p>Advocates: <ul><li>Vincent Levy (for the Petitioner)</li>\n<li>Matthew D. McGill (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In February 2020, Gary Waetzig sued his former employer Halliburton for age discrimination but voluntarily dismissed his suit without prejudice due to a contractual obligation to arbitrate. After an arbitrator granted summary judgment to Halliburton, Waetzig returned to federal court. Instead of filing a new complaint under the Federal Arbitration Act, he moved to reopen his original case and vacate the arbitration award. The district court agreed to reopen the case using Rule 60(b), citing Mr. Waetzig\u2019s mistaken dismissal and an intervening Supreme Court case that affected his ability to refile. The court then vacated the arbitrator\u2019s order, finding the arbitrator had exceeded her powers, and remanded for further proceedings before a new arbitrator. The U.S. Court of Appeals for the Tenth Circuit reversed, concluding that the Waetzig\u2019s voluntary dismissal without prejudice was not a \u201cfinal proceeding\u201d within the meaning of Rule 60(b).</p>\n\n    <p><b>Question</b></p>\n    <p>Is a voluntary dismissal without prejudice under Federal Rule of Civil Procedure 41 a \u201cfinal judgment, order, or proceeding\u201d under Federal Rule 60(b)?</p>\n\n    ",
+      "mp3_length": 2940,
+      "mp3_size": 11791563,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Vincent Levy (for the Petitioner)",
+          "start": 0.18
+        },
+        {
+          "title": "Levy - Justice Thomas",
+          "start": 139.03
+        },
+        {
+          "title": "Levy - Justice Roberts",
+          "start": 218.44000005
+        },
+        {
+          "title": "Levy - Justice Jackson",
+          "start": 254.39
+        },
+        {
+          "title": "Levy - Justice Roberts",
+          "start": 283.41
+        },
+        {
+          "title": "Levy - Justice Sotomayor",
+          "start": 566.085
+        },
+        {
+          "title": "Levy - Justice Kagan",
+          "start": 710.24
+        },
+        {
+          "title": "Levy - Justice Gorsuch",
+          "start": 840.3
+        },
+        {
+          "title": "Levy - Justice Jackson",
+          "start": 1000.115
+        },
+        {
+          "title": "Levy - Justice Sotomayor",
+          "start": 1222.605
+        },
+        {
+          "title": "Matthew D. McGill (for the Respondent)",
+          "start": 1415.80999995
+        },
+        {
+          "title": "McGill - Justice Thomas",
+          "start": 1586.52
+        },
+        {
+          "title": "McGill - Justice Jackson",
+          "start": 1657.775
+        },
+        {
+          "title": "McGill - Justice Kagan",
+          "start": 1863.8
+        },
+        {
+          "title": "McGill - Justice Jackson",
+          "start": 2082.94
+        },
+        {
+          "title": "McGill - Justice Gorsuch",
+          "start": 2204.33
+        },
+        {
+          "title": "McGill - Justice Jackson",
+          "start": 2561.16
+        },
+        {
+          "title": "McGill - Justice Gorsuch",
+          "start": 2619.65
+        },
+        {
+          "title": "McGill - Justice Sotomayor",
+          "start": 2765.9
+        },
+        {
+          "title": "McGill - Justice Roberts",
+          "start": 2833.30999995
+        },
+        {
+          "title": "Vincent Levy (for the Petitioner)",
+          "start": 2850.32
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-971.mp3"
     },
     "23-1122": {

@@ -70,10 +70,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4622</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 14 Jan 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1095.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[23-971] Waetzig v. Halliburton Energy Services</title>
+            <title>[23-971] Waetzig v. Halliburton Energy Services, Inc.</title>
             <description><![CDATA[<p>Waetzig v. Halliburton Energy Services, Inc.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-971/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-971.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-971">oyez.org</a></p>
     <p>Argued on Jan 14, 2025.</p>
@@ -85,11 +84,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Is a voluntary dismissal without prejudice under Federal Rule of Civil Procedure 41 a “final judgment, order, or proceeding” under Federal Rule 60(b)?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-971.mp3" length="23530073" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-971.mp3" length="11791563" type="audio/mpeg"/>
             <guid>scotus_2024_23-971_v0</guid>
             <itunes:duration>2940</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 14 Jan 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-971.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1002] Hewitt v. United States</title>
