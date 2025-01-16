@@ -15,7 +15,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v4
       - name: Install apt packages (sox, libsox-fmt-mp3)
-        uses: awalsh128/cache-apt-pkgs-action@latest
+        uses: awalsh128/cache-apt-pkgs-action@v1
         with:
           packages: sox libsox-fmt-mp3
       - name: Set up Python
