@@ -12203,6 +12203,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.mp3"
+    },
+    "23-1187": {
+      "docket_number": "23-1187",
+      "name": "FDA v. R.J. Reynolds Vapor Co.",
+      "date_argued_timestamp": 1737417600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1187",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1187.mp3",
+      "mp3_length": 4331,
+      "mp3_size": 34656890,
+      "source": "scotus",
+      "description": "<p>Food and Drug Administration v. R.J. Reynolds Vapor Co.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1187/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1187.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1187\">oyez.org</a></p>\n    <p>Argued on Jan 21, 2025.</p>\n    <p>Petitioner: Food and Drug Administration.<br>Respondent: R.J. Reynolds Vapor Co.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>These cases arise from the Food and Drug Administration\u2019s (FDA) denial of R.J. Reynolds Vapor Co.\u2019s applications to market various e-cigarettes, including menthol- and berry-flavored \u201cAlto\u201d e-cigarettes. R.J. Reynolds, along with retail entities like Avail Vapor Texas and the Mississippi Petroleum Marketers and Convenience Stores Association, challenged this denial in the U.S. Court of Appeals for the Fifth Circuit.</p>\n<p>The FDA filed a Motion to Dismiss or Transfer, arguing that the petitioners do not meet the venue requirements set forth in the Family Smoking Prevention and Tobacco Control Act for filing their petition in the Fifth Circuit. The case was consolidated with previous related cases, and the court had previously ruled that venue was proper in the Fifth Circuit in a related matter. In the present matter, the Fifth Circuit stood by its prior decision that venue was proper.</p>\n\n    <p><b>Question</b></p>\n    <p>May a manufacturer file a petition for review in a circuit where it neither resides nor has its principal place of business, if the petition is joined by a seller of the manufacturer\u2019s products that is located within that circuit?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1187.mp3"
     }
   }
 }
