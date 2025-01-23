@@ -12218,27 +12218,346 @@
     },
     "23-1226": {
       "docket_number": "23-1226",
-      "name": "McLaughlin Chiropractic Assoc. v. McKesson Corp.",
-      "date_argued_timestamp": 1737417600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1226",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1226.mp3",
-      "mp3_length": 4432,
-      "mp3_size": 35470021,
-      "source": "scotus",
+      "name": "McLaughlin Chiropractic Associates, Inc. v. McKesson Corporation",
+      "date_argued_timestamp": 1737439200,
       "description": "<p>McLaughlin Chiropractic Associates, Inc. v. McKesson Corporation</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1226/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1226.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1226\">oyez.org</a></p>\n    <p>Argued on Jan 21, 2025.</p>\n    <p>Petitioner: McLaughlin Chiropractic Associates, Inc.<br>Respondent: McKesson Corporation.</p>\n    <p>Advocates: <ul><li>Matthew W.H. Wessler (for the Petitioner)</li>\n<li>Joseph R. Palmore (for the Respondents)</li>\n<li>Matthew Guarnieri (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>True Health Chiropractic, Inc. and McLaughlin Chiropractic Associates, Inc. filed a class action lawsuit against McKesson Corporation and McKesson Technologies, Inc. The plaintiffs alleged that the defendants violated the Telephone Consumer Protection Act (TCPA) by sending unsolicited advertisements via fax. They claimed they neither invited nor gave permission to receive these faxes, and even if there was permission or an established business relationship, the faxes lacked the required opt-out notice.</p>\n<p>The district court initially granted summary judgment to the plaintiffs on McKesson's consent defenses. The court also decertified the proposed class and denied treble damages to the plaintiffs. McKesson appealed the summary judgment decision on their consent defenses. The plaintiffs cross-appealed the class decertification and denial of treble damages. The U.S. Court of Appeals for the Ninth Circuit reviewed the summary judgment de novo, the decertification order for abuse of discretion, and the denial of treble damages for abuse of discretion, ultimately affirming all of the district court\u2019s decisions.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Hobbs Act require a federal district court to accept the Federal Communication Commission\u2019s legal interpretation of the Telephone Consumer Protection Act?</p>\n\n    ",
+      "mp3_length": 4432,
+      "mp3_size": 17761483,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Matthew W.H. Wessler (for the Petitioner)",
+          "start": 0.215
+        },
+        {
+          "title": "Wessler - Justice Thomas",
+          "start": 134.59
+        },
+        {
+          "title": "Wessler - Justice Sotomayor",
+          "start": 168.7
+        },
+        {
+          "title": "Wessler - Justice Jackson",
+          "start": 588
+        },
+        {
+          "title": "Wessler - Justice Kagan",
+          "start": 817.955
+        },
+        {
+          "title": "Wessler - Justice Jackson",
+          "start": 1109.76
+        },
+        {
+          "title": "Wessler - Justice Gorsuch",
+          "start": 1354.255
+        },
+        {
+          "title": "Wessler - Justice Kagan",
+          "start": 1433.68
+        },
+        {
+          "title": "Wessler - Justice Gorsuch",
+          "start": 1436.89
+        },
+        {
+          "title": "Wessler - Justice Sotomayor",
+          "start": 1515.45
+        },
+        {
+          "title": "Wessler - Justice Roberts",
+          "start": 1679.95
+        },
+        {
+          "title": "Joseph R. Palmore (for the Respondents)",
+          "start": 1696.545
+        },
+        {
+          "title": "Palmore - Justice Thomas",
+          "start": 1820.35
+        },
+        {
+          "title": "Palmore - Justice Jackson",
+          "start": 1899.26
+        },
+        {
+          "title": "Palmore - Justice Alito",
+          "start": 1987.48
+        },
+        {
+          "title": "Palmore - Justice Kavanaugh",
+          "start": 2152.52
+        },
+        {
+          "title": "Palmore - Justice Alito",
+          "start": 2254.46
+        },
+        {
+          "title": "Palmore - Justice Gorsuch",
+          "start": 2340.34
+        },
+        {
+          "title": "Palmore - Justice Jackson",
+          "start": 2664.89
+        },
+        {
+          "title": "Palmore - Justice Kagan",
+          "start": 2728.17
+        },
+        {
+          "title": "Palmore - Justice Thomas",
+          "start": 2910.235
+        },
+        {
+          "title": "Palmore - Justice Sotomayor",
+          "start": 2994.62000005
+        },
+        {
+          "title": "Palmore - Justice Kavanaugh",
+          "start": 3088.68
+        },
+        {
+          "title": "Palmore - Justice Jackson",
+          "start": 3155.515
+        },
+        {
+          "title": "Matthew Guarnieri (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 3218.83
+        },
+        {
+          "title": "Guarnieri - Justice Thomas",
+          "start": 3294.805
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 3334.385
+        },
+        {
+          "title": "Guarnieri - Justice Kagan",
+          "start": 3553.30999995
+        },
+        {
+          "title": "Guarnieri - Justice Jackson",
+          "start": 3734.01
+        },
+        {
+          "title": "Guarnieri - Justice Alito",
+          "start": 3850.41500005
+        },
+        {
+          "title": "Guarnieri - Justice Gorsuch",
+          "start": 4131.32
+        },
+        {
+          "title": "Matthew W.H. Wessler (for the Petitioner)",
+          "start": 4236.585
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1226.mp3"
     },
     "23-1239": {
       "docket_number": "23-1239",
       "name": "Barnes v. Felix",
-      "date_argued_timestamp": 1737504000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1239",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1239.mp3",
-      "mp3_length": 4556,
-      "mp3_size": 36459075,
-      "source": "scotus",
+      "date_argued_timestamp": 1737525600,
       "description": "<p>Barnes v. Felix</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Barnes_v._Felix\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1239/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1239.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1239\">oyez.org</a></p>\n    <p>Argued on Jan 22, 2025.</p>\n    <p>Petitioner: Janice Hughes Barnes.<br>Respondent: Roberto Felix, Jr.</p>\n    <p>Advocates: <ul><li>Nathaniel A.G. Zelinsky (for the Petitioner)</li>\n<li>Zoe A. Jacoby (for the United States, as amicus curiae, supporting vacatur and remand)</li>\n<li>Charles L. McCloud (for the Respondents)</li>\n<li>Lanora C. Pettit (for Texas, et al., as amici curiae, supporting Respondent Felix)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>On April 28, 2016, Officer Roberto Felix Jr. fatally shot Ashtian Barnes during a traffic stop on the Harris County Tollway. After spotting Barnes\u2019s Toyota Corolla, which had been flagged for toll violations, Felix initiated a stop and Barnes pulled over to the median. When Felix requested documentation, Barnes, who was driving a car rented in his girlfriend\u2019s name, could not produce it and began \u201cdigging around\u201d in the car. Claiming he smelled marijuana, Felix questioned Barnes, who then turned off the vehicle and suggested checking the trunk for documentation. Dash cam footage shows that after Barnes opened the trunk and exited the vehicle at Felix\u2019s request, the car\u2019s blinker came back on and the vehicle began to move. Felix, with his weapon drawn, stepped onto the moving car and pressed his gun against Barnes\u2019s head. While holding onto the car frame with his head above the roof\u2014leaving him unable to see inside the vehicle\u2014Felix fired two shots. Barnes\u2019s vehicle stopped, and he was pronounced dead at the scene at 2:57 p.m. Though both the Houston Police Department and Harris County Precinct 5 Constable's Office investigated the incident, a grand jury found no probable cause for an indictment.</p>\n<p>The district court granted summary judgment to the defendants, focusing exclusively on the two seconds before the shooting when Barnes\u2019s car began moving with Felix holding onto it. The court ruled that because Felix reasonably feared for his life in that moment, his use of deadly force was justified regardless of his previous actions, such as jumping onto the moving vehicle. The U.S. Court of Appeals for the Fifth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Should courts apply the \u201cmoment of the threat\u201d doctrine when evaluating an excessive force claim under the Fourth Amendment?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1239.mp3"
+      "mp3_length": 4556,
+      "mp3_size": 18255929,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Nathaniel A.G. Zelinsky (for the Petitioner)",
+          "start": 0.07
+        },
+        {
+          "title": "Zelinsky - Justice Thomas",
+          "start": 120.405
+        },
+        {
+          "title": "Zelinsky - Justice Kavanaugh",
+          "start": 176.61
+        },
+        {
+          "title": "Zelinsky - Justice Alito",
+          "start": 272.285
+        },
+        {
+          "title": "Zelinsky - Justice Jackson",
+          "start": 451.36
+        },
+        {
+          "title": "Zelinsky - Justice Sotomayor",
+          "start": 451.71
+        },
+        {
+          "title": "Zelinsky - Justice Barrett",
+          "start": 558.76
+        },
+        {
+          "title": "Zelinsky - Justice Kavanaugh",
+          "start": 688.39
+        },
+        {
+          "title": "Zelinsky - Justice Jackson",
+          "start": 837.74
+        },
+        {
+          "title": "Zelinsky - Justice Kavanaugh",
+          "start": 909.35
+        },
+        {
+          "title": "Zelinsky - Justice Alito",
+          "start": 1029.325
+        },
+        {
+          "title": "Zelinsky - Justice Sotomayor",
+          "start": 1087.13
+        },
+        {
+          "title": "Zoe A. Jacoby (for the United States, as amicus curiae, supporting vacatur and remand)",
+          "start": 1225.595
+        },
+        {
+          "title": "Jacoby - Justice Thomas",
+          "start": 1283.24
+        },
+        {
+          "title": "Jacoby - Justice Barrett",
+          "start": 1317.365
+        },
+        {
+          "title": "Jacoby - Justice Roberts",
+          "start": 1318.755
+        },
+        {
+          "title": "Jacoby - Justice Kavanaugh",
+          "start": 1373.27
+        },
+        {
+          "title": "Jacoby - Justice Roberts",
+          "start": 1506.51
+        },
+        {
+          "title": "Jacoby - Justice Kagan",
+          "start": 1635.945
+        },
+        {
+          "title": "Jacoby - Justice Gorsuch",
+          "start": 1702.61
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 1783.98
+        },
+        {
+          "title": "Jacoby - Justice Alito",
+          "start": 1847.8
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 2070.235
+        },
+        {
+          "title": "Jacoby - Justice Kavanaugh",
+          "start": 2075.955
+        },
+        {
+          "title": "Jacoby - Justice Barrett",
+          "start": 2173.73
+        },
+        {
+          "title": "Jacoby - Justice Jackson",
+          "start": 2387.21
+        },
+        {
+          "title": "Charles L. McCloud (for the Respondents)",
+          "start": 2501.67
+        },
+        {
+          "title": "McCloud - Justice Thomas",
+          "start": 2621.95
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 2719.97
+        },
+        {
+          "title": "McCloud - Justice Kagan",
+          "start": 2826.865
+        },
+        {
+          "title": "McCloud - Justice Gorsuch",
+          "start": 2910.59
+        },
+        {
+          "title": "McCloud - Justice Roberts",
+          "start": 3079.95
+        },
+        {
+          "title": "McCloud - Justice Sotomayor",
+          "start": 3142.29
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 3296.19
+        },
+        {
+          "title": "McCloud - Justice Sotomayor",
+          "start": 3405.525
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 3535.23
+        },
+        {
+          "title": "McCloud - Justice Kagan",
+          "start": 3580.92
+        },
+        {
+          "title": "McCloud - Justice Barrett",
+          "start": 3679.43
+        },
+        {
+          "title": "McCloud - Justice Thomas",
+          "start": 3712.675
+        },
+        {
+          "title": "McCloud - Justice Sotomayor",
+          "start": 3775.79
+        },
+        {
+          "title": "McCloud - Justice Kagan",
+          "start": 3821.69
+        },
+        {
+          "title": "McCloud - Justice Roberts",
+          "start": 3919.11
+        },
+        {
+          "title": "Lanora C. Pettit (for Texas, et al., as amici curiae, supporting Respondent Felix)",
+          "start": 3928.525
+        },
+        {
+          "title": "Pettit - Justice Thomas",
+          "start": 3999.35
+        },
+        {
+          "title": "Pettit - Justice Jackson",
+          "start": 4038.51
+        },
+        {
+          "title": "Pettit - Justice Gorsuch",
+          "start": 4297.685
+        },
+        {
+          "title": "Nathaniel A.G. Zelinsky (for the Petitioner)",
+          "start": 4468.48
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1239.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1239.vtt"
     },
     "23-1007": {
       "docket_number": "23-1007",
