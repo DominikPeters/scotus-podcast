@@ -60,18 +60,21 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1007/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1007.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1007">oyez.org</a></p>
     <p>Argued on Jan 22, 2025.</p>
     <p>Petitioner: Casey Cunningham.<br>Respondent: Cornell University.</p>
-    
+    <p>Advocates: <ul><li>Xiao Wang (for the Petitioners)</li>
+<li>Yaira Dubin (for the United States, as amicus curiae, supporting the Petitioners)</li>
+<li>Nicole A. Saharsky (for the Respondents)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>Cornell University administered two retirement plans for its employees: the Retirement Plan and the TDA Plan. As of 2016, these defined-contribution plans had over 30,000 participants and nearly $3.4 billion in combined net assets. Cornell delegated administrative responsibilities to its Vice President for Human Resources and established the Retirement Plan Oversight Committee (RPOC) to oversee the plans. The plans offered approximately 300 investment options and incurred investment management and recordkeeping fees, with TIAA-CREF and Fidelity Investments serving as both investment providers and recordkeepers.</p>
 <p>Plaintiffs, representing a class of plan beneficiaries, sued Cornell and its appointed fiduciaries in federal district court, alleging violations of the Employee Retirement Income Security Act (ERISA), including failure to adequately monitor the plans, resulting in the retention of underperforming investment options and excessive fees, as well as engaging in prohibited transactions under 29 U.S.C. § 1106. The district court dismissed or granted summary judgment to the defendants on most claims, and the parties reached a settlement on the remaining claim before the court entered final judgment. The plaintiffs challenged the district court’s award of summary judgment on two counts, but the U.S. Court of Appeals for the Second Circuit affirmed the lower court.</p>
 
     <p><b>Question</b></p>
     <p>Can a plaintiff state a claim under ERISA’s provision prohibiting a plan fiduciary from knowingly engaging in transactions with barred parties, solely by alleging that such a transaction took place?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.mp3" length="43555842" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.mp3" length="21804507" type="audio/mpeg"/>
             <guid>scotus_2024_23-1007_v0</guid>
             <itunes:duration>5443</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 22 Jan 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1187] Food and Drug Administration v. R.J. Reynolds Vapor Co.</title>
@@ -92,7 +95,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4331</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 21 Jan 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1187.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1226] McLaughlin Chiropractic Associates, Inc. v. McKesson Corporation</title>

@@ -12731,13 +12731,178 @@
     "23-1007": {
       "docket_number": "23-1007",
       "name": "Cunningham v. Cornell University",
-      "date_argued_timestamp": 1737504000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1007",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1007.mp3",
+      "date_argued_timestamp": 1737525600,
+      "description": "<p>Cunningham v. Cornell University</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1007/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1007.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1007\">oyez.org</a></p>\n    <p>Argued on Jan 22, 2025.</p>\n    <p>Petitioner: Casey Cunningham.<br>Respondent: Cornell University.</p>\n    <p>Advocates: <ul><li>Xiao Wang (for the Petitioners)</li>\n<li>Yaira Dubin (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Nicole A. Saharsky (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Cornell University administered two retirement plans for its employees: the Retirement Plan and the TDA Plan. As of 2016, these defined-contribution plans had over 30,000 participants and nearly $3.4 billion in combined net assets. Cornell delegated administrative responsibilities to its Vice President for Human Resources and established the Retirement Plan Oversight Committee (RPOC) to oversee the plans. The plans offered approximately 300 investment options and incurred investment management and recordkeeping fees, with TIAA-CREF and Fidelity Investments serving as both investment providers and recordkeepers.</p>\n<p>Plaintiffs, representing a class of plan beneficiaries, sued Cornell and its appointed fiduciaries in federal district court, alleging violations of the Employee Retirement Income Security Act (ERISA), including failure to adequately monitor the plans, resulting in the retention of underperforming investment options and excessive fees, as well as engaging in prohibited transactions under 29 U.S.C. \u00a7 1106. The district court dismissed or granted summary judgment to the defendants on most claims, and the parties reached a settlement on the remaining claim before the court entered final judgment. The plaintiffs challenged the district court\u2019s award of summary judgment on two counts, but the U.S. Court of Appeals for the Second Circuit affirmed the lower court.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a plaintiff state a claim under ERISA\u2019s provision prohibiting a plan fiduciary from knowingly engaging in transactions with barred parties, solely by alleging that such a transaction took place?</p>\n\n    ",
       "mp3_length": 5443,
-      "mp3_size": 43555842,
-      "source": "scotus",
-      "description": "<p>Cunningham v. Cornell University</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1007/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1007.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1007\">oyez.org</a></p>\n    <p>Argued on Jan 22, 2025.</p>\n    <p>Petitioner: Casey Cunningham.<br>Respondent: Cornell University.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Cornell University administered two retirement plans for its employees: the Retirement Plan and the TDA Plan. As of 2016, these defined-contribution plans had over 30,000 participants and nearly $3.4 billion in combined net assets. Cornell delegated administrative responsibilities to its Vice President for Human Resources and established the Retirement Plan Oversight Committee (RPOC) to oversee the plans. The plans offered approximately 300 investment options and incurred investment management and recordkeeping fees, with TIAA-CREF and Fidelity Investments serving as both investment providers and recordkeepers.</p>\n<p>Plaintiffs, representing a class of plan beneficiaries, sued Cornell and its appointed fiduciaries in federal district court, alleging violations of the Employee Retirement Income Security Act (ERISA), including failure to adequately monitor the plans, resulting in the retention of underperforming investment options and excessive fees, as well as engaging in prohibited transactions under 29 U.S.C. \u00a7 1106. The district court dismissed or granted summary judgment to the defendants on most claims, and the parties reached a settlement on the remaining claim before the court entered final judgment. The plaintiffs challenged the district court\u2019s award of summary judgment on two counts, but the U.S. Court of Appeals for the Second Circuit affirmed the lower court.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a plaintiff state a claim under ERISA\u2019s provision prohibiting a plan fiduciary from knowingly engaging in transactions with barred parties, solely by alleging that such a transaction took place?</p>\n\n    ",
+      "mp3_size": 21804507,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Xiao Wang (for the Petitioners)",
+          "start": 0.105
+        },
+        {
+          "title": "Wang - Justice Thomas",
+          "start": 126.07
+        },
+        {
+          "title": "Wang - Justice Kavanaugh",
+          "start": 188.39999995
+        },
+        {
+          "title": "Wang - Justice Alito",
+          "start": 506.42
+        },
+        {
+          "title": "Wang - Justice Gorsuch",
+          "start": 680.2
+        },
+        {
+          "title": "Wang - Justice Barrett",
+          "start": 737.74
+        },
+        {
+          "title": "Wang - Justice Jackson",
+          "start": 778.655
+        },
+        {
+          "title": "Wang - Justice Kavanaugh",
+          "start": 966.25
+        },
+        {
+          "title": "Wang - Justice Roberts",
+          "start": 1042.28
+        },
+        {
+          "title": "Wang - Justice Alito",
+          "start": 1171.125
+        },
+        {
+          "title": "Wang - Justice Sotomayor",
+          "start": 1358.11
+        },
+        {
+          "title": "Wang - Justice Kavanaugh",
+          "start": 1748.605
+        },
+        {
+          "title": "Wang - Justice Jackson",
+          "start": 1778.65000005
+        },
+        {
+          "title": "Yaira Dubin (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1876.92
+        },
+        {
+          "title": "Dubin - Justice Thomas",
+          "start": 1946.945
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2009.555
+        },
+        {
+          "title": "Dubin - Justice Jackson",
+          "start": 2074.255
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 2134.475
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2287.17
+        },
+        {
+          "title": "Dubin - Justice Alito",
+          "start": 2379.8
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 2453.02
+        },
+        {
+          "title": "Dubin - Justice Roberts",
+          "start": 2567.425
+        },
+        {
+          "title": "Dubin - Justice Alito",
+          "start": 2637.73
+        },
+        {
+          "title": "Dubin - Justice Sotomayor",
+          "start": 2814.2
+        },
+        {
+          "title": "Dubin - Justice Kagan",
+          "start": 2921.49
+        },
+        {
+          "title": "Dubin - Justice Gorsuch",
+          "start": 3053.97
+        },
+        {
+          "title": "Dubin - Justice Kavanaugh",
+          "start": 3151.06
+        },
+        {
+          "title": "Dubin - Justice Jackson",
+          "start": 3308.35
+        },
+        {
+          "title": "Nicole A. Saharsky (for the Respondents)",
+          "start": 3454.335
+        },
+        {
+          "title": "Saharsky - Justice Jackson",
+          "start": 3622.74
+        },
+        {
+          "title": "Saharsky - Justice Kagan",
+          "start": 3906.62
+        },
+        {
+          "title": "Saharsky - Justice Kavanaugh",
+          "start": 4028.73
+        },
+        {
+          "title": "Saharsky - Justice Sotomayor",
+          "start": 4181.31
+        },
+        {
+          "title": "Saharsky - Justice Kavanaugh",
+          "start": 4214.26
+        },
+        {
+          "title": "Saharsky - Justice Sotomayor",
+          "start": 4227.44
+        },
+        {
+          "title": "Saharsky - Justice Jackson",
+          "start": 4315.46
+        },
+        {
+          "title": "Saharsky - Justice Alito",
+          "start": 4454.4
+        },
+        {
+          "title": "Saharsky - Justice Kagan",
+          "start": 4879.48
+        },
+        {
+          "title": "Saharsky - Justice Sotomayor",
+          "start": 5195.09
+        },
+        {
+          "title": "Saharsky - Justice Roberts",
+          "start": 5249.415
+        },
+        {
+          "title": "Xiao Wang (for the Petitioners)",
+          "start": 5258.755
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.mp3"
     }
   }
