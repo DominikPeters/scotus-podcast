@@ -129,6 +129,12 @@ def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True)
                 if current_speaker == "John G. Roberts, Jr." and len(text_blocks[0]["text"].split()) <= 15 and i == len(turns) - 1:
                     continue
 
+            if sum([len(block["text"].split()) for block in text_blocks]) <= 8:
+                continue
+
+            if turn["stop"] - turn["start"] < 1.0:
+                continue
+
             if i == len(turns) - 1:
                 if current_speaker == "John G. Roberts, Jr.":
                     continue
