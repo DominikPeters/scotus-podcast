@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[23-7809] Gutierrez v. Saenz</title>
+            <description><![CDATA[<p>Gutierrez v. Saenz</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-7809/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-7809.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-7809">oyez.org</a></p>
+    <p>Argued on Feb 24, 2025.</p>
+    <p>Petitioner: Ruben Gutierrez.<br>Respondent: Luis Saenz.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In 1998, Ruben Gutierrez was convicted of capital murder and sentenced to death for his involvement in the robbery and killing of Escolastica Harrison. After multiple appeals and habeas corpus petitions, Gutierrez sought DNA testing of evidence from the crime scene under Texas Code of Criminal Procedure Chapter 64. Texas courts repeatedly denied his requests, in part because Chapter 64 does not authorize testing when exculpatory results might only affect punishment or sentencing.</p>
+<p>In 2019, Gutierrez filed a federal lawsuit under 42 U.S.C. § 1983 against Cameron County District Attorney Luis V. Saenz and others challenging the constitutionality of Texas’s postconviction DNA testing procedures. Gutierrez argued that Chapter 64 improperly limited the rights granted in another Texas statute (Article 11.071) governing successive habeas applications for death row inmates. The district court agreed, ruling that the interaction between these laws violated procedural due process by making the right to bring a successive habeas application to claim innocence of the death penalty “illusory.” The U.S. Court of Appeals for the Fifth Circuit concluded that Gutierrez had no standing to make this claim and vacated the district court’s judgment.</p>
+
+    <p><b>Question</b></p>
+    <p>Does a Texas death-row inmate have standing to sue the state over its refusal to grant access to DNA testing under a law that allows such testing only when the person can demonstrate that exculpatory results would have prevented their conviction?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3" length="45370765" type="audio/mpeg"/>
+            <guid>scotus_2024_23-7809_v0</guid>
+            <itunes:duration>5670</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 24 Feb 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-1239] Barnes v. Felix</title>
             <description><![CDATA[<p>Barnes v. Felix</p>
     <p><a href="https://en.wikipedia.org/wiki/Barnes_v._Felix">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/23-1239/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1239.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1239">oyez.org</a></p>

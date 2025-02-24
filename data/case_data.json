@@ -12904,6 +12904,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.mp3"
+    },
+    "23-7809": {
+      "docket_number": "23-7809",
+      "name": "Gutierrez v. Saenz",
+      "date_argued_timestamp": 1740355200,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-7809",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-7809.mp3",
+      "mp3_length": 5670,
+      "mp3_size": 45370765,
+      "source": "scotus",
+      "description": "<p>Gutierrez v. Saenz</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-7809/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-7809.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-7809\">oyez.org</a></p>\n    <p>Argued on Feb 24, 2025.</p>\n    <p>Petitioner: Ruben Gutierrez.<br>Respondent: Luis Saenz.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 1998, Ruben Gutierrez was convicted of capital murder and sentenced to death for his involvement in the robbery and killing of Escolastica Harrison. After multiple appeals and habeas corpus petitions, Gutierrez sought DNA testing of evidence from the crime scene under Texas Code of Criminal Procedure Chapter 64. Texas courts repeatedly denied his requests, in part because Chapter 64 does not authorize testing when exculpatory results might only affect punishment or sentencing.</p>\n<p>In 2019, Gutierrez filed a federal lawsuit under 42 U.S.C. \u00a7 1983 against Cameron County District Attorney Luis V. Saenz and others challenging the constitutionality of Texas\u2019s postconviction DNA testing procedures. Gutierrez argued that Chapter 64 improperly limited the rights granted in another Texas statute (Article 11.071) governing successive habeas applications for death row inmates. The district court agreed, ruling that the interaction between these laws violated procedural due process by making the right to bring a successive habeas application to claim innocence of the death penalty \u201cillusory.\u201d The U.S. Court of Appeals for the Fifth Circuit concluded that Gutierrez had no standing to make this claim and vacated the district court\u2019s judgment.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a Texas death-row inmate have standing to sue the state over its refusal to grant access to DNA testing under a law that allows such testing only when the person can demonstrate that exculpatory results would have prevented their conviction?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3"
     }
   }
 }
