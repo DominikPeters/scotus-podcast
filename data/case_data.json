@@ -12908,13 +12908,186 @@
     "23-7809": {
       "docket_number": "23-7809",
       "name": "Gutierrez v. Saenz",
-      "date_argued_timestamp": 1740355200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-7809",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-7809.mp3",
-      "mp3_length": 5670,
-      "mp3_size": 45370765,
-      "source": "scotus",
+      "date_argued_timestamp": 1740376800,
       "description": "<p>Gutierrez v. Saenz</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-7809/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-7809.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-7809\">oyez.org</a></p>\n    <p>Argued on Feb 24, 2025.</p>\n    <p>Petitioner: Ruben Gutierrez.<br>Respondent: Luis Saenz.</p>\n    <p>Advocates: <ul><li>Anne E. Fisher (for the Petitioner)</li>\n<li>William F. Cole (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 1998, Ruben Gutierrez was convicted of capital murder and sentenced to death for his involvement in the robbery and killing of Escolastica Harrison. After multiple appeals and habeas corpus petitions, Gutierrez sought DNA testing of evidence from the crime scene under Texas Code of Criminal Procedure Chapter 64. Texas courts repeatedly denied his requests, in part because Chapter 64 does not authorize testing when exculpatory results might only affect punishment or sentencing.</p>\n<p>In 2019, Gutierrez filed a federal lawsuit under 42 U.S.C. \u00a7 1983 against Cameron County District Attorney Luis V. Saenz and others challenging the constitutionality of Texas\u2019s postconviction DNA testing procedures. Gutierrez argued that Chapter 64 improperly limited the rights granted in another Texas statute (Article 11.071) governing successive habeas applications for death row inmates. The district court agreed, ruling that the interaction between these laws violated procedural due process by making the right to bring a successive habeas application to claim innocence of the death penalty \u201cillusory.\u201d The U.S. Court of Appeals for the Fifth Circuit concluded that Gutierrez had no standing to make this claim and vacated the district court\u2019s judgment.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a Texas death-row inmate have standing to sue the state over its refusal to grant access to DNA testing under a law that allows such testing only when the person can demonstrate that exculpatory results would have prevented their conviction?</p>\n\n    ",
+      "mp3_length": 5670,
+      "mp3_size": 22712000,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Anne E. Fisher (for the Petitioner)",
+          "start": 0.07
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 146.56
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 245.2
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 343.655
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 443.84
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 471.81
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 641.07
+        },
+        {
+          "title": "Fisher - Justice Roberts",
+          "start": 822.215
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 874.53
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 972.76
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 1135.925
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 1343.36
+        },
+        {
+          "title": "Fisher - Justice Kagan",
+          "start": 1498.02
+        },
+        {
+          "title": "Fisher - Justice Roberts",
+          "start": 1562.54
+        },
+        {
+          "title": "Fisher - Justice Thomas",
+          "start": 1642.465
+        },
+        {
+          "title": "Fisher - Justice Alito",
+          "start": 1788.955
+        },
+        {
+          "title": "Fisher - Justice Sotomayor",
+          "start": 2107.635
+        },
+        {
+          "title": "Fisher - Justice Gorsuch",
+          "start": 2460.95
+        },
+        {
+          "title": "Fisher - Justice Kavanaugh",
+          "start": 2588.995
+        },
+        {
+          "title": "Fisher - Justice Barrett",
+          "start": 2838.21
+        },
+        {
+          "title": "Fisher - Justice Jackson",
+          "start": 2963.595
+        },
+        {
+          "title": "William F. Cole (for the Respondents)",
+          "start": 3143.315
+        },
+        {
+          "title": "Cole - Justice Thomas",
+          "start": 3258.865
+        },
+        {
+          "title": "Cole - Justice Kagan",
+          "start": 3294.73
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 3549.855
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 3629.34
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 3641.5
+        },
+        {
+          "title": "Cole - Justice Sotomayor",
+          "start": 3733.37
+        },
+        {
+          "title": "Cole - Justice Barrett",
+          "start": 3782.18
+        },
+        {
+          "title": "Cole - Justice Gorsuch",
+          "start": 3806.37
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 3865.56
+        },
+        {
+          "title": "Cole - Justice Kavanaugh",
+          "start": 4188.9
+        },
+        {
+          "title": "Cole - Justice Sotomayor",
+          "start": 4435.665
+        },
+        {
+          "title": "Cole - Justice Gorsuch",
+          "start": 4752.03
+        },
+        {
+          "title": "Cole - Justice Kagan",
+          "start": 4818.34
+        },
+        {
+          "title": "Cole - Justice Gorsuch",
+          "start": 4879.61
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 4918.265
+        },
+        {
+          "title": "Cole - Justice Thomas",
+          "start": 4946.22
+        },
+        {
+          "title": "Cole - Justice Alito",
+          "start": 5008.97
+        },
+        {
+          "title": "Cole - Justice Kagan",
+          "start": 5184.835
+        },
+        {
+          "title": "Cole - Justice Kavanaugh",
+          "start": 5354.94
+        },
+        {
+          "title": "Cole - Justice Jackson",
+          "start": 5423.85
+        },
+        {
+          "title": "Anne E. Fisher (for the Petitioner)",
+          "start": 5572.265
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3"
     },
     "23-7483": {

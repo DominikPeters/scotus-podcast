@@ -70,7 +70,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4576</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 25 Feb 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1324.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-7483] Esteras v. United States</title>
@@ -106,11 +105,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does a Texas death-row inmate have standing to sue the state over its refusal to grant access to DNA testing under a law that allows such testing only when the person can demonstrate that exculpatory results would have prevented their conviction?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3" length="45370765" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3" length="22712000" type="audio/mpeg"/>
             <guid>scotus_2024_23-7809_v0</guid>
             <itunes:duration>5670</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 24 Feb 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1239] Barnes v. Felix</title>
