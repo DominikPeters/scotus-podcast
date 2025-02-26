@@ -12932,14 +12932,167 @@
     "23-1324": {
       "docket_number": "23-1324",
       "name": "Perttu v. Richards",
-      "date_argued_timestamp": 1740441600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1324",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1324.mp3",
-      "mp3_length": 4576,
-      "mp3_size": 36616333,
-      "source": "scotus",
+      "date_argued_timestamp": 1740463200,
       "description": "<p>Perttu v. Richards</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1324/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1324.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1324\">oyez.org</a></p>\n    <p>Argued on Feb 25, 2025.</p>\n    <p>Petitioner: Thomas Perttu.<br>Respondent: Kyle Brandon Richards.</p>\n    <p>Advocates: <ul><li>Ann M. Sherman (for the Petitioner)</li>\n<li>Lori Alvino McGill (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Richards, an inmate at Michigan\u2019s Baraga Correctional Facility, sued Resident Unit Manager Thomas Perttu for sexual harassment and retaliation. Richards alleged that Perttu destroyed multiple grievances he attempted to file regarding Perttu's sexual abuse. Additionally, Richards claimed Perttu threatened to kill him if he continued trying to file grievances and wrongfully placed him in administrative segregation.</p>\n<p>After Perttu moved for summary judgment arguing the inmates failed to exhaust administrative remedies, and Richards cross-moved raising constitutional claims, the district court denied both motions due to factual disputes. A magistrate judge held an evidentiary hearing and recommended finding that Perttu proved the inmates failed to exhaust remedies. The district court adopted this recommendation and dismissed the case.</p>\n<p>Richards appealed, and after requesting supplemental briefing on whether the Seventh Amendment requires a jury for exhaustion disputes intertwined with case merits, the U.S. Court of Appeals for the Sixth Circuit concluded that it does and reversed the judgment of the district court.</p>\n\n    <p><b>Question</b></p>\n    <p>In cases subject to the Prison Litigation Reform Act, do prisoners have a right to a jury trial concerning their exhaustion of administrative remedies where disputed facts regarding exhaustion are intertwined with the underlying merits of their claim?</p>\n\n    ",
+      "mp3_length": 4576,
+      "mp3_size": 18334714,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Ann M. Sherman (for the Petitioner)",
+          "start": 0.23
+        },
+        {
+          "title": "Sherman - Justice Thomas",
+          "start": 137.92
+        },
+        {
+          "title": "Sherman - Justice Jackson",
+          "start": 222.6
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 441.795
+        },
+        {
+          "title": "Sherman - Justice Barrett",
+          "start": 542.04
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 581.515
+        },
+        {
+          "title": "Sherman - Justice Jackson",
+          "start": 710.735
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 734.78
+        },
+        {
+          "title": "Sherman - Justice Alito",
+          "start": 849.695
+        },
+        {
+          "title": "Sherman - Justice Jackson",
+          "start": 943.54
+        },
+        {
+          "title": "Sherman - Justice Gorsuch",
+          "start": 1140.01
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 1370.65
+        },
+        {
+          "title": "Sherman - Justice Kagan",
+          "start": 1416.65
+        },
+        {
+          "title": "Sherman - Justice Thomas",
+          "start": 1682.52
+        },
+        {
+          "title": "Sherman - Justice Alito",
+          "start": 1713.25
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 1777.385
+        },
+        {
+          "title": "Sherman - Justice Kagan",
+          "start": 2100.89
+        },
+        {
+          "title": "Sherman - Justice Gorsuch",
+          "start": 2274.315
+        },
+        {
+          "title": "Sherman - Justice Jackson",
+          "start": 2539.61
+        },
+        {
+          "title": "Lori Alvino McGill (for the Respondent)",
+          "start": 2755.47
+        },
+        {
+          "title": "McGill - Justice Thomas",
+          "start": 2897.66
+        },
+        {
+          "title": "McGill - Justice Roberts",
+          "start": 2943.49
+        },
+        {
+          "title": "McGill - Justice Barrett",
+          "start": 3074.415
+        },
+        {
+          "title": "McGill - Justice Alito",
+          "start": 3353.33
+        },
+        {
+          "title": "McGill - Justice Jackson",
+          "start": 3532.84
+        },
+        {
+          "title": "McGill - Justice Gorsuch",
+          "start": 3606.39
+        },
+        {
+          "title": "McGill - Justice Kavanaugh",
+          "start": 3657.17
+        },
+        {
+          "title": "McGill - Justice Sotomayor",
+          "start": 3753.17
+        },
+        {
+          "title": "McGill - Justice Barrett",
+          "start": 3816.11
+        },
+        {
+          "title": "McGill - Justice Kavanaugh",
+          "start": 3933.135
+        },
+        {
+          "title": "McGill - Justice Sotomayor",
+          "start": 3977.88
+        },
+        {
+          "title": "McGill - Justice Alito",
+          "start": 4048.13
+        },
+        {
+          "title": "McGill - Justice Kagan",
+          "start": 4245.24
+        },
+        {
+          "title": "McGill - Justice Alito",
+          "start": 4334.18
+        },
+        {
+          "title": "Ann M. Sherman (for the Petitioner)",
+          "start": 4422.67
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1324.mp3"
+    },
+    "23-1039": {
+      "docket_number": "23-1039",
+      "name": "Ames v. OH Dept. of Youth Services",
+      "date_argued_timestamp": 1740528000,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1039",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1039.mp3",
+      "mp3_length": 3295,
+      "mp3_size": 26374157,
+      "source": "scotus",
+      "description": "<p>Ames v. Ohio Department of Youth Services</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Ames_v._Ohio_Department_of_Youth_Services\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1039/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1039.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1039\">oyez.org</a></p>\n    <p>Argued on Feb 26, 2025.</p>\n    <p>Petitioner: Marlean A. Ames.<br>Respondent: Ohio Department of Youth Services.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Ohio Department of Youth Services hired Marlean Ames, a heterosexual woman, in 2004 and promoted her to Administrator of the Prison Rape Elimination Act (PREA) in 2014. In 2017, Ames was assigned a new supervisor, Ginine Trim, who is gay. Trim reported to Assistant Director Julie Walburn, and in 2019, Ryan Gies was appointed as the Department's Director. Both Walburn and Gies are heterosexual. In December 2018, Trim gave Ames a generally positive performance evaluation.</p>\n<p>In April 2019, Ames applied for the position of Bureau Chief of Quality but was not selected. Shortly after, Trim suggested that Ames consider retirement. On May 10, 2019, Ames was demoted from her PREA Administrator position, resulting in a significant pay cut. The Department then promoted Alexander Stojsavljevic, a 25-year-old gay man, to the PREA Administrator position. Later that year, Yolanda Frierson, a gay woman, was chosen as Bureau Chief of Quality. Following these events, Ames filed a discrimination charge with the Equal Employment Opportunity Commission and then sued the Department under Title VII of the Civil Rights Act of 1964, asserting claims of discrimination based on sexual orientation and sex. The district court granted summary judgment to the Department, holding that Ames lacked evidence of \u201cbackground circumstances\u201d necessary to establishing her prima facie case for her claim based on sexual orientation, and that Ames lacked evidence of pretext for purposes of her sex-discrimination claim. The U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a plaintiff who belongs to a majority group need to demonstrate \u201cbackground circumstances suggesting that the defendant is the unusual employer who discriminates against the majority\u201d in order to establish a prima facie case of discrimination under Title VII of the Civil Rights Act of 1964?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1039.mp3"
     }
   }
 }
