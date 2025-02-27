@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-1039] Ames v. OH Dept. of Youth Services</title>
+            <title>[23-1039] Ames v. Ohio Department of Youth Services</title>
             <description><![CDATA[<p>Ames v. Ohio Department of Youth Services</p>
     <p><a href="https://en.wikipedia.org/wiki/Ames_v._Ohio_Department_of_Youth_Services">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/23-1039/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1039.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1039">oyez.org</a></p>
     <p>Argued on Feb 26, 2025.</p>
@@ -46,11 +46,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does a plaintiff who belongs to a majority group need to demonstrate “background circumstances suggesting that the defendant is the unusual employer who discriminates against the majority” in order to establish a prima facie case of discrimination under Title VII of the Civil Rights Act of 1964?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1039.mp3" length="26374157" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1039.mp3" length="13213669" type="audio/mpeg"/>
             <guid>scotus_2024_23-1039_v0</guid>
             <itunes:duration>3295</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 26 Feb 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1039.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-7483] Esteras v. United States</title>
