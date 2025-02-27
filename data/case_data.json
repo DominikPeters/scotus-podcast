@@ -13093,13 +13093,134 @@
     "23-7483": {
       "docket_number": "23-7483",
       "name": "Esteras v. United States",
-      "date_argued_timestamp": 1740441600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-7483",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-7483.mp3",
-      "mp3_length": 4529,
-      "mp3_size": 36240037,
-      "source": "scotus",
+      "date_argued_timestamp": 1740463200,
       "description": "<p>Esteras v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-7483/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-7483.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-7483\">oyez.org</a></p>\n    <p>Argued on Feb 25, 2025.</p>\n    <p>Petitioner: Edgardo Esteras.<br>Respondent: United States.</p>\n    <p>Advocates: <ul><li>Christian J. Grostic (for the Petitioner)</li>\n<li>Masha G. Hansford (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In January 2020, Edgardo Esteras began a six-year term of supervised release following imprisonment for drug trafficking offenses. Three years into his supervised release, in January 2023, his probation officer reported violations including domestic violence and firearm possession, though the related criminal charges were dismissed at the victim's request. At a violation hearing, Judge Pearson found that Esteras had possessed a firearm while on supervised release. Concerned that previous sentences had failed to deter him, she imposed an above-guidelines sentence of 24 months\u2019 imprisonment plus three years of supervised release with special conditions including anger management and location monitoring. Though Esteras objected to the court\u2019s consideration of certain statutory factors related to punishment, Judge Pearson maintained that she also weighed deterrence and public safety, while acknowledging that some supervision conditions had both punitive and rehabilitative aspects.</p>\n<p>On appeal, Esteras challenged his sentence on the ground that the district court relied on prohibited factors in sentencing him, but the U.S. Court of Appeals for the Sixth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>When revoking supervised release and imposing a prison sentence, may a district court consider the sentencing factors in 18 U.S.C. \u00a7 3553(a)(2)(A)\u2014namely, \u201cthe seriousness of the offense,\u201d \u201cpromot[ing] respect for the law,\u201d and \u201cjust punishment\u201d\u2014even though these factors are not explicitly referenced in the supervised release statute?</p>\n\n    ",
+      "mp3_length": 4529,
+      "mp3_size": 18146632,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Christian J. Grostic (for the Petitioner)",
+          "start": 0.105
+        },
+        {
+          "title": "Grostic - Justice Thomas",
+          "start": 133.77
+        },
+        {
+          "title": "Grostic - Justice Roberts",
+          "start": 235.46
+        },
+        {
+          "title": "Grostic - Justice Alito",
+          "start": 312.075
+        },
+        {
+          "title": "Grostic - Justice Jackson",
+          "start": 556.24
+        },
+        {
+          "title": "Grostic - Justice Gorsuch",
+          "start": 763.025
+        },
+        {
+          "title": "Grostic - Justice Jackson",
+          "start": 918.48
+        },
+        {
+          "title": "Grostic - Justice Gorsuch",
+          "start": 984.12
+        },
+        {
+          "title": "Grostic - Justice Sotomayor",
+          "start": 1077.79
+        },
+        {
+          "title": "Grostic - Justice Alito",
+          "start": 1379.76000005
+        },
+        {
+          "title": "Grostic - Justice Jackson",
+          "start": 1460.76
+        },
+        {
+          "title": "Grostic - Justice Alito",
+          "start": 1598.49
+        },
+        {
+          "title": "Grostic - Justice Kagan",
+          "start": 1700.76
+        },
+        {
+          "title": "Grostic - Justice Gorsuch",
+          "start": 1853.74
+        },
+        {
+          "title": "Grostic - Justice Kavanaugh",
+          "start": 1963.4
+        },
+        {
+          "title": "Grostic - Justice Barrett",
+          "start": 2103.195
+        },
+        {
+          "title": "Grostic - Justice Jackson",
+          "start": 2265.78
+        },
+        {
+          "title": "Masha G. Hansford (for the Respondent)",
+          "start": 2406.8
+        },
+        {
+          "title": "Hansford - Justice Thomas",
+          "start": 2532.42
+        },
+        {
+          "title": "Hansford - Justice Sotomayor",
+          "start": 2643.07
+        },
+        {
+          "title": "Hansford - Justice Jackson",
+          "start": 2877.77
+        },
+        {
+          "title": "Hansford - Justice Kagan",
+          "start": 3073.98
+        },
+        {
+          "title": "Hansford - Justice Barrett",
+          "start": 3345.49
+        },
+        {
+          "title": "Hansford - Justice Roberts",
+          "start": 3533.68
+        },
+        {
+          "title": "Hansford - Justice Kavanaugh",
+          "start": 3747.19
+        },
+        {
+          "title": "Hansford - Justice Kagan",
+          "start": 3886.3
+        },
+        {
+          "title": "Hansford - Justice Jackson",
+          "start": 3981.11
+        },
+        {
+          "title": "Hansford - Justice Gorsuch",
+          "start": 4150.36
+        },
+        {
+          "title": "Hansford - Justice Kavanaugh",
+          "start": 4291.87
+        },
+        {
+          "title": "Christian J. Grostic (for the Petitioner)",
+          "start": 4393.35499995
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7483.mp3"
     },
     "23-1324": {
