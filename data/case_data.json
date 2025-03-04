@@ -13751,6 +13751,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3"
+    },
+    "23-1141": {
+      "docket_number": "23-1141",
+      "name": "Smith & Wesson Brands v. Estados Unidos Mexicanos",
+      "date_argued_timestamp": 1741046400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1141",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1141.mp3",
+      "mp3_length": 5469,
+      "mp3_size": 43761941,
+      "source": "scotus",
+      "description": "<p>Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Smith_&_Wesson_Brands,_Inc._v._Estados_Unidos_Mexicanos\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1141/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1141.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1141\">oyez.org</a></p>\n    <p>Argued on Mar 4, 2025.</p>\n    <p>Petitioner: Smith & Wesson Brands, Inc.<br>Respondent: Estados Unidos Mexicanos.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Mexican government sued several U.S. gun manufacturers in federal court, alleging their practices facilitated illegal gun trafficking to Mexican drug cartels, causing harm to Mexico. The defendants moved to dismiss, arguing the lawsuit was barred by the Protection of Lawful Commerce in Arms Act (PLCAA), which prohibits certain lawsuits against gun manufacturers. The district court dismissed the case, holding that the PLCAA applied and barred Mexico's claims. Mexico appealed.</p>\n<p>The U.S. Court of Appeals for the First Circuit reversed, holding that while the PLCAA does apply to lawsuits by foreign governments for harm suffered abroad, Mexico\u2019s lawsuit falls within the statute\u2019s \u201cpredicate exception\u201d for claims alleging knowing violations of laws applicable to gun sales. The court found Mexico adequately alleged that the defendants aided and abetted illegal gun trafficking in violation of U.S. laws, and that this proximately caused harm to Mexico. The court rejected the defendants\u2019 arguments that the causal chain was too attenuated, finding Mexico plausibly alleged direct harm from having to combat well-armed cartels. The court remanded the case for further proceedings, allowing Mexico's lawsuit to move forward.</p>\n\n    <p><b>Question</b></p>\n    <p>Can U.S. gun manufacturers be held liable for violence in Mexico under theories of proximate causation and aiding and abetting, based on their domestic production and sale of firearms that are later trafficked to Mexican cartels?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1141.mp3"
     }
   }
 }
