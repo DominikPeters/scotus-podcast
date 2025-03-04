@@ -13527,26 +13527,229 @@
     },
     "23-1201": {
       "docket_number": "23-1201",
-      "name": "CC/Devas Ltd. v. Antrix Corp. Ltd.",
-      "date_argued_timestamp": 1740960000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1201",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1201.mp3",
-      "mp3_length": 2963,
-      "mp3_size": 23717837,
-      "source": "scotus",
+      "name": "CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.",
+      "date_argued_timestamp": 1740981600,
       "description": "<p>CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1201/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1201.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1201\">oyez.org</a></p>\n    <p>Argued on Mar 3, 2025.</p>\n    <p>Petitioner: CC/Devas (Mauritius) Limited.<br>Respondent: Antrix Corp. Ltd.</p>\n    <p>Advocates: <ul><li>Aaron M. Streett (for the Petitioner in No. 24-17)</li>\n<li>Matthew D. McGill (for the Petitioners in No. 23-1201)</li>\n<li>Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Carter G. Phillips (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves an agreement between two Indian corporations, Devas Multimedia Private Ltd. and Antrix Corp. Ltd. After a dispute arose, Devas obtained an arbitration award from the International Chamber of Commerce against Antrix. Devas then sought to confirm this award in a U.S. district court. Antrix challenged the court\u2019s personal jurisdiction, but the district court confirmed the award, concluding that a minimum contacts analysis was unnecessary under the Foreign Sovereign Immunities Act (FSIA).</p>\n<p>Antrix appealed the confirmation order, arguing that the district court erred in exercising personal jurisdiction without conducting a minimum contacts analysis. Meanwhile, a group of intervenors, including CC/Devas (Mauritius) Ltd. and others, moved to register the judgment in the Eastern District of Virginia. Both Antrix and Devas challenged this registration order. The U.S. Court of Appeals reversed, concluding that the plaintiff must prove minimum contacts, and its failure to do so meant it could not exercise personal jurisdiction over Antrix.</p>\n\n    <p><b>Question</b></p>\n    <p>Must plaintiffs prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3"
+      "mp3_length": 2963,
+      "mp3_size": 11885499,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Aaron M. Streett (for the Petitioner in No. 24-17)",
+          "start": 0.065
+        },
+        {
+          "title": "Streett - Justice Thomas",
+          "start": 85.795
+        },
+        {
+          "title": "Streett - Justice Jackson",
+          "start": 273.565
+        },
+        {
+          "title": "Streett - Justice Sotomayor",
+          "start": 415.955
+        },
+        {
+          "title": "Streett - Justice Jackson",
+          "start": 568.05
+        },
+        {
+          "title": "Matthew D. McGill (for the Petitioners in No. 23-1201)",
+          "start": 631.475
+        },
+        {
+          "title": "McGill - Justice Thomas",
+          "start": 696.375
+        },
+        {
+          "title": "McGill - Justice Jackson",
+          "start": 993.165
+        },
+        {
+          "title": "McGill - Justice Sotomayor",
+          "start": 1065.53
+        },
+        {
+          "title": "McGill - Justice Roberts",
+          "start": 1164.445
+        },
+        {
+          "title": "Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1176.42
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 1217.59
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 1430.855
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 1512.04000005
+        },
+        {
+          "title": "Carter G. Phillips (for the Respondents)",
+          "start": 1609.86
+        },
+        {
+          "title": "Phillips - Justice Sotomayor",
+          "start": 1779.75
+        },
+        {
+          "title": "Phillips - Justice Jackson",
+          "start": 1872.65
+        },
+        {
+          "title": "Phillips - Justice Kagan",
+          "start": 1971.99
+        },
+        {
+          "title": "Phillips - Justice Gorsuch",
+          "start": 1990.72
+        },
+        {
+          "title": "Phillips - Justice Kagan",
+          "start": 2073.3
+        },
+        {
+          "title": "Phillips - Justice Gorsuch",
+          "start": 2156.265
+        },
+        {
+          "title": "Phillips - Justice Jackson",
+          "start": 2278.74
+        },
+        {
+          "title": "Phillips - Justice Kagan",
+          "start": 2637.435
+        },
+        {
+          "title": "Matthew D. McGill (for the Petitioners in No. 23-1201)",
+          "start": 2777.75
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.vtt"
     },
     "23-1259": {
       "docket_number": "23-1259",
       "name": "BLOM Bank SAL v. Honickman",
-      "date_argued_timestamp": 1740960000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1259",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1259.mp3",
-      "mp3_length": 3161,
-      "mp3_size": 25300461,
-      "source": "scotus",
+      "date_argued_timestamp": 1740981600,
       "description": "<p>BLOM Bank SAL v. Honickman</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1259/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1259.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1259\">oyez.org</a></p>\n    <p>Argued on Mar 3, 2025.</p>\n    <p>Petitioner: BLOM Bank SAL.<br>Respondent: Michal Honickman.</p>\n    <p>Advocates: <ul><li>Michael H. McGinley (for the Petitioner)</li>\n<li>Michael J. Radine (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves victims and family members of HAMAS terrorist attacks who sued BLOM Bank SAL for allegedly aiding HAMAS by providing financial services to customers affiliated with the terrorist organization. The plaintiffs brought their case under the Anti-Terrorism Act, as amended by the Justice Against Sponsors of Terrorism Act (JASTA), claiming BLOM Bank was liable for aiding and abetting terrorism through these financial services.</p>\n<p>The plaintiffs filed their initial complaint in January 2019, which the district court dismissed for failure to state a claim. On appeal, the U.S. Court of Appeals for the Second Circuit affirmed the dismissal but clarified that the district court had applied the wrong legal standard for aiding-and-abetting liability under JASTA. The plaintiffs then returned to the district court and moved to vacate the dismissal and amend their complaint. The district court denied their motion, and the Second Circuit concluded that the district court had erred by not properly balancing the competing principles of judgment finality (Rule 60(b)) and liberal pleading standards (Rule 15(a)).</p>\n\n    <p><b>Question</b></p>\n    <p>Does Federal Rule of Civil Procedure 60(b)(6)\u2019s stringent standard apply to a post-judgment request to vacate for the purpose of filing an amended complaint?</p>\n\n    ",
+      "mp3_length": 3161,
+      "mp3_size": 12676800,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Michael H. McGinley (for the Petitioner)",
+          "start": 0.115
+        },
+        {
+          "title": "McGinley - Justice Thomas",
+          "start": 122.62
+        },
+        {
+          "title": "McGinley - Justice Sotomayor",
+          "start": 323.835
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 440.86
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 578.945
+        },
+        {
+          "title": "McGinley - Justice Kagan",
+          "start": 976.29
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 1212.67
+        },
+        {
+          "title": "McGinley - Justice Kavanaugh",
+          "start": 1243.99
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 1258.87
+        },
+        {
+          "title": "McGinley - Justice Barrett",
+          "start": 1335.87
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 1395.45
+        },
+        {
+          "title": "Michael J. Radine (for the Respondents)",
+          "start": 1610.02000005
+        },
+        {
+          "title": "Radine - Justice Thomas",
+          "start": 1743.29
+        },
+        {
+          "title": "Radine - Justice Kavanaugh",
+          "start": 1825.15
+        },
+        {
+          "title": "Radine - Justice Kagan",
+          "start": 1901.48
+        },
+        {
+          "title": "Radine - Justice Gorsuch",
+          "start": 2062.83
+        },
+        {
+          "title": "Radine - Justice Jackson",
+          "start": 2108.33
+        },
+        {
+          "title": "Radine - Justice Gorsuch",
+          "start": 2266.37
+        },
+        {
+          "title": "Radine - Justice Barrett",
+          "start": 2371.12
+        },
+        {
+          "title": "Radine - Justice Kavanaugh",
+          "start": 2478.14
+        },
+        {
+          "title": "Radine - Justice Jackson",
+          "start": 2538.1
+        },
+        {
+          "title": "Radine - Justice Kavanaugh",
+          "start": 2542.895
+        },
+        {
+          "title": "Radine - Justice Alito",
+          "start": 2558.67499995
+        },
+        {
+          "title": "Radine - Justice Jackson",
+          "start": 2675
+        },
+        {
+          "title": "Radine - Justice Sotomayor",
+          "start": 2767.105
+        },
+        {
+          "title": "Michael H. McGinley (for the Petitioner)",
+          "start": 2981.6
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3"
     }
   }

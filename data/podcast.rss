@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-1201] CC/Devas Ltd. v. Antrix Corp. Ltd.</title>
+            <title>[23-1201] CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.</title>
             <description><![CDATA[<p>CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1201/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1201.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1201">oyez.org</a></p>
     <p>Argued on Mar 3, 2025.</p>
@@ -47,11 +47,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Must plaintiffs prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3" length="23717837" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3" length="11885499" type="audio/mpeg"/>
             <guid>scotus_2024_23-1201_v0</guid>
             <itunes:duration>2963</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 03 Mar 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1259] BLOM Bank SAL v. Honickman</title>
@@ -67,11 +68,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does Federal Rule of Civil Procedure 60(b)(6)’s stringent standard apply to a post-judgment request to vacate for the purpose of filing an amended complaint?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3" length="25300461" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3" length="12676800" type="audio/mpeg"/>
             <guid>scotus_2024_23-1259_v0</guid>
             <itunes:duration>3161</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 03 Mar 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1039] Ames v. Ohio Department of Youth Services</title>

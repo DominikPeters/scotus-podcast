@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-1201] CC/Devas Ltd. v. Antrix Corp. Ltd.</title>
+            <title>[23-1201] CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.</title>
             <description><![CDATA[<p>CC/Devas (Mauritius) Limited v. Antrix Corp. Ltd.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1201/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1201.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1201">oyez.org</a></p>
     <p>Argued on Mar 3, 2025.</p>
@@ -46,12 +46,41 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>Antrix appealed the confirmation order, arguing that the district court erred in exercising personal jurisdiction without conducting a minimum contacts analysis. Meanwhile, a group of intervenors, including CC/Devas (Mauritius) Ltd. and others, moved to register the judgment in the Eastern District of Virginia. Both Antrix and Devas challenged this registration order. The U.S. Court of Appeals reversed, concluding that the plaintiff must prove minimum contacts, and its failure to do so meant it could not exercise personal jurisdiction over Antrix.</p>
 
     <p><b>Question</b></p>
-    <p>Must plaintiffs prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3" length="23717837" type="audio/mpeg"/>
+    <p>Must plaintiffs prove minimum contacts before federal courts may assert personal jurisdiction over foreign states sued under the Foreign Sovereign Immunities Act?</p>
+
+    
+
+Chapters:
+00:00:00 Aaron M. Streett (for the Petitioner in No. 24-17)
+00:01:25 Streett - Justice Thomas
+00:04:33 Streett - Justice Jackson
+00:06:55 Streett - Justice Sotomayor
+00:09:28 Streett - Justice Jackson
+00:10:31 Matthew D. McGill (for the Petitioners in No. 23-1201)
+00:11:36 McGill - Justice Thomas
+00:16:33 McGill - Justice Jackson
+00:17:45 McGill - Justice Sotomayor
+00:19:24 McGill - Justice Roberts
+00:19:36 Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)
+00:20:17 Harris - Justice Thomas
+00:23:50 Harris - Justice Gorsuch
+00:25:12 Harris - Justice Alito
+00:26:49 Carter G. Phillips (for the Respondents)
+00:29:39 Phillips - Justice Sotomayor
+00:31:12 Phillips - Justice Jackson
+00:32:51 Phillips - Justice Kagan
+00:33:10 Phillips - Justice Gorsuch
+00:34:33 Phillips - Justice Kagan
+00:35:56 Phillips - Justice Gorsuch
+00:37:58 Phillips - Justice Jackson
+00:43:57 Phillips - Justice Kagan
+00:46:17 Matthew D. McGill (for the Petitioners in No. 23-1201)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3" length="11885499" type="audio/mpeg"/>
             <guid>scotus_2024_23-1201_v0</guid>
             <itunes:duration>2963</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 03 Mar 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1259] BLOM Bank SAL v. Honickman</title>
@@ -66,8 +95,38 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>The plaintiffs filed their initial complaint in January 2019, which the district court dismissed for failure to state a claim. On appeal, the U.S. Court of Appeals for the Second Circuit affirmed the dismissal but clarified that the district court had applied the wrong legal standard for aiding-and-abetting liability under JASTA. The plaintiffs then returned to the district court and moved to vacate the dismissal and amend their complaint. The district court denied their motion, and the Second Circuit concluded that the district court had erred by not properly balancing the competing principles of judgment finality (Rule 60(b)) and liberal pleading standards (Rule 15(a)).</p>
 
     <p><b>Question</b></p>
-    <p>Does Federal Rule of Civil Procedure 60(b)(6)’s stringent standard apply to a post-judgment request to vacate for the purpose of filing an amended complaint?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3" length="25300461" type="audio/mpeg"/>
+    <p>Does Federal Rule of Civil Procedure 60(b)(6)’s stringent standard apply to a post-judgment request to vacate for the purpose of filing an amended complaint?</p>
+
+    
+
+Chapters:
+00:00:00 Michael H. McGinley (for the Petitioner)
+00:02:02 McGinley - Justice Thomas
+00:05:23 McGinley - Justice Sotomayor
+00:07:20 McGinley - Justice Gorsuch
+00:09:38 McGinley - Justice Jackson
+00:16:16 McGinley - Justice Kagan
+00:20:12 McGinley - Justice Gorsuch
+00:20:43 McGinley - Justice Kavanaugh
+00:20:58 McGinley - Justice Gorsuch
+00:22:15 McGinley - Justice Barrett
+00:23:15 McGinley - Justice Jackson
+00:26:50 Michael J. Radine (for the Respondents)
+00:29:03 Radine - Justice Thomas
+00:30:25 Radine - Justice Kavanaugh
+00:31:41 Radine - Justice Kagan
+00:34:22 Radine - Justice Gorsuch
+00:35:08 Radine - Justice Jackson
+00:37:46 Radine - Justice Gorsuch
+00:39:31 Radine - Justice Barrett
+00:41:18 Radine - Justice Kavanaugh
+00:42:18 Radine - Justice Jackson
+00:42:22 Radine - Justice Kavanaugh
+00:42:38 Radine - Justice Alito
+00:44:35 Radine - Justice Jackson
+00:46:07 Radine - Justice Sotomayor
+00:49:41 Michael H. McGinley (for the Petitioner)]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3" length="12676800" type="audio/mpeg"/>
             <guid>scotus_2024_23-1259_v0</guid>
             <itunes:duration>3161</itunes:duration>
             <itunes:season>2024</itunes:season>
