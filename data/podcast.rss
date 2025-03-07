@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[23-1300] NRC v. Texas</title>
+            <title>[23-1300] Nuclear Regulatory Commission v. Texas</title>
             <description><![CDATA[<p>Nuclear Regulatory Commission v. Texas</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1300/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1300.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1300">oyez.org</a></p>
     <p>Argued on Mar 5, 2025.</p>
@@ -48,11 +48,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. Can a nonparty challenge a federal agency’s “final order” under the Hobbs Act’s judicial review provision? </p>
 <p>2. Do federal nuclear laws allow the Nuclear Regulatory Commission to license private companies to store spent nuclear fuel at off-reactor sites?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.mp3" length="46007601" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.mp3" length="23030381" type="audio/mpeg"/>
             <guid>scotus_2024_23-1300_v0</guid>
             <itunes:duration>5750</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 05 Mar 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1141] Smith &amp; Wesson Brands, Inc. v. Estados Unidos Mexicanos</title>

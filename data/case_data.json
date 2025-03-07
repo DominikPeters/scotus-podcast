@@ -13899,14 +13899,235 @@
     },
     "23-1300": {
       "docket_number": "23-1300",
-      "name": "NRC v. Texas",
-      "date_argued_timestamp": 1741132800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1300",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1300.mp3",
-      "mp3_length": 5750,
-      "mp3_size": 46007601,
-      "source": "scotus",
+      "name": "Nuclear Regulatory Commission v. Texas",
+      "date_argued_timestamp": 1741154400,
       "description": "<p>Nuclear Regulatory Commission v. Texas</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1300/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1300.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1300\">oyez.org</a></p>\n    <p>Argued on Mar 5, 2025.</p>\n    <p>Petitioner: Nuclear Regulatory Commission.<br>Respondent: Texas.</p>\n    <p>Advocates: <ul><li>Malcolm L. Stewart (for the Petitioners in No. 23-1300)</li>\n<li>Brad Fagg (for the Petitioner in No. 23-1312)</li>\n<li>David C. Frederick (for Respondent Fasken Land and Minerals, Ltd.)</li>\n<li>Aaron L. Nielson (for Respondents Texas, et al.)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The United States has grappled with nuclear waste storage since the 1940s, initially from weapons development and later from commercial nuclear power. While spent nuclear fuel was originally intended to be reprocessed, this proved impractical, leading Congress to pass the Nuclear Waste Policy Act in 1982. The Act designated Yucca Mountain in Nevada as the nation\u2019s permanent underground repository and required the Department of Energy to begin accepting waste from states by 1998. However, amid strong opposition and delays, the Obama administration halted work on Yucca Mountain and established a Blue Ribbon Commission, which recommended a consent-based approach to siting storage facilities.</p>\n<p>Following that shift in policy, Waste Control Specialists (as Interim Storage Partners) applied to build a nuclear waste storage facility in Andrews County, Texas. Despite opposition from Texas's governor and legislature, which passed a law prohibiting such storage, the Nuclear Regulatory Commission issued a license in September 2021. The U.S. Court of Appeals for the Fifth Circuit vacated the license, holding that neither the Atomic Energy Act nor the Nuclear Waste Policy Act authorized the Commission to license private interim storage facilities.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Can a nonparty challenge a federal agency\u2019s \u201cfinal order\u201d under the Hobbs Act\u2019s judicial review provision?\u00a0</p>\n<p>2. Do federal nuclear laws allow the Nuclear Regulatory Commission to license private companies to store spent nuclear fuel at off-reactor sites?</p>\n\n    ",
+      "mp3_length": 5750,
+      "mp3_size": 23030381,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Malcolm L. Stewart (for the Petitioners in No. 23-1300)",
+          "start": 0.17
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 78.51
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 167.785
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 201.8
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 267.4
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 290.42
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 374.58
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 492.55
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 580.195
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 633.405
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 691.93
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 731.01
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 767.22
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 844.025
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 967.68
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 1125.415
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 1397.98
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 1601.655
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 1770.73
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 1886.17999995
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 2070.59
+        },
+        {
+          "title": "Brad Fagg (for the Petitioner in No. 23-1312)",
+          "start": 2169.845
+        },
+        {
+          "title": "Fagg - Justice Thomas",
+          "start": 2317.01
+        },
+        {
+          "title": "Fagg - Justice Sotomayor",
+          "start": 2427.295
+        },
+        {
+          "title": "Fagg - Justice Jackson",
+          "start": 2501.23
+        },
+        {
+          "title": "Fagg - Justice Kavanaugh",
+          "start": 2594.735
+        },
+        {
+          "title": "Fagg - Justice Sotomayor",
+          "start": 2656.14
+        },
+        {
+          "title": "Fagg - Justice Gorsuch",
+          "start": 2694.15
+        },
+        {
+          "title": "Fagg - Justice Alito",
+          "start": 2812.76
+        },
+        {
+          "title": "Fagg - Justice Jackson",
+          "start": 3060.19
+        },
+        {
+          "title": "David C. Frederick (for Respondent Fasken Land and Minerals, Ltd.)",
+          "start": 3127.19
+        },
+        {
+          "title": "Frederick - Justice Thomas",
+          "start": 3280.27
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 3331.21
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 3354.13
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 3465.14
+        },
+        {
+          "title": "Frederick - Justice Kagan",
+          "start": 3508.49
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 3622.26
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 3716.64
+        },
+        {
+          "title": "Frederick - Justice Kagan",
+          "start": 3779.71
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 3921.09
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 4048.505
+        },
+        {
+          "title": "Frederick - Justice Gorsuch",
+          "start": 4086.87
+        },
+        {
+          "title": "Frederick - Justice Kavanaugh",
+          "start": 4201.59
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 4430.1
+        },
+        {
+          "title": "Aaron L. Nielson (for Respondents Texas, et al.)",
+          "start": 4559.865
+        },
+        {
+          "title": "Nielson - Justice Thomas",
+          "start": 4624.925
+        },
+        {
+          "title": "Nielson - Justice Kagan",
+          "start": 4664.36
+        },
+        {
+          "title": "Nielson - Justice Sotomayor",
+          "start": 4918.52
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 4970.31
+        },
+        {
+          "title": "Nielson - Justice Gorsuch",
+          "start": 5026.74
+        },
+        {
+          "title": "Nielson - Justice Jackson",
+          "start": 5198.66
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 5302.84
+        },
+        {
+          "title": "Nielson - Justice Sotomayor",
+          "start": 5395.765
+        },
+        {
+          "title": "Nielson - Justice Kavanaugh",
+          "start": 5480.685
+        },
+        {
+          "title": "Malcolm L. Stewart (for the Petitioners in No. 23-1300)",
+          "start": 5562.82000005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.mp3"
     }
   }
