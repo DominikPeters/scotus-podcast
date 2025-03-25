@@ -14144,14 +14144,143 @@
     },
     "23-1270": {
       "docket_number": "23-1270",
-      "name": "Riley v. Bondi, Att'y Gen.",
-      "date_argued_timestamp": 1742774400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1270",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1270.mp3",
-      "mp3_length": 3401,
-      "mp3_size": 27222189,
-      "source": "scotus",
+      "name": "Riley v. Bondi",
+      "date_argued_timestamp": 1742792400,
       "description": "<p>Riley v. Bondi</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1270/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1270.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1270\">oyez.org</a></p>\n    <p>Argued on Mar 24, 2025.</p>\n    <p>Petitioner: Pierre Yassue Nashun Riley.<br>Respondent: Pamela Bondi, Attorney General.</p>\n    <p>Advocates: <ul><li>Keith Bradley (for the Petitioner)</li>\n<li>Ephraim McDowell (for the Respondent in support of the Petitioner)</li>\n<li>Stephen J. Hammer (court-appointed amicus curiae in support of the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Riley entered the U.S. on a tourist visa in 1995. In 2006, he was indicted and later convicted of marijuana distribution and firearm charges, receiving a 25-year sentence. After being granted compassionate release in January 2021, immigration authorities took him into custody and ordered his removal due to his aggravated felony conviction. Though Riley expressed fear of returning to Jamaica, leading to various proceedings regarding potential persecution and torture claims, he ultimately was only eligible for deferral of removal under the Convention Against Torture (CAT). While an immigration judge initially granted this relief, the Board of Immigration Appeals reversed the decision in May 2022 and ordered Riley\u2019s removal to Jamaica. Riley petitioned for review, and his case was temporarily held pending the resolution of Martinez v. Garland. In Martinez, the U.S. Court Appeals for the Fourth Circuit held that an order denying CAT relief is not a final order of removal for purposes of \u00a7 1252(a)(1). Relying on Martinez, the Fourth Circuit dismissed Riley\u2019s appeal for lack of jurisdiction.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Is 8 U.S.C. \u00a7 1252(b)(1)\u2019s 30-day deadline jurisdictional, or merely a mandatory claims-processing rule that can be waived or forfeited?\u00a0</p>\n<p>2. Can a person obtain review of the Board of Immigration Appeals\u2019 decision in a withholding-only proceeding by filing a petition within 30 days of that decision?</p>\n\n    ",
+      "mp3_length": 3401,
+      "mp3_size": 13637689,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Keith Bradley (for the Petitioner)",
+          "start": 0.16
+        },
+        {
+          "title": "Bradley - Justice Thomas",
+          "start": 77.18
+        },
+        {
+          "title": "Bradley - Justice Sotomayor",
+          "start": 255.23
+        },
+        {
+          "title": "Bradley - Justice Roberts",
+          "start": 401.64
+        },
+        {
+          "title": "Bradley - Justice Sotomayor",
+          "start": 533.345
+        },
+        {
+          "title": "Bradley - Justice Gorsuch",
+          "start": 541.535
+        },
+        {
+          "title": "Bradley - Justice Jackson",
+          "start": 649.955
+        },
+        {
+          "title": "Bradley - Justice Alito",
+          "start": 711.315
+        },
+        {
+          "title": "Bradley - Justice Sotomayor",
+          "start": 802.01
+        },
+        {
+          "title": "Ephraim McDowell (for the Respondent in support of the Petitioner)",
+          "start": 834.97
+        },
+        {
+          "title": "McDowell - Justice Thomas",
+          "start": 896.735
+        },
+        {
+          "title": "McDowell - Justice Gorsuch",
+          "start": 973.11
+        },
+        {
+          "title": "McDowell - Justice Sotomayor",
+          "start": 1142.15
+        },
+        {
+          "title": "McDowell - Justice Kavanaugh",
+          "start": 1277.465
+        },
+        {
+          "title": "McDowell - Justice Jackson",
+          "start": 1328.11
+        },
+        {
+          "title": "McDowell - Justice Alito",
+          "start": 1417.12
+        },
+        {
+          "title": "McDowell - Justice Kagan",
+          "start": 1632.125
+        },
+        {
+          "title": "McDowell - Justice Thomas",
+          "start": 1739.905
+        },
+        {
+          "title": "McDowell - Justice Sotomayor",
+          "start": 1809.56
+        },
+        {
+          "title": "Stephen J. Hammer (court-appointed amicus curiae in support of the judgment below)",
+          "start": 1855.13000005
+        },
+        {
+          "title": "Hammer - Justice Thomas",
+          "start": 1938.855
+        },
+        {
+          "title": "Hammer - Justice Kagan",
+          "start": 2003.775
+        },
+        {
+          "title": "Hammer - Justice Jackson",
+          "start": 2075.555
+        },
+        {
+          "title": "Hammer - Justice Barrett",
+          "start": 2244.57
+        },
+        {
+          "title": "Hammer - Justice Kagan",
+          "start": 2351.62
+        },
+        {
+          "title": "Hammer - Justice Sotomayor",
+          "start": 2472.38
+        },
+        {
+          "title": "Hammer - Justice Jackson",
+          "start": 2606.405
+        },
+        {
+          "title": "Hammer - Justice Gorsuch",
+          "start": 2664.38
+        },
+        {
+          "title": "Hammer - Justice Roberts",
+          "start": 2857.225
+        },
+        {
+          "title": "Hammer - Justice Jackson",
+          "start": 2998.84999995
+        },
+        {
+          "title": "Hammer - Justice Kagan",
+          "start": 3067.13
+        },
+        {
+          "title": "Keith Bradley (for the Petitioner)",
+          "start": 3245.78
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1270.mp3"
     },
     "23-1229": {
@@ -14165,6 +14294,18 @@
       "source": "scotus",
       "description": "<p>Environmental Protection Agency v. Calumet Shreveport Refining, LLC</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1229/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1229.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1229\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2025.</p>\n    <p>Petitioner: Environmental Protection Agency.<br>Respondent: Calumet Shreveport Refining, L.L.C., et al.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Congress amended the Clean Air Act to establish the Renewable Fuel Standard (RFS) program, which requires refiners and importers of transportation fuel to blend increasing amounts of renewable fuels into their products each year. To comply, these companies must either blend renewable fuels themselves or purchase credits called Renewable Identification Numbers (RINs) from other companies that do the blending. Recognizing that this might create hardship for small refineries (those processing less than 75,000 barrels of crude oil daily), Congress created three exemptions: an initial blanket exemption through 2011, extensions based on a Department of Energy study, and case-by-case exemptions that small refineries could petition for based on \u201cdisproportionate economic hardship.\u201d</p>\n<p>In 2022, the EPA issued two decisions denying multiple small refinery exemption petitions. The April 2022 decision denied 36 petitions for the 2018 compliance year (including some that had previously been granted in 2019), and the June 2022 decision denied 69 petitions covering the years 2016 through 2021. These denials were based on EPA\u2019s new interpretation that required hardship to be caused solely by RFS compliance costs and its \u201cRIN passthrough\u201d economic theory. The affected refineries challenged these denials as impermissibly retroactive, contrary to law, and arbitrary and capricious.</p>\n<p>The U.S. Court of Appeals for the Fifth Circuit vacated the EPA\u2019s adjudications, denied a change of venue to the U.S. Court of Appeals for the D.C. Circuit, and remanded, based on its conclusion that the denial was (1) impermissibly retroactive; (2) contrary to law; and (3) counter to the record evidence.</p>\n\n    <p><b>Question</b></p>\n    <p>Should challenges by small oil refineries seeking exemptions from the requirements of the Clean Air Act\u2019s Renewable Fuel Standard program be heard exclusively in the U.S. Court of Appeals for the D.C. Circuit because the agency\u2019s denial actions are \u201cnationally applicable\u201d or \u201cbased on a determination of nationwide scope or effect\u201d?</p>\n\n    ",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1229.mp3"
+    },
+    "23-1067": {
+      "docket_number": "23-1067",
+      "name": "Oklahoma v. EPA",
+      "date_argued_timestamp": 1742860800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1067",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1067.mp3",
+      "mp3_length": 2870,
+      "mp3_size": 22967233,
+      "source": "scotus",
+      "description": "<p>Oklahoma v. Environmental Protection Agency</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1067/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1067.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1067\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2025.</p>\n    <p>Petitioner: Oklahoma, et al.<br>Respondent: Environmental Protection Agency, et al.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2015, the Environmental Protection Agency (EPA) strengthened its national air quality standards for ozone, requiring states to submit implementation plans that would prevent their emissions from significantly impacting other states\u2019 air quality. In February 2023, the EPA issued a final rule disapproving the plans submitted by 21 states, including Oklahoma and Utah, after evaluating them using a four-step framework designed to address interstate pollution. Oklahoma and Utah, along with various industry groups, challenged the EPA\u2019s disapproval of their plans in their respective regional circuit courts. The EPA responded by moving to transfer these cases to the U.S. Court of Appeals for the D.C. Circuit, arguing that because the disapprovals were published together in a single Federal Register notice and used a consistent analytical approach, they must be reviewed by the D.C. Circuit rather than regional courts.</p>\n<p>The U.S. Court of Appeals for the Tenth Circuit agreed with the EPA that the challenged rule is nationally applicable, so it granted the EPA\u2019s motions to transfer the petitions to the D.C. Circuit.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the U.S. Court of Appeals for the District of Columbia have exclusive jurisdiction to review an Environmental Protection Agency action that affects only one state or region, simply because the EPA published that action alongside actions affecting other states in a single Federal Register notice?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1067.mp3"
     }
   }
 }
