@@ -14285,14 +14285,187 @@
     },
     "23-1229": {
       "docket_number": "23-1229",
-      "name": "EPA v. Calumet Shreveport Refining, L.L.C.",
-      "date_argued_timestamp": 1742860800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1229",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1229.mp3",
-      "mp3_length": 6201,
-      "mp3_size": 49622509,
-      "source": "scotus",
+      "name": "Environmental Protection Agency v. Calumet Shreveport Refining, LLC",
+      "date_argued_timestamp": 1742878800,
       "description": "<p>Environmental Protection Agency v. Calumet Shreveport Refining, LLC</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1229/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1229.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1229\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2025.</p>\n    <p>Petitioner: Environmental Protection Agency.<br>Respondent: Calumet Shreveport Refining, L.L.C., et al.</p>\n    <p>Advocates: <ul><li>Malcolm L. Stewart (for the Petitioner)</li>\n<li>Seth P. Waxman (for Respondents Growth Energy and Renewable Fuels Association in support of the Petitioner)</li>\n<li>Michael R. Huston (for Respondents Calumet Shreveport Refining, L.L.C., et al.)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Congress amended the Clean Air Act to establish the Renewable Fuel Standard (RFS) program, which requires refiners and importers of transportation fuel to blend increasing amounts of renewable fuels into their products each year. To comply, these companies must either blend renewable fuels themselves or purchase credits called Renewable Identification Numbers (RINs) from other companies that do the blending. Recognizing that this might create hardship for small refineries (those processing less than 75,000 barrels of crude oil daily), Congress created three exemptions: an initial blanket exemption through 2011, extensions based on a Department of Energy study, and case-by-case exemptions that small refineries could petition for based on \u201cdisproportionate economic hardship.\u201d</p>\n<p>In 2022, the EPA issued two decisions denying multiple small refinery exemption petitions. The April 2022 decision denied 36 petitions for the 2018 compliance year (including some that had previously been granted in 2019), and the June 2022 decision denied 69 petitions covering the years 2016 through 2021. These denials were based on EPA\u2019s new interpretation that required hardship to be caused solely by RFS compliance costs and its \u201cRIN passthrough\u201d economic theory. The affected refineries challenged these denials as impermissibly retroactive, contrary to law, and arbitrary and capricious.</p>\n<p>The U.S. Court of Appeals for the Fifth Circuit vacated the EPA\u2019s adjudications, denied a change of venue to the U.S. Court of Appeals for the D.C. Circuit, and remanded, based on its conclusion that the denial was (1) impermissibly retroactive; (2) contrary to law; and (3) counter to the record evidence.</p>\n\n    <p><b>Question</b></p>\n    <p>Should challenges by small oil refineries seeking exemptions from the requirements of the Clean Air Act\u2019s Renewable Fuel Standard program be heard exclusively in the U.S. Court of Appeals for the D.C. Circuit because the agency\u2019s denial actions are \u201cnationally applicable\u201d or \u201cbased on a determination of nationwide scope or effect\u201d?</p>\n\n    ",
+      "mp3_length": 6201,
+      "mp3_size": 24837741,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Malcolm L. Stewart (for the Petitioner)",
+          "start": 0.105
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 64.805
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 176.835
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 600.73
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 614.19
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 695.47
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 791.34
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 857.85
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 989.3
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 1053.52
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 1328.3
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 1599.4
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 1814.85
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 2016.63
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 2168.56
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 2294.695
+        },
+        {
+          "title": "Seth P. Waxman (for Respondents Growth Energy and Renewable Fuels Association in support of the Petitioner)",
+          "start": 2494.89
+        },
+        {
+          "title": "Waxman - Justice Thomas",
+          "start": 2674.77
+        },
+        {
+          "title": "Waxman - Justice Jackson",
+          "start": 2907.82
+        },
+        {
+          "title": "Waxman - Justice Roberts",
+          "start": 3132.55
+        },
+        {
+          "title": "Waxman - Justice Thomas",
+          "start": 3254.465
+        },
+        {
+          "title": "Waxman - Justice Sotomayor",
+          "start": 3319.33
+        },
+        {
+          "title": "Waxman - Justice Gorsuch",
+          "start": 3522.785
+        },
+        {
+          "title": "Waxman - Justice Kavanaugh",
+          "start": 3591.005
+        },
+        {
+          "title": "Waxman - Justice Barrett",
+          "start": 3792.235
+        },
+        {
+          "title": "Waxman - Justice Jackson",
+          "start": 3855.51
+        },
+        {
+          "title": "Michael R. Huston (for Respondents Calumet Shreveport Refining, L.L.C., et al.)",
+          "start": 3973.74
+        },
+        {
+          "title": "Huston - Justice Thomas",
+          "start": 4100.6
+        },
+        {
+          "title": "Huston - Justice Sotomayor",
+          "start": 4249.15
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 4379.01
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 4502.75
+        },
+        {
+          "title": "Huston - Justice Kagan",
+          "start": 4635.47
+        },
+        {
+          "title": "Huston - Justice Barrett",
+          "start": 4945.92
+        },
+        {
+          "title": "Huston - Justice Sotomayor",
+          "start": 5042.8
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 5216.085
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 5284.18
+        },
+        {
+          "title": "Huston - Justice Alito",
+          "start": 5408.86
+        },
+        {
+          "title": "Huston - Justice Gorsuch",
+          "start": 5541.17
+        },
+        {
+          "title": "Huston - Justice Sotomayor",
+          "start": 5590.71
+        },
+        {
+          "title": "Huston - Justice Gorsuch",
+          "start": 5646.84
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 5784.785
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 5929.27
+        },
+        {
+          "title": "Malcolm L. Stewart (for the Petitioner)",
+          "start": 6019.195
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1229.mp3"
     },
     "23-1067": {
