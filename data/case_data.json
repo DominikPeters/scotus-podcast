@@ -14647,14 +14647,127 @@
     },
     "23-1067": {
       "docket_number": "23-1067",
-      "name": "Oklahoma v. EPA",
-      "date_argued_timestamp": 1742860800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1067",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1067.mp3",
-      "mp3_length": 2870,
-      "mp3_size": 22967233,
-      "source": "scotus",
+      "name": "Oklahoma v. Environmental Protection Agency",
+      "date_argued_timestamp": 1742878800,
       "description": "<p>Oklahoma v. Environmental Protection Agency</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1067/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1067.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1067\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2025.</p>\n    <p>Petitioner: Oklahoma, et al.<br>Respondent: Environmental Protection Agency, et al.</p>\n    <p>Advocates: <ul><li>Mithun Mansinghani (for the Petitioners in No. 23-1067)</li>\n<li>Misha Tseytlin (for the Petitioners in No. 23-1068)</li>\n<li>Malcolm L. Stewart (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2015, the Environmental Protection Agency (EPA) strengthened its national air quality standards for ozone, requiring states to submit implementation plans that would prevent their emissions from significantly impacting other states\u2019 air quality. In February 2023, the EPA issued a final rule disapproving the plans submitted by 21 states, including Oklahoma and Utah, after evaluating them using a four-step framework designed to address interstate pollution. Oklahoma and Utah, along with various industry groups, challenged the EPA\u2019s disapproval of their plans in their respective regional circuit courts. The EPA responded by moving to transfer these cases to the U.S. Court of Appeals for the D.C. Circuit, arguing that because the disapprovals were published together in a single Federal Register notice and used a consistent analytical approach, they must be reviewed by the D.C. Circuit rather than regional courts.</p>\n<p>The U.S. Court of Appeals for the Tenth Circuit agreed with the EPA that the challenged rule is nationally applicable, so it granted the EPA\u2019s motions to transfer the petitions to the D.C. Circuit.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the U.S. Court of Appeals for the District of Columbia have exclusive jurisdiction to review an Environmental Protection Agency action that affects only one state or region, simply because the EPA published that action alongside actions affecting other states in a single Federal Register notice?</p>\n\n    ",
+      "mp3_length": 2870,
+      "mp3_size": 11510172,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Mithun Mansinghani (for the Petitioners in No. 23-1067)",
+          "start": 0.39
+        },
+        {
+          "title": "Mansinghani - Justice Thomas",
+          "start": 124.8
+        },
+        {
+          "title": "Mansinghani - Justice Sotomayor",
+          "start": 158.505
+        },
+        {
+          "title": "Mansinghani - Justice Gorsuch",
+          "start": 307.39
+        },
+        {
+          "title": "Mansinghani - Justice Jackson",
+          "start": 442.645
+        },
+        {
+          "title": "Mansinghani - Justice Gorsuch",
+          "start": 471.44
+        },
+        {
+          "title": "Mansinghani - Justice Jackson",
+          "start": 482.19
+        },
+        {
+          "title": "Mansinghani - Justice Gorsuch",
+          "start": 662.51
+        },
+        {
+          "title": "Mansinghani - Justice Kagan",
+          "start": 717.685
+        },
+        {
+          "title": "Mansinghani - Justice Kavanaugh",
+          "start": 893.83
+        },
+        {
+          "title": "Mansinghani - Justice Jackson",
+          "start": 942.45
+        },
+        {
+          "title": "Mansinghani - Justice Roberts",
+          "start": 983.605
+        },
+        {
+          "title": "Misha Tseytlin (for the Petitioners in No. 23-1068)",
+          "start": 989.56
+        },
+        {
+          "title": "Tseytlin - Justice Thomas",
+          "start": 1083.535
+        },
+        {
+          "title": "Tseytlin - Justice Jackson",
+          "start": 1247.42
+        },
+        {
+          "title": "Tseytlin - Justice Kavanaugh",
+          "start": 1356.12
+        },
+        {
+          "title": "Tseytlin - Justice Kagan",
+          "start": 1462.74
+        },
+        {
+          "title": "Tseytlin - Justice Gorsuch",
+          "start": 1653.795
+        },
+        {
+          "title": "Tseytlin - Justice Kavanaugh",
+          "start": 1681.835
+        },
+        {
+          "title": "Tseytlin - Justice Jackson",
+          "start": 1734.88
+        },
+        {
+          "title": "Malcolm L. Stewart (for the Respondents)",
+          "start": 1787.935
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 1932.385
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 1974.22
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 2056.33
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 2281.425
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 2327.89
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 2571.445
+        },
+        {
+          "title": "Mithun Mansinghani (for the Petitioners in No. 23-1067)",
+          "start": 2684.49
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1067.mp3"
     },
     "24-354": {
