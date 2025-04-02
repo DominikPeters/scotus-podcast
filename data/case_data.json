@@ -14784,14 +14784,215 @@
     },
     "24-154": {
       "docket_number": "24-154",
-      "name": "Catholic Charities Bureau v. WI Labor Review Comm'n",
-      "date_argued_timestamp": 1743379200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-154",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-154.mp3",
-      "mp3_length": 5959,
-      "mp3_size": 47680210,
-      "source": "scotus",
+      "name": "Catholic Charities Bureau, Inc. v. Wisconsin Labor & Industry Review Commission",
+      "date_argued_timestamp": 1743397200,
       "description": "<p>Catholic Charities Bureau, Inc. v. Wisconsin Labor & Industry Review Commission</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-154/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-154.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-154\">oyez.org</a></p>\n    <p>Argued on Mar 31, 2025.</p>\n    <p>Petitioner: Catholic Charities Bureau, Inc.<br>Respondent: Wisconsin Labor & Industry Review Commission.</p>\n    <p>Advocates: <ul><li>Eric C. Rassbach (for the Petitioners)</li>\n<li>Curtis E. Gannon (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Colin T. Roth (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Catholic Charities Bureau (CCB) is the social ministry arm of the Diocese of Superior in Wisconsin, operating since 1917 to provide services to the poor and disadvantaged as an expression of the Catholic Church's social ministry. The organization is controlled by the bishop of the Diocese, who serves as CCB\u2019s president and appoints its membership. CCB\u2019s mission is to provide service to people in need and advocate for justice, with a philosophy rooted in being \u201can effective sign of the charity of Christ.\u201d The organization makes no distinctions based on race, sex, or religion in its services, employment, or board appointments.</p>\n<p>Under CCB\u2019s umbrella are four sub-entities involved in this case: Barron County Developmental Services, Black River Industries, Diversified Services, and Headwaters. These entities provide various social services, including job placement and coaching for people with disabilities, community-based training, daily living services, and support programs. While CCB oversees these sub-entities and provides management services, the sub-entities themselves are primarily funded through government contracts and do not receive direct funding from the Diocese. Neither employees nor service recipients are required to be of any particular religious faith, and the programs do not provide religious training or attempt to promote the Catholic faith.</p>\n<p>CCB and its sub-entities sought an exemption from state unemployment insurance contributions in 2016, but the Department of Workforce Development denied the exemption. An administrative law judge reversed that decision, but then the Labor and Industry Review Commission (LIRC) reversed again, finding the organizations were not operated primarily for religious purposes. Then, the circuit court sided with CCB, and then the Wisconsin Court of Appeals reversed and reinstated LIRC\u2019s decision. Ultimately, the Wisconsin Supreme Court affirmed, holding that the organizations did not qualify for the religious purposes exemption under state law.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a state violate the First Amendment\u2019s religion clauses by denying a religious organization an otherwise-available tax exemption because the organization does not meet the state\u2019s criteria for religious behavior?</p>\n\n    ",
+      "mp3_length": 5959,
+      "mp3_size": 23866404,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Eric C. Rassbach (for the Petitioners)",
+          "start": 0.09
+        },
+        {
+          "title": "Rassbach - Justice Thomas",
+          "start": 93.24
+        },
+        {
+          "title": "Rassbach - Justice Kagan",
+          "start": 189.49
+        },
+        {
+          "title": "Rassbach - Justice Roberts",
+          "start": 276.35
+        },
+        {
+          "title": "Rassbach - Justice Jackson",
+          "start": 385.99
+        },
+        {
+          "title": "Rassbach - Justice Sotomayor",
+          "start": 632.25
+        },
+        {
+          "title": "Rassbach - Justice Jackson",
+          "start": 686.01
+        },
+        {
+          "title": "Rassbach - Justice Barrett",
+          "start": 790.435
+        },
+        {
+          "title": "Rassbach - Justice Alito",
+          "start": 1038.13
+        },
+        {
+          "title": "Rassbach - Justice Sotomayor",
+          "start": 1249.35
+        },
+        {
+          "title": "Rassbach - Justice Kagan",
+          "start": 1456.21
+        },
+        {
+          "title": "Rassbach - Justice Gorsuch",
+          "start": 1578.39
+        },
+        {
+          "title": "Rassbach - Justice Kavanaugh",
+          "start": 1700.44
+        },
+        {
+          "title": "Rassbach - Justice Barrett",
+          "start": 1893.475
+        },
+        {
+          "title": "Rassbach - Justice Jackson",
+          "start": 2063.81
+        },
+        {
+          "title": "Curtis E. Gannon (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 2279.43
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 2341.97
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 2457.395
+        },
+        {
+          "title": "Gannon - Justice Kavanaugh",
+          "start": 2685.31
+        },
+        {
+          "title": "Gannon - Justice Gorsuch",
+          "start": 2781.27
+        },
+        {
+          "title": "Gannon - Justice Barrett",
+          "start": 2868.01
+        },
+        {
+          "title": "Gannon - Justice Roberts",
+          "start": 2951.22
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 3043.45
+        },
+        {
+          "title": "Gannon - Justice Gorsuch",
+          "start": 3157.05499995
+        },
+        {
+          "title": "Gannon - Justice Kavanaugh",
+          "start": 3195.47
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 3341.635
+        },
+        {
+          "title": "Colin T. Roth (for the Respondents)",
+          "start": 3638.59
+        },
+        {
+          "title": "Roth - Justice Thomas",
+          "start": 3771.96000005
+        },
+        {
+          "title": "Roth - Justice Kagan",
+          "start": 3825.29
+        },
+        {
+          "title": "Roth - Justice Gorsuch",
+          "start": 3913.34
+        },
+        {
+          "title": "Roth - Justice Kavanaugh",
+          "start": 3999.365
+        },
+        {
+          "title": "Roth - Justice Roberts",
+          "start": 4092.7
+        },
+        {
+          "title": "Roth - Justice Gorsuch",
+          "start": 4149.17
+        },
+        {
+          "title": "Roth - Justice Kagan",
+          "start": 4249.26
+        },
+        {
+          "title": "Roth - Justice Gorsuch",
+          "start": 4367.38
+        },
+        {
+          "title": "Roth - Justice Roberts",
+          "start": 4420.56
+        },
+        {
+          "title": "Roth - Justice Barrett",
+          "start": 4480.56
+        },
+        {
+          "title": "Roth - Justice Gorsuch",
+          "start": 4565.02
+        },
+        {
+          "title": "Roth - Justice Barrett",
+          "start": 4660.87
+        },
+        {
+          "title": "Roth - Justice Jackson",
+          "start": 4742.59
+        },
+        {
+          "title": "Roth - Justice Kavanaugh",
+          "start": 4839.23
+        },
+        {
+          "title": "Roth - Justice Alito",
+          "start": 5006.445
+        },
+        {
+          "title": "Roth - Justice Kagan",
+          "start": 5074.74
+        },
+        {
+          "title": "Roth - Justice Gorsuch",
+          "start": 5196.44
+        },
+        {
+          "title": "Roth - Justice Barrett",
+          "start": 5362.45
+        },
+        {
+          "title": "Roth - Justice Roberts",
+          "start": 5455.67
+        },
+        {
+          "title": "Roth - Justice Thomas",
+          "start": 5466.34500005
+        },
+        {
+          "title": "Roth - Justice Alito",
+          "start": 5607.54
+        },
+        {
+          "title": "Roth - Justice Sotomayor",
+          "start": 5693.52
+        },
+        {
+          "title": "Eric C. Rassbach (for the Petitioners)",
+          "start": 5834.12500005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-154.mp3"
     },
     "23-1345": {
