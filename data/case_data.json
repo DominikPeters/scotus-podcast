@@ -15022,13 +15022,154 @@
     "23-1275": {
       "docket_number": "23-1275",
       "name": "Medina v. Planned Parenthood South Atlantic",
-      "date_argued_timestamp": 1743552000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/23-1275",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1275.mp3",
-      "mp3_length": 5617,
-      "mp3_size": 44945389,
-      "source": "scotus",
+      "date_argued_timestamp": 1743570000,
       "description": "<p>Medina v. Planned Parenthood South Atlantic</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/23-1275/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1275.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/23-1275\">oyez.org</a></p>\n    <p>Argued on Apr 2, 2025.</p>\n    <p>Petitioner: Eunice Medina, Interim Director, South Carolina Department of Health and Human Services.<br>Respondent: Planned Parenthood South Atlantic.</p>\n    <p>Advocates: <ul><li>John J. Bursch (for the Petitioner)</li>\n<li>Kyle D. Hawkins (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Nicole A. Saharsky (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Medicaid, established in 1965, is a cooperative federal-state program that provides medical assistance to needy individuals. The program offers federal funding to states that agree to comply with certain conditions, including the \u201cfree-choice-of-provider\u201d provision added in 1967, which ensures Medicaid beneficiaries can obtain medical assistance from any qualified provider. States must submit their medical assistance plans to the Secretary of Health and Human Services for approval, and the Secretary can withhold funds if states fail to comply with federal requirements.</p>\n<p>In South Carolina, Planned Parenthood South Atlantic operates two health centers providing various medical services, including contraception, cancer screenings, and STI treatment. Julie Edwards, a Medicaid beneficiary, received care at Planned Parenthood and planned to continue her gynecological care there. However, in July 2018, South Carolina\u2019s Governor issued an executive order directing the Department of Health and Human Services to terminate abortion clinics from the Medicaid program. As a result, DHHS informed Planned Parenthood that it was no longer qualified to provide services to Medicaid beneficiaries and terminated its enrollment agreements immediately. Planned Parenthood and Edwards then sued the Director of DHHS in federal court, seeking to block enforcement of the executive order.</p>\n<p>The district court initially granted a preliminary injunction blocking South Carolina from terminating Planned Parenthood\u2019s Medicaid enrollment, and after multiple appeals to the U.S. Court of Appeals for the Fourth Circuit and one previous remand from the Supreme Court, the Fourth Circuit again held that Medicaid beneficiaries can sue to enforce their right to choose their provider.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Medicaid Act\u2019s \u201cany qualified provider\u201d provision unambiguously confer a private right upon a Medicaid beneficiary to choose a specific provider?</p>\n\n    ",
+      "mp3_length": 5617,
+      "mp3_size": 22499259,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "John J. Bursch (for the Petitioner)",
+          "start": 0.075
+        },
+        {
+          "title": "Bursch - Justice Thomas",
+          "start": 123.42
+        },
+        {
+          "title": "Bursch - Justice Sotomayor",
+          "start": 227.725
+        },
+        {
+          "title": "Bursch - Justice Kagan",
+          "start": 446.45
+        },
+        {
+          "title": "Bursch - Justice Roberts",
+          "start": 595.84
+        },
+        {
+          "title": "Bursch - Justice Sotomayor",
+          "start": 631.365
+        },
+        {
+          "title": "Bursch - Justice Jackson",
+          "start": 728.4
+        },
+        {
+          "title": "Bursch - Justice Kagan",
+          "start": 996.155
+        },
+        {
+          "title": "Bursch - Justice Gorsuch",
+          "start": 1109.58
+        },
+        {
+          "title": "Bursch - Justice Kavanaugh",
+          "start": 1227.42
+        },
+        {
+          "title": "Bursch - Justice Barrett",
+          "start": 1501.6
+        },
+        {
+          "title": "Bursch - Justice Jackson",
+          "start": 1760.66
+        },
+        {
+          "title": "Kyle D. Hawkins (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 2137.19
+        },
+        {
+          "title": "Hawkins - Justice Thomas",
+          "start": 2211.055
+        },
+        {
+          "title": "Hawkins - Justice Kagan",
+          "start": 2247.71
+        },
+        {
+          "title": "Hawkins - Justice Sotomayor",
+          "start": 2356.92
+        },
+        {
+          "title": "Hawkins - Justice Kagan",
+          "start": 2635.2
+        },
+        {
+          "title": "Hawkins - Justice Kavanaugh",
+          "start": 2780.16
+        },
+        {
+          "title": "Hawkins - Justice Barrett",
+          "start": 2976.425
+        },
+        {
+          "title": "Hawkins - Justice Jackson",
+          "start": 3051.9
+        },
+        {
+          "title": "Nicole A. Saharsky (for the Respondents)",
+          "start": 3238.48
+        },
+        {
+          "title": "Saharsky - Justice Thomas",
+          "start": 3358.04
+        },
+        {
+          "title": "Saharsky - Justice Roberts",
+          "start": 3569.65
+        },
+        {
+          "title": "Saharsky - Justice Kavanaugh",
+          "start": 3662.85
+        },
+        {
+          "title": "Saharsky - Justice Gorsuch",
+          "start": 3798.235
+        },
+        {
+          "title": "Saharsky - Justice Kavanaugh",
+          "start": 4017.63
+        },
+        {
+          "title": "Saharsky - Justice Alito",
+          "start": 4198.73
+        },
+        {
+          "title": "Saharsky - Justice Barrett",
+          "start": 4513.705
+        },
+        {
+          "title": "Saharsky - Justice Roberts",
+          "start": 4664.595
+        },
+        {
+          "title": "Saharsky - Justice Kagan",
+          "start": 4869.84
+        },
+        {
+          "title": "Saharsky - Justice Barrett",
+          "start": 4940.88
+        },
+        {
+          "title": "Saharsky - Justice Sotomayor",
+          "start": 5058.43
+        },
+        {
+          "title": "Saharsky - Justice Kavanaugh",
+          "start": 5276.5
+        },
+        {
+          "title": "Saharsky - Justice Jackson",
+          "start": 5391.93
+        },
+        {
+          "title": "John J. Bursch (for the Petitioner)",
+          "start": 5469.295
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1275.mp3"
     }
   }
