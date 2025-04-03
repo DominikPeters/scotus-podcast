@@ -15009,14 +15009,163 @@
     },
     "24-20": {
       "docket_number": "24-20",
-      "name": "Fuld v. PLO",
-      "date_argued_timestamp": 1743465600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-20",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-20.mp3",
-      "mp3_length": 6786,
-      "mp3_size": 54299689,
-      "source": "scotus",
+      "name": "Fuld v. Palestine Liberation Organization",
+      "date_argued_timestamp": 1743483600,
       "description": "<p>Fuld v. Palestine Liberation Organization</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Fuld_v._Palestine_Liberation_Organization\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-20/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-20.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-20\">oyez.org</a></p>\n    <p>Argued on Apr 1, 2025.</p>\n    <p>Petitioner: Miriam Fuld.<br>Respondent: Palestine Liberation Organization.</p>\n    <p>Advocates: <ul><li>Kent A. Yalowitz (for the Petitioners in No. 24-20)</li>\n<li>Edwin S. Kneedler (for the Petitioner in No. 24-151)</li>\n<li>Mitchell R. Berger (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>A group of United States citizens who were injured in terror attacks in Israel, along with the estates and survivors of U.S. citizens killed in such attacks, filed a lawsuit in 2004 against the Palestine Liberation Organization (PLO) and the Palestinian Authority (PA). The PLO, founded in 1964, conducts Palestine\u2019s foreign affairs and serves as a Permanent Observer to the United Nations, while the PA was established under the 1993 Oslo Accords to serve as the interim governing body for parts of the Gaza Strip and West Bank. The plaintiffs sought damages under the Anti-Terrorism Act for the defendants\u2019 alleged involvement in these attacks. At trial, a jury found the defendants liable for six terror attacks and awarded $218.5 million in damages (automatically trebled to $655.5 million under the Anti-Terrorism Act), but the U.S. Court of Appeals for the Second Circuit vacated this judgment in 2016, finding that U.S. courts lacked personal jurisdiction over the PLO and PA.</p>\n<p>In 2019, Congress enacted the Promoting Security and Justice for Victims of Terrorism Act. This law deemed the PLO and PA to have consented to personal jurisdiction in U.S. courts if they engaged in certain conduct after the law\u2019s enactment: either making payments to families of deceased terrorists or designees of imprisoned terrorists who harmed U.S. nationals, or conducting various activities within the United States (with some exceptions for UN-related activities). After the district court found that the defendants had made qualifying payments following the Act\u2019s enactment, the Second Circuit ultimately concluded that this consent provision violated the Due Process Clause of the Fifth Amendment.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Promoting Security and Justice for Victims of Terrorism Act violate the Due Process Clause of the Fifth Amendment?</p>\n\n    ",
+      "mp3_length": 6786,
+      "mp3_size": 27176431,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Kent A. Yalowitz (for the Petitioners in No. 24-20)",
+          "start": 0.08
+        },
+        {
+          "title": "Yalowitz - Justice Thomas",
+          "start": 112.755
+        },
+        {
+          "title": "Yalowitz - Justice Kagan",
+          "start": 226.46
+        },
+        {
+          "title": "Yalowitz - Justice Barrett",
+          "start": 331.75
+        },
+        {
+          "title": "Yalowitz - Justice Sotomayor",
+          "start": 382.88
+        },
+        {
+          "title": "Yalowitz - Justice Jackson",
+          "start": 572.065
+        },
+        {
+          "title": "Yalowitz - Justice Alito",
+          "start": 688.14
+        },
+        {
+          "title": "Yalowitz - Justice Gorsuch",
+          "start": 812.305
+        },
+        {
+          "title": "Yalowitz - Justice Sotomayor",
+          "start": 953.485
+        },
+        {
+          "title": "Yalowitz - Justice Kagan",
+          "start": 1027.735
+        },
+        {
+          "title": "Yalowitz - Justice Gorsuch",
+          "start": 1282.545
+        },
+        {
+          "title": "Yalowitz - Justice Kavanaugh",
+          "start": 1619.54
+        },
+        {
+          "title": "Yalowitz - Justice Barrett",
+          "start": 1693.14
+        },
+        {
+          "title": "Yalowitz - Justice Jackson",
+          "start": 1968.73
+        },
+        {
+          "title": "Edwin S. Kneedler (for the Petitioner in No. 24-151)",
+          "start": 2181.58
+        },
+        {
+          "title": "Kneedler - Justice Thomas",
+          "start": 2300.365
+        },
+        {
+          "title": "Kneedler - Justice Roberts",
+          "start": 2443.55
+        },
+        {
+          "title": "Kneedler - Justice Gorsuch",
+          "start": 2608.675
+        },
+        {
+          "title": "Kneedler - Justice Kagan",
+          "start": 2882.39
+        },
+        {
+          "title": "Kneedler - Justice Roberts",
+          "start": 3067.14
+        },
+        {
+          "title": "Kneedler - Justice Thomas",
+          "start": 3135.77
+        },
+        {
+          "title": "Kneedler - Justice Alito",
+          "start": 3223.1
+        },
+        {
+          "title": "Kneedler - Justice Sotomayor",
+          "start": 3606.28
+        },
+        {
+          "title": "Kneedler - Justice Kavanaugh",
+          "start": 3967.72
+        },
+        {
+          "title": "Kneedler - Justice Barrett",
+          "start": 4227.285
+        },
+        {
+          "title": "Kneedler - Justice Jackson",
+          "start": 4383.085
+        },
+        {
+          "title": "Mitchell R. Berger (for the Respondents)",
+          "start": 4757.85
+        },
+        {
+          "title": "Berger - Justice Thomas",
+          "start": 4902.99
+        },
+        {
+          "title": "Berger - Justice Sotomayor",
+          "start": 5033.91
+        },
+        {
+          "title": "Berger - Justice Kagan",
+          "start": 5233.36
+        },
+        {
+          "title": "Berger - Justice Gorsuch",
+          "start": 5370.015
+        },
+        {
+          "title": "Berger - Justice Barrett",
+          "start": 5584.31
+        },
+        {
+          "title": "Berger - Justice Jackson",
+          "start": 6000.91
+        },
+        {
+          "title": "Berger - Justice Kagan",
+          "start": 6323.49
+        },
+        {
+          "title": "Berger - Justice Alito",
+          "start": 6406.27
+        },
+        {
+          "title": "Berger - Justice Roberts",
+          "start": 6574.245
+        },
+        {
+          "title": "Edwin S. Kneedler (for the Petitioner in No. 24-151)",
+          "start": 6596.575
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.mp3"
     },
     "23-1275": {

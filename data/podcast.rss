@@ -52,10 +52,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5617</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 02 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1275.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[24-20] Fuld v. PLO</title>
+            <title>[24-20] Fuld v. Palestine Liberation Organization</title>
             <description><![CDATA[<p>Fuld v. Palestine Liberation Organization</p>
     <p><a href="https://en.wikipedia.org/wiki/Fuld_v._Palestine_Liberation_Organization">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/24-20/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-20.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-20">oyez.org</a></p>
     <p>Argued on Apr 1, 2025.</p>
@@ -69,11 +68,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the Promoting Security and Justice for Victims of Terrorism Act violate the Due Process Clause of the Fifth Amendment?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.mp3" length="54299689" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.mp3" length="27176431" type="audio/mpeg"/>
             <guid>scotus_2024_24-20_v0</guid>
             <itunes:duration>6786</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 01 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-154] Catholic Charities Bureau, Inc. v. Wisconsin Labor &amp; Industry Review Commission</title>
