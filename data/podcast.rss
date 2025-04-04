@@ -73,7 +73,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>6786</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 01 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-154] Catholic Charities Bureau, Inc. v. Wisconsin Labor &amp; Industry Review Commission</title>
@@ -112,11 +111,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does 28 U.S.C. § 2244(b)(2) apply to all second habeas petitions, or only specific types of second petitions?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1345.mp3" length="24846482" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1345.mp3" length="12449535" type="audio/mpeg"/>
             <guid>scotus_2024_23-1345_v0</guid>
             <itunes:duration>3104</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 31 Mar 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1345.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-354] FCC v. Consumers&#x27; Research</title>
