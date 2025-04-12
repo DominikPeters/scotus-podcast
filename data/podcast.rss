@@ -116,7 +116,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3104</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 31 Mar 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1345.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-354] FCC v. Consumers&#x27; Research</title>
@@ -124,7 +123,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-354/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-354.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-354">oyez.org</a></p>
     <p>Argued on Mar 26, 2025.</p>
     <p>Petitioner: Federal Communications Commission, et al.<br>Respondent: Consumers' Research, et al.</p>
-    
+    <p>Advocates: <ul><li>Sarah M. Harris (for the Petitioners in No. 24-354)</li>
+<li>Paul D. Clement (for the Petitioners in No. 24-422)</li>
+<li>R. Trent McCotter (for the Respondents)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>The Federal Communications Commission (FCC) was established in 1934 to regulate interstate communications and ensure widespread access to telecommunications services. To further this mission, Congress in 1996 instructed the FCC to establish and maintain a universal service fund, requiring telecommunications carriers to contribute quarterly based on their revenues. The FCC partners with the Universal Service Administrative Company (USAC), a private entity, to manage this process—USAC calculates projected demand and contribution factors using FCC formulas, submits these proposals to the FCC for approval, and then uses the approved figures to determine individual contribution amounts.</p>
 <p>Consumers’ Research challenged the constitutionality of the 1996 Telecommunications Act’s universal service requirements and the FCC’s implementation of those requirements. Their primary arguments were twofold: first, that Congress unconstitutionally delegated its legislative power to the FCC through the universal service provisions, and second, that the FCC improperly delegated its authority to a private entity (USAC) to manage the universal service fund.</p>
@@ -1455,16 +1456,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/22O141.mp3" length="16510636" type="audio/mpeg"/>
             <guid>scotus_2023_22O141_v0</guid>
             <itunes:duration>4120</itunes:duration>
-            <itunes:season>2023</itunes:season>
-            <pubDate>Wed, 20 Mar 2024 10:00:00 -0400</pubDate>
-        </item>
-    <item>
-            <title>[141-Orig] Texas v. New Mexico and Colorado</title>
-            <description><![CDATA[<p>Oral argument for Texas v. New Mexico and Colorado, argued on March 20, 2024.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2023/141-Orig.mp3" length="27671956" type="audio/mpeg"/>
-            <guid>scotus_2023_141-Orig_v0</guid>
-            <itunes:duration>3458</itunes:duration>
             <itunes:season>2023</itunes:season>
             <pubDate>Wed, 20 Mar 2024 10:00:00 -0400</pubDate>
         </item>
