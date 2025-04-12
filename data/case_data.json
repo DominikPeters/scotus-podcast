@@ -1561,18 +1561,6 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3"
     },
-    "141-Orig": {
-      "docket_number": "141-Orig",
-      "name": "Texas v. New Mexico and Colorado",
-      "date_argued_timestamp": 1710892800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2023/141-Orig_2",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/141-Orig.mp3",
-      "mp3_length": 3458,
-      "mp3_size": 27671956,
-      "source": "scotus",
-      "description": "<p>Oral argument for Texas v. New Mexico and Colorado, argued on March 20, 2024.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/141-Orig.mp3"
-    },
     "22O141": {
       "docket_number": "22O141",
       "name": "Texas v. New Mexico and Colorado",
