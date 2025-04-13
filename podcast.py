@@ -62,8 +62,6 @@ def shorten_commit_message():
     # Join all parts with periods
     output_string = ". ".join(output_parts) + ("." if output_parts else "")
 
-    assert output_string
-
     # Write the shortened output
     with open("commit_message.txt", "w") as f:
         f.write(output_string)
