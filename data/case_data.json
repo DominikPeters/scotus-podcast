@@ -14760,14 +14760,203 @@
     },
     "24-354": {
       "docket_number": "24-354",
-      "name": "FCC v. Consumers' Research",
-      "date_argued_timestamp": 1742947200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-354",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-354.mp3",
-      "mp3_length": 9198,
-      "mp3_size": 73598249,
-      "source": "scotus",
+      "name": "Federal Communications Commission v. Consumers\u2019 Research",
+      "date_argued_timestamp": 1742965200,
       "description": "<p>Federal Communications Commission v. Consumers\u2019 Research</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-354/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-354.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-354\">oyez.org</a></p>\n    <p>Argued on Mar 26, 2025.</p>\n    <p>Petitioner: Federal Communications Commission, et al.<br>Respondent: Consumers' Research, et al.</p>\n    <p>Advocates: <ul><li>Sarah M. Harris (for the Petitioners in No. 24-354)</li>\n<li>Paul D. Clement (for the Petitioners in No. 24-422)</li>\n<li>R. Trent McCotter (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The Federal Communications Commission (FCC) was established in 1934 to regulate interstate communications and ensure widespread access to telecommunications services. To further this mission, Congress in 1996 instructed the FCC to establish and maintain a universal service fund, requiring telecommunications carriers to contribute quarterly based on their revenues. The FCC partners with the Universal Service Administrative Company (USAC), a private entity, to manage this process\u2014USAC calculates projected demand and contribution factors using FCC formulas, submits these proposals to the FCC for approval, and then uses the approved figures to determine individual contribution amounts.</p>\n<p>Consumers\u2019 Research challenged the constitutionality of the 1996 Telecommunications Act\u2019s universal service requirements and the FCC\u2019s implementation of those requirements. Their primary arguments were twofold: first, that Congress unconstitutionally delegated its legislative power to the FCC through the universal service provisions, and second, that the FCC improperly delegated its authority to a private entity (USAC) to manage the universal service fund.</p>\n<p>The U.S. Court of Appeals for the Eleventh Circuit denied the petition, finding no constitutional violations in either delegation. The Court determined that Congress provided sufficient guidance (an \u201cintelligible principle\u201d) to the FCC in the statute, and that the FCC maintained adequate control and oversight over USAC\u2019s activities in managing the universal service fund, preventing any improper delegation of government authority to a private entity.</p>\n\n    <p><b>Question</b></p>\n    <p>Did Congress violate the Constitution in the way it delegated power to the FCC to collect Universal Service Fund money, and did the FCC violate the Constitution by letting a private, industry-controlled company make those collection decisions?</p>\n\n    ",
+      "mp3_length": 9198,
+      "mp3_size": 36825646,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Sarah M. Harris (for the Petitioners in No. 24-354)",
+          "start": 0.06
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 127.825
+        },
+        {
+          "title": "Harris - Justice Roberts",
+          "start": 311.68999995
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 539.07
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 676.59
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 988.94
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 1095.425
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 1314.34
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 1412.24
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 1782.415
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 1894.57999995
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 2488.9
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 2823.28
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 3143.75
+        },
+        {
+          "title": "Paul D. Clement (for the Petitioners in No. 24-422)",
+          "start": 3371.515
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 3439.69
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 3610.23
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 3948.05
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4131.38
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 4235.485
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 4552.37
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4806.3
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 5009.28
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 5268.43
+        },
+        {
+          "title": "R. Trent McCotter (for the Respondents)",
+          "start": 5528.87
+        },
+        {
+          "title": "McCotter - Justice Thomas",
+          "start": 5660.815
+        },
+        {
+          "title": "McCotter - Justice Kagan",
+          "start": 5789.21
+        },
+        {
+          "title": "McCotter - Justice Jackson",
+          "start": 6022.85
+        },
+        {
+          "title": "McCotter - Justice Kavanaugh",
+          "start": 6219
+        },
+        {
+          "title": "McCotter - Justice Jackson",
+          "start": 6353.74
+        },
+        {
+          "title": "McCotter - Justice Barrett",
+          "start": 6356.315
+        },
+        {
+          "title": "McCotter - Justice Kavanaugh",
+          "start": 6529.71
+        },
+        {
+          "title": "McCotter - Justice Roberts",
+          "start": 6576.84
+        },
+        {
+          "title": "McCotter - Justice Kavanaugh",
+          "start": 6621.59
+        },
+        {
+          "title": "McCotter - Justice Jackson",
+          "start": 6757.76
+        },
+        {
+          "title": "McCotter - Justice Kagan",
+          "start": 6779.61
+        },
+        {
+          "title": "McCotter - Justice Sotomayor",
+          "start": 6881.245
+        },
+        {
+          "title": "McCotter - Justice Gorsuch",
+          "start": 6983.37
+        },
+        {
+          "title": "McCotter - Justice Kagan",
+          "start": 7048.785
+        },
+        {
+          "title": "McCotter - Justice Gorsuch",
+          "start": 7255.64
+        },
+        {
+          "title": "McCotter - Justice Alito",
+          "start": 7344.55
+        },
+        {
+          "title": "McCotter - Justice Sotomayor",
+          "start": 7758.685
+        },
+        {
+          "title": "McCotter - Justice Kagan",
+          "start": 8053.195
+        },
+        {
+          "title": "McCotter - Justice Kavanaugh",
+          "start": 8306.32
+        },
+        {
+          "title": "McCotter - Justice Barrett",
+          "start": 8574.9
+        },
+        {
+          "title": "McCotter - Justice Jackson",
+          "start": 8713.075
+        },
+        {
+          "title": "Sarah M. Harris (for the Petitioners in No. 24-354)",
+          "start": 9011.75
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-354.mp3"
     },
     "24-154": {
