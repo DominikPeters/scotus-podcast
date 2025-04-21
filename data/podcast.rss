@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-316] Kennedy, Sec. of H&amp;HS v. Braidwood Mgmt., Inc.</title>
+            <description><![CDATA[<p>Kennedy v. Braidwood Management, Inc.</p>
+    <p><a href="https://en.wikipedia.org/wiki/Kennedy_v._Braidwood_Management,_Inc.">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/24-316/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-316.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-316">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Robert F. Kennedy, Jr., Secretary of Health and Human Services.<br>Respondent: Braidwood Management, Inc.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In 2010, Congress passed the Affordable Care Act (ACA), which requires private insurers to cover certain preventive-care services without cost sharing. Rather than defining these services directly, the ACA empowers three agencies within the Department of Health and Human Services to determine required services: the United States Preventive Services Task Force (Task Force), the Advisory Committee on Immunization Practices (ACIP), and the Health Resources and Services Administration (HRSA). The Task Force consists of sixteen volunteer experts serving four-year terms, ACIP has fifteen members selected by the HHS Secretary, and HRSA operates through offices and bureaus reporting to the HHS Secretary.</p>
+<p>Over the years, these agencies issued various preventive care recommendations, including ACIP’s 2007 recommendation for HPV vaccines, HRSA’s 2011 guidelines for contraceptive coverage, and the Task Force’s 2019 recommendation for HIV prevention drugs (PrEP). Four individuals and two Christian-based businesses in Texas challenged these requirements, arguing that mandatory coverage of these services violated their religious beliefs by making them “complicit in facilitating homosexual behavior, drug use, and sexual activity outside of marriage between one man and one woman.”</p>
+<p>The plaintiffs filed suit in 2020 against the federal government and various department secretaries, primarily arguing that the structure of these agencies violated the Appointments Clause of the Constitution. The district court ruled in their favor regarding the Task Force but rejected their challenges to ACIP and HRSA, and both parties appealed. The U.S. Court of Appeals for the Fifth Circuit held that the Task Force’s structure violated the Appointments Clause and upheld the injunction against enforcing its recommendations, but reversed the district court’s universal remedies and remanded for further consideration of whether HHS properly ratified ACIP and HRSA’s recommendations.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the structure of the U.S. Preventive Services Task Force violate the Constitution’s Appointments Clause, and if so, is the provision that insulates the task force from the Health &amp; Human Services secretary’s supervision severable from the rest of the statute?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-316.mp3" length="41385925" type="audio/mpeg"/>
+            <guid>scotus_2024_24-316_v0</guid>
+            <itunes:duration>5172</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 21 Apr 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[23-1275] Medina v. Planned Parenthood South Atlantic</title>
             <description><![CDATA[<p>Medina v. Planned Parenthood South Atlantic</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/23-1275/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/23-1275.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/23-1275">oyez.org</a></p>
@@ -138,7 +158,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>9198</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 26 Mar 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-354.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1229] Environmental Protection Agency v. Calumet Shreveport Refining, LLC</title>
