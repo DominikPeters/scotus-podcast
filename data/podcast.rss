@@ -50,7 +50,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Mon, 28 Apr 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-7] Diamond Alternative Energy, LLC v. EPA</title>
+            <title>[24-320] Soto v. United States</title>
+            <description><![CDATA[<p>Soto v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-320/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-320.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-320">oyez.org</a></p>
+    <p>Argued on Apr 28, 2025.</p>
+    <p>Petitioner: Simon A. Soto.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Simon Soto, a Marine Corps veteran with a combat-related disability, was medically retired in 2006 with less than 20 years of service. Although he became eligible for Combat-Related Special Compensation (CRSC) in 2009 when he received his disability rating, he did not apply until 2016. The Navy used the Barring Act’s six-year limitation period to calculate his retroactive payments, giving him payments dating back only to 2010 instead of to 2008 when Congress had expanded CRSC eligibility to veterans with less than 20 years of service. Soto filed a class action lawsuit on behalf of himself and other similarly situated veterans who received only six years of back payments, arguing that the CRSC statute’s own procedures should apply instead of the Barring Act’s six-year limit.</p>
+<p>The district court granted summary judgment to Soto’s class, holding that the CRSC statute was more specific and therefore superseded the Barring Act. The court also applied the pro-veteran canon of statutory interpretation, resolving any doubt in favor of the veterans. On appeal, the U.S. Court of Appeals for the Federal Circuit reversed.</p>
+
+    <p><b>Question</b></p>
+    <p>When disabled combat veterans claim past-due compensation, should the military use the CRSC statute's rules to calculate how far back they can be paid, or should it use the Barring Act's six-year limit?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.mp3" length="30168021" type="audio/mpeg"/>
+            <guid>scotus_2024_24-320_v0</guid>
+            <itunes:duration>3770</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 28 Apr 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[24-7] Diamond Alternative Energy LLC v. Environmental Protection Agency</title>
             <description><![CDATA[<p>Diamond Alternative Energy LLC v. Environmental Protection Agency</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-7/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-7.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-7">oyez.org</a></p>
     <p>Argued on Apr 23, 2025.</p>
@@ -65,11 +84,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May a party establish the redressability component of Article III standing by pointing to the coercive and predictable effects of regulation on third parties?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.mp3" length="31147281" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.mp3" length="15600216" type="audio/mpeg"/>
             <guid>scotus_2024_24-7_v0</guid>
             <itunes:duration>3892</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 23 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-416] Commissioner of Internal Revenue v. Zuch</title>
@@ -91,7 +111,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>2852</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 22 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-416.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-297] Mahmoud v. Taylor</title>
