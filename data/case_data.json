@@ -15617,14 +15617,111 @@
     },
     "24-416": {
       "docket_number": "24-416",
-      "name": "CIR v. Zuch",
-      "date_argued_timestamp": 1745280000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-416",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-416.mp3",
-      "mp3_length": 2852,
-      "mp3_size": 22829549,
-      "source": "scotus",
+      "name": "Commissioner of Internal Revenue v. Zuch",
+      "date_argued_timestamp": 1745298000,
       "description": "<p>Commissioner of Internal Revenue v. Zuch</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-416/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-416.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-416\">oyez.org</a></p>\n    <p>Argued on Apr 22, 2025.</p>\n    <p>Petitioner: Commissioner of Internal Revenue.<br>Respondent: Jennifer Zuch.</p>\n    <p>Advocates: <ul><li>Erica L. Ross (for the Petitioner)</li>\n<li>Shay Dvoretzky (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2010 and 2011, while still married, Jennifer Zuch and Patrick Gennardo made two estimated tax payments totaling $50,000 for their 2010 taxes, without specifying how to allocate the payments between them. In September 2012, after filing separate tax returns, Gennardo reported owing $385,393 while Zuch reported an overpayment. The IRS applied the entire $50,000 in estimated payments to Gennardo\u2019s liability. When Zuch later filed an amended return reporting additional income and claiming her share of the $50,000, the IRS assessed the additional tax but did not credit her for any portion of the estimated payments, even after Gennardo filed his own amended return indicating the payments should be allocated to Zuch.</p>\n<p>In August 2013, the IRS notified Zuch of its intent to levy her property to collect approximately $36,000 in unpaid 2010 taxes. During the ensuing Collection Due Process hearing, Zuch challenged her underlying tax liability, arguing she was entitled to credit for the estimated payments. Meanwhile, over several years while Zuch was disputing her 2010 liability, the IRS repeatedly took her tax refunds from other years and applied them to what it calculated as her 2010 liability, eventually reducing the balance to zero by April 2019.</p>\n<p>The case went through the Tax Court, which initially denied summary judgment and remanded to the IRS Office of Appeals. When the balance was reduced to zero through the IRS\u2019s seizure of Zuch's later tax refunds, the Tax Court dismissed the case as moot. The U.S. Court of Appeals for the Third Circuit reversed, holding that the IRS cannot eliminate Tax Court jurisdiction over a disputed tax liability simply by seizing a taxpayer\u2019s refunds to cover the contested debt.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a proceeding under 26 U.S.C. \u00a7 6330 for a pre-deprivation determination about a levy proposed by the Internal Revenue Service to collect unpaid taxes become moot when there is no longer a live dispute over the proposed levy that gave rise to the proceeding?</p>\n\n    ",
+      "mp3_length": 2852,
+      "mp3_size": 11441418,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Erica L. Ross (for the Petitioner)",
+          "start": 0.115
+        },
+        {
+          "title": "Ross - Justice Thomas",
+          "start": 138.17
+        },
+        {
+          "title": "Ross - Justice Gorsuch",
+          "start": 339.565
+        },
+        {
+          "title": "Ross - Justice Kavanaugh",
+          "start": 585.31
+        },
+        {
+          "title": "Ross - Justice Gorsuch",
+          "start": 673.14
+        },
+        {
+          "title": "Ross - Justice Jackson",
+          "start": 751.5
+        },
+        {
+          "title": "Ross - Justice Gorsuch",
+          "start": 827.89
+        },
+        {
+          "title": "Ross - Justice Kagan",
+          "start": 971.29
+        },
+        {
+          "title": "Ross - Justice Jackson",
+          "start": 1116.1
+        },
+        {
+          "title": "Ross - Justice Sotomayor",
+          "start": 1164.455
+        },
+        {
+          "title": "Ross - Justice Jackson",
+          "start": 1269.08
+        },
+        {
+          "title": "Ross - Justice Sotomayor",
+          "start": 1310.755
+        },
+        {
+          "title": "Ross - Justice Alito",
+          "start": 1363.71
+        },
+        {
+          "title": "Ross - Justice Gorsuch",
+          "start": 1462.91
+        },
+        {
+          "title": "Shay Dvoretzky (for the Respondent)",
+          "start": 1610.95
+        },
+        {
+          "title": "Dvoretzky - Justice Thomas",
+          "start": 1734.705
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 1847.22
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 2115.665
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 2342.485
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 2405.43
+        },
+        {
+          "title": "Dvoretzky - Justice Alito",
+          "start": 2489.22
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 2530.915
+        },
+        {
+          "title": "Dvoretzky - Justice Gorsuch",
+          "start": 2569.79
+        },
+        {
+          "title": "Erica L. Ross (for the Petitioner)",
+          "start": 2663.46
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-416.mp3"
     },
     "24-7": {
@@ -15638,6 +15735,18 @@
       "source": "scotus",
       "description": "<p>Diamond Alternative Energy LLC v. Environmental Protection Agency</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-7/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-7.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-7\">oyez.org</a></p>\n    <p>Argued on Apr 23, 2025.</p>\n    <p>Petitioner: Diamond Alternative Energy LLC.<br>Respondent: Environmental Protection Agency.</p>\n    <p>Advocates: <ul><li>Jeffrey B. Wall (for the Petitioners)</li>\n<li>Edwin S. Kneedler (for the Federal Respondents)</li>\n<li>Joshua A. Klein (for the State Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2012, California applied for a waiver from the Environmental Protection Agency (EPA) to implement its Advanced Clean Car Program, which included two key components: a Low Emission Vehicle Program to reduce carbon dioxide emissions by 34% for new cars in Model Years 2017-2025, and a Zero Emission Vehicle Program requiring about 15% of manufacturers\u2019 fleets to be electric cars by 2025. The EPA granted this waiver in 2013, and automobile manufacturers began investing to meet these requirements.</p>\n<p>However, in 2019, under a different administration, the EPA withdrew the 2013 waiver, arguing that state greenhouse gas regulations were preempted by federal fuel economy standards, that California\u2019s standards weren\u2019t necessary to meet \u201ccompelling and extraordinary conditions,\u201d and that California could not show a direct connection between greenhouse gas emissions and its air pollution problems. After this withdrawal, several automakers like Honda, Ford, and BMW voluntarily agreed to continue meeting California\u2019s standards due to their existing investments and growing consumer demand for electric vehicles. In 2022, under yet another administration, the EPA reversed course again and reinstated the 2013 waiver, prompting challenges from various states and fuel industry groups who argued that California should not receive special treatment and that climate change is not a \u201ccompelling and extraordinary condition\u201d justifying state-specific standards. California, environmental organizations, and automobile manufacturers intervened to defend the EPA\u2019s decision.</p>\n<p>The D.C. Circuit dismissed most of the claims for lack of standing, finding that challengers had not shown that their injuries were redressable by a favorable decision.</p>\n\n    <p><b>Question</b></p>\n    <p>May a party establish the redressability component of Article III standing by pointing to the coercive and predictable effects of regulation on third parties?</p>\n\n    ",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.mp3"
+    },
+    "24-249": {
+      "docket_number": "24-249",
+      "name": "A. J. T. v. Osseo Area Schools",
+      "date_argued_timestamp": 1745798400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-249",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-249.mp3",
+      "mp3_length": 5163,
+      "mp3_size": 41314809,
+      "source": "scotus",
+      "description": "<p>A.J.T. v. Osseo Area Schools, Independent School District No. 279</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-249/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-249.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-249\">oyez.org</a></p>\n    <p>Argued on Apr 28, 2025.</p>\n    <p>Petitioner: A.J.T.<br>Respondent: Osseo Area Schools, Independent School District No. 279.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>A.J.T., a student with epilepsy, experiences seizures so severe in the morning that she cannot attend school until noon. Her parents repeatedly requested evening instruction from Osseo Area Schools to give her a school day length more comparable to her peers. Despite the District providing some accommodations, including one-on-one instruction, a slightly extended school day, and summer home instruction sessions, they denied the requests for evening instruction. The District\u2019s Director of Student Services, responsible for Section 504 compliance, was unaware of the parents\u2019 complaints and did not know that District policies allowed at-home schooling as an accommodation. A.J.T., through her parents, sued the District for disability discrimination under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act. The district court granted summary judgment in favor of the District, and the U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Do the Americans with Disabilities Act of 1990 and Rehabilitation Act of 1973 require children with disabilities to satisfy a \u201cbad faith or gross misjudgment\u201d standard when seeking relief for discrimination relating to their education?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-249.mp3"
     }
   }
 }
