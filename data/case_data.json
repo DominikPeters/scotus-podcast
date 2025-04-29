@@ -15964,13 +15964,198 @@
     "24-297": {
       "docket_number": "24-297",
       "name": "Mahmoud v. Taylor",
-      "date_argued_timestamp": 1745280000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-297",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-297.mp3",
-      "mp3_length": 8960,
-      "mp3_size": 71689337,
-      "source": "scotus",
+      "date_argued_timestamp": 1745298000,
       "description": "<p>Mahmoud v. Taylor</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Mahmoud_v._Taylor\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-297/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-297.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-297\">oyez.org</a></p>\n    <p>Argued on Apr 22, 2025.</p>\n    <p>Petitioner: Tamer Mahmoud.<br>Respondent: Thomas W. Taylor.</p>\n    <p>Advocates: <ul><li>Eric S. Baxter (for the Petitioners)</li>\n<li>Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Alan E. Schoenfeld (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In October 2022, Montgomery County Public Schools in Maryland approved LGBTQ-inclusive books for its English Language Arts curriculum. These \u201cStorybooks\u201d featured characters and themes related to sexual orientation and gender identity, including books like \u201cPride Puppy!\u201d for pre-K students and \u201cBorn Ready: The True Story of a Boy Named Penelope\u201d for K-5 students. Initially, the school board allowed parents to receive notice and opt their children out of lessons involving these books, in line with the district\u2019s guidelines for religious accommodations. However, in March 2023, the Board abruptly reversed this policy, eliminating all notice and opt-out options without explanation, though they later cited concerns about high student absenteeism, classroom disruption, administrative burden, and potential stigmatization of individuals represented in the books.</p>\n<p>Several parents of different religious backgrounds (Muslim, Roman Catholic, and Ukrainian Orthodox) sued the Board, arguing that the denial of notice and opt-out options violated their religious freedom and parental rights. The parents did not seek to ban the books or challenge their adoption into the curriculum; rather, they sought to maintain control over how and when their children would be exposed to content they believed conflicted with their religious duties to train their children according to their faiths on matters of gender, marriage, and sexuality.</p>\n<p>The district court denied the parents\u2019 motion for a preliminary injunction, finding the parents failed to demonstrate a cognizable burden to their religious freedom, and the parents filed an interlocutory appeal, and the U.S. Court of Appeals for the Fourth Circuit affirmed the district court\u2019s denial.</p>\n\n    <p><b>Question</b></p>\n    <p>Do public schools burden parents\u2019 religious exercise when they compel elementary school children to participate in instruction on gender and sexuality against their parents\u2019 religious convictions and without notice or opportunity to opt out?</p>\n\n    ",
+      "mp3_length": 8960,
+      "mp3_size": 35871236,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Eric S. Baxter (for the Petitioners)",
+          "start": 0.105
+        },
+        {
+          "title": "Baxter - Justice Thomas",
+          "start": 128.735
+        },
+        {
+          "title": "Baxter - Justice Roberts",
+          "start": 219.98
+        },
+        {
+          "title": "Baxter - Justice Sotomayor",
+          "start": 305.37
+        },
+        {
+          "title": "Baxter - Justice Alito",
+          "start": 528.02
+        },
+        {
+          "title": "Baxter - Justice Kagan",
+          "start": 637.89
+        },
+        {
+          "title": "Baxter - Justice Sotomayor",
+          "start": 914.1
+        },
+        {
+          "title": "Baxter - Justice Roberts",
+          "start": 1058.345
+        },
+        {
+          "title": "Baxter - Justice Thomas",
+          "start": 1121.085
+        },
+        {
+          "title": "Baxter - Justice Alito",
+          "start": 1202.12
+        },
+        {
+          "title": "Baxter - Justice Sotomayor",
+          "start": 1338.54
+        },
+        {
+          "title": "Baxter - Justice Kagan",
+          "start": 1501.675
+        },
+        {
+          "title": "Baxter - Justice Gorsuch",
+          "start": 1728.82999995
+        },
+        {
+          "title": "Baxter - Justice Kavanaugh",
+          "start": 1835.92
+        },
+        {
+          "title": "Baxter - Justice Barrett",
+          "start": 2126.63
+        },
+        {
+          "title": "Baxter - Justice Jackson",
+          "start": 2580.01499995
+        },
+        {
+          "title": "Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 3224.365
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 3286.00500005
+        },
+        {
+          "title": "Harris - Justice Roberts",
+          "start": 3373.985
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 3430.02
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 3514.52
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 3870.055
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 3985.725
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 4117.105
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 4332.615
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 4475.625
+        },
+        {
+          "title": "Alan E. Schoenfeld (for the Respondents)",
+          "start": 4935.8
+        },
+        {
+          "title": "Schoenfeld - Justice Thomas",
+          "start": 5045.075
+        },
+        {
+          "title": "Schoenfeld - Justice Roberts",
+          "start": 5205.895
+        },
+        {
+          "title": "Schoenfeld - Justice Gorsuch",
+          "start": 5328.66
+        },
+        {
+          "title": "Schoenfeld - Justice Barrett",
+          "start": 5722.19
+        },
+        {
+          "title": "Schoenfeld - Justice Gorsuch",
+          "start": 5882.46
+        },
+        {
+          "title": "Schoenfeld - Justice Barrett",
+          "start": 5909.94
+        },
+        {
+          "title": "Schoenfeld - Justice Alito",
+          "start": 6015.145
+        },
+        {
+          "title": "Schoenfeld - Justice Kavanaugh",
+          "start": 6485.85
+        },
+        {
+          "title": "Schoenfeld - Justice Jackson",
+          "start": 6642.37
+        },
+        {
+          "title": "Schoenfeld - Justice Kavanaugh",
+          "start": 6722.09
+        },
+        {
+          "title": "Schoenfeld - Justice Thomas",
+          "start": 6765.4
+        },
+        {
+          "title": "Schoenfeld - Justice Alito",
+          "start": 6817.385
+        },
+        {
+          "title": "Schoenfeld - Justice Sotomayor",
+          "start": 7131.51
+        },
+        {
+          "title": "Schoenfeld - Justice Kagan",
+          "start": 7406.68
+        },
+        {
+          "title": "Schoenfeld - Justice Gorsuch",
+          "start": 7518.315
+        },
+        {
+          "title": "Schoenfeld - Justice Kavanaugh",
+          "start": 7761.135
+        },
+        {
+          "title": "Schoenfeld - Justice Barrett",
+          "start": 8039.16
+        },
+        {
+          "title": "Schoenfeld - Justice Jackson",
+          "start": 8495.53
+        },
+        {
+          "title": "Eric S. Baxter (for the Petitioners)",
+          "start": 8759.51
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-297.mp3"
     },
     "24-416": {
