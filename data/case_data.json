@@ -15581,14 +15581,223 @@
     },
     "24-316": {
       "docket_number": "24-316",
-      "name": "Kennedy, Sec. of H&HS v. Braidwood Mgmt., Inc.",
-      "date_argued_timestamp": 1745193600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-316",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-316.mp3",
-      "mp3_length": 5172,
-      "mp3_size": 41385925,
-      "source": "scotus",
+      "name": "Kennedy v. Braidwood Management, Inc.",
+      "date_argued_timestamp": 1745211600,
       "description": "<p>Kennedy v. Braidwood Management, Inc.</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Kennedy_v._Braidwood_Management,_Inc.\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-316/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-316.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-316\">oyez.org</a></p>\n    <p>Argued on Apr 21, 2025.</p>\n    <p>Petitioner: Robert F. Kennedy, Jr., Secretary of Health and Human Services.<br>Respondent: Braidwood Management, Inc.</p>\n    <p>Advocates: <ul><li>Hashim M. Mooppan (for the Petitioners)</li>\n<li>Jonathan F. Mitchell (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2010, Congress passed the Affordable Care Act (ACA), which requires private insurers to cover certain preventive-care services without cost sharing. Rather than defining these services directly, the ACA empowers three agencies within the Department of Health and Human Services to determine required services: the United States Preventive Services Task Force (Task Force), the Advisory Committee on Immunization Practices (ACIP), and the Health Resources and Services Administration (HRSA). The Task Force consists of sixteen volunteer experts serving four-year terms, ACIP has fifteen members selected by the HHS Secretary, and HRSA operates through offices and bureaus reporting to the HHS Secretary.</p>\n<p>Over the years, these agencies issued various preventive care recommendations, including ACIP\u2019s 2007 recommendation for HPV vaccines, HRSA\u2019s 2011 guidelines for contraceptive coverage, and the Task Force\u2019s 2019 recommendation for HIV prevention drugs (PrEP). Four individuals and two Christian-based businesses in Texas challenged these requirements, arguing that mandatory coverage of these services violated their religious beliefs by making them \u201ccomplicit in facilitating homosexual behavior, drug use, and sexual activity outside of marriage between one man and one woman.\u201d</p>\n<p>The plaintiffs filed suit in 2020 against the federal government and various department secretaries, primarily arguing that the structure of these agencies violated the Appointments Clause of the Constitution. The district court ruled in their favor regarding the Task Force but rejected their challenges to ACIP and HRSA, and both parties appealed. The U.S. Court of Appeals for the Fifth Circuit held that the Task Force\u2019s structure violated the Appointments Clause and upheld the injunction against enforcing its recommendations, but reversed the district court\u2019s universal remedies and remanded for further consideration of whether HHS properly ratified ACIP and HRSA\u2019s recommendations.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the structure of the U.S. Preventive Services Task Force violate the Constitution\u2019s Appointments Clause, and if so, is the provision that insulates the task force from the Health &amp; Human Services secretary\u2019s supervision severable from the rest of the statute?</p>\n\n    ",
+      "mp3_length": 5172,
+      "mp3_size": 20719485,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Hashim M. Mooppan (for the Petitioners)",
+          "start": 0.07
+        },
+        {
+          "title": "Mooppan - Justice Thomas",
+          "start": 123.785
+        },
+        {
+          "title": "Mooppan - Justice Roberts",
+          "start": 300.075
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 378.82
+        },
+        {
+          "title": "Mooppan - Justice Sotomayor",
+          "start": 526.39
+        },
+        {
+          "title": "Mooppan - Justice Alito",
+          "start": 626.36
+        },
+        {
+          "title": "Mooppan - Justice Barrett",
+          "start": 902.02
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 1004.965
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 1078.67
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 1232.82
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 1311.27
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 1347.12
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 1383.7
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 1451.17
+        },
+        {
+          "title": "Mooppan - Justice Thomas",
+          "start": 1550.12
+        },
+        {
+          "title": "Mooppan - Justice Sotomayor",
+          "start": 1632.88
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 1733.91
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 1843.655
+        },
+        {
+          "title": "Mooppan - Justice Barrett",
+          "start": 1866.74
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 2004.555
+        },
+        {
+          "title": "Jonathan F. Mitchell (for the Respondents)",
+          "start": 2080.36
+        },
+        {
+          "title": "Mitchell - Justice Thomas",
+          "start": 2214.81
+        },
+        {
+          "title": "Mitchell - Justice Jackson",
+          "start": 2307.05
+        },
+        {
+          "title": "Mitchell - Justice Gorsuch",
+          "start": 2438.88
+        },
+        {
+          "title": "Mitchell - Justice Barrett",
+          "start": 2549.5
+        },
+        {
+          "title": "Mitchell - Justice Sotomayor",
+          "start": 2577.51
+        },
+        {
+          "title": "Mitchell - Justice Jackson",
+          "start": 2657.18
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 2723.91
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 2845.47
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 2869.5
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 2878.03
+        },
+        {
+          "title": "Mitchell - Justice Gorsuch",
+          "start": 2934.04
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 2977.07
+        },
+        {
+          "title": "Mitchell - Justice Gorsuch",
+          "start": 3111.04
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 3149.525
+        },
+        {
+          "title": "Mitchell - Justice Barrett",
+          "start": 3184.62
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 3201.89
+        },
+        {
+          "title": "Mitchell - Justice Gorsuch",
+          "start": 3224.86
+        },
+        {
+          "title": "Mitchell - Justice Sotomayor",
+          "start": 3265.09
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 3339.43
+        },
+        {
+          "title": "Mitchell - Justice Barrett",
+          "start": 3376.15
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 3423.39
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 3476.795
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 3565.94
+        },
+        {
+          "title": "Mitchell - Justice Jackson",
+          "start": 3725.58
+        },
+        {
+          "title": "Mitchell - Justice Alito",
+          "start": 3953.265
+        },
+        {
+          "title": "Mitchell - Justice Sotomayor",
+          "start": 4167.495
+        },
+        {
+          "title": "Mitchell - Justice Kagan",
+          "start": 4257.645
+        },
+        {
+          "title": "Mitchell - Justice Gorsuch",
+          "start": 4437.52
+        },
+        {
+          "title": "Mitchell - Justice Kavanaugh",
+          "start": 4561.77
+        },
+        {
+          "title": "Mitchell - Justice Jackson",
+          "start": 4684.91
+        },
+        {
+          "title": "Hashim M. Mooppan (for the Petitioners)",
+          "start": 4858.86
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-316.mp3"
     },
     "24-275": {
@@ -16045,6 +16254,18 @@
       "source": "scotus",
       "description": "<p>Martin v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-362/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-362.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-362\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2025.</p>\n    <p>Petitioner: Curtrina Martin.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Patrick M. Jaicomo (for the Petitioners)</li>\n<li>Frederick Liu (for the Respondents)</li>\n<li>Christopher E. Mills (Court-appointed amicus curiae in support of the judgment below on Question 1)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In October 2017, six FBI agents, led by Special Agent Lawrence Guerra, mistakenly executed a no-knock search warrant at the home of Curtrina Martin and her family in Atlanta, Georgia. The intended target was a nearby home suspected to contain violent gang member Joseph Riley. Due to similarities between the two properties and issues with navigating to the correct address, the agents entered Martin\u2019s home instead. The SWAT team, in full tactical gear, entered the house, causing fear and distress to its occupants. They later realized the mistake and promptly left the scene, later apologizing and assuring the family that the FBI would handle any damages.</p>\n<p>Martin and her family sued the U.S. government and the agents, claiming violations of their Fourth Amendment rights and seeking damages under Georgia state law. The district court granted summary judgment for the defendants. On appeal, the U.S. Court of Appeals for the Eleventh Circuit affirmed the decision, ruling that the agents were entitled to qualified immunity and that the Federal Tort Claims Act claims were barred by the Supremacy Clause and the discretionary function exception.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does the Supremacy Clause prevent individuals from suing the federal government under the Federal Tort Claims Act when federal employees\u2019 actions, even if negligent or wrongful, are related to carrying out federal policy and can be interpreted as following federal laws?</p>\n<p>2. Is the discretionary-function exception, which usually protects the government from being sued for certain decisions made by its employees, always inapplicable when dealing with claims related to law enforcement officers\u2019 actions that fall under the intentional torts category?</p>\n\n    ",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-362.mp3"
+    },
+    "24-304": {
+      "docket_number": "24-304",
+      "name": "Laboratory Corp. of America v. Davis",
+      "date_argued_timestamp": 1745884800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-304",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-304.mp3",
+      "mp3_length": 8120,
+      "mp3_size": 64967117,
+      "source": "scotus",
+      "description": "<p>Laboratory Corporation of America Holdings v. Davis</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-304/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-304.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-304\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2025.</p>\n    <p>Petitioner: Luke Davis.<br>Respondent: Laboratory Corporation of America Holdings.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Julian Vargas, who is blind, encountered inaccessible check-in kiosks at LabCorp facilities. Vargas attempted to use these kiosks but was unable due to their lack of accessibility for visually impaired individuals. As a result, he had to wait for assistance from a staff member, which delayed his check-in and denied him equal access to services such as maintaining his spot in the queue or updating personal information privately. Vargas claimed that this lack of accessibility infringed on his rights under disability laws, leading to the lawsuit. The district court certified two classes: a California class for Unruh Civil Rights Act claims and a nationwide class for claims under the ADA, the Rehabilitation Act, and the Affordable Care Act. LabCorp appealed the class certification, arguing that the plaintiffs lacked standing, but the U.S. Court of Appeals for the Ninth Circuit affirmed the district court\u2019s decision.</p>\n\n    <p><b>Question</b></p>\n    <p>May a federal court certify a class action pursuant to Federal Rule of Civil Procedure 23(b)(3) when some members of the proposed class lack any Article III injury?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.mp3"
     }
   }
 }
