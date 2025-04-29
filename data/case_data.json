@@ -15594,13 +15594,162 @@
     "24-275": {
       "docket_number": "24-275",
       "name": "Parrish v. United States",
-      "date_argued_timestamp": 1745193600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-275",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-275.mp3",
-      "mp3_length": 3235,
-      "mp3_size": 25893345,
-      "source": "scotus",
+      "date_argued_timestamp": 1745211600,
       "description": "<p>Parrish v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-275/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-275.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-275\">oyez.org</a></p>\n    <p>Argued on Apr 21, 2025.</p>\n    <p>Petitioner: Donte Parrish.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Amanda Rice (for the Petitioner)</li>\n<li>Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Michael R. Huston (Court-appointed amicus curiae in support of the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>While serving a 15-year federal prison sentence in 2017, Donte Parrish sued the United States for $5 million, claiming prison officials unlawfully held him in administrative segregation for three years. After the district court dismissed his case in March 2020, Parrish did not receive notice of the dismissal until June 2020 due to his transfer to state custody. He promptly filed a notice of appeal, which the appeals court treated as a request to reopen his appeal time. The district court granted this request in January 2021, giving him 14 days to file a new appeal, but Parrish missed this deadline and instead sent a supplemental brief to the appeals court a few days late. The U.S. Court of Appeals for the Fourth Circuit dismissed his appeal for lack of jurisdiction.</p>\n\n    <p><b>Question</b></p>\n    <p>Must a party who files a notice of appeal during the period between when their original appeal deadline expired and when the court reopens their time to appeal file a second notice after the reopening is granted?</p>\n\n    ",
+      "mp3_length": 3235,
+      "mp3_size": 12973238,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Amanda Rice (for the Petitioner)",
+          "start": 0.17
+        },
+        {
+          "title": "Rice - Justice Thomas",
+          "start": 82.49
+        },
+        {
+          "title": "Rice - Justice Jackson",
+          "start": 122.405
+        },
+        {
+          "title": "Rice - Justice Kavanaugh",
+          "start": 393.15
+        },
+        {
+          "title": "Rice - Justice Kagan",
+          "start": 451.48
+        },
+        {
+          "title": "Rice - Justice Gorsuch",
+          "start": 509.4
+        },
+        {
+          "title": "Rice - Justice Sotomayor",
+          "start": 556.42
+        },
+        {
+          "title": "Rice - Justice Gorsuch",
+          "start": 626.075
+        },
+        {
+          "title": "Rice - Justice Sotomayor",
+          "start": 666.575
+        },
+        {
+          "title": "Rice - Justice Gorsuch",
+          "start": 685.86
+        },
+        {
+          "title": "Rice - Justice Kavanaugh",
+          "start": 714.075
+        },
+        {
+          "title": "Rice - Justice Roberts",
+          "start": 741.33
+        },
+        {
+          "title": "Rice - Justice Gorsuch",
+          "start": 773.7
+        },
+        {
+          "title": "Rice - Justice Alito",
+          "start": 845.56
+        },
+        {
+          "title": "Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 896.9
+        },
+        {
+          "title": "Brown - Justice Thomas",
+          "start": 962.21
+        },
+        {
+          "title": "Brown - Justice Barrett",
+          "start": 1016.22
+        },
+        {
+          "title": "Brown - Justice Sotomayor",
+          "start": 1102.71
+        },
+        {
+          "title": "Brown - Justice Gorsuch",
+          "start": 1156.1
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 1298.87
+        },
+        {
+          "title": "Brown - Justice Kavanaugh",
+          "start": 1469.885
+        },
+        {
+          "title": "Brown - Justice Gorsuch",
+          "start": 1529.03
+        },
+        {
+          "title": "Brown - Justice Sotomayor",
+          "start": 1648.945
+        },
+        {
+          "title": "Brown - Justice Roberts",
+          "start": 1716.65
+        },
+        {
+          "title": "Michael R. Huston (Court-appointed amicus curiae in support of the judgment below)",
+          "start": 1725.73
+        },
+        {
+          "title": "Huston - Justice Thomas",
+          "start": 1853.305
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 1920.115
+        },
+        {
+          "title": "Huston - Justice Roberts",
+          "start": 2263.335
+        },
+        {
+          "title": "Huston - Justice Alito",
+          "start": 2381.72500005
+        },
+        {
+          "title": "Huston - Justice Sotomayor",
+          "start": 2487.49
+        },
+        {
+          "title": "Huston - Justice Barrett",
+          "start": 2597.43
+        },
+        {
+          "title": "Huston - Justice Sotomayor",
+          "start": 2603.37
+        },
+        {
+          "title": "Huston - Justice Kagan",
+          "start": 2645
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 2833.31
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 2958.505
+        },
+        {
+          "title": "Huston - Justice Roberts",
+          "start": 3020.26
+        },
+        {
+          "title": "Amanda Rice (for the Petitioner)",
+          "start": 3134.895
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.mp3"
     },
     "24-297": {

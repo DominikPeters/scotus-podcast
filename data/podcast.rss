@@ -89,7 +89,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3892</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 23 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-416] Commissioner of Internal Revenue v. Zuch</title>
@@ -135,6 +134,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 22 Apr 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
+            <title>[24-275] Parrish v. United States</title>
+            <description><![CDATA[<p>Parrish v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-275/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-275.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-275">oyez.org</a></p>
+    <p>Argued on Apr 21, 2025.</p>
+    <p>Petitioner: Donte Parrish.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Amanda Rice (for the Petitioner)</li>
+<li>Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioner)</li>
+<li>Michael R. Huston (Court-appointed amicus curiae in support of the judgment below)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>While serving a 15-year federal prison sentence in 2017, Donte Parrish sued the United States for $5 million, claiming prison officials unlawfully held him in administrative segregation for three years. After the district court dismissed his case in March 2020, Parrish did not receive notice of the dismissal until June 2020 due to his transfer to state custody. He promptly filed a notice of appeal, which the appeals court treated as a request to reopen his appeal time. The district court granted this request in January 2021, giving him 14 days to file a new appeal, but Parrish missed this deadline and instead sent a supplemental brief to the appeals court a few days late. The U.S. Court of Appeals for the Fourth Circuit dismissed his appeal for lack of jurisdiction.</p>
+
+    <p><b>Question</b></p>
+    <p>Must a party who files a notice of appeal during the period between when their original appeal deadline expired and when the court reopens their time to appeal file a second notice after the reopening is granted?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.mp3" length="12973238" type="audio/mpeg"/>
+            <guid>scotus_2024_24-275_v0</guid>
+            <itunes:duration>3235</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Mon, 21 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[24-316] Kennedy, Sec. of H&amp;HS v. Braidwood Mgmt., Inc.</title>
             <description><![CDATA[<p>Kennedy v. Braidwood Management, Inc.</p>
     <p><a href="https://en.wikipedia.org/wiki/Kennedy_v._Braidwood_Management,_Inc.">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/24-316/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-316.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-316">oyez.org</a></p>
@@ -152,26 +172,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-316.mp3" length="41385925" type="audio/mpeg"/>
             <guid>scotus_2024_24-316_v0</guid>
             <itunes:duration>5172</itunes:duration>
-            <itunes:season>2024</itunes:season>
-            <pubDate>Mon, 21 Apr 2025 10:00:00 -0400</pubDate>
-        </item>
-    <item>
-            <title>[24-275] Parrish v. United States</title>
-            <description><![CDATA[<p>Parrish v. United States</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-275/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-275.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-275">oyez.org</a></p>
-    <p>Argued on Apr 21, 2025.</p>
-    <p>Petitioner: Donte Parrish.<br>Respondent: United States of America.</p>
-    <p>Advocates: <ul><li>Amanda Rice (for the Petitioner)</li>
-<li>Aimee W. Brown (for the United States, as amicus curiae, supporting the Petitioner)</li>
-<li>Michael R. Huston (Court-appointed amicus curiae in support of the judgment below)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>While serving a 15-year federal prison sentence in 2017, Donte Parrish sued the United States for $5 million, claiming prison officials unlawfully held him in administrative segregation for three years. After the district court dismissed his case in March 2020, Parrish did not receive notice of the dismissal until June 2020 due to his transfer to state custody. He promptly filed a notice of appeal, which the appeals court treated as a request to reopen his appeal time. The district court granted this request in January 2021, giving him 14 days to file a new appeal, but Parrish missed this deadline and instead sent a supplemental brief to the appeals court a few days late. The U.S. Court of Appeals for the Fourth Circuit dismissed his appeal for lack of jurisdiction.</p>
-
-    <p><b>Question</b></p>
-    <p>Must a party who files a notice of appeal during the period between when their original appeal deadline expired and when the court reopens their time to appeal file a second notice after the reopening is granted?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.mp3" length="25893345" type="audio/mpeg"/>
-            <guid>scotus_2024_24-275_v0</guid>
-            <itunes:duration>3235</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 21 Apr 2025 10:00:00 -0400</pubDate>
         </item>
