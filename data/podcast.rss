@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-362] Martin v. United States</title>
+            <description><![CDATA[<p>Martin v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-362/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-362.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-362">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Curtrina Martin.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In October 2017, six FBI agents, led by Special Agent Lawrence Guerra, mistakenly executed a no-knock search warrant at the home of Curtrina Martin and her family in Atlanta, Georgia. The intended target was a nearby home suspected to contain violent gang member Joseph Riley. Due to similarities between the two properties and issues with navigating to the correct address, the agents entered Martin’s home instead. The SWAT team, in full tactical gear, entered the house, causing fear and distress to its occupants. They later realized the mistake and promptly left the scene, later apologizing and assuring the family that the FBI would handle any damages.</p>
+<p>Martin and her family sued the U.S. government and the agents, claiming violations of their Fourth Amendment rights and seeking damages under Georgia state law. The district court granted summary judgment for the defendants. On appeal, the U.S. Court of Appeals for the Eleventh Circuit affirmed the decision, ruling that the agents were entitled to qualified immunity and that the Federal Tort Claims Act claims were barred by the Supremacy Clause and the discretionary function exception.</p>
+
+    <p><b>Question</b></p>
+    <p>1. Does the Supremacy Clause prevent individuals from suing the federal government under the Federal Tort Claims Act when federal employees’ actions, even if negligent or wrongful, are related to carrying out federal policy and can be interpreted as following federal laws?</p>
+<p>2. Is the discretionary-function exception, which usually protects the government from being sued for certain decisions made by its employees, always inapplicable when dealing with claims related to law enforcement officers’ actions that fall under the intentional torts category?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-362.mp3" length="25148381" type="audio/mpeg"/>
+            <guid>scotus_2024_24-362_v0</guid>
+            <itunes:duration>3142</itunes:duration>
+            <itunes:season>2024</itunes:season>
+            <pubDate>Tue, 29 Apr 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-249] A. J. T. v. Osseo Area Schools</title>
             <description><![CDATA[<p>A.J.T. v. Osseo Area Schools, Independent School District No. 279</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-249/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-249.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-249">oyez.org</a></p>
@@ -152,7 +172,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3235</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 21 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-316] Kennedy, Sec. of H&amp;HS v. Braidwood Mgmt., Inc.</title>
