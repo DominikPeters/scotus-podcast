@@ -16837,14 +16837,199 @@
     },
     "24-304": {
       "docket_number": "24-304",
-      "name": "Laboratory Corp. of America v. Davis",
-      "date_argued_timestamp": 1745884800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-304",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-304.mp3",
-      "mp3_length": 8120,
-      "mp3_size": 64967117,
-      "source": "scotus",
+      "name": "Laboratory Corporation of America Holdings v. Davis",
+      "date_argued_timestamp": 1745902800,
       "description": "<p>Laboratory Corporation of America Holdings v. Davis</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-304/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-304.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-304\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2025.</p>\n    <p>Petitioner: Luke Davis.<br>Respondent: Laboratory Corporation of America Holdings.</p>\n    <p>Advocates: <ul><li>Noel J. Francisco (for the Petitioner)</li>\n<li>Sopan Joshi (for the United States, as amicus curiae, supporting neither party)</li>\n<li>Deepak Gupta (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Julian Vargas, who is blind, encountered inaccessible check-in kiosks at LabCorp facilities. Vargas attempted to use these kiosks but was unable due to their lack of accessibility for visually impaired individuals. As a result, he had to wait for assistance from a staff member, which delayed his check-in and denied him equal access to services such as maintaining his spot in the queue or updating personal information privately. Vargas claimed that this lack of accessibility infringed on his rights under disability laws, leading to the lawsuit. The district court certified two classes: a California class for Unruh Civil Rights Act claims and a nationwide class for claims under the ADA, the Rehabilitation Act, and the Affordable Care Act. LabCorp appealed the class certification, arguing that the plaintiffs lacked standing, but the U.S. Court of Appeals for the Ninth Circuit affirmed the district court\u2019s decision.</p>\n\n    <p><b>Question</b></p>\n    <p>May a federal court certify a class action pursuant to Federal Rule of Civil Procedure 23(b)(3) when some members of the proposed class lack any Article III injury?</p>\n\n    ",
+      "mp3_length": 8120,
+      "mp3_size": 32510113,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Noel J. Francisco (for the Petitioner)",
+          "start": 0.11
+        },
+        {
+          "title": "Francisco - Justice Thomas",
+          "start": 138.365
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 222.23
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 385.72
+        },
+        {
+          "title": "Francisco - Justice Gorsuch",
+          "start": 463.55
+        },
+        {
+          "title": "Francisco - Justice Barrett",
+          "start": 571.05
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 641.705
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 769.53
+        },
+        {
+          "title": "Francisco - Justice Jackson",
+          "start": 778.42
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 1055.38
+        },
+        {
+          "title": "Francisco - Justice Roberts",
+          "start": 1282.755
+        },
+        {
+          "title": "Francisco - Justice Thomas",
+          "start": 1383.475
+        },
+        {
+          "title": "Francisco - Justice Alito",
+          "start": 1710.7
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 2040.68
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 2399.13
+        },
+        {
+          "title": "Francisco - Justice Gorsuch",
+          "start": 2840.9
+        },
+        {
+          "title": "Francisco - Justice Kavanaugh",
+          "start": 3078.98
+        },
+        {
+          "title": "Francisco - Justice Barrett",
+          "start": 3261.96
+        },
+        {
+          "title": "Francisco - Justice Jackson",
+          "start": 3644.955
+        },
+        {
+          "title": "Sopan Joshi (for the United States, as amicus curiae, supporting neither party)",
+          "start": 4166.085
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 4242.585
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 4327.56
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 4614.12
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 4639.56
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 4742.75
+        },
+        {
+          "title": "Joshi - Justice Roberts",
+          "start": 4813.56
+        },
+        {
+          "title": "Joshi - Justice Alito",
+          "start": 4882.825
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 4972.08
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 5099.92
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 5339.43
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 5591.85
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 5623.93
+        },
+        {
+          "title": "Deepak Gupta (for the Respondents)",
+          "start": 5791.005
+        },
+        {
+          "title": "Gupta - Justice Thomas",
+          "start": 5913.05
+        },
+        {
+          "title": "Gupta - Justice Barrett",
+          "start": 5977.67
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 6106.965
+        },
+        {
+          "title": "Gupta - Justice Kavanaugh",
+          "start": 6374.645
+        },
+        {
+          "title": "Gupta - Justice Sotomayor",
+          "start": 6698.745
+        },
+        {
+          "title": "Gupta - Justice Barrett",
+          "start": 6845.67
+        },
+        {
+          "title": "Gupta - Justice Roberts",
+          "start": 7122.855
+        },
+        {
+          "title": "Gupta - Justice Kavanaugh",
+          "start": 7302.3
+        },
+        {
+          "title": "Gupta - Justice Kagan",
+          "start": 7402.355
+        },
+        {
+          "title": "Gupta - Justice Sotomayor",
+          "start": 7523
+        },
+        {
+          "title": "Gupta - Justice Alito",
+          "start": 7616.52
+        },
+        {
+          "title": "Gupta - Justice Jackson",
+          "start": 7732.48
+        },
+        {
+          "title": "Noel J. Francisco (for the Petitioner)",
+          "start": 7927.645
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.mp3"
     },
     "24-394": {

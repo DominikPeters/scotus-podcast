@@ -54,7 +54,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>7872</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 30 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-362] Martin v. United States</title>
@@ -79,7 +78,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 29 Apr 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-304] Laboratory Corp. of America v. Davis</title>
+            <title>[24-304] Laboratory Corporation of America Holdings v. Davis</title>
             <description><![CDATA[<p>Laboratory Corporation of America Holdings v. Davis</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-304/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-304.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-304">oyez.org</a></p>
     <p>Argued on Apr 29, 2025.</p>
@@ -92,11 +91,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May a federal court certify a class action pursuant to Federal Rule of Civil Procedure 23(b)(3) when some members of the proposed class lack any Article III injury?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.mp3" length="64967117" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.mp3" length="32510113" type="audio/mpeg"/>
             <guid>scotus_2024_24-304_v0</guid>
             <itunes:duration>8120</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 29 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-249] A.J.T. v. Osseo Area Schools, Independent School District No. 279</title>
