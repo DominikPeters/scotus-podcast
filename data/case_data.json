@@ -16849,14 +16849,219 @@
     },
     "24-394": {
       "docket_number": "24-394",
-      "name": "OK Charter School Board v. Drummond",
-      "date_argued_timestamp": 1745971200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-394",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-394.mp3",
-      "mp3_length": 7872,
-      "mp3_size": 62985677,
-      "source": "scotus",
+      "name": "Oklahoma Statewide Charter School Board v. Drummond",
+      "date_argued_timestamp": 1745989200,
       "description": "<p>Oklahoma Statewide Charter School Board v. Drummond</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Oklahoma_Statewide_Charter_School_Board_v._Drummond\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-394/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-394.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-394\">oyez.org</a></p>\n    <p>Argued on Apr 30, 2025.</p>\n    <p>Petitioner: Oklahoma Statewide Charter School Board.<br>Respondent: Gentner Drummond, Attorney General for the State of Oklahoma.</p>\n    <p>Advocates: <ul><li>James A. Campbell (for the Petitioners in No. 24-394)</li>\n<li>Michael H. McGinley (for the Petitioner in No. 24-396)</li>\n<li>D. John Sauer (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Gregory G. Garre (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Gentner Drummond, the Attorney General for the State of Oklahoma, filed an action against the Oklahoma Statewide Virtual Charter School Board and its members seeking to invalidate their contract with St. Isidore of Seville Catholic Virtual School. St. Isidore, supported by the Archdiocese of Oklahoma City and the Diocese of Tulsa, aims to operate as a Catholic virtual charter school. In creating this contract, the Charter School Board recognized religious rights and entitlements for St. Isidore, which deviated from the standard expectation that charter schools remain nonsectarian under Oklahoma law.</p>\n<p>On June 5 and October 9, 2023, the Charter School Board approvingly voted for St. Isidore's application and contract, both by a 3-2 margin. The contract omitted standard provisions prohibiting religious affiliation while affirming St. Isidore\u2019s religious mission, which the State contends violates the Oklahoma Constitution, the Oklahoma Charter Schools Act, and the Establishment Clause of the federal Constitution. Consequently, the State requested a writ of mandamus to rescind the contract, arguing that the use of public funds for a sectarian institution contravenes legal and constitutional prohibitions.</p>\n<p>The Supreme Court of Oklahoma assumed original jurisdiction and granted belated relief to the State, holding that the contract violated state and federal law, including constitutional provisions prohibiting government establishment of religion.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Are a privately owned and operated school\u2019s educational decisions considered state action simply because the school has a contract with the state to provide free education to students?\u00a0</p>\n<p>2. Does the First Amendment\u2019s Free Exercise Clause prohibit, or the Establishment Clause require, a state to exclude religious schools from its charter-school program?</p>\n\n    ",
+      "mp3_length": 7872,
+      "mp3_size": 31519341,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "James A. Campbell (for the Petitioners in No. 24-394)",
+          "start": 0.09
+        },
+        {
+          "title": "Campbell - Justice Thomas",
+          "start": 121.8
+        },
+        {
+          "title": "Campbell - Justice Jackson",
+          "start": 239.47
+        },
+        {
+          "title": "Campbell - Justice Sotomayor",
+          "start": 338.51
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 475.89
+        },
+        {
+          "title": "Campbell - Justice Roberts",
+          "start": 670.145
+        },
+        {
+          "title": "Campbell - Justice Thomas",
+          "start": 742.97
+        },
+        {
+          "title": "Campbell - Justice Alito",
+          "start": 810.88
+        },
+        {
+          "title": "Campbell - Justice Sotomayor",
+          "start": 910.12
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 1192.895
+        },
+        {
+          "title": "Campbell - Justice Gorsuch",
+          "start": 1407.74
+        },
+        {
+          "title": "Campbell - Justice Kavanaugh",
+          "start": 1599.5
+        },
+        {
+          "title": "Campbell - Justice Jackson",
+          "start": 1870.65
+        },
+        {
+          "title": "Michael H. McGinley (for the Petitioner in No. 24-396)",
+          "start": 2238.155
+        },
+        {
+          "title": "McGinley - Justice Thomas",
+          "start": 2308.865
+        },
+        {
+          "title": "McGinley - Justice Sotomayor",
+          "start": 2410.16
+        },
+        {
+          "title": "McGinley - Justice Kagan",
+          "start": 2702.485
+        },
+        {
+          "title": "McGinley - Justice Gorsuch",
+          "start": 3099.555
+        },
+        {
+          "title": "McGinley - Justice Kavanaugh",
+          "start": 3152.3
+        },
+        {
+          "title": "McGinley - Justice Jackson",
+          "start": 3276.705
+        },
+        {
+          "title": "D. John Sauer (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 3498.615
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 3554.52
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 3631.06
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 3749.84
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 3826.58
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 4033.4
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 4117.15
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 4182.725
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 4385.46000005
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 4439.565
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 4474.945
+        },
+        {
+          "title": "Gregory G. Garre (for the Respondent)",
+          "start": 4662.035
+        },
+        {
+          "title": "Garre - Justice Thomas",
+          "start": 4803.665
+        },
+        {
+          "title": "Garre - Justice Roberts",
+          "start": 5013.99
+        },
+        {
+          "title": "Garre - Justice Kavanaugh",
+          "start": 5093.83
+        },
+        {
+          "title": "Garre - Justice Gorsuch",
+          "start": 5159.11
+        },
+        {
+          "title": "Garre - Justice Sotomayor",
+          "start": 5356.11
+        },
+        {
+          "title": "Garre - Justice Jackson",
+          "start": 5418.52
+        },
+        {
+          "title": "Garre - Justice Sotomayor",
+          "start": 5420.465
+        },
+        {
+          "title": "Garre - Justice Jackson",
+          "start": 5503.525
+        },
+        {
+          "title": "Garre - Justice Kavanaugh",
+          "start": 5592.92
+        },
+        {
+          "title": "Garre - Justice Roberts",
+          "start": 5790.83
+        },
+        {
+          "title": "Garre - Justice Alito",
+          "start": 5875.62
+        },
+        {
+          "title": "Garre - Justice Kavanaugh",
+          "start": 6237.31
+        },
+        {
+          "title": "Garre - Justice Thomas",
+          "start": 6514.19
+        },
+        {
+          "title": "Garre - Justice Alito",
+          "start": 6607.485
+        },
+        {
+          "title": "Garre - Justice Sotomayor",
+          "start": 6995.835
+        },
+        {
+          "title": "Garre - Justice Kagan",
+          "start": 7146.55
+        },
+        {
+          "title": "Garre - Justice Kavanaugh",
+          "start": 7259.9
+        },
+        {
+          "title": "Garre - Justice Jackson",
+          "start": 7456.735
+        },
+        {
+          "title": "Michael H. McGinley (for the Petitioner in No. 24-396)",
+          "start": 7733.33
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.mp3"
     }
   }

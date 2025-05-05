@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[24-394] OK Charter School Board v. Drummond</title>
+            <title>[24-394] Oklahoma Statewide Charter School Board v. Drummond</title>
             <description><![CDATA[<p>Oklahoma Statewide Charter School Board v. Drummond</p>
     <p><a href="https://en.wikipedia.org/wiki/Oklahoma_Statewide_Charter_School_Board_v._Drummond">Wikipedia</a> &middot; <a href="https://supreme.justia.com/cases/federal/us/2024/24-394/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-394.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-394">oyez.org</a></p>
     <p>Argued on Apr 30, 2025.</p>
@@ -49,11 +49,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. Are a privately owned and operated school’s educational decisions considered state action simply because the school has a contract with the state to provide free education to students? </p>
 <p>2. Does the First Amendment’s Free Exercise Clause prohibit, or the Establishment Clause require, a state to exclude religious schools from its charter-school program?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.mp3" length="62985677" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.mp3" length="31519341" type="audio/mpeg"/>
             <guid>scotus_2024_24-394_v0</guid>
             <itunes:duration>7872</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Wed, 30 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-362] Martin v. United States</title>
@@ -136,7 +137,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3770</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 28 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-7] Diamond Alternative Energy LLC v. Environmental Protection Agency</title>
