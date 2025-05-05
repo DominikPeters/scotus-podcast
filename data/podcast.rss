@@ -76,7 +76,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3142</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Tue, 29 Apr 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-362.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-304] Laboratory Corp. of America v. Davis</title>
@@ -132,11 +131,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>When disabled combat veterans claim past-due compensation, should the military use the CRSC statute's rules to calculate how far back they can be paid, or should it use the Barring Act's six-year limit?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.mp3" length="30168021" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.mp3" length="15110577" type="audio/mpeg"/>
             <guid>scotus_2024_24-320_v0</guid>
             <itunes:duration>3770</itunes:duration>
             <itunes:season>2024</itunes:season>
             <pubDate>Mon, 28 Apr 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-7] Diamond Alternative Energy LLC v. Environmental Protection Agency</title>
