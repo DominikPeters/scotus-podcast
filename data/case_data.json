@@ -16596,13 +16596,110 @@
     "24-362": {
       "docket_number": "24-362",
       "name": "Martin v. United States",
-      "date_argued_timestamp": 1745884800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-362",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-362.mp3",
-      "mp3_length": 3142,
-      "mp3_size": 25148381,
-      "source": "scotus",
+      "date_argued_timestamp": 1745902800,
       "description": "<p>Martin v. United States</p>\n    <p><a href=\"https://en.wikipedia.org/wiki/Martin_v._United_States\">Wikipedia</a> &middot; <a href=\"https://supreme.justia.com/cases/federal/us/2024/24-362/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-362.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-362\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2025.</p>\n    <p>Petitioner: Curtrina Martin.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Patrick M. Jaicomo (for the Petitioners)</li>\n<li>Frederick Liu (for the Respondents)</li>\n<li>Christopher E. Mills (Court-appointed amicus curiae in support of the judgment below on Question 1)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In October 2017, six FBI agents, led by Special Agent Lawrence Guerra, mistakenly executed a no-knock search warrant at the home of Curtrina Martin and her family in Atlanta, Georgia. The intended target was a nearby home suspected to contain violent gang member Joseph Riley. Due to similarities between the two properties and issues with navigating to the correct address, the agents entered Martin\u2019s home instead. The SWAT team, in full tactical gear, entered the house, causing fear and distress to its occupants. They later realized the mistake and promptly left the scene, later apologizing and assuring the family that the FBI would handle any damages.</p>\n<p>Martin and her family sued the U.S. government and the agents, claiming violations of their Fourth Amendment rights and seeking damages under Georgia state law. The district court granted summary judgment for the defendants. On appeal, the U.S. Court of Appeals for the Eleventh Circuit affirmed the decision, ruling that the agents were entitled to qualified immunity and that the Federal Tort Claims Act claims were barred by the Supremacy Clause and the discretionary function exception.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does the Supremacy Clause prevent individuals from suing the federal government under the Federal Tort Claims Act when federal employees\u2019 actions, even if negligent or wrongful, are related to carrying out federal policy and can be interpreted as following federal laws?</p>\n<p>2. Is the discretionary-function exception, which usually protects the government from being sued for certain decisions made by its employees, always inapplicable when dealing with claims related to law enforcement officers\u2019 actions that fall under the intentional torts category?</p>\n\n    ",
+      "mp3_length": 3142,
+      "mp3_size": 12600732,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Patrick M. Jaicomo (for the Petitioners)",
+          "start": 0.085
+        },
+        {
+          "title": "Jaicomo - Justice Thomas",
+          "start": 168.77
+        },
+        {
+          "title": "Jaicomo - Justice Jackson",
+          "start": 225.475
+        },
+        {
+          "title": "Jaicomo - Justice Sotomayor",
+          "start": 384.36
+        },
+        {
+          "title": "Jaicomo - Justice Gorsuch",
+          "start": 726.32
+        },
+        {
+          "title": "Jaicomo - Justice Jackson",
+          "start": 983.59
+        },
+        {
+          "title": "Jaicomo - Justice Alito",
+          "start": 1072.69
+        },
+        {
+          "title": "Jaicomo - Justice Gorsuch",
+          "start": 1231.94
+        },
+        {
+          "title": "Jaicomo - Justice Roberts",
+          "start": 1317.3
+        },
+        {
+          "title": "Frederick Liu (for the Respondents)",
+          "start": 1329.22
+        },
+        {
+          "title": "Liu - Justice Thomas",
+          "start": 1435.48499995
+        },
+        {
+          "title": "Liu - Justice Roberts",
+          "start": 1479.95
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 1630.22
+        },
+        {
+          "title": "Liu - Justice Gorsuch",
+          "start": 1844.33
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 1954.68
+        },
+        {
+          "title": "Liu - Justice Sotomayor",
+          "start": 2043.98
+        },
+        {
+          "title": "Liu - Justice Roberts",
+          "start": 2229.87
+        },
+        {
+          "title": "Liu - Justice Kavanaugh",
+          "start": 2242.43
+        },
+        {
+          "title": "Liu - Justice Jackson",
+          "start": 2272.72
+        },
+        {
+          "title": "Christopher E. Mills (Court-appointed amicus curiae in support of the judgment below on Question 1)",
+          "start": 2375.77
+        },
+        {
+          "title": "Mills - Justice Thomas",
+          "start": 2436.83
+        },
+        {
+          "title": "Mills - Justice Kagan",
+          "start": 2533.47
+        },
+        {
+          "title": "Mills - Justice Jackson",
+          "start": 2752.865
+        },
+        {
+          "title": "Patrick M. Jaicomo (for the Petitioners)",
+          "start": 2811.95
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-362.mp3"
     },
     "24-304": {
