@@ -16406,14 +16406,179 @@
     },
     "24-249": {
       "docket_number": "24-249",
-      "name": "A. J. T. v. Osseo Area Schools",
-      "date_argued_timestamp": 1745798400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2024/24-249",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-249.mp3",
-      "mp3_length": 5163,
-      "mp3_size": 41314809,
-      "source": "scotus",
+      "name": "A.J.T. v. Osseo Area Schools, Independent School District No. 279",
+      "date_argued_timestamp": 1745816400,
       "description": "<p>A.J.T. v. Osseo Area Schools, Independent School District No. 279</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-249/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-249.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-249\">oyez.org</a></p>\n    <p>Argued on Apr 28, 2025.</p>\n    <p>Petitioner: A.J.T.<br>Respondent: Osseo Area Schools, Independent School District No. 279.</p>\n    <p>Advocates: <ul><li>Roman Martinez (for the Petitioner)</li>\n<li>Nicole F. Reaves (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Lisa S. Blatt (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>A.J.T., a student with epilepsy, experiences seizures so severe in the morning that she cannot attend school until noon. Her parents repeatedly requested evening instruction from Osseo Area Schools to give her a school day length more comparable to her peers. Despite the District providing some accommodations, including one-on-one instruction, a slightly extended school day, and summer home instruction sessions, they denied the requests for evening instruction. The District\u2019s Director of Student Services, responsible for Section 504 compliance, was unaware of the parents\u2019 complaints and did not know that District policies allowed at-home schooling as an accommodation. A.J.T., through her parents, sued the District for disability discrimination under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act. The district court granted summary judgment in favor of the District, and the U.S. Court of Appeals for the Eighth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Do the Americans with Disabilities Act of 1990 and Rehabilitation Act of 1973 require children with disabilities to satisfy a \u201cbad faith or gross misjudgment\u201d standard when seeking relief for discrimination relating to their education?</p>\n\n    ",
+      "mp3_length": 5163,
+      "mp3_size": 20683958,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Roman Martinez (for the Petitioner)",
+          "start": 0.09
+        },
+        {
+          "title": "Martinez - Justice Thomas",
+          "start": 125.8
+        },
+        {
+          "title": "Martinez - Justice Roberts",
+          "start": 209.74
+        },
+        {
+          "title": "Martinez - Justice Kavanaugh",
+          "start": 285.7
+        },
+        {
+          "title": "Martinez - Justice Sotomayor",
+          "start": 467.605
+        },
+        {
+          "title": "Martinez - Justice Gorsuch",
+          "start": 703.98
+        },
+        {
+          "title": "Martinez - Justice Barrett",
+          "start": 865.305
+        },
+        {
+          "title": "Martinez - Justice Kagan",
+          "start": 965.15
+        },
+        {
+          "title": "Martinez - Justice Jackson",
+          "start": 1026.33
+        },
+        {
+          "title": "Martinez - Justice Alito",
+          "start": 1089.51
+        },
+        {
+          "title": "Martinez - Justice Kavanaugh",
+          "start": 1180.25
+        },
+        {
+          "title": "Martinez - Justice Jackson",
+          "start": 1347.125
+        },
+        {
+          "title": "Nicole F. Reaves (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1389.865
+        },
+        {
+          "title": "Reaves - Justice Thomas",
+          "start": 1470.815
+        },
+        {
+          "title": "Reaves - Justice Gorsuch",
+          "start": 1543.03
+        },
+        {
+          "title": "Reaves - Justice Jackson",
+          "start": 1713.915
+        },
+        {
+          "title": "Reaves - Justice Roberts",
+          "start": 1755.69
+        },
+        {
+          "title": "Reaves - Justice Barrett",
+          "start": 1805.98
+        },
+        {
+          "title": "Reaves - Justice Kavanaugh",
+          "start": 1875.355
+        },
+        {
+          "title": "Reaves - Justice Alito",
+          "start": 2024.715
+        },
+        {
+          "title": "Reaves - Justice Kagan",
+          "start": 2303.18
+        },
+        {
+          "title": "Reaves - Justice Kavanaugh",
+          "start": 2393.695
+        },
+        {
+          "title": "Reaves - Justice Jackson",
+          "start": 2579.26
+        },
+        {
+          "title": "Lisa S. Blatt (for the Respondents)",
+          "start": 2720.735
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 2836.52
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 2951.59
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 3047.7
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 3064.3
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 3137.29
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 3195.21
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 3300.39
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 3544.01
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 3852.935
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 3901.27
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 4047.915
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 4321.54
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 4422.18
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 4519.46
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 4635.775
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 4806.57
+        },
+        {
+          "title": "Roman Martinez (for the Petitioner)",
+          "start": 4961.88
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-249.mp3"
     },
     "24-320": {
