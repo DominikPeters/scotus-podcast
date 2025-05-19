@@ -9,6 +9,8 @@ import re
 def shorten_commit_message():
     input_string = open("commit_message.txt").read()
 
+    logger.info(f"Original commit message: {input_string}")
+
     # Extract all commands using regex
     add_pattern = r'Add (\d+-\d+) from ([\w.]+)'
     metadata_pattern = r'Oyez metadata for (\d+-\d+)'
@@ -65,6 +67,7 @@ def shorten_commit_message():
     # Write the shortened output
     with open("commit_message.txt", "w") as f:
         f.write(output_string)
+        logger.info(f"Shortened commit message: {output_string}")
 
 # Create a logger object
 logger = logging.getLogger()
