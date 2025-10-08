@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 jobs:
   build_podcast:
     runs-on: ubuntu-latest
