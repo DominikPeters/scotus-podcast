@@ -17704,6 +17704,18 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-109.mp3"
+    },
+    "24-351": {
+      "docket_number": "24-351",
+      "name": "USPS v. Konan",
+      "date_argued_timestamp": 1759881600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-351",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-351.mp3",
+      "mp3_length": 4014,
+      "mp3_size": 32122742,
+      "source": "scotus",
+      "description": "<p>United States Postal Service v. Konan</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-351/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-351.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-351\">oyez.org</a></p>\n    <p>Argued on Oct 8, 2025.</p>\n    <p>Petitioner: United States Postal Service.<br>Respondent: Lebene Konan.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Lebene Konan, a Black property owner, leased two rental residences in Euless, Texas, and retrieved business and tenant mail from a central mailbox daily. In May 2020, United States Postal Service (USPS) employee Jason Rojas changed the lock on the mailbox at one of Konan's properties without her approval, halted mail delivery, and demanded ownership verification. Even after USPS\u2019s Inspector General confirmed Konan\u2019s ownership, Rojas and another USPS employee, Raymond Drake, allegedly continued marking mail addressed to Konan and her tenants as undeliverable. Konan claims this refusal of service extended to her second property and was racially motivated, causing loss of rental income and disruption of essential communications.</p>\n<p>Konan sued USPS, Rojas, Drake, and the United States, raising claims under the Federal Tort Claims Act (FTCA) and alleging violations of the equal protection guarantees of 42 U.S.C. \u00a7\u00a7 1981 and 1985. The district court dismissed her FTCA claims for lack of subject matter jurisdiction under the postal-matter exception, and her equal protection claims for failure to state a claim. The U.S. Court of Appeals for the Fifth Circuit affirmed the dismissal of the equal protection claims but reversed on the FTCA claim, holding that sovereign immunity did not bar claims based on intentional acts of mail non-delivery.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a claim that Postal Service employees intentionally refused to deliver mail to a designated address arise out of \u201cthe loss\u201d or \u201cmiscarriage\u201d of postal matter under the Federal Tort Claims Act\u2019s postal-matter exception?</p>\n\n    ",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-351.mp3"
     }
   }
 }
