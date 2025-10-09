@@ -17483,25 +17483,320 @@
     "24-539": {
       "docket_number": "24-539",
       "name": "Chiles v. Salazar",
-      "date_argued_timestamp": 1759795200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-539",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-539.mp3",
-      "mp3_length": 5084,
-      "mp3_size": 40682886,
-      "source": "scotus",
+      "date_argued_timestamp": 1759813200,
       "description": "<p>Chiles v. Salazar</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-539/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-539.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-539\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2025.</p>\n    <p>Petitioner: Kaley Chiles.<br>Respondent: Patty Salazar.</p>\n    <p>Advocates: <ul><li>James A. Campbell (for the Petitioner)</li>\n<li>Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Shannon W. Stevenson (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Kaley Chiles is a licensed professional counselor practicing in Colorado Springs. She holds a master's degree in clinical mental health and provides talk therapy, specializing in clients dealing with addiction, trauma, sexuality, gender dysphoria, and other mental health concerns. Chiles identifies as a Christian and serves clients who often seek religiously informed care that aligns with traditional biblical understandings of sexuality and gender. Prior to the enactment of a 2019 Colorado law banning conversion therapy for minors, Chiles counseled clients, including minors, in accordance with their self-identified goals, which sometimes included diminishing same-sex attractions or aligning gender identity with biological sex. Since the law\u2019s passage, Chiles has refrained from engaging in discussions with minors that she believes could be interpreted as conversion therapy and alleges that this has hampered her ability to provide full counseling services in line with her and her clients\u2019 religious convictions.</p>\n<p>In September 2022, Chiles brought a pre-enforcement lawsuit under 42 U.S.C. \u00a7 1983 against Colorado officials responsible for enforcing the statute. She alleged that the ban on conversion therapy for minors violates her rights under the Free Speech and Free Exercise Clauses of the First Amendment. Seeking a preliminary injunction, she asked the district court to block enforcement of the law against her. The court denied the motion but found she had standing to proceed. On appeal, the U.S. Court of Appeals for the Tenth Circuit affirmed in full, holding that Colorado\u2019s law regulates professional conduct that incidentally involves speech and survived rational basis review.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a Colorado law banning \u201cconversion therapy\u201d\u2014i.e., attempts to \u201cconvert\u201d someone\u2019s sexual orientation or gender identity\u2014violate the Free Speech Clause of the First Amendment?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-539.mp3"
+      "mp3_length": 5084,
+      "mp3_size": 20367772,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "James A. Campbell (for the Petitioner)",
+          "start": 0.06
+        },
+        {
+          "title": "Campbell - Justice Thomas",
+          "start": 115.52
+        },
+        {
+          "title": "Campbell - Justice Sotomayor",
+          "start": 199.82
+        },
+        {
+          "title": "Campbell - Justice Roberts",
+          "start": 473.6
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 510.11
+        },
+        {
+          "title": "Campbell - Justice Barrett",
+          "start": 583.06
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 668.11
+        },
+        {
+          "title": "Campbell - Justice Jackson",
+          "start": 701.78
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 924.74
+        },
+        {
+          "title": "Campbell - Justice Sotomayor",
+          "start": 1032.01
+        },
+        {
+          "title": "Campbell - Justice Kagan",
+          "start": 1204.64
+        },
+        {
+          "title": "Campbell - Justice Gorsuch",
+          "start": 1310.475
+        },
+        {
+          "title": "Campbell - Justice Jackson",
+          "start": 1367.505
+        },
+        {
+          "title": "Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1621.29
+        },
+        {
+          "title": "Mooppan - Justice Thomas",
+          "start": 1685.875
+        },
+        {
+          "title": "Mooppan - Justice Roberts",
+          "start": 1755.955
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 1807.28
+        },
+        {
+          "title": "Mooppan - Justice Barrett",
+          "start": 1928.21
+        },
+        {
+          "title": "Mooppan - Justice Alito",
+          "start": 2079.89
+        },
+        {
+          "title": "Mooppan - Justice Sotomayor",
+          "start": 2103.475
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 2180.445
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 2347.66
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 2482.07
+        },
+        {
+          "title": "Shannon W. Stevenson (for the Respondents)",
+          "start": 2693.67
+        },
+        {
+          "title": "Stevenson - Justice Thomas",
+          "start": 2819.3
+        },
+        {
+          "title": "Stevenson - Justice Roberts",
+          "start": 2955.165
+        },
+        {
+          "title": "Stevenson - Justice Gorsuch",
+          "start": 3025.215
+        },
+        {
+          "title": "Stevenson - Justice Barrett",
+          "start": 3235.84
+        },
+        {
+          "title": "Stevenson - Justice Jackson",
+          "start": 3363.685
+        },
+        {
+          "title": "Stevenson - Justice Barrett",
+          "start": 3383.58
+        },
+        {
+          "title": "Stevenson - Justice Sotomayor",
+          "start": 3443.39
+        },
+        {
+          "title": "Stevenson - Justice Alito",
+          "start": 3581.47
+        },
+        {
+          "title": "Stevenson - Justice Kagan",
+          "start": 3898.48
+        },
+        {
+          "title": "Stevenson - Justice Alito",
+          "start": 3957.97
+        },
+        {
+          "title": "Stevenson - Justice Gorsuch",
+          "start": 4005
+        },
+        {
+          "title": "Stevenson - Justice Thomas",
+          "start": 4092.355
+        },
+        {
+          "title": "Stevenson - Justice Alito",
+          "start": 4199.915
+        },
+        {
+          "title": "Stevenson - Justice Kagan",
+          "start": 4351.6
+        },
+        {
+          "title": "Stevenson - Justice Barrett",
+          "start": 4554.26
+        },
+        {
+          "title": "Stevenson - Justice Jackson",
+          "start": 4803.925
+        },
+        {
+          "title": "James A. Campbell (for the Petitioner)",
+          "start": 4899.59
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-539.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-539.vtt"
     },
     "24-5774": {
       "docket_number": "24-5774",
       "name": "Barrett v. United States",
-      "date_argued_timestamp": 1759795200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-5774",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-5774.mp3",
-      "mp3_length": 3713,
-      "mp3_size": 29717606,
-      "source": "scotus",
+      "date_argued_timestamp": 1759813200,
       "description": "<p>Barrett v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-5774/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-5774.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-5774\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2025.</p>\n    <p>Petitioner: Dwayne Barrett.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Matthew B. Larsen (for the Petitioner)</li>\n<li>Aimee W. Brown (for the Respondent, in support of the Petitioner)</li>\n<li>Charles L. McCloud (Court-appointed amicus curiae, in support of the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Between August 2011 and January 2012, Dwayne Barrett and several co-conspirators carried out a string of armed robberies in New York, often using guns, knives, and threats of violence. On December 12, 2011, Barrett and two associates followed a minivan carrying the proceeds from a sale of untaxed cigarettes. While Barrett waited in the car, his accomplices held two men at gunpoint and stole the vehicle, which also contained $10,000 and a third victim, Gamar Dafalla. As he tried to discard some of the money during the getaway, Dafalla was fatally shot by one of the robbers. Later that day, Barrett took part in another robbery, threatening a victim\u2019s life. He also helped dispose of the murder weapon and clean their vehicle with latex gloves and cleaning fluid to eliminate evidence.</p>\n<p>Barrett was indicted on multiple counts, including conspiracy to commit Hobbs Act robbery, two substantive counts of Hobbs Act robbery (one involving Dafalla\u2019s murder), and separate firearms offenses, including a murder charge under 18 U.S.C. \u00a7 924(j). He was convicted in 2014 and originally sentenced to 90 years in prison. On appeal, the U.S. Court of Appeals for the Second Circuit vacated one firearms conviction under the Supreme Court\u2019s then-new decision in United States v. Davis. Barrett was resentenced to 50 years in 2021. After further appellate proceedings, the Second Circuit affirmed most of his convictions and sentence but vacated and remanded for resentencing in light of the Supreme Court\u2019s 2023 decision in Lora v. United States, which held that \u00a7 924(j) does not require consecutive sentencing under \u00a7 924(c).</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Double Jeopardy Clause of the Fifth Amendment permit two sentences for an act that violates 18 U.S.C. \u00a7 924(c) and (j)?</p>\n\n    ",
+      "mp3_length": 3713,
+      "mp3_size": 14885192,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Matthew B. Larsen (for the Petitioner)",
+          "start": 0.12
+        },
+        {
+          "title": "Larsen - Justice Thomas",
+          "start": 111.295
+        },
+        {
+          "title": "Larsen - Justice Kavanaugh",
+          "start": 208.495
+        },
+        {
+          "title": "Larsen - Justice Jackson",
+          "start": 344.315
+        },
+        {
+          "title": "Larsen - Justice Kavanaugh",
+          "start": 406.215
+        },
+        {
+          "title": "Larsen - Justice Sotomayor",
+          "start": 431.68
+        },
+        {
+          "title": "Larsen - Justice Alito",
+          "start": 610.335
+        },
+        {
+          "title": "Larsen - Justice Roberts",
+          "start": 804.505
+        },
+        {
+          "title": "Larsen - Justice Alito",
+          "start": 839.27
+        },
+        {
+          "title": "Larsen - Justice Sotomayor",
+          "start": 976.42
+        },
+        {
+          "title": "Larsen - Justice Gorsuch",
+          "start": 1102.595
+        },
+        {
+          "title": "Larsen - Justice Kavanaugh",
+          "start": 1337.175
+        },
+        {
+          "title": "Larsen - Justice Jackson",
+          "start": 1574.51
+        },
+        {
+          "title": "Aimee W. Brown (for the Respondent, in support of the Petitioner)",
+          "start": 1740.295
+        },
+        {
+          "title": "Brown - Justice Thomas",
+          "start": 1810.45
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 1847.865
+        },
+        {
+          "title": "Brown - Justice Kavanaugh",
+          "start": 1881.085
+        },
+        {
+          "title": "Brown - Justice Jackson",
+          "start": 2197.76
+        },
+        {
+          "title": "Brown - Justice Kavanaugh",
+          "start": 2275.9
+        },
+        {
+          "title": "Brown - Justice Kagan",
+          "start": 2323.22
+        },
+        {
+          "title": "Brown - Justice Gorsuch",
+          "start": 2431.085
+        },
+        {
+          "title": "Charles L. McCloud (Court-appointed amicus curiae, in support of the judgment below)",
+          "start": 2691.835
+        },
+        {
+          "title": "McCloud - Justice Thomas",
+          "start": 2801.43
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 2861.98
+        },
+        {
+          "title": "McCloud - Justice Kavanaugh",
+          "start": 2976.695
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 2999.68
+        },
+        {
+          "title": "McCloud - Justice Kavanaugh",
+          "start": 3238.23
+        },
+        {
+          "title": "McCloud - Justice Jackson",
+          "start": 3350.46
+        },
+        {
+          "title": "McCloud - Justice Gorsuch",
+          "start": 3450.68
+        },
+        {
+          "title": "McCloud - Justice Alito",
+          "start": 3534.61
+        },
+        {
+          "title": "McCloud - Justice Roberts",
+          "start": 3585.62
+        },
+        {
+          "title": "Matthew B. Larsen (for the Petitioner)",
+          "start": 3599.56
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5774.mp3"
     },
     "24-568": {
