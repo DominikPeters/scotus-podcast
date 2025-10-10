@@ -17471,13 +17471,158 @@
     "24-557": {
       "docket_number": "24-557",
       "name": "Villarreal v. Texas",
-      "date_argued_timestamp": 1759708800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-557",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-557.mp3",
-      "mp3_length": 4633,
-      "mp3_size": 37078479,
-      "source": "scotus",
+      "date_argued_timestamp": 1759726800,
       "description": "<p>Villarreal v. Texas</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-557/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-557.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-557\">oyez.org</a></p>\n    <p>Argued on Oct 6, 2025.</p>\n    <p>Petitioner: David Asa Villarreal.<br>Respondent: State of Texas.</p>\n    <p>Advocates: <ul><li>Stuart Banner (for the Petitioner)</li>\n<li>Andrew N. Warthen (for the Respondent)</li>\n<li>Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>David Asa Villarreal was charged with murder in Bexar County, Texas. During his trial, Villarreal took the stand in his own defense shortly before a planned midday recess. Because Villarreal was still in the middle of his direct examination when the court adjourned for an overnight recess, the trial judge instructed his attorneys not to confer with him regarding his ongoing testimony but permitted them to discuss other trial-related matters. Villarreal\u2019s lead counsel objected to this limitation under the Sixth Amendment but otherwise indicated understanding of the court's directive. The next day, Villarreal resumed his testimony, and no further objections about the limitation were raised. Villarreal was ultimately convicted and sentenced to sixty years in prison.</p>\n<p>Following his conviction, Villarreal appealed, arguing that the trial court\u2019s restriction violated his Sixth Amendment right to counsel. A divided appeals court affirmed his conviction, and Villarreal petitioned for discretionary review, and the Court of Criminal Appeals of Texas held that the trial judge\u2019s limited no-conferral order did not violate Villarreal\u2019s Sixth Amendment right to counsel.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a trial court violate a defendant\u2019s Sixth Amendment right to counsel by preventing the defendant and his lawyer from discussing the defendant\u2019s testimony during an overnight break in the trial?</p>\n\n    ",
+      "mp3_length": 4633,
+      "mp3_size": 18565636,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Stuart Banner (for the Petitioner)",
+          "start": 0.04
+        },
+        {
+          "title": "Banner - Justice Thomas",
+          "start": 127.595
+        },
+        {
+          "title": "Banner - Justice Roberts",
+          "start": 336.45
+        },
+        {
+          "title": "Banner - Justice Jackson",
+          "start": 457.11
+        },
+        {
+          "title": "Banner - Justice Kagan",
+          "start": 657.4
+        },
+        {
+          "title": "Banner - Justice Gorsuch",
+          "start": 829.34
+        },
+        {
+          "title": "Banner - Justice Barrett",
+          "start": 1073.79
+        },
+        {
+          "title": "Banner - Justice Alito",
+          "start": 1237.24
+        },
+        {
+          "title": "Banner - Justice Sotomayor",
+          "start": 1648.205
+        },
+        {
+          "title": "Banner - Justice Kagan",
+          "start": 1892.04
+        },
+        {
+          "title": "Banner - Justice Kavanaugh",
+          "start": 2077.965
+        },
+        {
+          "title": "Banner - Justice Jackson",
+          "start": 2238.555
+        },
+        {
+          "title": "Andrew N. Warthen (for the Respondent)",
+          "start": 2390.93
+        },
+        {
+          "title": "Warthen - Justice Thomas",
+          "start": 2465
+        },
+        {
+          "title": "Warthen - Justice Gorsuch",
+          "start": 2523.51
+        },
+        {
+          "title": "Warthen - Justice Roberts",
+          "start": 2685.54
+        },
+        {
+          "title": "Warthen - Justice Kagan",
+          "start": 2751.9
+        },
+        {
+          "title": "Warthen - Justice Roberts",
+          "start": 2906.13
+        },
+        {
+          "title": "Warthen - Justice Kavanaugh",
+          "start": 2926.79
+        },
+        {
+          "title": "Warthen - Justice Jackson",
+          "start": 3020.7
+        },
+        {
+          "title": "Warthen - Justice Sotomayor",
+          "start": 3086.18000005
+        },
+        {
+          "title": "Warthen - Justice Barrett",
+          "start": 3248.855
+        },
+        {
+          "title": "Warthen - Justice Gorsuch",
+          "start": 3289.58
+        },
+        {
+          "title": "Warthen - Justice Alito",
+          "start": 3429.17
+        },
+        {
+          "title": "Warthen - Justice Kagan",
+          "start": 3581.21
+        },
+        {
+          "title": "Warthen - Justice Gorsuch",
+          "start": 3685.635
+        },
+        {
+          "title": "Warthen - Justice Roberts",
+          "start": 3711.24
+        },
+        {
+          "title": "Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondent)",
+          "start": 3718.505
+        },
+        {
+          "title": "Barber - Justice Thomas",
+          "start": 3784.44
+        },
+        {
+          "title": "Barber - Justice Roberts",
+          "start": 3902.91
+        },
+        {
+          "title": "Barber - Justice Barrett",
+          "start": 4045.12
+        },
+        {
+          "title": "Barber - Justice Sotomayor",
+          "start": 4141.16
+        },
+        {
+          "title": "Barber - Justice Jackson",
+          "start": 4289.37
+        },
+        {
+          "title": "Barber - Justice Kavanaugh",
+          "start": 4359.425
+        },
+        {
+          "title": "Barber - Justice Jackson",
+          "start": 4415.195
+        },
+        {
+          "title": "Stuart Banner (for the Petitioner)",
+          "start": 4537.09500005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-557.mp3"
     },
     "24-539": {
