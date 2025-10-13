@@ -17946,14 +17946,195 @@
     },
     "24-568": {
       "docket_number": "24-568",
-      "name": "Bost v. IL Bd. of Elections",
-      "date_argued_timestamp": 1759881600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-568",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-568.mp3",
-      "mp3_length": 6223,
-      "mp3_size": 49794862,
-      "source": "scotus",
+      "name": "Bost v. Illinois State Board of Elections",
+      "date_argued_timestamp": 1759899600,
       "description": "<p>Bost v. Illinois State Board of Elections</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-568/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-568.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-568\">oyez.org</a></p>\n    <p>Argued on Oct 8, 2025.</p>\n    <p>Petitioner: Michael J. Bost.<br>Respondent: Illinois State Board of Elections.</p>\n    <p>Advocates: <ul><li>Paul D. Clement (for the Petitioners)</li>\n<li>Michael Talent (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Jane E. Notz (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Michael Bost, a multi-term U.S. Representative from Illinois\u2019s 12th District, along with Laura Pollastrini and Susan Sweeney, political activists who served as presidential electors in 2020, challenged Illinois\u2019s mail-in ballot receipt procedure. Under Illinois law, election officials can receive and count mail-in ballots for up to fourteen days after Election Day if the ballots are postmarked or certified by Election Day. Plaintiffs argued this procedure violates federal election statutes by impermissibly extending Election Day beyond the federally mandated date. They claimed the counting of these \u201cuntimely\u201d ballots dilutes their votes and forces them to expend additional campaign resources to monitor ballot counting for two weeks after Election Day.</p>\n<p>Plaintiffs filed suit in May 2022 against the Illinois State Board of Elections and its Executive Director. The U.S. District Court for the Northern District of Illinois dismissed the case, finding that Plaintiffs lacked Article III standing. The court also rejected their claims on the merits. The U.S. Court of Appeals for the Seventh Circuit affirmed the dismissal on jurisdictional grounds.</p>\n\n    <p><b>Question</b></p>\n    <p>Do federal candidates have Article III standing to challenge state laws that allow mail-in ballots to be received and counted for two weeks after Election Day based on claims that such laws dilute their votes and force them to incur additional campaign expenses for extended ballot monitoring?</p>\n\n    ",
+      "mp3_length": 6223,
+      "mp3_size": 24923736,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 0.05
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 126.165
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 230.85
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 401.95
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 623.53
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 732.41
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 924.68
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 988.59
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 1103.025
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 1152.385
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 1222.37
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 1347.315
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 1608.65
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 1796.68
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 1977.865
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 2057.74
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 2063.12
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 2243.845
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 2380.675
+        },
+        {
+          "title": "Michael Talent (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 2822.615
+        },
+        {
+          "title": "Talent - Justice Thomas",
+          "start": 2888.4
+        },
+        {
+          "title": "Talent - Justice Roberts",
+          "start": 2943.005
+        },
+        {
+          "title": "Talent - Justice Kavanaugh",
+          "start": 3076.255
+        },
+        {
+          "title": "Talent - Justice Sotomayor",
+          "start": 3203.965
+        },
+        {
+          "title": "Talent - Justice Alito",
+          "start": 3444.455
+        },
+        {
+          "title": "Talent - Justice Kagan",
+          "start": 3459.85
+        },
+        {
+          "title": "Talent - Justice Kavanaugh",
+          "start": 3660.28999995
+        },
+        {
+          "title": "Talent - Justice Jackson",
+          "start": 3720.185
+        },
+        {
+          "title": "Jane E. Notz (for the Respondents)",
+          "start": 3844.055
+        },
+        {
+          "title": "Notz - Justice Thomas",
+          "start": 3966.95
+        },
+        {
+          "title": "Notz - Justice Roberts",
+          "start": 4018.39
+        },
+        {
+          "title": "Notz - Justice Kavanaugh",
+          "start": 4131.75
+        },
+        {
+          "title": "Notz - Justice Roberts",
+          "start": 4226.28
+        },
+        {
+          "title": "Notz - Justice Gorsuch",
+          "start": 4307.62
+        },
+        {
+          "title": "Notz - Justice Kavanaugh",
+          "start": 4579.78
+        },
+        {
+          "title": "Notz - Justice Alito",
+          "start": 4653.51
+        },
+        {
+          "title": "Notz - Justice Kagan",
+          "start": 4854.72
+        },
+        {
+          "title": "Notz - Justice Kavanaugh",
+          "start": 5057.39
+        },
+        {
+          "title": "Notz - Justice Alito",
+          "start": 5234.16
+        },
+        {
+          "title": "Notz - Justice Kavanaugh",
+          "start": 5438.39
+        },
+        {
+          "title": "Notz - Justice Jackson",
+          "start": 5582.8
+        },
+        {
+          "title": "Notz - Justice Alito",
+          "start": 5730.73
+        },
+        {
+          "title": "Notz - Justice Kavanaugh",
+          "start": 5795.71
+        },
+        {
+          "title": "Notz - Justice Jackson",
+          "start": 5854.85
+        },
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 6036.145
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-568.mp3"
     },
     "24-109": {
