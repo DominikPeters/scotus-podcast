@@ -17459,13 +17459,134 @@
     "24-440": {
       "docket_number": "24-440",
       "name": "Berk v. Choy",
-      "date_argued_timestamp": 1759708800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-440",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-440.mp3",
-      "mp3_length": 3820,
-      "mp3_size": 30575128,
-      "source": "scotus",
+      "date_argued_timestamp": 1759726800,
       "description": "<p>Berk v. Choy</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-440/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-440.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-440\">oyez.org</a></p>\n    <p>Argued on Oct 6, 2025.</p>\n    <p>Petitioner: Harold R. Berk.<br>Respondent: Wilson C. Choy.</p>\n    <p>Advocates: <ul><li>Andrew T. Tutt (for the Petitioner)</li>\n<li>Frederick R. Yarger (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Harold R. Berk injured his ankle and allegedly received negligent medical care from three healthcare providers: Dr. Wilson C. Choy, Beebe Medical Center, Inc., and Encompass Health Rehabilitation Hospital of Middletown, LLC. Believing he suffered harm due to their malpractice, Berk filed a lawsuit against them under Delaware law. Like many states, Delaware requires plaintiffs in medical negligence cases to submit an affidavit of merit (AOM)\u2014a statement from a qualified expert certifying that the lawsuit has a reasonable basis\u2014either with the complaint or within a short time after filing.</p>\n<p>Berk failed to submit an AOM with his complaint and did not request an extension before the deadline passed. Because the Delaware statute treats the AOM requirement as mandatory, the district court dismissed his case. Berk appealed to the U.S. Court of Appeals for the Third Circuit, which affirmed the dismissal, concluding that the Delaware AOM statute is substantive and therefore must be enforced by a federal court sitting in diversity.</p>\n\n    <p><b>Question</b></p>\n    <p>Must a Delaware law providing that a complaint must be dismissed unless it is accompanied by an expert affidavit be enforced by a federal court sitting in diversity?</p>\n\n    ",
+      "mp3_length": 3820,
+      "mp3_size": 15313705,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Andrew T. Tutt (for the Petitioner)",
+          "start": 0.22
+        },
+        {
+          "title": "Tutt - Justice Thomas",
+          "start": 142.645
+        },
+        {
+          "title": "Tutt - Justice Sotomayor",
+          "start": 231.28
+        },
+        {
+          "title": "Tutt - Justice Barrett",
+          "start": 382.14
+        },
+        {
+          "title": "Tutt - Justice Kavanaugh",
+          "start": 534.24
+        },
+        {
+          "title": "Tutt - Justice Roberts",
+          "start": 609.2
+        },
+        {
+          "title": "Tutt - Justice Alito",
+          "start": 687.67
+        },
+        {
+          "title": "Tutt - Justice Jackson",
+          "start": 756.02
+        },
+        {
+          "title": "Tutt - Justice Kagan",
+          "start": 888
+        },
+        {
+          "title": "Tutt - Justice Gorsuch",
+          "start": 991.275
+        },
+        {
+          "title": "Tutt - Justice Jackson",
+          "start": 1207.97
+        },
+        {
+          "title": "Tutt - Justice Barrett",
+          "start": 1368.14
+        },
+        {
+          "title": "Tutt - Justice Gorsuch",
+          "start": 1432.255
+        },
+        {
+          "title": "Tutt - Justice Alito",
+          "start": 1515.665
+        },
+        {
+          "title": "Tutt - Justice Kavanaugh",
+          "start": 1700.32
+        },
+        {
+          "title": "Tutt - Justice Barrett",
+          "start": 1740.995
+        },
+        {
+          "title": "Tutt - Justice Jackson",
+          "start": 1834.46
+        },
+        {
+          "title": "Frederick R. Yarger (for the Respondents)",
+          "start": 1863.665
+        },
+        {
+          "title": "Yarger - Justice Thomas",
+          "start": 1997.94
+        },
+        {
+          "title": "Yarger - Justice Kagan",
+          "start": 2056.805
+        },
+        {
+          "title": "Yarger - Justice Jackson",
+          "start": 2438.74
+        },
+        {
+          "title": "Yarger - Justice Sotomayor",
+          "start": 2511.02
+        },
+        {
+          "title": "Yarger - Justice Gorsuch",
+          "start": 2568.155
+        },
+        {
+          "title": "Yarger - Justice Jackson",
+          "start": 2822.44
+        },
+        {
+          "title": "Yarger - Justice Kagan",
+          "start": 3005.09
+        },
+        {
+          "title": "Yarger - Justice Kavanaugh",
+          "start": 3265.78
+        },
+        {
+          "title": "Yarger - Justice Jackson",
+          "start": 3440.015
+        },
+        {
+          "title": "Yarger - Justice Gorsuch",
+          "start": 3531.7
+        },
+        {
+          "title": "Yarger - Justice Roberts",
+          "start": 3563.745
+        },
+        {
+          "title": "Andrew T. Tutt (for the Petitioner)",
+          "start": 3573.705
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-440.mp3"
     },
     "24-557": {
@@ -18448,7 +18569,7 @@
       "mp3_length": 5454,
       "mp3_size": 43640991,
       "source": "scotus",
-      "description": "<p>Bowe v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-5438/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-5438.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-5438\">oyez.org</a></p>\n    <p>Argued on Oct 14, 2025.</p>\n    <p>Petitioner: Michael Bowe.<br>Respondent: United States of America.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2008, Michael Bowe was charged with conspiracy to commit Hobbs Act robbery, attempted Hobbs Act robbery, and using a firearm during a crime of violence. He pleaded guilty in 2009 and received a 288-month sentence, which included a mandatory consecutive 120-month term for the firearm conviction under 18 U.S.C. \u00a7 924(c). Starting in 2016, Bowe made multiple attempts to challenge his \u00a7 924(c) conviction through a series of motions and applications, arguing that changes in Supreme Court precedent (particularly Johnson v. United States and United States v. Davis) meant that his underlying crimes no longer qualified as \u201ccrimes of violence\u201d that could support the firearm conviction.</p>\n<p>The district court initially denied Bowe\u2019s first \u00a7 2255 motion in 2016, finding that attempted Hobbs Act robbery still qualified as a crime of violence. The U.S. Court of Appeals for the Eleventh Circuit then denied several subsequent applications from Bowe to file additional challenges, ultimately concluding in that it lacked jurisdiction to consider his latest application because he was attempting to raise the same claim he had already presented in previous applications.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does a rule requiring dismissal of repeat claims in state prisoner habeas petitions also apply to repeat claims in federal prisoner motions to vacate their sentences?</p>\n<p>2. Does the Court have jurisdiction to review lower court decisions allowing or denying federal prisoners permission to file repeat challenges to their sentences?</p>\n\n    ",
+      "description": "<p>Bowe v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-5438/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-5438.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2024/24-5438\">oyez.org</a></p>\n    <p>Argued on Oct 14, 2025.</p>\n    <p>Petitioner: Michael Bowe.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Andrew L. Adler (for the Petitioner)</li>\n<li>Anthony A. Yang (for the Respondent)</li>\n<li>Kasdin M. Mitchell (Court-appointed amicus curiae, supporting the judgment below as to Question 1)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2008, Michael Bowe was charged with conspiracy to commit Hobbs Act robbery, attempted Hobbs Act robbery, and using a firearm during a crime of violence. He pleaded guilty in 2009 and received a 288-month sentence, which included a mandatory consecutive 120-month term for the firearm conviction under 18 U.S.C. \u00a7 924(c). Starting in 2016, Bowe made multiple attempts to challenge his \u00a7 924(c) conviction through a series of motions and applications, arguing that changes in Supreme Court precedent (particularly Johnson v. United States and United States v. Davis) meant that his underlying crimes no longer qualified as \u201ccrimes of violence\u201d that could support the firearm conviction.</p>\n<p>The district court initially denied Bowe\u2019s first \u00a7 2255 motion in 2016, finding that attempted Hobbs Act robbery still qualified as a crime of violence. The U.S. Court of Appeals for the Eleventh Circuit then denied several subsequent applications from Bowe to file additional challenges, ultimately concluding in that it lacked jurisdiction to consider his latest application because he was attempting to raise the same claim he had already presented in previous applications.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does a rule requiring dismissal of repeat claims in state prisoner habeas petitions also apply to repeat claims in federal prisoner motions to vacate their sentences?</p>\n<p>2. Does the Court have jurisdiction to review lower court decisions allowing or denying federal prisoners permission to file repeat challenges to their sentences?</p>\n\n    ",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5438.mp3"
     },
     "24-482": {
