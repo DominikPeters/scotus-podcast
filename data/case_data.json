@@ -18397,13 +18397,146 @@
     "24-482": {
       "docket_number": "24-482",
       "name": "Ellingburg v. United States",
-      "date_argued_timestamp": 1760400000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-482",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-482.mp3",
-      "mp3_length": 3856,
-      "mp3_size": 30863411,
-      "source": "scotus",
+      "date_argued_timestamp": 1760418000,
       "description": "<p>Ellingburg v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-482 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-482.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-482\">oyez.org</a></p>\n    <p>Argued on Oct 14, 2025.</p>\n    <p>Petitioner: Holsey Ellingburg, Jr.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Amy M. Saharia (for the Petitioner)</li>\n<li>Ashley Robertson (for the Respondent, supporting vacatur)</li>\n<li>John F. Bash (Court-appointed amicus curiae, supporting the judgment below)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In December 1995, Holsey Ellingburg, Jr. robbed a bank and was indicted in April 1996. He was convicted in August 1996 and sentenced to prison, along with an order to pay over $7,500 in restitution under the Victim and Witness Protection Act (VWPA). Following his release from prison in June 2022, having paid only about one-quarter of the original restitution amount, Mr. Ellingburg filed a motion arguing that enforcement of his restitution order was unlawful. He claimed that the applicable 20-year payment period under the VWPA had expired and that applying a longer restitution term and mandatory interest provision under the later-enacted Mandatory Victim Restitution Act (MVRA) violated the Ex Post Facto Clause.</p>\n<p>The district court rejected Mr. Ellingburg\u2019s arguments and upheld the restitution order. The U.S. Court of Appeals for the Eighth Circuit affirmed the district court\u2019s decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Is criminal restitution under the Mandatory Victim Restitution Act (MVRA) penal for purposes of the Ex Post Facto Clause?</p>\n\n    ",
+      "mp3_length": 3856,
+      "mp3_size": 15457796,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Amy M. Saharia (for the Petitioner)",
+          "start": 0.65
+        },
+        {
+          "title": "Saharia - Justice Thomas",
+          "start": 133.265
+        },
+        {
+          "title": "Saharia - Justice Jackson",
+          "start": 238.59000005
+        },
+        {
+          "title": "Saharia - Justice Alito",
+          "start": 382.35
+        },
+        {
+          "title": "Saharia - Justice Roberts",
+          "start": 504.04
+        },
+        {
+          "title": "Saharia - Justice Kavanaugh",
+          "start": 550.56
+        },
+        {
+          "title": "Saharia - Justice Jackson",
+          "start": 685.47
+        },
+        {
+          "title": "Saharia - Justice Alito",
+          "start": 788.27
+        },
+        {
+          "title": "Saharia - Justice Sotomayor",
+          "start": 914.11
+        },
+        {
+          "title": "Saharia - Justice Kagan",
+          "start": 964.655
+        },
+        {
+          "title": "Saharia - Justice Roberts",
+          "start": 1058.445
+        },
+        {
+          "title": "Ashley Robertson (for the Respondent, supporting vacatur)",
+          "start": 1078.64
+        },
+        {
+          "title": "Robertson - Justice Thomas",
+          "start": 1147.4
+        },
+        {
+          "title": "Robertson - Justice Kavanaugh",
+          "start": 1295.02
+        },
+        {
+          "title": "Robertson - Justice Kagan",
+          "start": 1412.45
+        },
+        {
+          "title": "Robertson - Justice Kavanaugh",
+          "start": 1433.27
+        },
+        {
+          "title": "Robertson - Justice Alito",
+          "start": 1439.74
+        },
+        {
+          "title": "Robertson - Justice Barrett",
+          "start": 1648.725
+        },
+        {
+          "title": "Robertson - Justice Jackson",
+          "start": 1724.1
+        },
+        {
+          "title": "Robertson - Justice Kavanaugh",
+          "start": 1877.44
+        },
+        {
+          "title": "John F. Bash (Court-appointed amicus curiae, supporting the judgment below)",
+          "start": 2052.28
+        },
+        {
+          "title": "Bash - Justice Thomas",
+          "start": 2182.87
+        },
+        {
+          "title": "Bash - Justice Jackson",
+          "start": 2392.13
+        },
+        {
+          "title": "Bash - Justice Gorsuch",
+          "start": 2673.58
+        },
+        {
+          "title": "Bash - Justice Kagan",
+          "start": 2833.425
+        },
+        {
+          "title": "Bash - Justice Jackson",
+          "start": 3011.88
+        },
+        {
+          "title": "Bash - Justice Kagan",
+          "start": 3063.81
+        },
+        {
+          "title": "Bash - Justice Alito",
+          "start": 3195.82
+        },
+        {
+          "title": "Bash - Justice Gorsuch",
+          "start": 3333.95
+        },
+        {
+          "title": "Bash - Justice Sotomayor",
+          "start": 3501.435
+        },
+        {
+          "title": "Bash - Justice Kavanaugh",
+          "start": 3593.46
+        },
+        {
+          "title": "Bash - Justice Gorsuch",
+          "start": 3630.595
+        },
+        {
+          "title": "Amy M. Saharia (for the Petitioner)",
+          "start": 3693.85999995
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-482.mp3"
     },
     "24-624": {

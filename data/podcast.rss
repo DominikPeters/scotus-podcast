@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-109] Reargument: Louisiana v. Callais</title>
+            <description><![CDATA[<p>Louisiana v. Callais (Reargument)</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-109/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-109">oyez.org</a></p>
+    <p>Argued on Oct 15, 2025.</p>
+    <p>Appellant: Louisiana.<br>Appellee: Phillip Callais, et al.</p>
+   <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>This case involves a challenge to Louisiana’s congressional redistricting map, specifically focusing on District 6, alleging that the map is an impermissible racial gerrymander. The map was created in response to a previous lawsuit, Robinson v. Ardoin, where plaintiffs argued that the prior map violated Section 2 of the Voting Rights Act by diluting minority votes. To address these issues, the Louisiana Legislature adopted a new map (Senate Bill 8) that included a second majority-Black district. However, the plaintiffs in this case claimed that this new map violated the Equal Protection Clause of the Fourteenth Amendment by prioritizing race in its creation. A three-judge panel concluded that District 6 of the new map did indeed violate the Equal Protection Clause, leading the court to issue an injunction against using this map in future elections.</p>
+<p> </p>
+
+    <p><b>Question</b></p>
+    <p>Does Louisiana’s creation of a second majority-Black congressional district constitute unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state’s prior single majority-Black district likely violated Section 2 of the Voting Rights Act?</p>
+<p> </p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-109.mp3" length="72026512" type="audio/mpeg"/>
+            <guid>scotus_2025_24-109_v0</guid>
+            <itunes:duration>9002</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 15 Oct 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-624] Case v. Montana</title>
             <description><![CDATA[<p>Case v. Montana</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-624/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-624.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-624">oyez.org</a></p>
@@ -52,6 +71,28 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Wed, 15 Oct 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
+            <title>[24-482] Ellingburg v. United States</title>
+            <description><![CDATA[<p>Ellingburg v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-482 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-482.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-482">oyez.org</a></p>
+    <p>Argued on Oct 14, 2025.</p>
+    <p>Petitioner: Holsey Ellingburg, Jr.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Amy M. Saharia (for the Petitioner)</li>
+<li>Ashley Robertson (for the Respondent, supporting vacatur)</li>
+<li>John F. Bash (Court-appointed amicus curiae, supporting the judgment below)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In December 1995, Holsey Ellingburg, Jr. robbed a bank and was indicted in April 1996. He was convicted in August 1996 and sentenced to prison, along with an order to pay over $7,500 in restitution under the Victim and Witness Protection Act (VWPA). Following his release from prison in June 2022, having paid only about one-quarter of the original restitution amount, Mr. Ellingburg filed a motion arguing that enforcement of his restitution order was unlawful. He claimed that the applicable 20-year payment period under the VWPA had expired and that applying a longer restitution term and mandatory interest provision under the later-enacted Mandatory Victim Restitution Act (MVRA) violated the Ex Post Facto Clause.</p>
+<p>The district court rejected Mr. Ellingburg’s arguments and upheld the restitution order. The U.S. Court of Appeals for the Eighth Circuit affirmed the district court’s decision.</p>
+
+    <p><b>Question</b></p>
+    <p>Is criminal restitution under the Mandatory Victim Restitution Act (MVRA) penal for purposes of the Ex Post Facto Clause?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-482.mp3" length="15457796" type="audio/mpeg"/>
+            <guid>scotus_2025_24-482_v0</guid>
+            <itunes:duration>3856</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Tue, 14 Oct 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-482.vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[24-5438] Bowe v. United States</title>
             <description><![CDATA[<p>Bowe v. United States</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-5438/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-5438.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2024/24-5438">oyez.org</a></p>
@@ -70,27 +111,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5438.mp3" length="43640991" type="audio/mpeg"/>
             <guid>scotus_2025_24-5438_v0</guid>
             <itunes:duration>5454</itunes:duration>
-            <itunes:season>2025</itunes:season>
-            <pubDate>Tue, 14 Oct 2025 10:00:00 -0400</pubDate>
-        </item>
-    <item>
-            <title>[24-482] Ellingburg v. United States</title>
-            <description><![CDATA[<p>Ellingburg v. United States</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-482 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-482.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-482">oyez.org</a></p>
-    <p>Argued on Oct 14, 2025.</p>
-    <p>Petitioner: Holsey Ellingburg, Jr.<br>Respondent: United States of America.</p>
-    <p>Advocates: <ul><li>Amy M. Saharia (for the Petitioner)</li>
-<li>Ashley Robertson (for the Respondent, supporting vacatur)</li>
-<li>John F. Bash (Court-appointed amicus curiae, supporting the judgment below)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>In December 1995, Holsey Ellingburg, Jr. robbed a bank and was indicted in April 1996. He was convicted in August 1996 and sentenced to prison, along with an order to pay over $7,500 in restitution under the Victim and Witness Protection Act (VWPA). Following his release from prison in June 2022, having paid only about one-quarter of the original restitution amount, Mr. Ellingburg filed a motion arguing that enforcement of his restitution order was unlawful. He claimed that the applicable 20-year payment period under the VWPA had expired and that applying a longer restitution term and mandatory interest provision under the later-enacted Mandatory Victim Restitution Act (MVRA) violated the Ex Post Facto Clause.</p>
-<p>The district court rejected Mr. Ellingburg’s arguments and upheld the restitution order. The U.S. Court of Appeals for the Eighth Circuit affirmed the district court’s decision.</p>
-
-    <p><b>Question</b></p>
-    <p>Is criminal restitution under the Mandatory Victim Restitution Act (MVRA) penal for purposes of the Ex Post Facto Clause?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-482.mp3" length="30863411" type="audio/mpeg"/>
-            <guid>scotus_2025_24-482_v0</guid>
-            <itunes:duration>3856</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 14 Oct 2025 10:00:00 -0400</pubDate>
         </item>
@@ -218,28 +238,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4633</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 06 Oct 2025 10:00:00 -0400</pubDate>
-        </item>
-    <item>
-            <title>[24-109] Louisiana v. Callais</title>
-            <description><![CDATA[<p>Louisiana v. Callais</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-109/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-109">oyez.org</a></p>
-    <p>Argued on Mar 24, 2025.</p>
-    <p>Appellant: Louisiana.<br>Appellee: Phillip Callais, et al.</p>
-    <p>Advocates: <ul><li>J. Benjamin Aguinaga (for the Appellant in No. 24-109)</li>
-<li>Stuart C. Naifeh (for the Appellants in No. 24-110)</li>
-<li>Edward D. Greim (for the Appellees)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>This case involves a challenge to Louisiana’s congressional redistricting map, specifically focusing on District 6, alleging that the map is an impermissible racial gerrymander. The map was created in response to a previous lawsuit, Robinson v. Ardoin, where plaintiffs argued that the prior map violated Section 2 of the Voting Rights Act by diluting minority votes. To address these issues, the Louisiana Legislature adopted a new map (Senate Bill 8) that included a second majority-Black district. However, the plaintiffs in this case claimed that this new map violated the Equal Protection Clause of the Fourteenth Amendment by prioritizing race in its creation. A three-judge panel concluded that District 6 of the new map did indeed violate the Equal Protection Clause, leading the court to issue an injunction against using this map in future elections.</p>
-<p> </p>
-
-    <p><b>Question</b></p>
-    <p>Does Louisiana’s creation of a second majority-Black congressional district constitute unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state’s prior single majority-Black district likely violated Section 2 of the Voting Rights Act?</p>
-<p> </p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-109.mp3" length="19001672" type="audio/mpeg"/>
-            <guid>scotus_2025_24-109_v0</guid>
-            <itunes:duration>4742</itunes:duration>
-            <itunes:season>2025</itunes:season>
-            <pubDate>Mon, 24 Mar 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
             <title>[24A884] Trump v. CASA Inc.</title>
