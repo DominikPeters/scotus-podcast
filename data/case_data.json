@@ -14118,7 +14118,7 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.mp3"
     },
-    "24-109a": {
+    "24-109": {
       "docket_number": "24-109",
       "name": "Louisiana v. Callais",
       "date_argued_timestamp": 1742792400,
@@ -18260,190 +18260,12 @@
     },
     "24-109": {
       "docket_number": "24-109",
-      "name": "Louisiana v. Callais",
+      "name": "Reargument: Louisiana v. Callais",
       "date_argued_timestamp": 1742792400,
-      "description": "<p>Louisiana v. Callais</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-109/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-109\">oyez.org</a></p>\n    <p>Argued on Mar 24, 2025.</p>\n    <p>Appellant: Louisiana.<br>Appellee: Phillip Callais, et al.</p>\n    <p>Advocates: <ul><li>J. Benjamin Aguinaga (for the Appellant in No. 24-109)</li>\n<li>Stuart C. Naifeh (for the Appellants in No. 24-110)</li>\n<li>Edward D. Greim (for the Appellees)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves a challenge to Louisiana\u2019s congressional redistricting map, specifically focusing on District 6, alleging that the map is an impermissible racial gerrymander. The map was created in response to a previous lawsuit, Robinson v. Ardoin, where plaintiffs argued that the prior map violated Section 2 of the Voting Rights Act by diluting minority votes. To address these issues, the Louisiana Legislature adopted a new map (Senate Bill 8) that included a second majority-Black district. However, the plaintiffs in this case claimed that this new map violated the Equal Protection Clause of the Fourteenth Amendment by prioritizing race in its creation. A three-judge panel concluded that District 6 of the new map did indeed violate the Equal Protection Clause, leading the court to issue an injunction against using this map in future elections.</p>\n<p>\u00a0</p>\n\n    <p><b>Question</b></p>\n    <p>Does Louisiana\u2019s creation of a second majority-Black congressional district constitute unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state\u2019s prior single majority-Black district likely violated Section 2 of the Voting Rights Act?</p>\n<p>\u00a0</p>\n\n    ",
-      "mp3_length": 4742,
-      "mp3_size": 19001672,
+      "description": "<p>Louisiana v. Callais (Reargument)</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2024/24-109/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-109\">oyez.org</a></p>\n    <p>Argued on Oct 15, 2025.</p>\n    <p>Appellant: Louisiana.<br>Appellee: Phillip Callais, et al.</p>\n   <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves a challenge to Louisiana\u2019s congressional redistricting map, specifically focusing on District 6, alleging that the map is an impermissible racial gerrymander. The map was created in response to a previous lawsuit, Robinson v. Ardoin, where plaintiffs argued that the prior map violated Section 2 of the Voting Rights Act by diluting minority votes. To address these issues, the Louisiana Legislature adopted a new map (Senate Bill 8) that included a second majority-Black district. However, the plaintiffs in this case claimed that this new map violated the Equal Protection Clause of the Fourteenth Amendment by prioritizing race in its creation. A three-judge panel concluded that District 6 of the new map did indeed violate the Equal Protection Clause, leading the court to issue an injunction against using this map in future elections.</p>\n<p>\u00a0</p>\n\n    <p><b>Question</b></p>\n    <p>Does Louisiana\u2019s creation of a second majority-Black congressional district constitute unconstitutional racial gerrymandering, even when drawn in response to a federal court finding that the state\u2019s prior single majority-Black district likely violated Section 2 of the Voting Rights Act?</p>\n<p>\u00a0</p>\n\n    ",
+      "mp3_length": 9002,
+      "mp3_size": 72026512,
       "description_version": "v1",
-      "chapters": [
-        {
-          "title": "J. Benjamin Aguinaga (for the Appellant in No. 24-109)",
-          "start": 0.09
-        },
-        {
-          "title": "Aguinaga - Justice Thomas",
-          "start": 110.81
-        },
-        {
-          "title": "Aguinaga - Justice Roberts",
-          "start": 276.735
-        },
-        {
-          "title": "Aguinaga - Justice Kavanaugh",
-          "start": 323.815
-        },
-        {
-          "title": "Aguinaga - Justice Alito",
-          "start": 435.065
-        },
-        {
-          "title": "Aguinaga - Justice Sotomayor",
-          "start": 516.365
-        },
-        {
-          "title": "Aguinaga - Justice Kavanaugh",
-          "start": 820.065
-        },
-        {
-          "title": "Aguinaga - Justice Barrett",
-          "start": 920.76
-        },
-        {
-          "title": "Aguinaga - Justice Jackson",
-          "start": 1078.015
-        },
-        {
-          "title": "Stuart C. Naifeh (for the Appellants in No. 24-110)",
-          "start": 1258.18
-        },
-        {
-          "title": "Naifeh - Justice Thomas",
-          "start": 1359
-        },
-        {
-          "title": "Naifeh - Justice Gorsuch",
-          "start": 1425.375
-        },
-        {
-          "title": "Naifeh - Justice Alito",
-          "start": 1521.485
-        },
-        {
-          "title": "Naifeh - Justice Kagan",
-          "start": 1715.06
-        },
-        {
-          "title": "Naifeh - Justice Roberts",
-          "start": 1755.27
-        },
-        {
-          "title": "Naifeh - Justice Kagan",
-          "start": 1786.55
-        },
-        {
-          "title": "Naifeh - Justice Sotomayor",
-          "start": 1815.175
-        },
-        {
-          "title": "Naifeh - Justice Gorsuch",
-          "start": 1824.57
-        },
-        {
-          "title": "Naifeh - Justice Jackson",
-          "start": 1945.6
-        },
-        {
-          "title": "Naifeh - Justice Roberts",
-          "start": 2046.795
-        },
-        {
-          "title": "Naifeh - Justice Gorsuch",
-          "start": 2147.34
-        },
-        {
-          "title": "Naifeh - Justice Thomas",
-          "start": 2230.885
-        },
-        {
-          "title": "Naifeh - Justice Alito",
-          "start": 2344.93
-        },
-        {
-          "title": "Naifeh - Justice Sotomayor",
-          "start": 2535.12500005
-        },
-        {
-          "title": "Naifeh - Justice Kagan",
-          "start": 2595.23
-        },
-        {
-          "title": "Naifeh - Justice Kavanaugh",
-          "start": 2722.74
-        },
-        {
-          "title": "Naifeh - Justice Barrett",
-          "start": 2818.005
-        },
-        {
-          "title": "Naifeh - Justice Jackson",
-          "start": 2974.45
-        },
-        {
-          "title": "Edward D. Greim (for the Appellees)",
-          "start": 3045.035
-        },
-        {
-          "title": "Greim - Justice Thomas",
-          "start": 3172.975
-        },
-        {
-          "title": "Greim - Justice Sotomayor",
-          "start": 3203.11
-        },
-        {
-          "title": "Greim - Justice Jackson",
-          "start": 3279.95
-        },
-        {
-          "title": "Greim - Justice Kagan",
-          "start": 3440.6
-        },
-        {
-          "title": "Greim - Justice Gorsuch",
-          "start": 3599.27
-        },
-        {
-          "title": "Greim - Justice Jackson",
-          "start": 3727.3
-        },
-        {
-          "title": "Greim - Justice Sotomayor",
-          "start": 3747.7
-        },
-        {
-          "title": "Greim - Justice Kavanaugh",
-          "start": 3858.24
-        },
-        {
-          "title": "Greim - Justice Jackson",
-          "start": 3938.86
-        },
-        {
-          "title": "Greim - Justice Kagan",
-          "start": 4068.765
-        },
-        {
-          "title": "Greim - Justice Alito",
-          "start": 4340.16
-        },
-        {
-          "title": "Greim - Justice Kagan",
-          "start": 4373.13
-        },
-        {
-          "title": "Greim - Justice Kavanaugh",
-          "start": 4455.88
-        },
-        {
-          "title": "Greim - Justice Jackson",
-          "start": 4592.76
-        },
-        {
-          "title": "J. Benjamin Aguinaga (for the Appellant in No. 24-109)",
-          "start": 4645.94
-        }
-      ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-109.mp3"
     },
