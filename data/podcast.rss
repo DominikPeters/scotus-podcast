@@ -32,6 +32,25 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-1056] Rico v. United States</title>
+            <description><![CDATA[<p>Rico v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-1056/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1056.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1056">oyez.org</a></p>
+    <p>Argued on Nov 3, 2025.</p>
+    <p>Petitioner: Isabel Rico.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In May 2018, Isabel Rico absconded from supervised release after serving only five months of her 42-month term. Rico had originally been convicted in the U.S. District Court for the Central District of California and was serving supervised release as part of her sentence. She remained a fugitive until January 2023, when authorities located her. In February 2023, the probation office filed violations based on her absconding and other conduct during her supervised release term.</p>
+<p>The district court revoked Rico’s supervised release and sentenced her to 16 months in prison followed by a new two-year term of supervised release. Rico appealed to the U.S. Court of Appeals for the Ninth Circuit, arguing that the district court lacked authority to revoke her supervised release because her original 42-month term would have expired during the time she was a fugitive, but the Ninth Circuit affirmed the lower court’s decision.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the fugitive-tolling doctrine apply in the context of supervised release?</p>]]></description>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.mp3" length="26198563" type="audio/mpeg"/>
+            <guid>scotus_2025_24-1056_v0</guid>
+            <itunes:duration>3273</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Mon, 03 Nov 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-109] Reargument: Louisiana v. Callais</title>
             <description><![CDATA[<p>Louisiana v. Callais (Reargument)</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2024/24-109/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-109.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-109">oyez.org</a></p>
@@ -98,7 +117,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>5454</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 14 Oct 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5438.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-482] Ellingburg v. United States</title>
