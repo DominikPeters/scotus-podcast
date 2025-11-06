@@ -18719,25 +18719,300 @@
     "24-1056": {
       "docket_number": "24-1056",
       "name": "Rico v. United States",
-      "date_argued_timestamp": 1762128000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1056",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1056.mp3",
-      "mp3_length": 3273,
-      "mp3_size": 26198563,
-      "source": "scotus",
+      "date_argued_timestamp": 1762149600,
       "description": "<p>Rico v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1056/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1056.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1056\">oyez.org</a></p>\n    <p>Argued on Nov 3, 2025.</p>\n    <p>Petitioner: Isabel Rico.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Adam G. Unikowsky (for the Petitioner)</li>\n<li>Joshua K. Handell (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In May 2018, Isabel Rico absconded from supervised release after serving only five months of her 42-month term. Rico had originally been convicted in the U.S. District Court for the Central District of California and was serving supervised release as part of her sentence. She remained a fugitive until January 2023, when authorities located her. In February 2023, the probation office filed violations based on her absconding and other conduct during her supervised release term.</p>\n<p>The district court revoked Rico\u2019s supervised release and sentenced her to 16 months in prison followed by a new two-year term of supervised release. Rico appealed to the U.S. Court of Appeals for the Ninth Circuit, arguing that the district court lacked authority to revoke her supervised release because her original 42-month term would have expired during the time she was a fugitive, but the Ninth Circuit affirmed the lower court\u2019s decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the fugitive-tolling doctrine apply in the context of supervised release?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.mp3"
+      "mp3_length": 3273,
+      "mp3_size": 13125375,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Adam G. Unikowsky (for the Petitioner)",
+          "start": 0.215
+        },
+        {
+          "title": "Unikowsky - Justice Thomas",
+          "start": 112.725
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 236.05
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 373.89
+        },
+        {
+          "title": "Unikowsky - Justice Gorsuch",
+          "start": 520.27
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 616.88
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 678.085
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 705.67
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 1019.13
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 1145.92
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 1240.205
+        },
+        {
+          "title": "Unikowsky - Justice Roberts",
+          "start": 1424.53
+        },
+        {
+          "title": "Joshua K. Handell (for the Respondent)",
+          "start": 1438.935
+        },
+        {
+          "title": "Handell - Justice Thomas",
+          "start": 1547.75
+        },
+        {
+          "title": "Handell - Justice Gorsuch",
+          "start": 1629.76
+        },
+        {
+          "title": "Handell - Justice Sotomayor",
+          "start": 1840.93
+        },
+        {
+          "title": "Handell - Justice Gorsuch",
+          "start": 2031.81
+        },
+        {
+          "title": "Handell - Justice Roberts",
+          "start": 2106.35
+        },
+        {
+          "title": "Handell - Justice Jackson",
+          "start": 2180.46
+        },
+        {
+          "title": "Handell - Justice Gorsuch",
+          "start": 2270.21
+        },
+        {
+          "title": "Handell - Justice Alito",
+          "start": 2357.705
+        },
+        {
+          "title": "Handell - Justice Jackson",
+          "start": 2554.74
+        },
+        {
+          "title": "Handell - Justice Kagan",
+          "start": 2747.84
+        },
+        {
+          "title": "Handell - Justice Jackson",
+          "start": 2988.48
+        },
+        {
+          "title": "Adam G. Unikowsky (for the Petitioner)",
+          "start": 3105.47000005
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.mp3",
+      "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.vtt"
     },
     "24-924": {
       "docket_number": "24-924",
-      "name": "Hencely v. Fluor Corp.",
-      "date_argued_timestamp": 1762128000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-924",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-924.mp3",
-      "mp3_length": 5399,
-      "mp3_size": 43199775,
-      "source": "scotus",
+      "name": "Hencely v. Fluor Corporation",
+      "date_argued_timestamp": 1762149600,
       "description": "<p>Hencely v. Fluor Corporation</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-924/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-924.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-924\">oyez.org</a></p>\n    <p>Argued on Nov 3, 2025.</p>\n    <p>Petitioner: Winston Tyler Hencely.<br>Respondent: Fluor Corporation.</p>\n    <p>Advocates: <ul><li>Frank H. Chang (for the Petitioner)</li>\n<li>Mark W. Mosier (for the Respondents)</li>\n<li>Curtis E. Gannon (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2016, U.S. Army Specialist Winston Tyler Hencely was stationed at Bagram Airfield in Afghanistan as part of Operation Freedom\u2019s Sentinel. Fluor Corporation held a Department of Defense contract to provide base life support services at Bagram, including vehicle maintenance and hazardous materials management. Under the military\u2019s \u201cAfghan First\u201d counterinsurgency program, which aimed to develop the Afghan economy by employing local nationals, Fluor\u2019s subcontractor hired Ahmad Nayeb, an Afghan national. The Army sponsored Nayeb\u2019s employment despite knowing he was a former Taliban member, viewing his hiring as a reintegration effort. Nayeb worked the night shift at the hazardous materials section of the non-tactical vehicle yard with limited supervision.</p>\n<p>During his employment, Nayeb likely smuggled explosives onto the base and constructed an explosive vest while working alone, using base tools including a multimeter he had checked out despite not needing it for his assigned duties. On the morning of November 12, 2016, at the end of his shift, Nayeb was supposed to board a bus to be escorted off base. Instead, he lied about needing to attend a hazardous materials class and walked undetected for 53 minutes to an area near the starting line of a Veterans Day 5K race. When Hencely and others confronted him, Nayeb detonated his vest, killing himself and five others while severely wounding seventeen more, including Hencely. The Taliban claimed credit for the attack.</p>\n<p>Hencely sued Fluor in the U.S. District Court for the District of South Carolina, alleging negligent supervision, entrustment, and retention under South Carolina law, as well as breach of the government contract. The district court granted judgment to Fluor on all claims, holding that federal law preempted the state tort claims and that Hencely was not a third-party beneficiary entitled to enforce the government contract. The U.S. Court of Appeals for the Fourth Circuit affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Boyle v. United Technologies Corporation, which immunized government contractors from liability under certain circumstances, extend to preempt state tort claims against a government contractor for conduct that breached its contract and violated military orders?</p>\n\n    ",
+      "mp3_length": 5399,
+      "mp3_size": 21625934,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Frank H. Chang (for the Petitioner)",
+          "start": 0.255
+        },
+        {
+          "title": "Chang - Justice Thomas",
+          "start": 113.365
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 185.92
+        },
+        {
+          "title": "Chang - Justice Sotomayor",
+          "start": 452.52
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 584.26
+        },
+        {
+          "title": "Chang - Justice Barrett",
+          "start": 615.995
+        },
+        {
+          "title": "Chang - Justice Alito",
+          "start": 742.28
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 826.04
+        },
+        {
+          "title": "Chang - Justice Alito",
+          "start": 827.85
+        },
+        {
+          "title": "Chang - Justice Kagan",
+          "start": 980.67
+        },
+        {
+          "title": "Chang - Justice Barrett",
+          "start": 1069.09
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 1099.79
+        },
+        {
+          "title": "Chang - Justice Barrett",
+          "start": 1116.305
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 1195.75
+        },
+        {
+          "title": "Chang - Justice Jackson",
+          "start": 1324.34
+        },
+        {
+          "title": "Chang - Justice Alito",
+          "start": 1442.96
+        },
+        {
+          "title": "Chang - Justice Thomas",
+          "start": 1535.87
+        },
+        {
+          "title": "Chang - Justice Kavanaugh",
+          "start": 1599.47
+        },
+        {
+          "title": "Chang - Justice Barrett",
+          "start": 1801.44
+        },
+        {
+          "title": "Chang - Justice Jackson",
+          "start": 1836.545
+        },
+        {
+          "title": "Mark W. Mosier (for the Respondents)",
+          "start": 1990
+        },
+        {
+          "title": "Mosier - Justice Thomas",
+          "start": 2124.015
+        },
+        {
+          "title": "Mosier - Justice Kagan",
+          "start": 2203.245
+        },
+        {
+          "title": "Mosier - Justice Gorsuch",
+          "start": 2311.31
+        },
+        {
+          "title": "Mosier - Justice Barrett",
+          "start": 2533.43
+        },
+        {
+          "title": "Mosier - Justice Roberts",
+          "start": 2720.25
+        },
+        {
+          "title": "Mosier - Justice Sotomayor",
+          "start": 2725.89
+        },
+        {
+          "title": "Mosier - Justice Kavanaugh",
+          "start": 2975.4
+        },
+        {
+          "title": "Mosier - Justice Jackson",
+          "start": 3147.87000005
+        },
+        {
+          "title": "Mosier - Justice Thomas",
+          "start": 3253.99
+        },
+        {
+          "title": "Mosier - Justice Alito",
+          "start": 3329.38
+        },
+        {
+          "title": "Mosier - Justice Sotomayor",
+          "start": 3613.93
+        },
+        {
+          "title": "Mosier - Justice Kavanaugh",
+          "start": 3647.88
+        },
+        {
+          "title": "Mosier - Justice Barrett",
+          "start": 3747.38
+        },
+        {
+          "title": "Mosier - Justice Jackson",
+          "start": 3949.25
+        },
+        {
+          "title": "Curtis E. Gannon (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 3996.86
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 4056.69
+        },
+        {
+          "title": "Gannon - Justice Roberts",
+          "start": 4222.785
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 4413.97
+        },
+        {
+          "title": "Gannon - Justice Alito",
+          "start": 4648.68
+        },
+        {
+          "title": "Gannon - Justice Kavanaugh",
+          "start": 4858.01
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 5114.66
+        },
+        {
+          "title": "Frank H. Chang (for the Petitioner)",
+          "start": 5267.11500005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-924.mp3"
     },
     "24-808": {
