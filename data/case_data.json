@@ -19244,14 +19244,219 @@
     },
     "24-1287": {
       "docket_number": "24-1287",
-      "name": "Learning Resources, Inc. v. Trump, President of U.S.",
-      "date_argued_timestamp": 1762300800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1287",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1287.mp3",
-      "mp3_length": 9543,
-      "mp3_size": 76352700,
-      "source": "scotus",
+      "name": "Learning Resources, Inc. v. Trump",
+      "date_argued_timestamp": 1762322400,
       "description": "<p>Learning Resources, Inc. v. Trump</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1287/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1287.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1287\">oyez.org</a></p>\n    <p>Argued on Nov 5, 2025.</p>\n    <p>Petitioner: Learning Resources, Inc., et al.<br>Respondent: Donald J. Trump, President of the United States, et al.</p>\n    <p>Advocates: <ul><li>D. John Sauer (for the federal parties)</li>\n<li>Neal Kumar Katyal (for the private parties)</li>\n<li>Benjamin Gutman (for the state parties)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Learning Resources, Inc. and hand2mind, Inc. are family-owned businesses that design and distribute educational products for children. Although their product development and some assembly occur domestically, most of their manufacturing is outsourced to international partners, including China. Beginning in early 2025, a series of executive orders from President Donald J. Trump, invoking the International Emergency Economic Powers Act (\u201cIEEPA\u201d), imposed unprecedented tariffs on imports, including goods from China. These included a 20% \u201ctrafficking\u201d tariff and additional \u201creciprocal\u201d tariffs that pushed rates on Chinese goods to over 145%. Petitioners\u2019 imports were directly affected, and complying with the new tariffs would increase their import-related costs from $2.3 million in 2024 to over $100 million in 2025, putting their businesses at existential risk.</p>\n<p>The petitioners filed suit on April 22, 2025, in the U.S. District Court for the District of Columbia, challenging the legality of the IEEPA tariffs. The district court granted a preliminary injunction on May 29, 2025, holding that IEEPA does not authorize the president to impose tariffs and finding that the tariffs posed an existential threat to the petitioners. However, that ruling was stayed just days later, and the U.S. Court of Appeals for the District of Columbia Circuit docketed the case. Meanwhile, the U.S. Court of International Trade ruled similarly in related cases but its decision was also stayed by the U.S. Court of Appeals for the Federal Circuit.</p>\n<p>\u00a0</p>\n\n\n    <p><b>Question</b></p>\n    <p>Does the International Emergency Powers Act, 50 U.S.C. \u00a7 1701 (\u201cIEEPA\u201d), authorize the president to impose tariffs?</p>\n<p>\u00a0</p>\n\n\n    ",
+      "mp3_length": 9543,
+      "mp3_size": 38202299,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "D. John Sauer (for the federal parties)",
+          "start": 0.435
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 127.975
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 222.23
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 333.25
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 443.44
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 663.03
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 922.28
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 1045.24
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1215.78
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1345.62
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 1438.625
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1720.99
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 1796.9
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 1991.93
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 2124.765
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 2292.58
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 2372.9
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 2528.495
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 2970.205
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 3494.09
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 3927.135
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 4282.185
+        },
+        {
+          "title": "Neal Kumar Katyal (for the private parties)",
+          "start": 4520.465
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 4779.425
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 4855.61
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 4979.48
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 5230.87
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 5618.22999995
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 5749.3
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 5820.305
+        },
+        {
+          "title": "Katyal - Justice Sotomayor",
+          "start": 6312.525
+        },
+        {
+          "title": "Katyal - Justice Kagan",
+          "start": 6445.09
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 6635.725
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 6988.435
+        },
+        {
+          "title": "Katyal - Justice Barrett",
+          "start": 7305.9
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 7672.715
+        },
+        {
+          "title": "Benjamin Gutman (for the state parties)",
+          "start": 7914.22
+        },
+        {
+          "title": "Gutman - Justice Gorsuch",
+          "start": 7965.74
+        },
+        {
+          "title": "Gutman - Justice Barrett",
+          "start": 8073.02
+        },
+        {
+          "title": "Gutman - Justice Kavanaugh",
+          "start": 8206.55
+        },
+        {
+          "title": "Gutman - Justice Jackson",
+          "start": 8354.51
+        },
+        {
+          "title": "Gutman - Justice Kagan",
+          "start": 8394.26
+        },
+        {
+          "title": "Gutman - Justice Barrett",
+          "start": 8478.22
+        },
+        {
+          "title": "Gutman - Justice Jackson",
+          "start": 8567.57
+        },
+        {
+          "title": "Gutman - Justice Alito",
+          "start": 8660.19
+        },
+        {
+          "title": "Gutman - Justice Kavanaugh",
+          "start": 8893.64
+        },
+        {
+          "title": "Gutman - Justice Sotomayor",
+          "start": 9032.45
+        },
+        {
+          "title": "Gutman - Justice Roberts",
+          "start": 9137.21
+        },
+        {
+          "title": "Gutman - Justice Gorsuch",
+          "start": 9157.735
+        },
+        {
+          "title": "Gutman - Justice Jackson",
+          "start": 9231.92
+        },
+        {
+          "title": "D. John Sauer (for the federal parties)",
+          "start": 9300.745
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1287.mp3"
     },
     "23-1197": {
