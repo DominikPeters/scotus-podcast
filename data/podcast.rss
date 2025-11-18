@@ -51,7 +51,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4892</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 12 Nov 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-556.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-820] Rutherford v. United States</title>
@@ -68,11 +67,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May a district court, when evaluating a motion for compassionate release under 18 U.S.C. § 3582(c)(1)(A)(i), consider as an “extraordinary and compelling reason” the fact that a defendant is serving a sentence substantially longer than what would be imposed today due to the First Step Act’s prospective changes to mandatory minimum penalties, particularly where the disparity amounts to decades of additional imprisonment?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-820.mp3" length="39102899" type="audio/mpeg"/>
+            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-820.mp3" length="19577516" type="audio/mpeg"/>
             <guid>scotus_2025_24-820_v0</guid>
             <itunes:duration>4886</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 12 Nov 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-820.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-758] The GEO Group, Inc. v. Menocal</title>

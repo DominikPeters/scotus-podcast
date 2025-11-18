@@ -19748,13 +19748,146 @@
     "24-820": {
       "docket_number": "24-820",
       "name": "Rutherford v. United States",
-      "date_argued_timestamp": 1762905600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-820",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-820.mp3",
-      "mp3_length": 4886,
-      "mp3_size": 39102899,
-      "source": "scotus",
+      "date_argued_timestamp": 1762927200,
       "description": "<p>Rutherford v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-820/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-820.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-820\">oyez.org</a></p>\n    <p>Argued on Nov 12, 2025.</p>\n    <p>Petitioner: Daniel Rutherford.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>David C. Frederick (for the Petitioner in No. 24-820)</li>\n<li>David A. O'Neil (for the Petitioner in No. 24-860)</li>\n<li>Eric J. Feigin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2003, twenty-two-year-old Daniel Rutherford committed two armed robberies at a Pennsylvania chiropractic office within a five-day period. During the first robbery, he brandished a gun at the chiropractor and stole $390 and a watch. Four days later, he returned to the same office with an accomplice, again pulled a gun, and stole $900 in cash and jewelry.</p>\n<p>A jury convicted Rutherford of one count of conspiracy to commit Hobbs Act robbery, two counts of Hobbs Act robbery, and two counts of using a firearm during a crime of violence under 18 U.S.C. \u00a7 924(c). The district court sentenced Rutherford to 125 months for the robbery-related charges plus mandatory consecutive sentences of 7 years for the first \u00a7 924(c) offense and 25 years for the second, totaling nearly 42.5 years in prison. The U.S. Court of Appeals for the Third Circuit affirmed his conviction in 2007, and he did not appeal his sentence. In 2021, Rutherford filed a motion for compassionate release, arguing that changes in federal sentencing law would result in a significantly shorter sentence if he were sentenced today. The district court denied his motion in 2023, and the Third Circuit affirmed the lower court\u2019s denial.</p>\n\n    <p><b>Question</b></p>\n    <p>May a district court, when evaluating a motion for compassionate release under 18 U.S.C. \u00a7 3582(c)(1)(A)(i), consider as an \u201cextraordinary and compelling reason\u201d the fact that a defendant is serving a sentence substantially longer than what would be imposed today due to the First Step Act\u2019s prospective changes to mandatory minimum penalties, particularly where the disparity amounts to decades of additional imprisonment?</p>\n\n    ",
+      "mp3_length": 4886,
+      "mp3_size": 19577516,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "David C. Frederick (for the Petitioner in No. 24-820)",
+          "start": 0.28
+        },
+        {
+          "title": "Frederick - Justice Thomas",
+          "start": 109.235
+        },
+        {
+          "title": "Frederick - Justice Kavanaugh",
+          "start": 243.09
+        },
+        {
+          "title": "Frederick - Justice Barrett",
+          "start": 400.19
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 534.47
+        },
+        {
+          "title": "Frederick - Justice Barrett",
+          "start": 564.93
+        },
+        {
+          "title": "Frederick - Justice Alito",
+          "start": 630.09
+        },
+        {
+          "title": "Frederick - Justice Roberts",
+          "start": 775.23
+        },
+        {
+          "title": "Frederick - Justice Alito",
+          "start": 843.03
+        },
+        {
+          "title": "Frederick - Justice Sotomayor",
+          "start": 891.72
+        },
+        {
+          "title": "Frederick - Justice Kagan",
+          "start": 1039.96
+        },
+        {
+          "title": "Frederick - Justice Gorsuch",
+          "start": 1107.42
+        },
+        {
+          "title": "Frederick - Justice Kavanaugh",
+          "start": 1259.125
+        },
+        {
+          "title": "Frederick - Justice Jackson",
+          "start": 1428.645
+        },
+        {
+          "title": "David A. O'Neil (for the Petitioner in No. 24-860)",
+          "start": 1743.97500005
+        },
+        {
+          "title": "O'Neil - Justice Gorsuch",
+          "start": 1949.98
+        },
+        {
+          "title": "O'Neil - Justice Jackson",
+          "start": 2109.40500005
+        },
+        {
+          "title": "O'Neil - Justice Kavanaugh",
+          "start": 2289.615
+        },
+        {
+          "title": "O'Neil - Justice Alito",
+          "start": 2376.45500005
+        },
+        {
+          "title": "O'Neil - Justice Sotomayor",
+          "start": 2550.29
+        },
+        {
+          "title": "O'Neil - Justice Kagan",
+          "start": 2709.925
+        },
+        {
+          "title": "O'Neil - Justice Roberts",
+          "start": 2796.195
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent)",
+          "start": 2808.215
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 2946.63
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3116.04
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 3395.67
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 3501.57
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3904.79
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 4143.84
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 4293.455
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 4494.86
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 4632.78
+        },
+        {
+          "title": "David C. Frederick (for the Petitioner in No. 24-820)",
+          "start": 4701.11999995
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-820.mp3"
     }
   }
