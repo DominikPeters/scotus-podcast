@@ -19595,13 +19595,154 @@
     "24-556": {
       "docket_number": "24-556",
       "name": "Fernandez v. United States",
-      "date_argued_timestamp": 1762905600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-556",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-556.mp3",
-      "mp3_length": 4892,
-      "mp3_size": 39149743,
-      "source": "scotus",
+      "date_argued_timestamp": 1762927200,
       "description": "<p>Fernandez v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-556 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-556.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-556\">oyez.org</a></p>\n    <p>Argued on Nov 12, 2025.</p>\n    <p>Petitioner: Joe Fernandez.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Benjamin Gruenstein (for the Petitioner)</li>\n<li>Eric J. Feigin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Joe Fernandez participated as a backup shooter in a 2000 murder-for-hire scheme in the Bronx. On February 22, 2000, Patrick Darge hired him to help kill Arturo Cuellar and Idelfonso Vivero Flores, two Mexican drug cartel members who had come to New York City to collect approximately $6.5 million owed by drug trafficker Jeffrey Minaya for 274 kilograms of cocaine. When Darge's gun jammed after shooting Cuellar in the head, Fernandez fired fourteen shots in the apartment building lobby, nine hitting the victims. He received $40,000 for his participation. After eleven years on the run, Fernandez surrendered to police in October 2011.</p>\n<p>Unlike his co-defendants who pleaded guilty and cooperated with the government, Fernandez proceeded to trial in 2013. The government's key witness was Patrick Darge, who admitted during cross-examination to lying to authorities in previous cases. Despite this admission, the jury convicted Fernandez of participating in a murder-for-hire conspiracy resulting in two deaths and aiding and abetting the use of a firearm to commit murder during a crime of violence. In October 2014, he received a mandatory life sentence, while his cooperating co-defendants received significantly lighter sentences: Darge (30 years), Reyes (25 years), Minaya (15 years), and Rivera (2 years).</p>\n<p>The U.S. District Court for the Southern District of New York originally sentenced Fernandez, and the U.S. Court of Appeals for the Second Circuit affirmed his conviction on direct appeal in 2016. In 2021, the district court vacated one of his convictions but left the mandatory life sentence intact. When Fernandez filed a compassionate release motion citing his possible innocence and sentencing disparity, the district court granted it in 2022, but the Second Circuit reversed this decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a federal prisoner use the compassionate release law to get their sentence reduced based on claims that they might be innocent or that their sentence is unfair, even though these same claims would normally have to be raised through habeas corpus?</p>\n\n    ",
+      "mp3_length": 4892,
+      "mp3_size": 19600921,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Benjamin Gruenstein (for the Petitioner)",
+          "start": 0.11
+        },
+        {
+          "title": "Gruenstein - Justice Thomas",
+          "start": 140.485
+        },
+        {
+          "title": "Gruenstein - Justice Sotomayor",
+          "start": 227.44
+        },
+        {
+          "title": "Gruenstein - Justice Roberts",
+          "start": 295.715
+        },
+        {
+          "title": "Gruenstein - Justice Alito",
+          "start": 371.74500005
+        },
+        {
+          "title": "Gruenstein - Justice Jackson",
+          "start": 467.375
+        },
+        {
+          "title": "Gruenstein - Justice Alito",
+          "start": 519.17
+        },
+        {
+          "title": "Gruenstein - Justice Jackson",
+          "start": 549.72
+        },
+        {
+          "title": "Gruenstein - Justice Kavanaugh",
+          "start": 574.82
+        },
+        {
+          "title": "Gruenstein - Justice Barrett",
+          "start": 683.565
+        },
+        {
+          "title": "Gruenstein - Justice Kagan",
+          "start": 849.795
+        },
+        {
+          "title": "Gruenstein - Justice Jackson",
+          "start": 978.215
+        },
+        {
+          "title": "Gruenstein - Justice Kagan",
+          "start": 1178.07
+        },
+        {
+          "title": "Gruenstein - Justice Alito",
+          "start": 1268.99
+        },
+        {
+          "title": "Gruenstein - Justice Kavanaugh",
+          "start": 1494.4
+        },
+        {
+          "title": "Gruenstein - Justice Alito",
+          "start": 1642.98000005
+        },
+        {
+          "title": "Gruenstein - Justice Sotomayor",
+          "start": 1740.645
+        },
+        {
+          "title": "Gruenstein - Justice Kagan",
+          "start": 1992.9
+        },
+        {
+          "title": "Gruenstein - Justice Gorsuch",
+          "start": 2080.64
+        },
+        {
+          "title": "Gruenstein - Justice Kavanaugh",
+          "start": 2191.045
+        },
+        {
+          "title": "Gruenstein - Justice Jackson",
+          "start": 2233.09
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent)",
+          "start": 2359.95
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 2491.995
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 2671.88
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 2849.92
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 3112.27
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3223.79
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 3416.5
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3602.18
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 3758.625
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 4174.35
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 4332.25
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 4373.07500005
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 4576.755
+        },
+        {
+          "title": "Benjamin Gruenstein (for the Petitioner)",
+          "start": 4700.67
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-556.mp3"
     },
     "24-820": {
