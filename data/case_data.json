@@ -19461,14 +19461,211 @@
     },
     "23-1197": {
       "docket_number": "23-1197",
-      "name": "Landor v. LA DOC",
-      "date_argued_timestamp": 1762732800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/23-1197",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1197.mp3",
-      "mp3_length": 6648,
-      "mp3_size": 53197387,
-      "source": "scotus",
+      "name": "Landor v. Louisiana Department of Corrections",
+      "date_argued_timestamp": 1762754400,
       "description": "<p>Landor v. Louisiana Department of Corrections</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/23-1197 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1197.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/23-1197\">oyez.org</a></p>\n    <p>Argued on Nov 10, 2025.</p>\n    <p>Petitioner: Damon Landor.<br>Respondent: Louisiana Department of Corrections and Public Safety.</p>\n    <p>Advocates: <ul><li>Zachary D. Tripp (for the Petitioner)</li>\n<li>Libby A. Baird (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>J. Benjamin Aguinaga (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Damon Landor, a devout Rastafarian, vowed as part of his faith never to cut his hair\u2014a religious commitment known as the Nazarite Vow. Incarcerated in 2020, Landor was first held at the St. Tammany Parish Detention Center and later at LaSalle Correctional Center, both of which allowed him to maintain his hairstyle in accordance with his religious beliefs. After approximately five months and with three weeks left in his sentence, Landor was transferred to Raymond Laborde Correctional Center. Upon arrival, Landor proactively explained his religious practices and presented documentation of previous accommodations, including a copy of a federal court decision supporting similar claims. An intake guard disregarded his documentation, summoned the warden, and upon Landor\u2019s inability to produce immediate additional proof of his beliefs, guards forcibly handcuffed Landor and shaved his head.</p>\n<p>Following his release, Landor sued the Louisiana Department of Corrections and Public Safety, its Secretary James LeBlanc, the correctional center, and Warden Marcus Myers, asserting claims under the Religious Land Use and Institutionalized Persons Act (RLUIPA) and 42 U.S.C. \u00a7 1983 for violations of his federal constitutional rights, as well as state law claims.</p>\n<p>The U.S. District Court for the Middle District of Louisiana dismissed Landor\u2019s individual-capacity RLUIPA claims for money damages, holding such relief unavailable under controlling Fifth Circuit precedent. The U.S. Court of Appeals for the Fifth Circuit affirmed, relying on its prior decision in Sossamon v. Lone Star State of Texas, and rejecting Landor\u2019s arguments that subsequent Supreme Court authority or other legal developments altered that result.</p>\n\n    <p><b>Question</b></p>\n    <p>May an individual sue a government official in his individual capacity for damages for violations of the Religious Land Use and Institutionalized Persons Act (RLUIPA)?</p>\n\n    ",
+      "mp3_length": 6648,
+      "mp3_size": 26624830,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Zachary D. Tripp (for the Petitioner)",
+          "start": 0.165
+        },
+        {
+          "title": "Tripp - Justice Thomas",
+          "start": 122.235
+        },
+        {
+          "title": "Tripp - Justice Sotomayor",
+          "start": 236.4
+        },
+        {
+          "title": "Tripp - Justice Roberts",
+          "start": 315.76500005
+        },
+        {
+          "title": "Tripp - Justice Kavanaugh",
+          "start": 419.2
+        },
+        {
+          "title": "Tripp - Justice Gorsuch",
+          "start": 593.57
+        },
+        {
+          "title": "Tripp - Justice Jackson",
+          "start": 824.38
+        },
+        {
+          "title": "Tripp - Justice Gorsuch",
+          "start": 826.8
+        },
+        {
+          "title": "Tripp - Justice Jackson",
+          "start": 893.88
+        },
+        {
+          "title": "Tripp - Justice Roberts",
+          "start": 1054.04
+        },
+        {
+          "title": "Tripp - Justice Thomas",
+          "start": 1124.315
+        },
+        {
+          "title": "Tripp - Justice Alito",
+          "start": 1200.23
+        },
+        {
+          "title": "Tripp - Justice Sotomayor",
+          "start": 1415.06
+        },
+        {
+          "title": "Tripp - Justice Kagan",
+          "start": 1596.03
+        },
+        {
+          "title": "Tripp - Justice Gorsuch",
+          "start": 1695.805
+        },
+        {
+          "title": "Tripp - Justice Kavanaugh",
+          "start": 1909.12
+        },
+        {
+          "title": "Tripp - Justice Barrett",
+          "start": 2175.34
+        },
+        {
+          "title": "Tripp - Justice Jackson",
+          "start": 2718.095
+        },
+        {
+          "title": "Libby A. Baird (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 2977.26
+        },
+        {
+          "title": "Baird - Justice Thomas",
+          "start": 3040.435
+        },
+        {
+          "title": "Baird - Justice Jackson",
+          "start": 3117.565
+        },
+        {
+          "title": "Baird - Justice Roberts",
+          "start": 3178.3
+        },
+        {
+          "title": "Baird - Justice Gorsuch",
+          "start": 3255.57
+        },
+        {
+          "title": "Baird - Justice Barrett",
+          "start": 3442.615
+        },
+        {
+          "title": "Baird - Justice Alito",
+          "start": 3616.255
+        },
+        {
+          "title": "Baird - Justice Sotomayor",
+          "start": 3941.605
+        },
+        {
+          "title": "Baird - Justice Kagan",
+          "start": 3997.98
+        },
+        {
+          "title": "Baird - Justice Gorsuch",
+          "start": 4172.675
+        },
+        {
+          "title": "Baird - Justice Kavanaugh",
+          "start": 4313.765
+        },
+        {
+          "title": "Baird - Justice Barrett",
+          "start": 4457.38
+        },
+        {
+          "title": "Baird - Justice Jackson",
+          "start": 4636.345
+        },
+        {
+          "title": "J. Benjamin Aguinaga (for the Respondents)",
+          "start": 4797.75
+        },
+        {
+          "title": "Aguinaga - Justice Thomas",
+          "start": 4917.685
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 4993.58
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 5088.18
+        },
+        {
+          "title": "Aguinaga - Justice Barrett",
+          "start": 5171.855
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 5341.94
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 5421.59
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 5432.52
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 5449.535
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 5568.42
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 5801.26
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 5913.05
+        },
+        {
+          "title": "Aguinaga - Justice Gorsuch",
+          "start": 6026.37
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 6099.56
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 6208.96
+        },
+        {
+          "title": "Aguinaga - Justice Alito",
+          "start": 6321.11
+        },
+        {
+          "title": "Aguinaga - Justice Kavanaugh",
+          "start": 6362.575
+        },
+        {
+          "title": "Zachary D. Tripp (for the Petitioner)",
+          "start": 6459.4
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/23-1197.mp3"
     },
     "24-758": {
