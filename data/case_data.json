@@ -20089,14 +20089,171 @@
     },
     "24-171": {
       "docket_number": "24-171",
-      "name": "Cox Communications v. Sony Music Entertainment",
-      "date_argued_timestamp": 1764547200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-171",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-171.mp3",
-      "mp3_length": 6040,
-      "mp3_size": 48328248,
-      "source": "scotus",
+      "name": "Cox Communications, Inc. v. Sony Music Entertainment",
+      "date_argued_timestamp": 1764568800,
       "description": "<p>Cox Communications, Inc. v. Sony Music Entertainment</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-171/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-171.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-171\">oyez.org</a></p>\n    <p>Argued on Dec 1, 2025.</p>\n    <p>Petitioner: Cox Communications, Inc.<br>Respondent: Sony Music Entertainment.</p>\n    <p>Advocates: <ul><li>E. Joshua Rosenkranz (for the Petitioners)</li>\n<li>Malcolm L. Stewart (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Paul D. Clement (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Cox Communications, Inc. is a major internet service provider selling internet, telephone, and cable television to millions across the United States. Between 2013 and 2014, some of Cox\u2019s internet subscribers used peer-to-peer file-sharing networks, such as BitTorrent, to download and distribute copyrighted songs owned by numerous record companies and music publishers, including Sony Music Entertainment (the \u201cPlaintiffs\u201d). These record companies, through the Recording Industry Association of America (RIAA), hired a company called MarkMonitor to monitor illegal file sharing and notify internet service providers when infringement was detected. MarkMonitor sent Cox over 163,000 notices of infringement during the relevant period. In response, Cox operated a \u201cthirteen-strike\u201d policy, under which it warned or temporarily suspended subscribers after repeated notices, but in practice it rarely terminated service for copyright infringement, while regularly terminating service for nonpayment.</p>\n<p>Plaintiffs became frustrated with Cox\u2019s limited enforcement against repeat infringers and sued Cox instead of its subscribers, alleging that Cox was secondarily liable for copyright infringement occurring on its network. Specifically, plaintiffs contended Cox either intentionally contributed to or benefited from its subscribers\u2019 infringements by failing to take adequate steps to stop it, thereby inducing or materially contributing to the unlawful acts.</p>\n<p>The U.S. District Court for the Eastern District of Virginia denied Cox statutory safe harbor under the Digital Millennium Copyright Act (DMCA) and allowed the case to proceed to trial on theories of vicarious and contributory copyright infringement. The jury found Cox liable on both counts and awarded $1 billion in statutory damages. On appeal, the U.S. Court of Appeals for the Fourth Circuit affirmed the jury\u2019s finding of willful contributory infringement, reversed the vicarious liability verdict, and vacated the damages award, remanding the case for a new trial on damages.</p>\n\n    <p><b>Question</b></p>\n    <p>Can an internet service provider be held liable, and found to have acted willfully, for copyright infringement just because it knew users were infringing and did not terminate their access?</p>\n\n    ",
+      "mp3_length": 6040,
+      "mp3_size": 24190113,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "E. Joshua Rosenkranz (for the Petitioners)",
+          "start": 0.015
+        },
+        {
+          "title": "Rosenkranz - Justice Thomas",
+          "start": 128.345
+        },
+        {
+          "title": "Rosenkranz - Justice Kagan",
+          "start": 277.53
+        },
+        {
+          "title": "Rosenkranz - Justice Sotomayor",
+          "start": 445
+        },
+        {
+          "title": "Rosenkranz - Justice Roberts",
+          "start": 628.585
+        },
+        {
+          "title": "Rosenkranz - Justice Barrett",
+          "start": 705.94
+        },
+        {
+          "title": "Rosenkranz - Justice Gorsuch",
+          "start": 742.01
+        },
+        {
+          "title": "Rosenkranz - Justice Jackson",
+          "start": 938.37
+        },
+        {
+          "title": "Rosenkranz - Justice Alito",
+          "start": 1080.46999995
+        },
+        {
+          "title": "Rosenkranz - Justice Sotomayor",
+          "start": 1319.025
+        },
+        {
+          "title": "Rosenkranz - Justice Kagan",
+          "start": 1532.17
+        },
+        {
+          "title": "Rosenkranz - Justice Kavanaugh",
+          "start": 1652.93000005
+        },
+        {
+          "title": "Rosenkranz - Justice Barrett",
+          "start": 1807.655
+        },
+        {
+          "title": "Rosenkranz - Justice Jackson",
+          "start": 2025.185
+        },
+        {
+          "title": "Malcolm L. Stewart (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 2400.7549999
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 2455.96
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 2576.155
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 2699.72
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 2800.425
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 3015.64
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 3181.93
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 3437.275
+        },
+        {
+          "title": "Paul D. Clement (for the Respondents)",
+          "start": 3600.45
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 3733.61
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 3887.305
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 3968.85
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 4108.34
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4249.45
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 4506.97
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 4637.66
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 4700.56
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4877.91
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 5107.295
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 5287.23
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 5350.105
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 5424.79000005
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 5629.415
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 5687.87
+        },
+        {
+          "title": "E. Joshua Rosenkranz (for the Petitioners)",
+          "start": 5874.155
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-171.mp3"
     },
     "24-777": {
