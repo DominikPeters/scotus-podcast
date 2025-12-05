@@ -20258,14 +20258,103 @@
     },
     "24-777": {
       "docket_number": "24-777",
-      "name": "Urias-Orellana v. Bondi, Att'y Gen.",
-      "date_argued_timestamp": 1764547200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-777",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-777.mp3",
-      "mp3_length": 3491,
-      "mp3_size": 27935884,
-      "source": "scotus",
+      "name": "Urias-Orellana v. Bondi",
+      "date_argued_timestamp": 1764568800,
       "description": "<p>Urias-Orellana v. Bondi</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-777 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-777.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-777\">oyez.org</a></p>\n    <p>Argued on Dec 1, 2025.</p>\n    <p>Petitioner: Douglas Humberto Urias-Orellana.<br>Respondent: Pamela Bondi, Attorney General.</p>\n    <p>Advocates: <ul><li>Nicholas Rosellini (for the Petitioners)</li>\n<li>Joshua Dos Santos (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Douglas Humberto Urias-Orellana, a Salvadoran citizen, fled to the United States with his wife and minor child after facing threats from Wilfredo, a local hitman. The violence began in 2016 when Wilfredo shot and seriously injured Urias-Orellana\u2019s two half-brothers in separate incidents. Wilfredo then vowed to kill their entire family. Over the next several years, Urias-Orellana was repeatedly threatened at gunpoint by masked men demanding money and warning they would harm him like his brothers. In December 2020, he was physically assaulted in his hometown, with the attackers striking him three times in the chest.</p>\n<p>To escape these threats, Urias-Orellana and his family relocated multiple times within El Salvador. They lived peacefully in some locations for extended periods but encountered problems when returning to areas near his hometown. After noticing his attackers searching for him in early 2021, the family entered the United States without authorization in June 2021.</p>\n<p>The Department of Homeland Security charged Petitioners with removability for illegal entry. They applied for asylum based on persecution of their family group, with Urias-Orellana also seeking protection under the Convention Against Torture. The Immigration Judge denied their applications, finding the harm did not constitute persecution and that they could safely relocate within El Salvador. The Board of Immigration Appeals affirmed, leading to this petition for review before the U.S. Court of Appeals for the First Circuit. The First Circuit denied the petition for review, upholding the Board of Immigration Appeals\u2019 decision on all claims.</p>\n\n    <p><b>Question</b></p>\n    <p>Must a federal court of appeals defer to the BIA\u2019s judgment that a given set of undisputed facts does not demonstrate mistreatment severe enough to constitute \u201cpersecution\u201d under 8 U.S.C. \u00a7 1101(a)(42)?</p>\n\n    ",
+      "mp3_length": 3491,
+      "mp3_size": 13993894,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Nicholas Rosellini (for the Petitioners)",
+          "start": 0.205
+        },
+        {
+          "title": "Rosellini - Justice Thomas",
+          "start": 136.96
+        },
+        {
+          "title": "Rosellini - Justice Sotomayor",
+          "start": 180.79
+        },
+        {
+          "title": "Rosellini - Justice Roberts",
+          "start": 322.52
+        },
+        {
+          "title": "Rosellini - Justice Jackson",
+          "start": 380.865
+        },
+        {
+          "title": "Rosellini - Justice Gorsuch",
+          "start": 648.69
+        },
+        {
+          "title": "Rosellini - Justice Kagan",
+          "start": 935.005
+        },
+        {
+          "title": "Rosellini - Justice Alito",
+          "start": 1189.105
+        },
+        {
+          "title": "Rosellini - Justice Kavanaugh",
+          "start": 1461.08
+        },
+        {
+          "title": "Rosellini - Justice Sotomayor",
+          "start": 1525.585
+        },
+        {
+          "title": "Rosellini - Justice Kagan",
+          "start": 1623.305
+        },
+        {
+          "title": "Rosellini - Justice Kavanaugh",
+          "start": 1756.37
+        },
+        {
+          "title": "Rosellini - Justice Jackson",
+          "start": 1828.705
+        },
+        {
+          "title": "Joshua Dos Santos (for the Respondent)",
+          "start": 2041.925
+        },
+        {
+          "title": "Dos Santos - Justice Gorsuch",
+          "start": 2323.92
+        },
+        {
+          "title": "Dos Santos - Justice Kagan",
+          "start": 2390.4
+        },
+        {
+          "title": "Dos Santos - Justice Kavanaugh",
+          "start": 2563.005
+        },
+        {
+          "title": "Dos Santos - Justice Jackson",
+          "start": 2591.355
+        },
+        {
+          "title": "Dos Santos - Justice Gorsuch",
+          "start": 2734.15
+        },
+        {
+          "title": "Dos Santos - Justice Sotomayor",
+          "start": 2810.045
+        },
+        {
+          "title": "Dos Santos - Justice Kavanaugh",
+          "start": 2921.015
+        },
+        {
+          "title": "Nicholas Rosellini (for the Petitioners)",
+          "start": 3215.21
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-777.mp3"
     },
     "24-781": {
