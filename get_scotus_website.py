@@ -85,9 +85,11 @@ def get_from_scotus_website():
 
     for oral_argument in oral_arguments:
         docket_number = oral_argument["docket_number"]
+        print(f"Processing {docket_number}")
 
         # check if already in case_data
         if docket_number in case_data[term]:
+            print(f"Already have {docket_number}, skipping")
             continue
 
         log.info(f"Discovered new oral argument: {docket_number}")
@@ -116,9 +118,8 @@ def get_from_scotus_website():
             with open("data/case_data.json", "w") as f:
                 json.dump(case_data, f, indent=2)
             with open("commit_message.txt", "a") as f:
-                f.write(f"Add {docket_number} from supremecourt.gov. ")
+                f.write(f"Add {docket_number} from supremecourt.gov")
         else:
             log.error(f"Could not fetch mp3 for {docket_number} from {mp3_url}: HTTP status code {mp3.status_code}")
         
         time.sleep(1)
-

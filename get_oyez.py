@@ -55,9 +55,10 @@ def current_term():
     
 def get_argued_time(case_metadata):
     # argued date is unix timestamp
-    for date in case_metadata["timeline"]:
-        if date and date["event"] == "Argued":
-            return date["dates"][0] 
+    if case_metadata["timeline"]:
+        for date in case_metadata["timeline"]:
+            if date and date["event"] == "Argued":
+                return date["dates"][0] 
     return None
     
 def mp3_duration(filename):
