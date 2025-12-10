@@ -32,6 +32,46 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-872] Hamm v. Smith</title>
+            <description><![CDATA[<p>Hamm v. Smith</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-872/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-872.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-872">oyez.org</a></p>
+    <p>Argued on Dec 10, 2025.</p>
+    <p>Petitioner: John Q. Hamm, Commissioner, Alabama Department of Corrections.<br>Respondent: Joseph Clifton Smith.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Joseph Clifton Smith was convicted of capital murder and sentenced to death in Alabama. Years later, Smith filed a federal habeas corpus petition under 28 U.S.C. § 2254, seeking to overturn his death sentence on grounds that he is intellectually disabled and therefore cannot be executed under the Eighth and Fourteenth Amendments. The central issue in Smith’s case involved determining whether he met the three-prong test for intellectual disability: significantly subaverage intellectual functioning, significant deficits in adaptive behavior, and manifestation of these qualities before age 18.</p>
+<p>Smith's IQ testing revealed multiple scores—72, 74, 75, 74, and 78—that fell within or near the range associated with intellectual disability when accounting for standard error of measurement. His experts testified that four of his five scores were consistent with mild intellectual disability, while the state’s expert, Dr. King, argued that Smith’s multiple scores placed him in the borderline range just above intellectual disability. After extensive evidentiary hearings featuring competing expert testimony about both Smith’s IQ scores and his adaptive functioning deficits, the district court found Smith intellectually disabled.</p>
+<p>The U.S. District Court for the Southern District of Alabama granted Smith’s habeas petition and vacated his death sentence. The U.S. Court of Appeals for the Eleventh Circuit affirmed this decision, but the Supreme Court granted certiorari and remanded the case, asking the Eleventh Circuit to clarify whether its ruling relied solely on the lower end of Smith's IQ score range or on a holistic analysis of all evidence. On remand, the Eleventh Circuit explained that its reasoning was based on a holistic analysis.</p>
+
+    <p><b>Question</b></p>
+    <p>When a capital defendant has taken multiple IQ tests with varying results, how should courts evaluate the cumulative effect of those scores to determine whether the defendant has significantly subaverage intellectual functioning under <em>Atkins v. Virginia</em>?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-872.mp3" length="58323349" type="audio/mpeg"/>
+            <guid>scotus_2025_24-872_v0</guid>
+            <itunes:duration>7289</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 10 Dec 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[24-345] FS Credit Opportunities Corp. v. Saba Capital Master Fund</title>
+            <description><![CDATA[<p>FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-345/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-345.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-345">oyez.org</a></p>
+    <p>Argued on Dec 10, 2025.</p>
+    <p>Petitioner: FS Credit Opportunities Corp.<br>Respondent: Saba Capital Master Fund, Ltd.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Investment funds organized as closed-end mutual funds under Maryland law adopted “control share provisions” that stripped voting rights from shareholders who owned 10% or more of a fund’s shares. These provisions were adopted in response to activist investor Saba Capital, which had been acquiring large positions in underperforming closed-end funds with the goal of unlocking shareholder value through various strategies, including electing new directors and advocating for share buybacks.</p>
+<p>Saba Capital sued sixteen closed-end funds in June 2023, seeking rescission of these control share provisions. Saba argued that the provisions violated Section 18(i) of the Investment Company Act (ICA), which requires that “every share of stock shall be a voting stock and have equal voting rights with every other outstanding stock.” Saba brought its lawsuit under Section 47(b) of the ICA, relying on Second Circuit precedent that recognized an implied private right of action for parties seeking to rescind contracts that violate the ICA.</p>
+<p>The U.S. District Court for the Southern District of New York granted summary judgment in favor of Saba against eleven of the funds (five were dismissed due to forum selection clauses requiring suit in Maryland). The district court held that the control share provisions violated the ICA’s equal voting rights mandate and ordered their rescission. The U.S. Court of Appeals for the Second Circuit affirmed this decision in a summary order.</p>
+
+    <p><b>Question</b></p>
+    <p>Does Section 47(b) of the ICA, 15 U.S.C. § 80a-46 (b), create an implied private right of action?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-345.mp3" length="37890347" type="audio/mpeg"/>
+            <guid>scotus_2025_24-345_v0</guid>
+            <itunes:duration>4735</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 10 Dec 2025 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-621] NRSC v. FEC</title>
             <description><![CDATA[<p>National Republican Senatorial Committee v. Federal Election Commission</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-621/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-621.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-621">oyez.org</a></p>
