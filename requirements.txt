@@ -1,4 +1,4 @@
 requests
-sox 
-b2sdk 
+sox
+boto3
 beautifulsoup4

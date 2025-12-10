@@ -13,7 +13,7 @@ import json
 from datetime import datetime
 import os
 
-from b2sdk.v2 import *
+import boto3
 import ftplib
 
 import logging
@@ -32,16 +32,17 @@ def seconds_to_string(seconds):
 
     return f"{padded_hours}:{padded_minutes}:{padded_seconds}"
 
-def upload_to_b2(mp3_filename, b2_filename):
-    log.info(f"Uploading {mp3_filename} to B2")
-    info = InMemoryAccountInfo()
-    b2_api = B2Api(info)
-    application_key = os.environ["B2_APP_KEY"]
-    application_key_id = os.environ["B2_APP_KEY_ID"]
-    b2_api.authorize_account("production", application_key_id, application_key)
-    bucket = b2_api.get_bucket_by_name("scotus-podcast")
-    bucket.upload_local_file(local_file=mp3_filename, file_name=b2_filename)
-    log.info(f"B2 upload successful")
+def upload_to_r2(mp3_filename, r2_filename):
+    log.info(f"Uploading {mp3_filename} to R2")
+    s3_client = boto3.client(
+        "s3",
+        endpoint_url=os.environ["R2_ENDPOINT"],
+        aws_access_key_id=os.environ["R2_ACCESS_KEY"],
+        aws_secret_access_key=os.environ["R2_SECRET_KEY"],
+        region_name="auto"
+    )
+    s3_client.upload_file(mp3_filename, "scotus-podcast", r2_filename)
+    log.info(f"R2 upload successful")
 
 def upload_rss(rss_filename):
     # Use FTP
@@ -77,19 +78,19 @@ def build_podcast(spotify=False):
             case['description'] = case['description'].encode('utf-8').decode('utf-8')
 
             if not "b2_url" in case:
-                b2_filename = f"{term}/{docket_number}.mp3"
+                r2_filename = f"{term}/{docket_number}.mp3"
                 mp3_filename = f"mp3/{term}/{docket_number}.mp3"
-                upload_to_b2(mp3_filename, b2_filename)
-                case_data[term][docket_number]["b2_url"] = f"https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.mp3"
+                upload_to_r2(mp3_filename, r2_filename)
+                case_data[term][docket_number]["b2_url"] = f"https://podcast.scotusstats.com/{term}/{docket_number}.mp3"
                 json.dump(case_data, open("data/case_data.json", "w"), indent=2)
                 if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
-                    upload_to_b2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
-                    case_data[term][docket_number]["vtt_url"] = f"https://f000.backblazeb2.com/file/scotus-podcast/{term}/{docket_number}.vtt"
+                    upload_to_r2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
+                    case_data[term][docket_number]["vtt_url"] = f"https://podcast.scotusstats.com/{term}/{docket_number}.vtt"
                 with open("commit_message.txt", "r") as f:
                     commit_message = f.read()
                 if commit_message == "":
                     with open("commit_message.txt", "w") as f:
-                        f.write("Upload mp3s to B2")
+                        f.write("Upload mp3s to R2")
 
             argued_date = datetime.fromtimestamp(case["date_argued_timestamp"])
             argued_date = argued_date.replace(hour=10, minute=0, second=0) # 10am ET
