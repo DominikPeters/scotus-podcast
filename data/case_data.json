@@ -20572,27 +20572,378 @@
     },
     "24-621": {
       "docket_number": "24-621",
-      "name": "NRSC v. FEC",
-      "date_argued_timestamp": 1765238400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-621",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-621.mp3",
-      "mp3_length": 7840,
-      "mp3_size": 62732522,
-      "source": "scotus",
+      "name": "National Republican Senatorial Committee v. Federal Election Commission",
+      "date_argued_timestamp": 1765260000,
       "description": "<p>National Republican Senatorial Committee v. Federal Election Commission</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-621/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-621.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-621\">oyez.org</a></p>\n    <p>Argued on Dec 9, 2025.</p>\n    <p>Petitioner: National Republican Senatorial Committee.<br>Respondent: Federal Election Commission.</p>\n    <p>Advocates: <ul><li>Noel J. Francisco (for the Petitioners)</li>\n<li>Sarah M. Harris (for the Respondents, supporting the Petitioners)</li>\n<li>Roman Martinez (Court-appointed amicus curiae, supporting the judgment below)</li>\n<li>Marc E. Elias (for the Intervenors)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2022, two Republican party committees\u2014the National Republican Senatorial Committee and the National Republican Congressional Committee\u2014along with then-Senator J.D. Vance and then-Representative Steve Chabot, sued the Federal Election Commission (FEC). The Republican committees asserted that the Federal Election Campaign Act of 1971 (FECA) unconstitutionally restricts their ability to coordinate campaign advertising with their own candidates. This coordination allows the party and its candidates to unify their political message and spend money more efficiently. For example, in the 2021-2022 election cycle, the senatorial committee spent about $15.5 million and the congressional committee spent about $8.3 million on such coordinated expenditures, which primarily fund political advertising.</p>\n<p>The plaintiffs argue that developments since a 2001 Supreme Court decision, FEC v. Colorado Republican Federal Campaign Committee (Colorado II), which upheld these same limits, have rendered that decision obsolete. Specifically, they point to changes in campaign finance law, the rise of \u201cSuper PACs,\u201d and shifts in the Supreme Court\u2019s First Amendment jurisprudence as reasons the restrictions no longer pass constitutional muster.</p>\n<p>The plaintiffs filed their lawsuit in the U.S. District Court for the Southern District of Ohio. As required by FECA for constitutional challenges, the district court certified the legal question to the U.S. Court of Appeals for the Sixth Circuit sitting en banc. The Sixth Circuit concluded that the FECA\u2019s limits on coordinated campaign expenditures do not violate the First Amendment and denied both the facial and as-applied challenges brought by the plaintiffs.</p>\n\n    <p><b>Question</b></p>\n    <p>Do FECA limits on coordinated party expenditures in 52 U.S.C. \u00a7 30116 violate the First Amendment, either on their face or as applied to party spending in connection with \u201cparty coordinated communications\u201d?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-621.mp3"
+      "mp3_length": 7840,
+      "mp3_size": 31392595,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Noel J. Francisco (for the Petitioners)",
+          "start": 0.27
+        },
+        {
+          "title": "Francisco - Justice Thomas",
+          "start": 130.04
+        },
+        {
+          "title": "Francisco - Justice Roberts",
+          "start": 364.60999995
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 507.74
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 707.18
+        },
+        {
+          "title": "Francisco - Justice Alito",
+          "start": 955.775
+        },
+        {
+          "title": "Francisco - Justice Sotomayor",
+          "start": 1184.905
+        },
+        {
+          "title": "Francisco - Justice Kagan",
+          "start": 1382.96
+        },
+        {
+          "title": "Francisco - Justice Kavanaugh",
+          "start": 1907.47
+        },
+        {
+          "title": "Francisco - Justice Jackson",
+          "start": 2195.53
+        },
+        {
+          "title": "Sarah M. Harris (for the Respondents, supporting the Petitioners)",
+          "start": 2796
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 2859.57
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 2997.3
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 3180.49
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 3559.86
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 3626.38
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 3778.415
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 3948.32
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 4256.595
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 4359.6
+        },
+        {
+          "title": "Roman Martinez (Court-appointed amicus curiae, supporting the judgment below)",
+          "start": 4650.885
+        },
+        {
+          "title": "Martinez - Justice Thomas",
+          "start": 4788.795
+        },
+        {
+          "title": "Martinez - Justice Roberts",
+          "start": 4902.46
+        },
+        {
+          "title": "Martinez - Justice Kavanaugh",
+          "start": 5171.6
+        },
+        {
+          "title": "Martinez - Justice Alito",
+          "start": 5474.51
+        },
+        {
+          "title": "Martinez - Justice Roberts",
+          "start": 5740.445
+        },
+        {
+          "title": "Martinez - Justice Sotomayor",
+          "start": 5895.1
+        },
+        {
+          "title": "Marc E. Elias (for the Intervenors)",
+          "start": 6156.81999995
+        },
+        {
+          "title": "Elias - Justice Thomas",
+          "start": 6235.135
+        },
+        {
+          "title": "Elias - Justice Sotomayor",
+          "start": 6352.56
+        },
+        {
+          "title": "Elias - Justice Barrett",
+          "start": 6517.02
+        },
+        {
+          "title": "Elias - Justice Alito",
+          "start": 6641.165
+        },
+        {
+          "title": "Elias - Justice Jackson",
+          "start": 6730.655
+        },
+        {
+          "title": "Elias - Justice Kavanaugh",
+          "start": 6794.78
+        },
+        {
+          "title": "Elias - Justice Kagan",
+          "start": 6852.49
+        },
+        {
+          "title": "Elias - Justice Thomas",
+          "start": 7065.325
+        },
+        {
+          "title": "Elias - Justice Alito",
+          "start": 7220.32
+        },
+        {
+          "title": "Elias - Justice Kagan",
+          "start": 7455.58
+        },
+        {
+          "title": "Elias - Justice Roberts",
+          "start": 7643.8
+        },
+        {
+          "title": "Noel J. Francisco (for the Petitioners)",
+          "start": 7653.21
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-621.mp3"
     },
     "24-872": {
       "docket_number": "24-872",
       "name": "Hamm v. Smith",
-      "date_argued_timestamp": 1765324800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-872",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-872.mp3",
-      "mp3_length": 7289,
-      "mp3_size": 58323349,
-      "source": "scotus",
+      "date_argued_timestamp": 1765346400,
       "description": "<p>Hamm v. Smith</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-872/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-872.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-872\">oyez.org</a></p>\n    <p>Argued on Dec 10, 2025.</p>\n    <p>Petitioner: John Q. Hamm, Commissioner, Alabama Department of Corrections.<br>Respondent: Joseph Clifton Smith.</p>\n    <p>Advocates: <ul><li>Robert M. Overing (for the Petitioner)</li>\n<li>Harry Graver (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Seth P. Waxman (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Joseph Clifton Smith was convicted of capital murder and sentenced to death in Alabama. Years later, Smith filed a federal habeas corpus petition under 28 U.S.C. \u00a7 2254, seeking to overturn his death sentence on grounds that he is intellectually disabled and therefore cannot be executed under the Eighth and Fourteenth Amendments. The central issue in Smith\u2019s case involved determining whether he met the three-prong test for intellectual disability: significantly subaverage intellectual functioning, significant deficits in adaptive behavior, and manifestation of these qualities before age 18.</p>\n<p>Smith's IQ testing revealed multiple scores\u201472, 74, 75, 74, and 78\u2014that fell within or near the range associated with intellectual disability when accounting for standard error of measurement. His experts testified that four of his five scores were consistent with mild intellectual disability, while the state\u2019s expert, Dr. King, argued that Smith\u2019s multiple scores placed him in the borderline range just above intellectual disability. After extensive evidentiary hearings featuring competing expert testimony about both Smith\u2019s IQ scores and his adaptive functioning deficits, the district court found Smith intellectually disabled.</p>\n<p>The U.S. District Court for the Southern District of Alabama granted Smith\u2019s habeas petition and vacated his death sentence. The U.S. Court of Appeals for the Eleventh Circuit affirmed this decision, but the Supreme Court granted certiorari and remanded the case, asking the Eleventh Circuit to clarify whether its ruling relied solely on the lower end of Smith's IQ score range or on a holistic analysis of all evidence. On remand, the Eleventh Circuit explained that its reasoning was based on a holistic analysis.</p>\n\n    <p><b>Question</b></p>\n    <p>When a capital defendant has taken multiple IQ tests with varying results, how should courts evaluate the cumulative effect of those scores to determine whether the defendant has significantly subaverage intellectual functioning under <em>Atkins v. Virginia</em>?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/24-872.mp3"
+      "mp3_length": 7289,
+      "mp3_size": 29187756,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Robert M. Overing (for the Petitioner)",
+          "start": 0.405
+        },
+        {
+          "title": "Overing - Justice Thomas",
+          "start": 144.01999995
+        },
+        {
+          "title": "Overing - Justice Roberts",
+          "start": 209.01
+        },
+        {
+          "title": "Overing - Justice Jackson",
+          "start": 292.93
+        },
+        {
+          "title": "Overing - Justice Sotomayor",
+          "start": 485.755
+        },
+        {
+          "title": "Overing - Justice Barrett",
+          "start": 827.48
+        },
+        {
+          "title": "Overing - Justice Gorsuch",
+          "start": 924.14
+        },
+        {
+          "title": "Overing - Justice Sotomayor",
+          "start": 945.19
+        },
+        {
+          "title": "Overing - Justice Barrett",
+          "start": 957.85
+        },
+        {
+          "title": "Overing - Justice Gorsuch",
+          "start": 1027.88
+        },
+        {
+          "title": "Overing - Justice Sotomayor",
+          "start": 1157.27499995
+        },
+        {
+          "title": "Overing - Justice Kagan",
+          "start": 1449.61
+        },
+        {
+          "title": "Overing - Justice Kavanaugh",
+          "start": 1877.275
+        },
+        {
+          "title": "Overing - Justice Jackson",
+          "start": 2227.875
+        },
+        {
+          "title": "Harry Graver (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 2593.76
+        },
+        {
+          "title": "Graver - Justice Thomas",
+          "start": 2650.975
+        },
+        {
+          "title": "Graver - Justice Sotomayor",
+          "start": 2700.9
+        },
+        {
+          "title": "Graver - Justice Barrett",
+          "start": 2998.66
+        },
+        {
+          "title": "Graver - Justice Kagan",
+          "start": 3026.93
+        },
+        {
+          "title": "Graver - Justice Alito",
+          "start": 3235.41
+        },
+        {
+          "title": "Graver - Justice Sotomayor",
+          "start": 3613.42
+        },
+        {
+          "title": "Graver - Justice Gorsuch",
+          "start": 3854.055
+        },
+        {
+          "title": "Graver - Justice Kavanaugh",
+          "start": 4115.14
+        },
+        {
+          "title": "Graver - Justice Barrett",
+          "start": 4398.745
+        },
+        {
+          "title": "Graver - Justice Jackson",
+          "start": 4493.09
+        },
+        {
+          "title": "Seth P. Waxman (for the Respondent)",
+          "start": 4784.9449999
+        },
+        {
+          "title": "Waxman - Justice Thomas",
+          "start": 4946.465
+        },
+        {
+          "title": "Waxman - Justice Alito",
+          "start": 5084.68
+        },
+        {
+          "title": "Waxman - Justice Gorsuch",
+          "start": 5249.17
+        },
+        {
+          "title": "Waxman - Justice Barrett",
+          "start": 5288.825
+        },
+        {
+          "title": "Waxman - Justice Gorsuch",
+          "start": 5328.9
+        },
+        {
+          "title": "Waxman - Justice Barrett",
+          "start": 5363.28
+        },
+        {
+          "title": "Waxman - Justice Kavanaugh",
+          "start": 5486.395
+        },
+        {
+          "title": "Waxman - Justice Kagan",
+          "start": 5535
+        },
+        {
+          "title": "Waxman - Justice Alito",
+          "start": 5641.1449999
+        },
+        {
+          "title": "Waxman - Justice Kagan",
+          "start": 5722.74
+        },
+        {
+          "title": "Waxman - Justice Alito",
+          "start": 5772.155
+        },
+        {
+          "title": "Waxman - Justice Jackson",
+          "start": 5874.775
+        },
+        {
+          "title": "Waxman - Justice Kavanaugh",
+          "start": 6057.09
+        },
+        {
+          "title": "Waxman - Justice Kagan",
+          "start": 6139.08
+        },
+        {
+          "title": "Waxman - Justice Gorsuch",
+          "start": 6248.49500005
+        },
+        {
+          "title": "Waxman - Justice Sotomayor",
+          "start": 6288.6350001
+        },
+        {
+          "title": "Waxman - Justice Gorsuch",
+          "start": 6324.96500005
+        },
+        {
+          "title": "Waxman - Justice Sotomayor",
+          "start": 6402.355
+        },
+        {
+          "title": "Waxman - Justice Alito",
+          "start": 6608.93
+        },
+        {
+          "title": "Waxman - Justice Jackson",
+          "start": 6995.24
+        },
+        {
+          "title": "Robert M. Overing (for the Petitioner)",
+          "start": 7186.94
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-872.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/24-872.vtt"
     },
     "24-345": {
       "docket_number": "24-345",
