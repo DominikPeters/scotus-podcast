@@ -99,7 +99,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 09 Dec 2025 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[25-332] Trump, President of United States v. Slaughter</title>
+            <title>[25-332] Trump v. Slaughter</title>
             <description><![CDATA[<p>Trump v. Slaughter</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-332/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-332.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-332">oyez.org</a></p>
     <p>Argued on Dec 8, 2025.</p>
@@ -112,11 +112,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Do the statutory removal protections for members of the Federal Trade Commission violate the separation of powers?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/25-332.mp3" length="72242230" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-332.mp3" length="36147403" type="audio/mpeg"/>
             <guid>scotus_2025_25-332_v0</guid>
             <itunes:duration>9029</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 08 Dec 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-332.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-993] Olivier v. City of Brandon</title>

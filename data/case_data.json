@@ -20383,15 +20383,192 @@
     },
     "25-332": {
       "docket_number": "25-332",
-      "name": "Trump, President of United States v. Slaughter",
-      "date_argued_timestamp": 1765152000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-332",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-332.mp3",
-      "mp3_length": 9029,
-      "mp3_size": 72242230,
-      "source": "scotus",
+      "name": "Trump v. Slaughter",
+      "date_argued_timestamp": 1765173600,
       "description": "<p>Trump v. Slaughter</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-332/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-332.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-332\">oyez.org</a></p>\n    <p>Argued on Dec 8, 2025.</p>\n    <p>Petitioner: Donald J. Trump, President of the United States, et al.<br>Respondent: Rebecca Kelly Slaughter, et al.</p>\n    <p>Advocates: <ul><li>D. John Sauer (for the Petitioners)</li>\n<li>Amit Agarwal (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Rebecca Kelly Slaughter was serving as a Commissioner on the Federal Trade Commission (FTC), an agency led by five commissioners appointed by the President and confirmed by the Senate to seven-year terms. The Federal Trade Commission Act limits the President\u2019s ability to remove an FTC Commissioner to \u201cinefficiency, neglect of duty, or malfeasance in office.\u201d President Donald J. Trump fired Commissioner Slaughter, explaining her continued service was \u201cinconsistent with [the] Administration\u2019s priorities,\u201d which did not meet the statutory standard of \u201ccause.\u201d Slaughter sued President Trump and the three remaining FTC Commissioners, arguing her removal was unlawful because the President failed to offer a statutory cause.</p>\n<p>The district court ruled in favor of Commissioner Slaughter, declaring her removal unlawful, ordering her reinstatement, and issuing a permanent injunction against the remaining Commissioners and their subordinates, barring them from interfering with her duties. The government appealed the decision and requested a stay of the district court's order pending the appeal. The U.S. Court of Appeals for the D.C. Circuit denied the government\u2019s motion for a stay pending appeal and dissolved an administrative stay that had been previously entered. The Supreme Court granted the stay on September 22, 2025, and also granted certiorari.</p>\n\n    <p><b>Question</b></p>\n    <p>Do the statutory removal protections for members of the Federal Trade Commission violate the separation of powers?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/25-332.mp3"
+      "mp3_length": 9029,
+      "mp3_size": 36147403,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "D. John Sauer (for the Petitioners)",
+          "start": 0.105
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 121.905
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 187.47
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 311.65
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 664.965
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 739.105
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 793.42
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 951.225
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1004.02
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 1147.54
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1268.26
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 1303.93
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 1529.62500005
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1673.6
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1893.755
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 2294.465
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 2491.8
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 2978.30999995
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 3452.44
+        },
+        {
+          "title": "Amit Agarwal (for the Respondents)",
+          "start": 3817.67999995
+        },
+        {
+          "title": "Agarwal - Justice Thomas",
+          "start": 3984.68
+        },
+        {
+          "title": "Agarwal - Justice Kavanaugh",
+          "start": 4244.13
+        },
+        {
+          "title": "Agarwal - Justice Gorsuch",
+          "start": 4284.67
+        },
+        {
+          "title": "Agarwal - Justice Barrett",
+          "start": 4336.95
+        },
+        {
+          "title": "Agarwal - Justice Roberts",
+          "start": 4362.095
+        },
+        {
+          "title": "Agarwal - Justice Kavanaugh",
+          "start": 4476.07
+        },
+        {
+          "title": "Agarwal - Justice Gorsuch",
+          "start": 4514.44
+        },
+        {
+          "title": "Agarwal - Justice Kagan",
+          "start": 4608.5
+        },
+        {
+          "title": "Agarwal - Justice Barrett",
+          "start": 4666.58
+        },
+        {
+          "title": "Agarwal - Justice Alito",
+          "start": 4743.54
+        },
+        {
+          "title": "Agarwal - Justice Kavanaugh",
+          "start": 4926.04
+        },
+        {
+          "title": "Agarwal - Justice Gorsuch",
+          "start": 5004.68
+        },
+        {
+          "title": "Agarwal - Justice Jackson",
+          "start": 5215.7
+        },
+        {
+          "title": "Agarwal - Justice Kavanaugh",
+          "start": 5343.05
+        },
+        {
+          "title": "Agarwal - Justice Roberts",
+          "start": 5706.105
+        },
+        {
+          "title": "Agarwal - Justice Thomas",
+          "start": 5992.62
+        },
+        {
+          "title": "Agarwal - Justice Alito",
+          "start": 6207.36
+        },
+        {
+          "title": "Agarwal - Justice Sotomayor",
+          "start": 6791.75
+        },
+        {
+          "title": "Agarwal - Justice Kagan",
+          "start": 6923.615
+        },
+        {
+          "title": "Agarwal - Justice Gorsuch",
+          "start": 7352.46
+        },
+        {
+          "title": "Agarwal - Justice Kavanaugh",
+          "start": 7662.57
+        },
+        {
+          "title": "Agarwal - Justice Barrett",
+          "start": 8132.54
+        },
+        {
+          "title": "Agarwal - Justice Jackson",
+          "start": 8467.375
+        },
+        {
+          "title": "D. John Sauer (for the Petitioners)",
+          "start": 8824.125
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/25-332.mp3"
     },
     "24-621": {
       "docket_number": "24-621",
