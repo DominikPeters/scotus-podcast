@@ -20947,14 +20947,143 @@
     },
     "24-345": {
       "docket_number": "24-345",
-      "name": "FS Credit Opportunities Corp. v. Saba Capital Master Fund",
-      "date_argued_timestamp": 1765324800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-345",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-345.mp3",
-      "mp3_length": 4735,
-      "mp3_size": 37890347,
-      "source": "scotus",
+      "name": "FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.",
+      "date_argued_timestamp": 1765346400,
       "description": "<p>FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-345/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-345.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-345\">oyez.org</a></p>\n    <p>Argued on Dec 10, 2025.</p>\n    <p>Petitioner: FS Credit Opportunities Corp.<br>Respondent: Saba Capital Master Fund, Ltd.</p>\n    <p>Advocates: <ul><li>Shay Dvoretzky (for the Petitioners and BlackRock Respondents supporting the Petitioners)</li>\n<li>Max E. Schulman (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Paul D. Clement (for the Saba Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Investment funds organized as closed-end mutual funds under Maryland law adopted \u201ccontrol share provisions\u201d that stripped voting rights from shareholders who owned 10% or more of a fund\u2019s shares. These provisions were adopted in response to activist investor Saba Capital, which had been acquiring large positions in underperforming closed-end funds with the goal of unlocking shareholder value through various strategies, including electing new directors and advocating for share buybacks.</p>\n<p>Saba Capital sued sixteen closed-end funds in June 2023, seeking rescission of these control share provisions. Saba argued that the provisions violated Section 18(i) of the Investment Company Act (ICA), which requires that \u201cevery share of stock shall be a voting stock and have equal voting rights with every other outstanding stock.\u201d Saba brought its lawsuit under Section 47(b) of the ICA, relying on Second Circuit precedent that recognized an implied private right of action for parties seeking to rescind contracts that violate the ICA.</p>\n<p>The U.S. District Court for the Southern District of New York granted summary judgment in favor of Saba against eleven of the funds (five were dismissed due to forum selection clauses requiring suit in Maryland). The district court held that the control share provisions violated the ICA\u2019s equal voting rights mandate and ordered their rescission. The U.S. Court of Appeals for the Second Circuit affirmed this decision in a summary order.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Section 47(b) of the ICA, 15 U.S.C. \u00a7 80a-46 (b), create an implied private right of action?</p>\n\n    ",
+      "mp3_length": 4735,
+      "mp3_size": 18971161,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Shay Dvoretzky (for the Petitioners and BlackRock Respondents supporting the Petitioners)",
+          "start": 0.35
+        },
+        {
+          "title": "Dvoretzky - Justice Thomas",
+          "start": 136.52
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 281.72
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 720.17
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 806.45
+        },
+        {
+          "title": "Dvoretzky - Justice Gorsuch",
+          "start": 808.36
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 858.5
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 1095.775
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 1491.39
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 1573.59
+        },
+        {
+          "title": "Max E. Schulman (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1787.06500005
+        },
+        {
+          "title": "Schulman - Justice Thomas",
+          "start": 1852.885
+        },
+        {
+          "title": "Schulman - Justice Kagan",
+          "start": 1888.32
+        },
+        {
+          "title": "Schulman - Justice Kavanaugh",
+          "start": 2207.675
+        },
+        {
+          "title": "Schulman - Justice Sotomayor",
+          "start": 2253.805
+        },
+        {
+          "title": "Schulman - Justice Barrett",
+          "start": 2385.58
+        },
+        {
+          "title": "Schulman - Justice Roberts",
+          "start": 2445.585
+        },
+        {
+          "title": "Schulman - Justice Kavanaugh",
+          "start": 2535.39
+        },
+        {
+          "title": "Schulman - Justice Jackson",
+          "start": 2683.955
+        },
+        {
+          "title": "Paul D. Clement (for the Saba Respondents)",
+          "start": 2708.565
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 2851.925
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 2963.745
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 3031.31999995
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 3136.795
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 3258.51
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 3402.09
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 3619.24
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 3863.835
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4064.74
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 4163.55
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 4437.94
+        },
+        {
+          "title": "Shay Dvoretzky (for the Petitioners and BlackRock Respondents supporting the Petitioners)",
+          "start": 4540.93
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-345.mp3"
     }
   }

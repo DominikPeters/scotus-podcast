@@ -55,7 +55,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <podcast:transcript url="https://podcast.scotusstats.com/2025/24-872.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[24-345] FS Credit Opportunities Corp. v. Saba Capital Master Fund</title>
+            <title>[24-345] FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.</title>
             <description><![CDATA[<p>FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-345/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-345.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-345">oyez.org</a></p>
     <p>Argued on Dec 10, 2025.</p>
@@ -70,11 +70,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does Section 47(b) of the ICA, 15 U.S.C. § 80a-46 (b), create an implied private right of action?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-345.mp3" length="37890347" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-345.mp3" length="18971161" type="audio/mpeg"/>
             <guid>scotus_2025_24-345_v0</guid>
             <itunes:duration>4735</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 10 Dec 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-345.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-621] National Republican Senatorial Committee v. Federal Election Commission</title>
@@ -98,7 +99,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>7840</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 09 Dec 2025 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-621.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-332] Trump v. Slaughter</title>
