@@ -18707,14 +18707,147 @@
     "24-624": {
       "docket_number": "24-624",
       "name": "Case v. Montana",
-      "date_argued_timestamp": 1760486400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-624",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-624.mp3",
-      "mp3_length": 4500,
-      "mp3_size": 36013012,
-      "source": "scotus",
+      "date_argued_timestamp": 1760504400,
       "description": "<p>Case v. Montana</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-624/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-624.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-624\">oyez.org</a></p>\n    <p>Argued on Oct 15, 2025.</p>\n    <p>Petitioner: William Trevor Case.<br>Respondent: State of Montana.</p>\n    <p>Advocates: <ul><li>Fred A. Rowley, Jr. (for the Petitioner)</li>\n<li>Christian B. Corrigan (for the Respondent)</li>\n<li>Zoe A. Jacoby (for the United States, as amicus curiae, supporting the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In September 2021, Trevor Case\u2019s ex-girlfriend J.H. called police to report that Case had threatened suicide during their phone conversation. J.H. believed Case was intoxicated due to his erratic behavior, and she became alarmed when he mentioned getting \u201ca note or something like that\u201d before committing suicide. During the call, J.H. heard clicking sounds resembling a cocking pistol, prompting her to tell Case she would call police. Case responded by threatening to harm any officers who came to his home. The call ended when J.H. heard a \u201cpop\u201d that she believed was a gunshot, followed by dead air, though the line remained connected. Unable to get Case to respond, J.H. contacted police and drove to his residence.</p>\n<p>Law enforcement officers arrived at Case\u2019s home and attempted to make contact by knocking on doors and calling through an open window, but received no response. Through the windows, officers observed empty beer cans, an empty handgun holster, and a notepad they believed contained a suicide note. The officers knew of Case\u2019s history of alcohol abuse, mental health issues, and previous suicide threats, including an incident where he brought a weapon to the school where he taught. After approximately forty minutes on scene, officers made the decision to enter the home without a warrant to conduct a welfare check. They entered with weapons drawn due to J.H.\u2019s report of Case's threats against officers. While clearing the home, Sergeant Pasha encountered Case in an upstairs bedroom closet. When Case suddenly opened the closet curtain, Pasha observed what he believed was a dark object at Case\u2019s waist and shot him in the abdomen. A handgun was subsequently found in a laundry hamper next to where Case fell.</p>\n<p>Case was charged with Assault on a Peace Officer and filed pretrial motions to suppress evidence obtained from the warrantless entry. The district court denied the motion to suppress. Following a jury trial in December 2022, Case was convicted of the felony charge. Case appealed to the Montana Supreme Court, which affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May law enforcement enter a home without a search warrant based on less than probable cause that an emergency is occurring?</p>\n\n    ",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-624.mp3"
+      "mp3_length": 4500,
+      "mp3_size": 18032634,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Fred A. Rowley, Jr. (for the Petitioner)",
+          "start": 0.07
+        },
+        {
+          "title": "Rowley - Justice Thomas",
+          "start": 135.44999995
+        },
+        {
+          "title": "Rowley - Justice Roberts",
+          "start": 225.945
+        },
+        {
+          "title": "Rowley - Justice Alito",
+          "start": 395.8
+        },
+        {
+          "title": "Rowley - Justice Jackson",
+          "start": 597.51
+        },
+        {
+          "title": "Rowley - Justice Gorsuch",
+          "start": 774.375
+        },
+        {
+          "title": "Rowley - Justice Kavanaugh",
+          "start": 993.64
+        },
+        {
+          "title": "Rowley - Justice Kagan",
+          "start": 1197.745
+        },
+        {
+          "title": "Rowley - Justice Sotomayor",
+          "start": 1457.355
+        },
+        {
+          "title": "Rowley - Justice Roberts",
+          "start": 1590.17
+        },
+        {
+          "title": "Rowley - Justice Alito",
+          "start": 1758.11
+        },
+        {
+          "title": "Rowley - Justice Sotomayor",
+          "start": 2060.865
+        },
+        {
+          "title": "Rowley - Justice Barrett",
+          "start": 2249.265
+        },
+        {
+          "title": "Rowley - Justice Jackson",
+          "start": 2269.235
+        },
+        {
+          "title": "Christian B. Corrigan (for the Respondent)",
+          "start": 2337.88999995
+        },
+        {
+          "title": "Corrigan - Justice Thomas",
+          "start": 2456.165
+        },
+        {
+          "title": "Corrigan - Justice Gorsuch",
+          "start": 2504.95
+        },
+        {
+          "title": "Corrigan - Justice Roberts",
+          "start": 2614.39
+        },
+        {
+          "title": "Corrigan - Justice Barrett",
+          "start": 2721.83
+        },
+        {
+          "title": "Corrigan - Justice Sotomayor",
+          "start": 2787.05
+        },
+        {
+          "title": "Corrigan - Justice Kagan",
+          "start": 2901.76
+        },
+        {
+          "title": "Corrigan - Justice Jackson",
+          "start": 3044.3
+        },
+        {
+          "title": "Corrigan - Justice Sotomayor",
+          "start": 3293.585
+        },
+        {
+          "title": "Corrigan - Justice Kagan",
+          "start": 3506.005
+        },
+        {
+          "title": "Corrigan - Justice Barrett",
+          "start": 3534.425
+        },
+        {
+          "title": "Zoe A. Jacoby (for the United States, as amicus curiae, supporting the Respondent)",
+          "start": 3609.71
+        },
+        {
+          "title": "Jacoby - Justice Thomas",
+          "start": 3665.775
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 3704.25
+        },
+        {
+          "title": "Jacoby - Justice Jackson",
+          "start": 3840.835
+        },
+        {
+          "title": "Jacoby - Justice Gorsuch",
+          "start": 3902.94
+        },
+        {
+          "title": "Jacoby - Justice Jackson",
+          "start": 4010.76
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 4102.635
+        },
+        {
+          "title": "Fred A. Rowley, Jr. (for the Petitioner)",
+          "start": 4186.12
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-624.mp3"
     },
     "24-1056": {
       "docket_number": "24-1056",

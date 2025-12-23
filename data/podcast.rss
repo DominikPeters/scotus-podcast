@@ -434,11 +434,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>May law enforcement enter a home without a search warrant based on less than probable cause that an emergency is occurring?</p>]]></description>
-            <enclosure url="https://f000.backblazeb2.com/file/scotus-podcast/2025/24-624.mp3" length="36013012" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-624.mp3" length="18032634" type="audio/mpeg"/>
             <guid>scotus_2025_24-624_v0</guid>
             <itunes:duration>4500</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 15 Oct 2025 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-624.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-5438] Bowe v. United States</title>
