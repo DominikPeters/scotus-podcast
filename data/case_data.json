@@ -21571,14 +21571,135 @@
     },
     "24-813": {
       "docket_number": "24-813",
-      "name": "Chevron USA Inc. v. Plaquemines Parish",
-      "date_argued_timestamp": 1768176000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-813",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-813.mp3",
-      "mp3_length": 4645,
-      "mp3_size": 37167638,
-      "source": "scotus",
+      "name": "Chevron USA Inc. v. Plaquemines Parish, Louisiana",
+      "date_argued_timestamp": 1768197600,
       "description": "<p>Chevron USA Inc. v. Plaquemines Parish, Louisiana</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-813/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-813.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-813\">oyez.org</a></p>\n    <p>Argued on Jan 12, 2026.</p>\n    <p>Petitioner: Chevron USA Incorporated.<br>Respondent: Plaquemines Parish, Louisiana.</p>\n    <p>Advocates: <ul><li>Paul D. Clement (for the Petitioners)</li>\n<li>Aaron Z. Roper (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>J. Benjamin Aguinaga (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Beginning in 2013, several Louisiana coastal parishes\u2014including Plaquemines Parish and Cameron Parish\u2014filed lawsuits in state court against a consortium of oil and gas companies such as BP America Production Company, Chevron U.S.A. Inc., Shell Oil Company, and others. The parishes, joined by Louisiana state agencies and officials, alleged the companies had violated Louisiana\u2019s State and Local Coastal Resources Management Act of 1978 (SLCRMA), which requires certain activities within the state\u2019s designated \u201ccoastal zone\u201d to comply with an environmental permitting system. Specifically, the parishes claimed the companies engaged in oil and gas exploration, production, and transportation in various \u201cOperational Areas\u201d along the Louisiana coast without securing the proper permits or by violating the conditions of the permits they did have. The complaints further alleged that pre-1980 activities (before SLCRMA\u2019s effective date) were not \u201clawfully commenced,\u201d and thus not exempt under the Act\u2019s grandfather clause. The parishes seek wide-ranging remedies, including damages and restoration of affected coastal lands.</p>\n<p>The events at issue span decades, with the oil companies\u2019 challenged operations beginning prior to SLCRMA and, in some cases, dating back to World War II. During the war, some defendant companies operated under federal government contracts to refine petroleum products for the war effort, and they argue that some of the crude oil produced in the disputed areas was used to fulfill those contracts. The parishes' claims, however, focus on whether the companies\u2019 activities in the coastal zone were environmentally compliant under Louisiana law, regardless of any federal wartime contracts or regulations.</p>\n<p>After the initial filing in state court, the oil companies have tried multiple times to remove these cases to federal court, invoking various theories of federal jurisdiction, including the federal officer removal statute, based on their World War II-era federal contracts. Each time, the district courts ruled against removal and remanded the cases to state court, concluding that the oil companies did not meet the statutory requirements. The U.S. Court of Appeals for the Fifth Circuit has repeatedly affirmed the remand orders, and the companies now seek review in the U.S. Supreme Court.</p>\n\n    <p><b>Question</b></p>\n    <p>Can an oil company being sued in state court for its World War II-era oil production move its case to federal court simply because the oil was produced to meet federal government contracts for wartime fuel\u2014even if the contract did not specifically direct how to produce the oil?</p>\n\n    ",
+      "mp3_length": 4645,
+      "mp3_size": 18610149,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 0.29
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 152.185
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 255.79
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 482.75
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 595.65
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 880.585
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 1050.225
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 1343.1
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 1592.355
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 1779.89
+        },
+        {
+          "title": "Aaron Z. Roper (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1977.545
+        },
+        {
+          "title": "Roper - Justice Thomas",
+          "start": 2033.355
+        },
+        {
+          "title": "Roper - Justice Roberts",
+          "start": 2146.155
+        },
+        {
+          "title": "Roper - Justice Sotomayor",
+          "start": 2259.43
+        },
+        {
+          "title": "Roper - Justice Kagan",
+          "start": 2289.42
+        },
+        {
+          "title": "Roper - Justice Gorsuch",
+          "start": 2336.4
+        },
+        {
+          "title": "Roper - Justice Jackson",
+          "start": 2457.82
+        },
+        {
+          "title": "Roper - Justice Kagan",
+          "start": 2641.375
+        },
+        {
+          "title": "Roper - Justice Gorsuch",
+          "start": 2839.495
+        },
+        {
+          "title": "Roper - Justice Kavanaugh",
+          "start": 2891.845
+        },
+        {
+          "title": "J. Benjamin Aguinaga (for the Respondents)",
+          "start": 3023.675
+        },
+        {
+          "title": "Aguinaga - Justice Thomas",
+          "start": 3122.43999995
+        },
+        {
+          "title": "Aguinaga - Justice Barrett",
+          "start": 3314.885
+        },
+        {
+          "title": "Aguinaga - Justice Jackson",
+          "start": 3508.99
+        },
+        {
+          "title": "Aguinaga - Justice Kavanaugh",
+          "start": 3986.62
+        },
+        {
+          "title": "Aguinaga - Justice Thomas",
+          "start": 4102.74
+        },
+        {
+          "title": "Aguinaga - Justice Sotomayor",
+          "start": 4135.235
+        },
+        {
+          "title": "Aguinaga - Justice Kagan",
+          "start": 4208.185
+        },
+        {
+          "title": "Aguinaga - Justice Gorsuch",
+          "start": 4334.2
+        },
+        {
+          "title": "Paul D. Clement (for the Petitioners)",
+          "start": 4456.375
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-813.mp3"
     },
     "24-38": {
