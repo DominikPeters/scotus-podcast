@@ -21705,13 +21705,170 @@
     "24-38": {
       "docket_number": "24-38",
       "name": "Little v. Hecox",
-      "date_argued_timestamp": 1768262400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-38",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-38.mp3",
-      "mp3_length": 6740,
-      "mp3_size": 53932026,
-      "source": "scotus",
+      "date_argued_timestamp": 1768284000,
       "description": "<p>Little v. Hecox</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-38/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-38.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-38\">oyez.org</a></p>\n    <p>Argued on Jan 13, 2026.</p>\n    <p>Petitioner: Bradley Little, Governor of Idaho, et al.<br>Respondent: Lindsay Hecox, et al.</p>\n    <p>Advocates: <ul><li>Alan M. Hurst (for the Petitioners)</li>\n<li>Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Kathleen R. Hartnett (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2020, Idaho enacted the Fairness in Women\u2019s Sports Act, which categorically barred transgender girls and women from participating on female athletic teams in public schools\u2014from elementary school through college. Prior to the law\u2019s passage, Idaho\u2019s high school athletic association and the NCAA allowed transgender women to compete on women\u2019s teams after a year of hormone therapy. At the time, there were no known instances of transgender girls competing in Idaho athletics under those existing rules. Nonetheless, Idaho lawmakers passed the Act, citing concerns about \u201cfairness\u201d and biological differences attributed to testosterone and other factors. The law allowed any individual to challenge a female athlete\u2019s gender, triggering a mandatory medical verification process that could include analysis of reproductive anatomy, genetic make-up, or testosterone levels. Cisgender women, including those perceived as more masculine, could also be subjected to these checks.</p>\n<p>Lindsay Hecox, a transgender woman and student at Boise State University who wished to join the women\u2019s cross-country team, filed suit alongside a cisgender high school athlete known as Jane Doe. They alleged that the Act violated their constitutional rights, including the Equal Protection Clause of the Fourteenth Amendment. Hecox had undergone hormone therapy, significantly lowering her testosterone levels, but was still categorically excluded under the law. The district court granted a preliminary injunction blocking the law in August 2020, finding it likely unconstitutional. After several rounds of appeal and remand, the U.S. Court of Appeals for the Ninth Circuit ultimately affirmed the injunction as applied to Hecox but remanded the case to the district court to reconsider the scope of the injunction, especially in light of the Supreme Court\u2019s 2024 decision in Labrador v. Poe.</p>\n\n    <p><b>Question</b></p>\n    <p>May a state, consistent with the Equal Protection Clause of the Fourteenth Amendment, categorically require sports participants to compete based on their biological sex, rather than gender identity?</p>\n\n    ",
+      "mp3_length": 6740,
+      "mp3_size": 26992320,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Alan M. Hurst (for the Petitioners)",
+          "start": 0.045
+        },
+        {
+          "title": "Hurst - Justice Thomas",
+          "start": 126.92
+        },
+        {
+          "title": "Hurst - Justice Sotomayor",
+          "start": 170.045
+        },
+        {
+          "title": "Hurst - Justice Kagan",
+          "start": 372.54
+        },
+        {
+          "title": "Hurst - Justice Jackson",
+          "start": 581.45
+        },
+        {
+          "title": "Hurst - Justice Gorsuch",
+          "start": 720.05
+        },
+        {
+          "title": "Hurst - Justice Sotomayor",
+          "start": 864.48
+        },
+        {
+          "title": "Hurst - Justice Thomas",
+          "start": 1067.46
+        },
+        {
+          "title": "Hurst - Justice Alito",
+          "start": 1150.96
+        },
+        {
+          "title": "Hurst - Justice Sotomayor",
+          "start": 1216.215
+        },
+        {
+          "title": "Hurst - Justice Kagan",
+          "start": 1462.135
+        },
+        {
+          "title": "Hurst - Justice Kavanaugh",
+          "start": 1779.225
+        },
+        {
+          "title": "Hurst - Justice Barrett",
+          "start": 1918.125
+        },
+        {
+          "title": "Hurst - Justice Jackson",
+          "start": 2094.35
+        },
+        {
+          "title": "Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 2461.99
+        },
+        {
+          "title": "Mooppan - Justice Thomas",
+          "start": 2527.585
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 2689.735
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 2790.24
+        },
+        {
+          "title": "Mooppan - Justice Alito",
+          "start": 3082.74
+        },
+        {
+          "title": "Mooppan - Justice Sotomayor",
+          "start": 3100.39
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 3366.605
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 3498.025
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 3561.77999995
+        },
+        {
+          "title": "Mooppan - Justice Barrett",
+          "start": 3638.51
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 3782.05
+        },
+        {
+          "title": "Kathleen R. Hartnett (for the Respondents)",
+          "start": 4036.92
+        },
+        {
+          "title": "Hartnett - Justice Thomas",
+          "start": 4161.055
+        },
+        {
+          "title": "Hartnett - Justice Roberts",
+          "start": 4251.44
+        },
+        {
+          "title": "Hartnett - Justice Kagan",
+          "start": 4608.375
+        },
+        {
+          "title": "Hartnett - Justice Jackson",
+          "start": 4716.82
+        },
+        {
+          "title": "Hartnett - Justice Gorsuch",
+          "start": 4781.84
+        },
+        {
+          "title": "Hartnett - Justice Alito",
+          "start": 4982.46
+        },
+        {
+          "title": "Hartnett - Justice Kavanaugh",
+          "start": 5374.425
+        },
+        {
+          "title": "Hartnett - Justice Barrett",
+          "start": 5584.29
+        },
+        {
+          "title": "Hartnett - Justice Sotomayor",
+          "start": 5842.885
+        },
+        {
+          "title": "Hartnett - Justice Kagan",
+          "start": 6035.955
+        },
+        {
+          "title": "Hartnett - Justice Gorsuch",
+          "start": 6212.885
+        },
+        {
+          "title": "Hartnett - Justice Kavanaugh",
+          "start": 6465.245
+        },
+        {
+          "title": "Alan M. Hurst (for the Petitioners)",
+          "start": 6592.46
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-38.mp3"
     },
     "24-43": {
