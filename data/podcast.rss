@@ -113,7 +113,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 13 Jan 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-43] West Virginia v. B. P. J.</title>
+            <title>[24-43] West Virginia v. B.P.J.</title>
             <description><![CDATA[<p>West Virginia v. B.P.J.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-43/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-43.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-43">oyez.org</a></p>
     <p>Argued on Jan 13, 2026.</p>
@@ -127,11 +127,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does Title IX or the Equal Protection Clause prohibit a state from assigning students to girls’ and boys’ sports teams based on their biological sex as determined at birth?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-43.mp3" length="39324898" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-43.mp3" length="19688797" type="audio/mpeg"/>
             <guid>scotus_2025_24-43_v0</guid>
             <itunes:duration>4914</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 13 Jan 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-43.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-813] Chevron USA Inc. v. Plaquemines Parish, Louisiana</title>

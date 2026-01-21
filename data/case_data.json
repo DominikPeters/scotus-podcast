@@ -21873,14 +21873,175 @@
     },
     "24-43": {
       "docket_number": "24-43",
-      "name": "West Virginia v. B. P. J.",
-      "date_argued_timestamp": 1768262400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-43",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-43.mp3",
-      "mp3_length": 4914,
-      "mp3_size": 39324898,
-      "source": "scotus",
+      "name": "West Virginia v. B.P.J.",
+      "date_argued_timestamp": 1768284000,
       "description": "<p>West Virginia v. B.P.J.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-43/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-43.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-43\">oyez.org</a></p>\n    <p>Argued on Jan 13, 2026.</p>\n    <p>Petitioner: West Virginia, et al.<br>Respondent: B. P. J., By Her Next Friend and Mother, Heather Jackson.</p>\n    <p>Advocates: <ul><li>Michael R. Williams (for the Petitioners)</li>\n<li>Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Joshua A. Block (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>B.P.J. is a transgender girl who has identified as female since the third grade. At the onset of puberty, B.P.J. began taking puberty blockers and estrogen for medical treatment of gender dysphoria, effectively halting male pubertal development and aligning her physical characteristics with those of cisgender girls. Since her social transition, B.P.J. has consistently lived as a girl at school and participated on girls\u2019 athletic teams. In 2021, West Virginia enacted the \u201cSave Women\u2019s Sports Act,\u201d which requires public school and collegiate sports teams to be designated based on \u201cbiological sex\u201d and excludes individuals identified as male at birth from participating on female teams. This law, by its design and effect, prevented B.P.J. from continuing to compete on her school\u2019s girls\u2019 cross-country and track teams.</p>\n<p>Shortly after the Act took effect, B.P.J., through her mother, sued the West Virginia State Board of Education and other state and county education officials, as well as the West Virginia Secondary School Activities Commission. She alleged that excluding her from girls\u2019 sports violated the Equal Protection Clause and Title IX. The State of West Virginia intervened to defend the law. Initially, the district court granted B.P.J. a preliminary injunction, allowing her to participate on girls\u2019 teams pending litigation. However, at summary judgment, the district court reversed course and upheld the law, concluding that the classification on the basis of \u201cbiological sex\u201d was substantially related to the important government interest in ensuring fairness and opportunity in girls\u2019 athletics. The court granted summary judgment to the defendants and denied B.P.J.\u2019s cross-motion, holding that the exclusion of B.P.J. from girls\u2019 sports did not violate the Constitution or Title IX. On appeal, the U.S. Court of Appeals for the Fourth Circuit reversed in part, vacated in part, and remanded. It held that application of the law to B.P.J. violated Title IX and that factual disputes precluded summary judgment against her equal protection claim.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Title IX or the Equal Protection Clause prohibit a state from assigning students to girls\u2019 and boys\u2019 sports teams based on their biological sex as determined at birth?</p>\n\n    ",
+      "mp3_length": 4914,
+      "mp3_size": 19688797,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Michael R. Williams (for the Petitioners)",
+          "start": 0.08
+        },
+        {
+          "title": "Williams - Justice Thomas",
+          "start": 136.15499995
+        },
+        {
+          "title": "Williams - Justice Gorsuch",
+          "start": 241.93
+        },
+        {
+          "title": "Williams - Justice Jackson",
+          "start": 344.17
+        },
+        {
+          "title": "Williams - Justice Sotomayor",
+          "start": 498.28
+        },
+        {
+          "title": "Williams - Justice Barrett",
+          "start": 509.625
+        },
+        {
+          "title": "Williams - Justice Kagan",
+          "start": 629.02
+        },
+        {
+          "title": "Williams - Justice Gorsuch",
+          "start": 658.94
+        },
+        {
+          "title": "Williams - Justice Kavanaugh",
+          "start": 857.205
+        },
+        {
+          "title": "Williams - Justice Roberts",
+          "start": 1041.565
+        },
+        {
+          "title": "Williams - Justice Sotomayor",
+          "start": 1113.84999995
+        },
+        {
+          "title": "Williams - Justice Kavanaugh",
+          "start": 1318.245
+        },
+        {
+          "title": "Williams - Justice Jackson",
+          "start": 1432.575
+        },
+        {
+          "title": "Hashim M. Mooppan (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1806.725
+        },
+        {
+          "title": "Mooppan - Justice Thomas",
+          "start": 1871.87999995
+        },
+        {
+          "title": "Mooppan - Justice Sotomayor",
+          "start": 1914.22
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 2005.24
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 2252.04
+        },
+        {
+          "title": "Mooppan - Justice Gorsuch",
+          "start": 2265.15
+        },
+        {
+          "title": "Mooppan - Justice Barrett",
+          "start": 2352.52
+        },
+        {
+          "title": "Mooppan - Justice Kagan",
+          "start": 2419.755
+        },
+        {
+          "title": "Mooppan - Justice Kavanaugh",
+          "start": 2501.62
+        },
+        {
+          "title": "Mooppan - Justice Jackson",
+          "start": 2772.8
+        },
+        {
+          "title": "Joshua A. Block (for the Respondent)",
+          "start": 2852.745
+        },
+        {
+          "title": "Block - Justice Thomas",
+          "start": 2984.32
+        },
+        {
+          "title": "Block - Justice Roberts",
+          "start": 3075.555
+        },
+        {
+          "title": "Block - Justice Sotomayor",
+          "start": 3137.79
+        },
+        {
+          "title": "Block - Justice Gorsuch",
+          "start": 3231.62
+        },
+        {
+          "title": "Block - Justice Kagan",
+          "start": 3383.67
+        },
+        {
+          "title": "Block - Justice Barrett",
+          "start": 3531.465
+        },
+        {
+          "title": "Block - Justice Kavanaugh",
+          "start": 3640.63
+        },
+        {
+          "title": "Block - Justice Kagan",
+          "start": 3945.06
+        },
+        {
+          "title": "Block - Justice Alito",
+          "start": 4024.51
+        },
+        {
+          "title": "Block - Justice Jackson",
+          "start": 4143.82
+        },
+        {
+          "title": "Block - Justice Roberts",
+          "start": 4243.42
+        },
+        {
+          "title": "Block - Justice Gorsuch",
+          "start": 4351.02
+        },
+        {
+          "title": "Block - Justice Jackson",
+          "start": 4459.04500005
+        },
+        {
+          "title": "Block - Justice Kagan",
+          "start": 4529.005
+        },
+        {
+          "title": "Block - Justice Sotomayor",
+          "start": 4659.23
+        },
+        {
+          "title": "Michael R. Williams (for the Petitioners)",
+          "start": 4752.115
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-43.mp3"
     },
     "24-1021": {
