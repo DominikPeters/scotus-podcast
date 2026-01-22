@@ -22046,14 +22046,139 @@
     },
     "24-1021": {
       "docket_number": "24-1021",
-      "name": "Galette v. NJ Transit Corp.",
-      "date_argued_timestamp": 1768348800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1021",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1021.mp3",
-      "mp3_length": 4192,
-      "mp3_size": 33547442,
-      "source": "scotus",
+      "name": "Galette v. New Jersey Transit  Corp.",
+      "date_argued_timestamp": 1768370400,
       "description": "<p>Galette v. New Jersey Transit  Corp.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1021/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1021.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1021\">oyez.org</a></p>\n    <p>Argued on Jan 14, 2026.</p>\n    <p>Petitioner: Cedric Galette.<br>Respondent: New Jersey Transit Corporation.</p>\n    <p>Advocates: <ul><li>Michael Zuckerman (for New Jersey Transit Corp., et al. (Respondent in No. 24-1021, Petitioners in No. 24-1113))</li>\n<li>Michael B. Kimberly (for Galette and Colt, et al. (Petitioner in 24-1021, Respondents in 24-1113))</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In August 2018, Cedric Galette was a passenger in a vehicle stopped on Market Street in Philadelphia when it was struck by a vehicle operated by the New Jersey Transit Corporation (NJ Transit). Galette suffered physical injuries as a result of the collision and brought a negligence lawsuit in Pennsylvania state court against both the vehicle\u2019s driver, Julie McCrey, and NJ Transit. NJ Transit responded by asserting that it was an arm of the State of New Jersey, and therefore immune from private suit in Pennsylvania under the doctrine of interstate sovereign immunity.</p>\n<p>The trial court denied NJ Transit\u2019s motion to dismiss, and the Pennsylvania Superior Court affirmed, holding that NJ Transit is not an arm of New Jersey. The Supreme Court of Pennsylvania reversed, holding that NJ Transit qualifies as an arm of the state and is therefore immune under the doctrine of interstate sovereign immunity.</p>\n\n    <p><b>Question</b></p>\n    <p>Is the New Jersey Transit Corporation an arm of the State of New Jersey for interstate sovereign immunity purposes?</p>\n\n    ",
+      "mp3_length": 4192,
+      "mp3_size": 16800072,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Michael Zuckerman (for New Jersey Transit Corp., et al. (Respondent in No. 24-1021, Petitioners in No. 24-1113))",
+          "start": 0.035
+        },
+        {
+          "title": "Zuckerman - Justice Thomas",
+          "start": 138.51999995
+        },
+        {
+          "title": "Zuckerman - Justice Roberts",
+          "start": 386.83
+        },
+        {
+          "title": "Zuckerman - Justice Barrett",
+          "start": 461.85
+        },
+        {
+          "title": "Zuckerman - Justice Sotomayor",
+          "start": 545.22
+        },
+        {
+          "title": "Zuckerman - Justice Jackson",
+          "start": 656.73
+        },
+        {
+          "title": "Zuckerman - Justice Sotomayor",
+          "start": 868.19
+        },
+        {
+          "title": "Zuckerman - Justice Barrett",
+          "start": 974.92
+        },
+        {
+          "title": "Zuckerman - Justice Alito",
+          "start": 1239.23
+        },
+        {
+          "title": "Zuckerman - Justice Jackson",
+          "start": 1453.335
+        },
+        {
+          "title": "Zuckerman - Justice Gorsuch",
+          "start": 1600.42
+        },
+        {
+          "title": "Zuckerman - Justice Alito",
+          "start": 1677.38
+        },
+        {
+          "title": "Zuckerman - Justice Kagan",
+          "start": 1723.775
+        },
+        {
+          "title": "Zuckerman - Justice Kavanaugh",
+          "start": 1857.66
+        },
+        {
+          "title": "Zuckerman - Justice Jackson",
+          "start": 2001.365
+        },
+        {
+          "title": "Michael B. Kimberly (for Galette and Colt, et al. (Petitioner in 24-1021, Respondents in 24-1113))",
+          "start": 2161.93
+        },
+        {
+          "title": "Kimberly - Justice Thomas",
+          "start": 2297.395
+        },
+        {
+          "title": "Kimberly - Justice Roberts",
+          "start": 2348.98
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 2550.87
+        },
+        {
+          "title": "Kimberly - Justice Kagan",
+          "start": 2619.395
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 2755.92
+        },
+        {
+          "title": "Kimberly - Justice Alito",
+          "start": 2812.12
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 2865.53
+        },
+        {
+          "title": "Kimberly - Justice Jackson",
+          "start": 2910.245
+        },
+        {
+          "title": "Kimberly - Justice Alito",
+          "start": 3026.045
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 3106.08
+        },
+        {
+          "title": "Kimberly - Justice Gorsuch",
+          "start": 3233.08
+        },
+        {
+          "title": "Kimberly - Justice Kagan",
+          "start": 3418.75
+        },
+        {
+          "title": "Kimberly - Justice Kavanaugh",
+          "start": 3752.685
+        },
+        {
+          "title": "Kimberly - Justice Jackson",
+          "start": 3970.77
+        },
+        {
+          "title": "Michael Zuckerman (for New Jersey Transit Corp., et al. (Respondent in No. 24-1021, Petitioners in No. 24-1113))",
+          "start": 4005.245
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-1021.mp3"
     },
     "24-1046": {
