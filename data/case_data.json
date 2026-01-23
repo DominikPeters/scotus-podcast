@@ -22184,13 +22184,202 @@
     "24-1046": {
       "docket_number": "24-1046",
       "name": "Wolford v. Lopez",
-      "date_argued_timestamp": 1768867200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1046",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1046.mp3",
-      "mp3_length": 6665,
-      "mp3_size": 53331787,
-      "source": "scotus",
+      "date_argued_timestamp": 1768888800,
       "description": "<p>Wolford v. Lopez</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1046 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1046.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1046\">oyez.org</a></p>\n    <p>Argued on Jan 20, 2026.</p>\n    <p>Petitioner: Jason Wolford.<br>Respondent: Anne E. Lopez, Attorney General of Hawaii.</p>\n    <p>Advocates: <ul><li>Alan A. Beck (for the Petitioners)</li>\n<li>Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Neal Kumar Katyal (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2023, Hawaii and California enacted new laws, Act 52 and Senate Bill 2, respectively, that significantly restrict the public carry of firearms. Both laws prohibit individuals with carry permits from bringing firearms into numerous specified \u201csensitive places.\u201d Hawaii\u2019s list includes fifteen categories, such as bars, restaurants serving alcohol, parks, beaches, and banks. California\u2019s list is broader, covering more than two dozen types of property, including hospitals, public transit, playgrounds, libraries, museums, places of worship, and casinos.</p>\n<p>Both states also changed the default rule for private property open to the public, generally banning firearms unless the property owner expressly permits them. Hawaii allows owners to consent verbally, in writing, or via a posted sign. California\u2019s rule is stricter, permitting consent only through the posting of a specific, state-mandated sign. Plaintiffs in both states include individuals who hold concealed-carry permits and various gun-rights organizations. They filed lawsuits alleging that these new restrictions violate their Second Amendment right to keep and bear arms.</p>\n<p>Plaintiffs in both actions sued their respective state attorneys general, and federal district courts issued preliminary injunctions blocking enforcement of many of the new provisions. On appeal, the U.S. Court of Appeals for the Ninth Circuit consolidated the cases, affirming the injunctions in part but reversing them in large part. The Ninth Circuit\u2019s ruling allowed many of the challenged restrictions to remain in effect but agreed with the district courts that the states could not, for example, ban firearms in banks or hospitals.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a law that makes it a crime for a licensed concealed carry permit holder to bring a handgun onto private property open to the public\u2014such as a store or restaurant\u2014unless the property owner gives \u201cexpress authorization\u201d violate the Second Amendment?</p>\n\n    ",
+      "mp3_length": 6665,
+      "mp3_size": 26692017,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Alan A. Beck (for the Petitioners)",
+          "start": 0.13
+        },
+        {
+          "title": "Beck - Justice Thomas",
+          "start": 98.845
+        },
+        {
+          "title": "Beck - Justice Sotomayor",
+          "start": 142.5
+        },
+        {
+          "title": "Beck - Justice Barrett",
+          "start": 417.365
+        },
+        {
+          "title": "Beck - Justice Jackson",
+          "start": 512.545
+        },
+        {
+          "title": "Beck - Justice Barrett",
+          "start": 776.205
+        },
+        {
+          "title": "Beck - Justice Gorsuch",
+          "start": 820.185
+        },
+        {
+          "title": "Beck - Justice Sotomayor",
+          "start": 866.27
+        },
+        {
+          "title": "Beck - Justice Roberts",
+          "start": 1088.78
+        },
+        {
+          "title": "Beck - Justice Alito",
+          "start": 1160.225
+        },
+        {
+          "title": "Beck - Justice Sotomayor",
+          "start": 1181.73
+        },
+        {
+          "title": "Beck - Justice Kagan",
+          "start": 1291.81
+        },
+        {
+          "title": "Beck - Justice Gorsuch",
+          "start": 1530.89499995
+        },
+        {
+          "title": "Beck - Justice Barrett",
+          "start": 1606.935
+        },
+        {
+          "title": "Beck - Justice Jackson",
+          "start": 1675.555
+        },
+        {
+          "title": "Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 1928.19
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 1991.885
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 2041.66
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 2198.355
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 2319.21
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 2382.48
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 2580.585
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 2802.755
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 2980.185
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 3141.51000005
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 3353.68
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 3424.82
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 3733.325
+        },
+        {
+          "title": "Neal Kumar Katyal (for the Respondent)",
+          "start": 3998.32
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 4126.065
+        },
+        {
+          "title": "Katyal - Justice Kagan",
+          "start": 4218.42
+        },
+        {
+          "title": "Katyal - Justice Roberts",
+          "start": 4330.49
+        },
+        {
+          "title": "Katyal - Justice Barrett",
+          "start": 4620.685
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 4755.73
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 4909.71
+        },
+        {
+          "title": "Katyal - Justice Alito",
+          "start": 5148.87
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 5244.27
+        },
+        {
+          "title": "Katyal - Justice Barrett",
+          "start": 5506.265
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 5582.78
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 5636.29
+        },
+        {
+          "title": "Katyal - Justice Thomas",
+          "start": 5861.14
+        },
+        {
+          "title": "Katyal - Justice Sotomayor",
+          "start": 5969.315
+        },
+        {
+          "title": "Katyal - Justice Kagan",
+          "start": 6248.325
+        },
+        {
+          "title": "Katyal - Justice Gorsuch",
+          "start": 6442.645
+        },
+        {
+          "title": "Katyal - Justice Kavanaugh",
+          "start": 6473.905
+        },
+        {
+          "title": "Katyal - Justice Jackson",
+          "start": 6509.8
+        },
+        {
+          "title": "Alan A. Beck (for the Petitioners)",
+          "start": 6592.5950001
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-1046.mp3"
     },
     "23-1209": {
