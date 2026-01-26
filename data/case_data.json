@@ -22396,14 +22396,175 @@
     },
     "25A312": {
       "docket_number": "25A312",
-      "name": "Trump, President of U.S. v. Cook",
-      "date_argued_timestamp": 1768953600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25A312",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25A312.mp3",
-      "mp3_length": 7100,
-      "mp3_size": 56812727,
-      "source": "scotus",
+      "name": "Trump v. Cook",
+      "date_argued_timestamp": 1768975200,
       "description": "<p>Trump v. Cook</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25A312.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25a312\">oyez.org</a></p>\n    <p>Argued on Jan 21, 2026.</p>\n    <p>Petitioner: Donald J. Trump, President of the United States, et al.<br>Respondent: Lisa D. Cook, Member of the Board of Governors of the Federal Reserve System.</p>\n    <p>Advocates: <ul><li>D. John Sauer (for the Applicants)</li>\n<li>Paul D. Clement (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    None\n    <p><b>Question</b></p>\n    None\n    ",
+      "mp3_length": 7100,
+      "mp3_size": 28432712,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "D. John Sauer (for the Applicants)",
+          "start": 0.39
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 129.5
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 230.01
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 414.3
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 813.91
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 998.85
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 1211.94
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1382.98
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 1514.43499995
+        },
+        {
+          "title": "Sauer - Justice Alito",
+          "start": 1653.06
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1767.555
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 2050.03
+        },
+        {
+          "title": "Sauer - Justice Gorsuch",
+          "start": 2239.22000005
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 2336.715
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 2805.02
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 3029.695
+        },
+        {
+          "title": "Paul D. Clement (for the Respondent)",
+          "start": 3502.68
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 3613.305
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 3777.12
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 3889.35
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 4065.17
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4150.56
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4226.675
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 4508.545
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 4628.995
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 4784.94
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4829.94
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4915.71
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 4973.01
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 5169.55
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 5219.445
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 5325.12
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 5496.33
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 5616.295
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 5679.975
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 5915.08
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 5992.38
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 6280.54
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 6428.535
+        },
+        {
+          "title": "D. John Sauer (for the Applicants)",
+          "start": 6875.92000005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25A312.mp3"
     }
   }

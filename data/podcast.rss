@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[25A312] Trump, President of U.S. v. Cook</title>
+            <title>[25A312] Trump v. Cook</title>
             <description><![CDATA[<p>Trump v. Cook</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25A312.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25a312">oyez.org</a></p>
     <p>Argued on Jan 21, 2026.</p>
@@ -43,11 +43,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     None
     <p><b>Question</b></p>
     None]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25A312.mp3" length="56812727" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25A312.mp3" length="28432712" type="audio/mpeg"/>
             <guid>scotus_2025_25A312_v0</guid>
             <itunes:duration>7100</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 21 Jan 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25A312.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-1046] Wolford v. Lopez</title>
@@ -70,7 +71,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>6665</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 20 Jan 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1046.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[23-1209] M &amp; K Employee Solutions v. Trustees of the IAM Pension Fund</title>

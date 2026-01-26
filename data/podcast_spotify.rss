@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[25A312] Trump, President of U.S. v. Cook</title>
+            <title>[25A312] Trump v. Cook</title>
             <description><![CDATA[<p>Trump v. Cook</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25A312.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25a312">oyez.org</a></p>
     <p>Argued on Jan 21, 2026.</p>
@@ -42,8 +42,51 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Facts of the case (from oyez.org)</b></p>
     None
     <p><b>Question</b></p>
-    None]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25A312.mp3" length="56812727" type="audio/mpeg"/>
+    None
+    
+
+Chapters:
+00:00:00 D. John Sauer (for the Applicants)
+00:02:09 Sauer - Justice Thomas
+00:03:50 Sauer - Justice Roberts
+00:06:54 Sauer - Justice Sotomayor
+00:13:33 Sauer - Justice Barrett
+00:16:38 Sauer - Justice Jackson
+00:20:11 Sauer - Justice Gorsuch
+00:23:02 Sauer - Justice Kagan
+00:25:14 Sauer - Justice Roberts
+00:27:33 Sauer - Justice Alito
+00:29:27 Sauer - Justice Sotomayor
+00:34:10 Sauer - Justice Kagan
+00:37:19 Sauer - Justice Gorsuch
+00:38:56 Sauer - Justice Kavanaugh
+00:46:45 Sauer - Justice Barrett
+00:50:29 Sauer - Justice Jackson
+00:58:22 Paul D. Clement (for the Respondent)
+01:00:13 Clement - Justice Thomas
+01:02:57 Clement - Justice Roberts
+01:04:49 Clement - Justice Alito
+01:07:45 Clement - Justice Kavanaugh
+01:09:10 Clement - Justice Alito
+01:10:26 Clement - Justice Gorsuch
+01:15:08 Clement - Justice Jackson
+01:17:08 Clement - Justice Kagan
+01:19:44 Clement - Justice Kavanaugh
+01:20:29 Clement - Justice Alito
+01:21:55 Clement - Justice Gorsuch
+01:22:53 Clement - Justice Barrett
+01:26:09 Clement - Justice Kagan
+01:26:59 Clement - Justice Jackson
+01:28:45 Clement - Justice Roberts
+01:31:36 Clement - Justice Thomas
+01:33:36 Clement - Justice Alito
+01:34:39 Clement - Justice Sotomayor
+01:38:35 Clement - Justice Kagan
+01:39:52 Clement - Justice Kavanaugh
+01:44:40 Clement - Justice Barrett
+01:47:08 Clement - Justice Jackson
+01:54:35 D. John Sauer (for the Applicants)]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25A312.mp3" length="28432712" type="audio/mpeg"/>
             <guid>scotus_2025_25A312_v0</guid>
             <itunes:duration>7100</itunes:duration>
             <itunes:season>2025</itunes:season>
