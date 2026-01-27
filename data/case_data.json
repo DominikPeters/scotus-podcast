@@ -22384,14 +22384,115 @@
     },
     "23-1209": {
       "docket_number": "23-1209",
-      "name": "M & K Employee Solutions v. Trustees of the IAM Pension Fund",
-      "date_argued_timestamp": 1768867200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/23-1209",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/23-1209.mp3",
-      "mp3_length": 3436,
-      "mp3_size": 27502791,
-      "source": "scotus",
+      "name": "M & K Employee Solutions, LLC v. Trustees of the IAM National Pension Fund",
+      "date_argued_timestamp": 1768888800,
       "description": "<p>M & K Employee Solutions, LLC v. Trustees of the IAM National Pension Fund</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/23-1209 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/23-1209.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/23-1209\">oyez.org</a></p>\n    <p>Argued on Jan 20, 2026.</p>\n    <p>Petitioner: M & K Employee Solutions, LLC.<br>Respondent: Trustees of the IAM National Pension Fund.</p>\n    <p>Advocates: <ul><li>Michael E. Kenneally, Jr. (for the Petitioners)</li>\n<li>John E. Roberts (for the Respondent)</li>\n<li>Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>M&amp;K Employee Solutions operated three facilities that participated in the IAM National Pension Fund, a retirement plan jointly funded by multiple employers whose workers were represented by the International Association of Machinists union. In late 2017, the Fund\u2019s actuary valued the plan\u2019s unfunded obligations at about $448 million. Shortly after, in January 2018, the actuary met with the Fund\u2019s trustees and decided to change key financial assumptions used to calculate how much departing employers owed the Fund. Most importantly, they lowered the assumed investment return rate from 7.5% to 6.5%, a change that would significantly increase the bills for employers leaving the plan.</p>\n<p>M&amp;K had already begun pulling out of the Fund when two of its facilities stopped participating in 2017. When M&amp;K completely withdrew in 2018, the Fund calculated what M&amp;K owed based on financial data from December 31, 2017, but used the new assumptions adopted in January 2018. This resulted in a withdrawal liability bill of over $6 million. Ohio Magnetics, another company in the Fund, faced a similar situation when it withdrew in mid-2018 and received a bill for about $447,000 calculated the same way.</p>\n<p>Both companies challenged their bills through arbitration and won, with arbitrators ruling the Fund could not use assumptions created after the December 31, 2017 measurement date. The Fund then sued in the U.S. District Court for the District of Columbia to overturn these arbitration decisions. The district court sided with the Fund, ruling that actuaries could adopt new assumptions after the measurement date as long as they were based on information available at that time. The court remanded the cases to the arbitrators for reconsideration. Both employers appealed to the U.S. Court of Appeals for the D.C. Circuit.</p>\n\n    <p><b>Question</b></p>\n    <p>When a pension plan calculates how much a departing employer owes \u201cas of the end of the plan year,\u201d must the plan use the financial assumptions it had already adopted by that date, or can it use new assumptions created after that date if they are based on information that was available at year-end?</p>\n\n    ",
+      "mp3_length": 3436,
+      "mp3_size": 13777391,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Michael E. Kenneally, Jr. (for the Petitioners)",
+          "start": 0.24
+        },
+        {
+          "title": "Kenneally - Justice Thomas",
+          "start": 121.685
+        },
+        {
+          "title": "Kenneally - Justice Roberts",
+          "start": 196.15
+        },
+        {
+          "title": "Kenneally - Justice Gorsuch",
+          "start": 331.45
+        },
+        {
+          "title": "Kenneally - Justice Jackson",
+          "start": 399.29
+        },
+        {
+          "title": "Kenneally - Justice Kavanaugh",
+          "start": 634.26
+        },
+        {
+          "title": "Kenneally - Justice Kagan",
+          "start": 849.475
+        },
+        {
+          "title": "Kenneally - Justice Jackson",
+          "start": 984.63
+        },
+        {
+          "title": "Kenneally - Justice Roberts",
+          "start": 1289.535
+        },
+        {
+          "title": "Kenneally - Justice Jackson",
+          "start": 1481.35
+        },
+        {
+          "title": "Kenneally - Justice Sotomayor",
+          "start": 1527.075
+        },
+        {
+          "title": "Kenneally - Justice Kavanaugh",
+          "start": 1698.67
+        },
+        {
+          "title": "John E. Roberts (for the Respondent)",
+          "start": 1825.045
+        },
+        {
+          "title": "Roberts - Justice Thomas",
+          "start": 1972.68
+        },
+        {
+          "title": "Roberts - Justice Alito",
+          "start": 2082.86
+        },
+        {
+          "title": "Roberts - Justice Jackson",
+          "start": 2215.11
+        },
+        {
+          "title": "Roberts - Justice Alito",
+          "start": 2276.95
+        },
+        {
+          "title": "Roberts - Justice Sotomayor",
+          "start": 2338.65
+        },
+        {
+          "title": "Roberts - Justice Kagan",
+          "start": 2480.71
+        },
+        {
+          "title": "Roberts - Justice Kavanaugh",
+          "start": 2516.52
+        },
+        {
+          "title": "Kevin J. Barber (for the United States, as amicus curiae, supporting the Respondent)",
+          "start": 2774.95
+        },
+        {
+          "title": "Barber - Justice Thomas",
+          "start": 2830.105
+        },
+        {
+          "title": "Barber - Justice Alito",
+          "start": 2879.48
+        },
+        {
+          "title": "Barber - Justice Kavanaugh",
+          "start": 2966.285
+        },
+        {
+          "title": "Michael E. Kenneally, Jr. (for the Petitioners)",
+          "start": 3144.65500005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/23-1209.mp3"
     },
     "25A312": {
