@@ -32,6 +32,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-95] Pung v. Isabella County</title>
+            <description><![CDATA[<p>Pung v. Isabella County</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-95/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-95.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-95">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Michael Pung, Personal Representative of the Estate of Timothy Scott Pung.<br>Respondent: sabella County, Michigan.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>This case involves a dispute over the foreclosure and sale of the Pung property in Isabella County, Michigan, following the death of its owner, Timothy Scott Pung, in 2004. The property had a Principal Residence Exemption (PRE) from local school taxes. In 2010, the township tax assessor, Patricia DePriest, retroactively denied the PRE for the years 2007-2009, asserting a new owner must file an affidavit. Although the Michigan Tax Tribunal overturned this decision in 2012, holding the PRE remained valid for the estate, DePriest subsequently revoked the PRE for the 2012 tax year based on the same unfiled-affidavit rationale. This denial created an unpaid tax bill of $2,241.93. The County Treasurer, Steven Pickens, initiated foreclosure proceedings for this delinquency. After a final judgment of foreclosure, the property sold at a public auction for $76,008. Isabella County and Pickens retained the entire $76,008 from the sale, refusing to return the surplus proceeds above the tax debt to Michael Pung, the estate's representative. Michael Pung sued, alleging this retention of the surplus violated the Fifth Amendment’s Takings Clause and the Eighth Amendment’s Excessive Fines Clause.</p>
+<p>The district court granted Pung summary judgment on the Takings Clause claim, ruling he was entitled to the surplus proceeds (the sale price minus the tax debt), but not to the greater loss in equity based on the property’s fair market value. The U.S. Court of Appeals for the Sixth Circuit affirmed the district court’s judgment on all claims, including the amount of compensation awarded.</p>
+<p> </p>
+
+    <p><b>Question</b></p>
+    <p>1. When the government takes property for tax debt, does the Fifth Amendment require compensation based on the property’s true fair market value, or only on the lower amount it sold for at a tax foreclosure auction?</p>
+<p>2. Does the Eighth Amendment’s Excessive Fines Clause prohibit the government from seizing and keeping a property worth far more than the small tax debt owed on it?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-95.mp3" length="50181007" type="audio/mpeg"/>
+            <guid>scotus_2025_25-95_v0</guid>
+            <itunes:duration>6271</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 25 Feb 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-783] Enbridge Energy, LP v. Nessel</title>
             <description><![CDATA[<p>Enbridge Energy, LP v. Nessel</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-783/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-783.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-783">oyez.org</a></p>
