@@ -32,6 +32,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-1063] Hunter v. United States</title>
+            <description><![CDATA[<p>Hunter v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-1063/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1063.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1063">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Munson P. Hunter.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Munson P. Hunter, III pleaded guilty to committing wire fraud affecting a financial institution and to aiding and abetting. A federal district court sentenced him to 51 months in prison followed by three years of supervised release. A specific condition of that supervised release requires Hunter to take any mental health medication prescribed by his physician.</p>
+<p>Hunter challenged his sentence at the U.S. Court of Appeals for the Fifth Circuit, arguing the medication condition infringed on his due process liberty interests and that the written judgment improperly included the “aiding and abetting” reference. The Fifth Circuit dismissed the appeal regarding the medication condition, finding it was barred by an appeal waiver in Hunter's plea agreement, and affirmed the judgment, noting that the “aiding and abetting” charge was indeed part of the count to which Hunter pleaded guilty.</p>
+
+    <p><b>Question</b></p>
+    <p>1. Does an appeal waiver bar all claims except for ineffective assistance of counsel or a sentence exceeding the statutory maximum? </p>
+<p>2. Does such a waiver become ineffective if the sentencing judge later tells the defendant they can appeal, and the government fails to object?</p>
+<p> </p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-1063.mp3" length="45725218" type="audio/mpeg"/>
+            <guid>scotus_2025_24-1063_v0</guid>
+            <itunes:duration>5714</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Tue, 03 Mar 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-1234] United States v. Hemani</title>
             <description><![CDATA[<p>United States v. Hemani</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1234.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1234">oyez.org</a></p>
