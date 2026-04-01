@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[25-365] Trump, President of U.S. v. Barbara</title>
+            <title>[25-365] Trump v. Barbara</title>
             <description><![CDATA[<p>Trump v. Barbara</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-365/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-365.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-365">oyez.org</a></p>
     <p>Argued on Apr 1, 2026.</p>
@@ -46,19 +46,22 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Is a presidential executive order that denies U.S. birthright citizenship to children born in the United States because their parents are unlawfully present or in the country on temporary visas consistent with the Citizenship Clause of the Fourteenth Amendment and 8 U.S.C. § 1401(a)?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-365.mp3" length="61684931" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-365.mp3" length="30868683" type="audio/mpeg"/>
             <guid>scotus_2025_25-365_v0</guid>
             <itunes:duration>7709</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 01 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-365.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-7351] Pitchford v. Cain</title>
             <description><![CDATA[<p>Pitchford v. Cain</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-7351/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-7351.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-7351">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Mar 31, 2026.</p>
     <p>Petitioner: Terry Pitchford.<br>Respondent: Burl Cain, Commissioner, Mississippi Department of Corrections.</p>
-    
+    <p>Advocates: <ul><li>Joseph J. Perkovich (for the Petitioner)</li>
+<li>Scott G. Stewart (for the Respondents)</li>
+<li>Emily M. Ferguson (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>
     <p><b>Facts of the case (from oyez.org)</b></p>
     <p>Terry Pitchford was convicted of capital murder and sentenced to death for his involvement in the 2004 armed robbery and killing of Reuben Britt, a store owner in Grenada County, Mississippi. At the time of the crime, Pitchford was 18 years old. He confessed to participating in the robbery, although the fatal shot was fired by his accomplice. At Pitchford’s 2006 trial in the Grenada County Circuit Court, the jury was selected from a pool that included 36 white and five Black potential jurors. The prosecution used peremptory strikes to remove four of the five Black prospective jurors. Pitchford’s counsel raised a Batson objection, alleging that the strikes were racially discriminatory.</p>
 <p>The trial court found Pitchford had made a prima facie showing of discrimination and required the prosecution to provide race-neutral reasons for each strike. The prosecutor cited explanations such as the venirepersons’ criminal histories, perceived mental health issues, or similarities to the defendant. The trial judge accepted those explanations and allowed the strikes, ultimately empaneling a jury that included only one Black juror. Pitchford’s counsel sought to preserve Batson-related objections during a bench conference, emphasizing the racial composition of the jury and the county, but did not conduct a further comparative analysis or expressly argue that the prosecution’s stated reasons were pretextual.</p>
