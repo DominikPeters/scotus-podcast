@@ -51,7 +51,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>7709</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 01 Apr 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-365.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-7351] Pitchford v. Cain</title>
@@ -260,11 +259,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does a federal law that prohibits the possession of firearms by a person who “is an unlawful user of or addicted to any controlled substance” violate the respondent’s Second Amendment right to bear arms?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-1234.mp3" length="55145224" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-1234.mp3" length="27598675" type="audio/mpeg"/>
             <guid>scotus_2025_24-1234_v0</guid>
             <itunes:duration>6892</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 02 Mar 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1234.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-95] Pung v. Isabella County</title>

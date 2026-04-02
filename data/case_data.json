@@ -22719,13 +22719,182 @@
     "24-1234": {
       "docket_number": "24-1234",
       "name": "United States v. Hemani",
-      "date_argued_timestamp": 1772409600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1234",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1234.mp3",
-      "mp3_length": 6892,
-      "mp3_size": 55145224,
-      "source": "scotus",
+      "date_argued_timestamp": 1772431200,
       "description": "<p>United States v. Hemani</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1234.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1234\">oyez.org</a></p>\n    <p>Argued on Mar 2, 2026.</p>\n    <p>Petitioner: United States of America.<br>Respondent: Ali Danial Hemani.</p>\n    <p>Advocates: <ul><li>Sarah M. Harris (for the Petitioner)</li>\n<li>Erin E. Murphy (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>A grand jury indicted Ali Danial Hemani in February 2023 for violating 18 U.S.C. \u00a7 922(g)(3), a federal law prohibiting firearm possession by an \u201cunlawful user of\u2026a controlled substance.\u201d The indictment alleged that in August 2022, Hemani knowingly possessed a Glock 19 9mm pistol while being an unlawful user of controlled substances. The government specified that Hemani allegedly used marijuana, promethazine, and cocaine.</p>\n<p>The pistol was located in the closet of Hemani\u2019s parents\u2019 home. Crucially, the prosecution did not allege that Hemani was intoxicated or using a controlled substance at the precise time he possessed the firearm. The government\u2019s case rested on his status as a regular drug user, not on simultaneous use and possession.</p>\n<p>Hemani filed a motion to dismiss the indictment, arguing the law was unconstitutional as applied to him. The U.S. District Court for the Eastern District of Texas granted the motion and dismissed the indictment. The U.S. Court of Appeals for the Fifth Circuit affirmed the dismissal, concluding that a binding regional precedent (United States v. Connelly) rendered the law\u2019s application to Hemani unconstitutional.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a federal law that prohibits the possession of firearms by a person who \u201cis an unlawful user of or addicted to any controlled substance\u201d violate the respondent\u2019s Second Amendment right to bear arms?</p>\n\n    ",
+      "mp3_length": 6892,
+      "mp3_size": 27598675,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Sarah M. Harris (for the Petitioner)",
+          "start": 0.04
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 126.25
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 199.49
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 398.75
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 698.27
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 1044.61
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 1096.47
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 1186.7
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 1488.31
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 1516.11999995
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 1619.015
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 1832.53
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 1902.645
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 2179.82
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 2392.615
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 2825.71
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 3183.44
+        },
+        {
+          "title": "Erin E. Murphy (for the Respondent)",
+          "start": 3572.90999995
+        },
+        {
+          "title": "Murphy - Justice Thomas",
+          "start": 3694.91
+        },
+        {
+          "title": "Murphy - Justice Roberts",
+          "start": 3738.805
+        },
+        {
+          "title": "Murphy - Justice Alito",
+          "start": 3962.08
+        },
+        {
+          "title": "Murphy - Justice Kagan",
+          "start": 4062.14
+        },
+        {
+          "title": "Murphy - Justice Roberts",
+          "start": 4234.78
+        },
+        {
+          "title": "Murphy - Justice Kagan",
+          "start": 4349.81
+        },
+        {
+          "title": "Sarah M. Harris (for the Petitioner)",
+          "start": 4437.65
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 4439.33
+        },
+        {
+          "title": "Erin E. Murphy (for the Respondent)",
+          "start": 4461.39
+        },
+        {
+          "title": "Murphy - Justice Sotomayor",
+          "start": 4467.39
+        },
+        {
+          "title": "Murphy - Justice Jackson",
+          "start": 4543.215
+        },
+        {
+          "title": "Murphy - Justice Kavanaugh",
+          "start": 4681.91
+        },
+        {
+          "title": "Murphy - Justice Sotomayor",
+          "start": 4842.02
+        },
+        {
+          "title": "Murphy - Justice Barrett",
+          "start": 4891.855
+        },
+        {
+          "title": "Murphy - Justice Roberts",
+          "start": 5073.685
+        },
+        {
+          "title": "Murphy - Justice Kavanaugh",
+          "start": 5150.52
+        },
+        {
+          "title": "Murphy - Justice Gorsuch",
+          "start": 5203.05
+        },
+        {
+          "title": "Murphy - Justice Jackson",
+          "start": 5271.43500005
+        },
+        {
+          "title": "Murphy - Justice Kavanaugh",
+          "start": 5344.245
+        },
+        {
+          "title": "Murphy - Justice Alito",
+          "start": 5403.07999995
+        },
+        {
+          "title": "Murphy - Justice Sotomayor",
+          "start": 6067.21
+        },
+        {
+          "title": "Murphy - Justice Kagan",
+          "start": 6205.605
+        },
+        {
+          "title": "Murphy - Justice Kavanaugh",
+          "start": 6365.13
+        },
+        {
+          "title": "Sarah M. Harris (for the Petitioner)",
+          "start": 6586.565
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-1234.mp3"
     },
     "24-1063": {
