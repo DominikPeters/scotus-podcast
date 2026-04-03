@@ -179,7 +179,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 24 Mar 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-1260] Watson v. RNC</title>
+            <title>[24-1260] Watson v. Republican National Committee</title>
             <description><![CDATA[<p>Watson v. Republican National Committee</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-1260/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1260.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1260">oyez.org</a></p>
     <p>Argued on Mar 23, 2026.</p>
@@ -195,11 +195,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Do the federal election-day statutes preempt a state law that allows ballots that are cast by federal election day to be received by election officials after that day?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-1260.mp3" length="61508399" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-1260.mp3" length="30780494" type="audio/mpeg"/>
             <guid>scotus_2025_24-1260_v0</guid>
             <itunes:duration>7687</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 23 Mar 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1260.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-1238] Montgomery v. Caribe Transport II, LLC</title>

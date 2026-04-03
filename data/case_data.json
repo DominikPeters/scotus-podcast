@@ -22923,14 +22923,179 @@
     },
     "24-1260": {
       "docket_number": "24-1260",
-      "name": "Watson v. RNC",
-      "date_argued_timestamp": 1774224000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1260",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1260.mp3",
-      "mp3_length": 7687,
-      "mp3_size": 61508399,
-      "source": "scotus",
+      "name": "Watson v. Republican National Committee",
+      "date_argued_timestamp": 1774242000,
       "description": "<p>Watson v. Republican National Committee</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1260/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1260.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1260\">oyez.org</a></p>\n    <p>Argued on Mar 23, 2026.</p>\n    <p>Petitioner: Michael Watson, Mississippi Secretary of State.<br>Respondent: Republican National Committee, et al.</p>\n    <p>Advocates: <ul><li>Scott G. Stewart (for the Petitioner)</li>\n<li>Paul D. Clement (for the Respondents)</li>\n<li>D. John Sauer (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Federal statutes designate the Tuesday after the first Monday in November as the uniform day for electing members of Congress and appointing presidential electors. While Mississippi requires voters to cast absentee ballots by this federal deadline, the state legislature amended its election code in 2020 to permit the counting of mail-in ballots received up to five business days after Election Day, provided they are postmarked by that Tuesday. This \u201cpostmark rule\u201d allows validly cast votes delayed by mail service to be included in the final tally, a practice currently utilized by approximately thirty states.</p>\n<p>In 2024, the Republican National Committee, the Mississippi Republican Party, the Libertarian Party of Mississippi, and individual voters filed suit against Mississippi Secretary of State Michael Watson and county election officials. The plaintiffs argued that the federal statutes establishing a singular \u201celection\u201d day preempt Mississippi\u2019s five-day receipt window, contending that an election is not legally concluded until officials actually receive the ballots. They sought to invalidate the state statute and enjoin officials from counting any absentee ballots received after federal Election Day.</p>\n<p>The district court granted summary judgment in favor of the state officials, ruling that the state law did not conflict with federal statutes. The U.S. Court of Appeals for the Fifth Circuit reversed, holding that federal law preempts the Mississippi statute because ballots must be both cast and received by Election Day.</p>\n\n\n    <p><b>Question</b></p>\n    <p>Do the federal election-day statutes preempt a state law that allows ballots that are cast by federal election day to be received by election officials after that day?</p>\n\n\n    ",
+      "mp3_length": 7687,
+      "mp3_size": 30780494,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Scott G. Stewart (for the Petitioner)",
+          "start": 0
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 128.64
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 223.56
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 308.64
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 466.2
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 644.88
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 741.44
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 927.96
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 965.24
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 1095.04
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 1395.36
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 1486.84
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 1568
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 1605.4
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 1883.76
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 2077.48
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 2171.08
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 2368.2
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 2720.2
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 2996.16
+        },
+        {
+          "title": "Paul D. Clement (for the Respondents)",
+          "start": 3353.36
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 3492.12
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 3680.36
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 4070.8
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 4128.16
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 4337.72
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4592.44
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 4836.72
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 5021.4
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 5278.36
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 5520.92
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 5926.76
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 6222.72
+        },
+        {
+          "title": "D. John Sauer (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 6658.68
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 6716.6
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 6765
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 6825.44
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 7097
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 7274.4
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 7446.92
+        },
+        {
+          "title": "Scott G. Stewart (for the Petitioner)",
+          "start": 7457.84
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-1260.mp3"
     },
     "25-6": {
