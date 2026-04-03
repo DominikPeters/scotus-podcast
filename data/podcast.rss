@@ -200,7 +200,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>7687</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 23 Mar 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1260.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-1238] Montgomery v. Caribe Transport II, LLC</title>
@@ -312,7 +311,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Tue, 24 Feb 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-983] Havana Docks Corp. v. Royal Caribbean Cruises</title>
+            <title>[24-983] Havana Docks Corporation v. Royal Caribbean Cruises, Ltd.</title>
             <description><![CDATA[<p>Havana Docks Corporation v. Royal Caribbean Cruises, Ltd.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-983/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-983.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-983">oyez.org</a></p>
     <p>Argued on Feb 23, 2026.</p>
@@ -326,11 +325,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Is the legal right to sue under Title III of the LIBERTAD Act tied to the confiscated property claim or the hypothetical, unexpired duration of the original property interest?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-983.mp3" length="44504499" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-983.mp3" length="22278368" type="audio/mpeg"/>
             <guid>scotus_2025_24-983_v0</guid>
             <itunes:duration>5562</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 23 Feb 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-983.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-699] Exxon Mobil Corp. v. Corporación Cimex, S.A.</title>
