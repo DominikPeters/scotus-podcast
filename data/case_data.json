@@ -23057,26 +23057,337 @@
     "24-1063": {
       "docket_number": "24-1063",
       "name": "Hunter v. United States",
-      "date_argued_timestamp": 1772496000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1063",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1063.mp3",
-      "mp3_length": 5714,
-      "mp3_size": 45725218,
-      "source": "scotus",
+      "date_argued_timestamp": 1772517600,
       "description": "<p>Hunter v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1063/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1063.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1063\">oyez.org</a></p>\n    <p>Argued on Mar 3, 2026.</p>\n    <p>Petitioner: Munson P. Hunter.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Lisa S. Blatt (for the Petitioner)</li>\n<li>Zoe A. Jacoby (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Munson P. Hunter, III pleaded guilty to committing wire fraud affecting a financial institution and to aiding and abetting. A federal district court sentenced him to 51 months in prison followed by three years of supervised release. A specific condition of that supervised release requires Hunter to take any mental health medication prescribed by his physician.</p>\n<p>Hunter challenged his sentence at the U.S. Court of Appeals for the Fifth Circuit, arguing the medication condition infringed on his due process liberty interests and that the written judgment improperly included the \u201caiding and abetting\u201d reference. The Fifth Circuit dismissed the appeal regarding the medication condition, finding it was barred by an appeal waiver in Hunter's plea agreement, and affirmed the judgment, noting that the \u201caiding and abetting\u201d charge was indeed part of the count to which Hunter pleaded guilty.</p>\n\n    <p><b>Question</b></p>\n    <p>1. Does an appeal waiver bar all claims except for ineffective assistance of counsel or a sentence exceeding the statutory maximum?\u00a0</p>\n<p>2. Does such a waiver become ineffective if the sentencing judge later tells the defendant they can appeal, and the government fails to object?</p>\n<p>\u00a0</p>\n\n    ",
+      "mp3_length": 5714,
+      "mp3_size": 22889006,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 0.01
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 118.74
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 254.52
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 455.82
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 570.95
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 691.04
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 853.02
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 901.07
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 993.86
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 1092.17
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 1278.3
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 1306.72
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 1315.15499995
+        },
+        {
+          "title": "Blatt - Justice Roberts",
+          "start": 1576.315
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 1674.725
+        },
+        {
+          "title": "Blatt - Justice Kavanaugh",
+          "start": 1907.73
+        },
+        {
+          "title": "Blatt - Justice Barrett",
+          "start": 2009.58999995
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 2378.86
+        },
+        {
+          "title": "Zoe A. Jacoby (for the Respondent)",
+          "start": 2646.54
+        },
+        {
+          "title": "Jacoby - Justice Thomas",
+          "start": 2743.105
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 2807.53
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 2808.05
+        },
+        {
+          "title": "Zoe A. Jacoby (for the Respondent)",
+          "start": 2814.585
+        },
+        {
+          "title": "Jacoby - Justice Roberts",
+          "start": 2833.765
+        },
+        {
+          "title": "Jacoby - Justice Gorsuch",
+          "start": 2935.98
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 3006.11
+        },
+        {
+          "title": "Jacoby - Justice Kagan",
+          "start": 3259.54
+        },
+        {
+          "title": "Jacoby - Justice Kavanaugh",
+          "start": 3410.29
+        },
+        {
+          "title": "Jacoby - Justice Jackson",
+          "start": 3553.735
+        },
+        {
+          "title": "Jacoby - Justice Gorsuch",
+          "start": 3851.14
+        },
+        {
+          "title": "Jacoby - Justice Barrett",
+          "start": 4149.11
+        },
+        {
+          "title": "Jacoby - Justice Kagan",
+          "start": 4319.09
+        },
+        {
+          "title": "Jacoby - Justice Alito",
+          "start": 4456.305
+        },
+        {
+          "title": "Jacoby - Justice Sotomayor",
+          "start": 4611.41
+        },
+        {
+          "title": "Jacoby - Justice Gorsuch",
+          "start": 4881.68
+        },
+        {
+          "title": "Jacoby - Justice Kavanaugh",
+          "start": 4959
+        },
+        {
+          "title": "Jacoby - Justice Barrett",
+          "start": 5199.89500005
+        },
+        {
+          "title": "Jacoby - Justice Jackson",
+          "start": 5348.99
+        },
+        {
+          "title": "Lisa S. Blatt (for the Petitioner)",
+          "start": 5571.335
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-1063.mp3"
     },
     "24-1238": {
       "docket_number": "24-1238",
       "name": "Montgomery v. Caribe Transport II, LLC",
-      "date_argued_timestamp": 1772582400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-1238",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-1238.mp3",
-      "mp3_length": 5989,
-      "mp3_size": 47925018,
-      "source": "scotus",
+      "date_argued_timestamp": 1772604000,
       "description": "<p>Montgomery v. Caribe Transport II, LLC</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-1238/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-1238.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-1238\">oyez.org</a></p>\n    <p>Argued on Mar 4, 2026.</p>\n    <p>Petitioner: Shawn Montgomery.<br>Respondent: Caribe Transport II, LLC.</p>\n    <p>Advocates: <ul><li>Paul D. Clement (for the Petitioner)</li>\n<li>Theodore J. Boutrous Jr. (for the Respondents)</li>\n<li>Sopan Joshi (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Shawn Montgomery was severely injured when his tractor-trailer, stopped on the shoulder of an Illinois highway, was struck by another truck. The other driver, Yosniel Varela-Mojena, was employed by the motor carrier Caribe Transport II, LLC (\u201cCaribe\u201d). C.H. Robinson Worldwide, Inc. (\u201cRobinson\u201d), a freight broker, had arranged for Caribe to haul the shipment. Robinson and Caribe operated under an agreement stating that Caribe was an independent contractor and retained exclusive control over its personnel and the manner of its performance.</p>\n<p>Montgomery sued the driver and Caribe, and also sued the broker, Robinson. His claims against Robinson alleged that the broker was vicariously liable for the driver\u2019s negligence, arguing Caribe was Robinson\u2019s agent. Montgomery also claimed Robinson had negligently hired the driver and the carrier.</p>\n<p>The district court granted judgment to Robinson on all claims. The U.S. Court of Appeals for the Seventh Circuit affirmed, holding that Caribe was an independent contractor, which defeated the vicarious liability claim, and that the Federal Aviation Administration Authorization Act preempted the state-law negligent hiring claim.</p>\n\n    <p><b>Question</b></p>\n    <p>Does 49 U.S.C. \u00a7 14501(c) preempt a state common-law claim against a broker for negligently selecting a motor carrier or driver?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/24-1238.mp3"
+      "mp3_length": 5989,
+      "mp3_size": 23988866,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Paul D. Clement (for the Petitioner)",
+          "start": 0.255
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 125.555
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 255.935
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 600.605
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 788.25
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 932.11
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 981.86
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 1077.765
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 1143.69
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 1298.22
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 1515.12999995
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 1714.365
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 1898.435
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 2033.4
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 2259.885
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 2377.47
+        },
+        {
+          "title": "Theodore J. Boutrous Jr. (for the Respondents)",
+          "start": 2575.83499995
+        },
+        {
+          "title": "Boutrous - Justice Thomas",
+          "start": 2710.27
+        },
+        {
+          "title": "Boutrous - Justice Jackson",
+          "start": 2956.34
+        },
+        {
+          "title": "Boutrous - Justice Kagan",
+          "start": 3151.56
+        },
+        {
+          "title": "Boutrous - Justice Sotomayor",
+          "start": 3230.51
+        },
+        {
+          "title": "Boutrous - Justice Kavanaugh",
+          "start": 3402.11
+        },
+        {
+          "title": "Boutrous - Justice Gorsuch",
+          "start": 3517.79
+        },
+        {
+          "title": "Boutrous - Justice Alito",
+          "start": 3716.36
+        },
+        {
+          "title": "Boutrous - Justice Thomas",
+          "start": 3794.775
+        },
+        {
+          "title": "Boutrous - Justice Sotomayor",
+          "start": 3841.5
+        },
+        {
+          "title": "Boutrous - Justice Kavanaugh",
+          "start": 3958.24
+        },
+        {
+          "title": "Sopan Joshi (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 4121.655
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 4202.945
+        },
+        {
+          "title": "Joshi - Justice Roberts",
+          "start": 4283.625
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 4418.86
+        },
+        {
+          "title": "Joshi - Justice Alito",
+          "start": 4676.2
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 4858.69
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 5002.41
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 5239.85
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 5461.93
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 5624.055
+        },
+        {
+          "title": "Paul D. Clement (for the Petitioner)",
+          "start": 5718.405
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-1238.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/24-1238.vtt"
     },
     "24-1260": {
       "docket_number": "24-1260",
