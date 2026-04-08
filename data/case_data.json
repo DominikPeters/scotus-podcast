@@ -24426,13 +24426,182 @@
     "25-5146": {
       "docket_number": "25-5146",
       "name": "Abouammo v. United States",
-      "date_argued_timestamp": 1774828800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-5146",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-5146.mp3",
-      "mp3_length": 4675,
-      "mp3_size": 37412012,
-      "source": "scotus",
+      "date_argued_timestamp": 1774846800,
       "description": "<p>Abouammo v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-5146/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-5146.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-5146\">oyez.org</a></p>\n    <p>Argued on Mar 30, 2026.</p>\n    <p>Petitioner: Ahmad Abouammo.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Tobias S. Loss-Eaton (for the Petitioner)</li>\n<li>Anthony A. Yang (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In 2013, Twitter hired Ahmad Abouammo, a U.S. citizen, as a Media Partnerships Manager responsible for high-profile users in the Middle East and North Africa. Through this role, he became involved with Bader Binasaker, a close aide to Saudi Crown Prince Mohammed bin Salman. Beginning in 2014, Abouammo used his access to Twitter\u2019s proprietary tools to gather nonpublic information\u2014including email addresses, phone numbers, and IP data\u2014about Saudi dissident Twitter users, particularly accounts critical of the Saudi royal family. He transmitted this information to Binasaker\u2014circumstantially inferred through encrypted messaging services\u2014and was rewarded with lavish gifts, including a luxury Hublot watch, and over $300,000 in wire transfers to a Lebanese bank account held in his father\u2019s name. Communication between the two included expressions of intent to \u201cdelete evil,\u201d suggesting the sensitive nature of their collaboration.</p>\n<p>After leaving Twitter in 2015, Abouammo continued to facilitate communication between Saudi representatives and Twitter, allegedly under the guise of social media consulting. In October 2018, FBI agents approached him as part of an investigation into unauthorized access of Twitter accounts connected to Saudi espionage. During the interview at his Seattle home, Abouammo denied wrongdoing and claimed he was paid for legitimate consulting. While the agents waited in his home, Abouammo fabricated an invoice to substantiate this claim and emailed it to them. The actions connected to the allegedly falsified document\u2014including the questioning, fabrication, and transmission\u2014all took place in Seattle. The agents who received the document, though physically present in Seattle at the time, worked out of the FBI field office in San Francisco.</p>\n<p>A grand jury in the U.S. District Court for the Northern District of California indicted Abouammo for falsifying a record with intent to obstruct a federal investigation, in violation of 18 U.S.C. \u00a7 1519, among other charges. Abouammo moved to dismiss the falsification count for improper venue, arguing that all relevant conduct occurred in Seattle. The district court denied the motion, holding venue proper in the Northern District because the statute required an intent to obstruct an investigation based there. The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that venue is proper in a district where the obstructed investigation occurred, even if none of the defendant\u2019s physical conduct took place there.</p>\n\n    <p><b>Question</b></p>\n    <p>Is venue proper in a district where no offense conduct took place, so long as the statute\u2019s intent element \u201ccontemplates\u201d effects that could occur there?</p>\n\n    ",
+      "mp3_length": 4675,
+      "mp3_size": 18732089,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Tobias S. Loss-Eaton (for the Petitioner)",
+          "start": 0.185
+        },
+        {
+          "title": "Loss-Eaton - Justice Thomas",
+          "start": 137.63
+        },
+        {
+          "title": "Loss-Eaton - Justice Sotomayor",
+          "start": 190.98
+        },
+        {
+          "title": "Loss-Eaton - Justice Roberts",
+          "start": 284.08
+        },
+        {
+          "title": "Loss-Eaton - Justice Kagan",
+          "start": 378.31
+        },
+        {
+          "title": "Loss-Eaton - Justice Barrett",
+          "start": 417.26
+        },
+        {
+          "title": "Loss-Eaton - Justice Jackson",
+          "start": 520.62
+        },
+        {
+          "title": "Loss-Eaton - Justice Kagan",
+          "start": 650.54
+        },
+        {
+          "title": "Loss-Eaton - Justice Gorsuch",
+          "start": 706.44
+        },
+        {
+          "title": "Loss-Eaton - Justice Alito",
+          "start": 871.53
+        },
+        {
+          "title": "Loss-Eaton - Justice Kagan",
+          "start": 1250.55
+        },
+        {
+          "title": "Loss-Eaton - Justice Barrett",
+          "start": 1314.885
+        },
+        {
+          "title": "Loss-Eaton - Justice Kavanaugh",
+          "start": 1339.35
+        },
+        {
+          "title": "Loss-Eaton - Justice Jackson",
+          "start": 1379.04
+        },
+        {
+          "title": "Loss-Eaton - Justice Kavanaugh",
+          "start": 1436.77
+        },
+        {
+          "title": "Loss-Eaton - Justice Alito",
+          "start": 1516.68
+        },
+        {
+          "title": "Loss-Eaton - Justice Sotomayor",
+          "start": 1602.31
+        },
+        {
+          "title": "Loss-Eaton - Justice Kavanaugh",
+          "start": 1717.9
+        },
+        {
+          "title": "Loss-Eaton - Justice Jackson",
+          "start": 1822.71
+        },
+        {
+          "title": "Anthony A. Yang (for the Respondent)",
+          "start": 1954.855
+        },
+        {
+          "title": "Yang - Justice Thomas",
+          "start": 2080.235
+        },
+        {
+          "title": "Yang - Justice Roberts",
+          "start": 2179.2
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 2227.08
+        },
+        {
+          "title": "Yang - Justice Roberts",
+          "start": 2369.74
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 2427.89
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 2624.52
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 2726.68
+        },
+        {
+          "title": "Yang - Justice Gorsuch",
+          "start": 2851.09
+        },
+        {
+          "title": "Yang - Justice Alito",
+          "start": 2994.37
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 3141.48
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 3196.91
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 3341.53
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 3451.91
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 3532.16
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 3618.69
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 3724.56
+        },
+        {
+          "title": "Yang - Justice Sotomayor",
+          "start": 3806.32
+        },
+        {
+          "title": "Yang - Justice Kagan",
+          "start": 3899.62
+        },
+        {
+          "title": "Yang - Justice Kavanaugh",
+          "start": 3943.8
+        },
+        {
+          "title": "Yang - Justice Barrett",
+          "start": 4151.79
+        },
+        {
+          "title": "Yang - Justice Jackson",
+          "start": 4287.18
+        },
+        {
+          "title": "Tobias S. Loss-Eaton (for the Petitioner)",
+          "start": 4370
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-5146.mp3"
     },
     "25-83": {
@@ -24575,14 +24744,196 @@
     "24-7351": {
       "docket_number": "24-7351",
       "name": "Pitchford v. Cain",
-      "date_argued_timestamp": 1774915200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-7351",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-7351.mp3",
-      "mp3_length": 6582,
-      "mp3_size": 52666431,
-      "source": "scotus",
+      "date_argued_timestamp": 1774933200,
       "description": "<p>Pitchford v. Cain</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-7351/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-7351.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-7351\">oyez.org</a></p>\n    <p>Argued on Mar 31, 2026.</p>\n    <p>Petitioner: Terry Pitchford.<br>Respondent: Burl Cain, Commissioner, Mississippi Department of Corrections.</p>\n    <p>Advocates: <ul><li>Joseph J. Perkovich (for the Petitioner)</li>\n<li>Scott G. Stewart (for the Respondents)</li>\n<li>Emily M. Ferguson (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Terry Pitchford was convicted of capital murder and sentenced to death for his involvement in the 2004 armed robbery and killing of Reuben Britt, a store owner in Grenada County, Mississippi. At the time of the crime, Pitchford was 18 years old. He confessed to participating in the robbery, although the fatal shot was fired by his accomplice. At Pitchford\u2019s 2006 trial in the Grenada County Circuit Court, the jury was selected from a pool that included 36 white and five Black potential jurors. The prosecution used peremptory strikes to remove four of the five Black prospective jurors. Pitchford\u2019s counsel raised a Batson objection, alleging that the strikes were racially discriminatory.</p>\n<p>The trial court found Pitchford had made a prima facie showing of discrimination and required the prosecution to provide race-neutral reasons for each strike. The prosecutor cited explanations such as the venirepersons\u2019 criminal histories, perceived mental health issues, or similarities to the defendant. The trial judge accepted those explanations and allowed the strikes, ultimately empaneling a jury that included only one Black juror. Pitchford\u2019s counsel sought to preserve Batson-related objections during a bench conference, emphasizing the racial composition of the jury and the county, but did not conduct a further comparative analysis or expressly argue that the prosecution\u2019s stated reasons were pretextual.</p>\n<p>Pitchford\u2019s conviction and sentence were affirmed on direct appeal by the Mississippi Supreme Court, which held that any pretext arguments had been waived for failure to raise them clearly at trial. A federal district court later granted habeas relief, but the U.S. Court of Appeals for the Fifth Circuit reversed, ruling the Mississippi Supreme Court had reasonably applied Batson and its waiver rule. The U.S. Supreme Court granted certiorari, limited to the question of whether the Mississippi Supreme Court unreasonably determined, under AEDPA, that Pitchford waived his right to rebut the prosecution\u2019s race-neutral justifications for the challenged juror strikes.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the Mississippi Supreme Court unreasonably decide\u2014under the standards set by federal habeas law\u2014that Terry Pitchford gave up his right to argue that the prosecutor\u2019s explanations for striking four Black jurors were false or racially biased?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/24-7351.mp3"
+      "mp3_length": 6582,
+      "mp3_size": 26359530,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Joseph J. Perkovich (for the Petitioner)",
+          "start": 0.06
+        },
+        {
+          "title": "Perkovich - Justice Thomas",
+          "start": 156.44
+        },
+        {
+          "title": "Perkovich - Justice Roberts",
+          "start": 273.31
+        },
+        {
+          "title": "Perkovich - Justice Jackson",
+          "start": 412.075
+        },
+        {
+          "title": "Perkovich - Justice Kavanaugh",
+          "start": 537.8
+        },
+        {
+          "title": "Perkovich - Justice Sotomayor",
+          "start": 613.79
+        },
+        {
+          "title": "Perkovich - Justice Barrett",
+          "start": 689.405
+        },
+        {
+          "title": "Perkovich - Justice Sotomayor",
+          "start": 948.08
+        },
+        {
+          "title": "Perkovich - Justice Barrett",
+          "start": 964.265
+        },
+        {
+          "title": "Perkovich - Justice Sotomayor",
+          "start": 970.2
+        },
+        {
+          "title": "Perkovich - Justice Alito",
+          "start": 1047.1
+        },
+        {
+          "title": "Perkovich - Justice Gorsuch",
+          "start": 1267.88
+        },
+        {
+          "title": "Perkovich - Justice Jackson",
+          "start": 1478.28
+        },
+        {
+          "title": "Perkovich - Justice Gorsuch",
+          "start": 1514.64
+        },
+        {
+          "title": "Perkovich - Justice Thomas",
+          "start": 1611.19
+        },
+        {
+          "title": "Perkovich - Justice Alito",
+          "start": 1809.40999995
+        },
+        {
+          "title": "Perkovich - Justice Sotomayor",
+          "start": 2199.74
+        },
+        {
+          "title": "Perkovich - Justice Kavanaugh",
+          "start": 2442.99
+        },
+        {
+          "title": "Perkovich - Justice Barrett",
+          "start": 2622.27
+        },
+        {
+          "title": "Perkovich - Justice Jackson",
+          "start": 2905.32
+        },
+        {
+          "title": "Scott G. Stewart (for the Respondents)",
+          "start": 3205.475
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 3324.07
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 3425.55
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 3477.41
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 3677.1
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 3844.69
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 3991.25
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 4044.81
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 4173.635
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 4464.88
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 4537.015
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 4849.8
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 5125.535
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 5251.02
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 5488.745
+        },
+        {
+          "title": "Emily M. Ferguson (for the United States, as amicus curiae, supporting the Respondents)",
+          "start": 5607.17
+        },
+        {
+          "title": "Ferguson - Justice Thomas",
+          "start": 5670.215
+        },
+        {
+          "title": "Ferguson - Justice Roberts",
+          "start": 5692.76
+        },
+        {
+          "title": "Ferguson - Justice Sotomayor",
+          "start": 5811.28499995
+        },
+        {
+          "title": "Ferguson - Justice Kavanaugh",
+          "start": 5929.87
+        },
+        {
+          "title": "Ferguson - Justice Jackson",
+          "start": 6007.235
+        },
+        {
+          "title": "Ferguson - Justice Kagan",
+          "start": 6247.775
+        },
+        {
+          "title": "Ferguson - Justice Gorsuch",
+          "start": 6388.05
+        },
+        {
+          "title": "Ferguson - Justice Barrett",
+          "start": 6425.43
+        },
+        {
+          "title": "Joseph J. Perkovich (for the Petitioner)",
+          "start": 6444.50999995
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-7351.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/24-7351.vtt"
     },
     "25-365": {
       "docket_number": "25-365",

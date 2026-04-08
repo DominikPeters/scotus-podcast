@@ -68,11 +68,34 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Did the Mississippi Supreme Court unreasonably decide—under the standards set by federal habeas law—that Terry Pitchford gave up his right to argue that the prosecutor’s explanations for striking four Black jurors were false or racially biased?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-7351.mp3" length="52666431" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-7351.mp3" length="26359530" type="audio/mpeg"/>
             <guid>scotus_2025_24-7351_v0</guid>
             <itunes:duration>6582</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 31 Mar 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-7351.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[25-5146] Abouammo v. United States</title>
+            <description><![CDATA[<p>Abouammo v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-5146/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5146.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-5146">oyez.org</a></p>
+    <p>Argued on Mar 30, 2026.</p>
+    <p>Petitioner: Ahmad Abouammo.<br>Respondent: United States of America.</p>
+    <p>Advocates: <ul><li>Tobias S. Loss-Eaton (for the Petitioner)</li>
+<li>Anthony A. Yang (for the Respondent)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In 2013, Twitter hired Ahmad Abouammo, a U.S. citizen, as a Media Partnerships Manager responsible for high-profile users in the Middle East and North Africa. Through this role, he became involved with Bader Binasaker, a close aide to Saudi Crown Prince Mohammed bin Salman. Beginning in 2014, Abouammo used his access to Twitter’s proprietary tools to gather nonpublic information—including email addresses, phone numbers, and IP data—about Saudi dissident Twitter users, particularly accounts critical of the Saudi royal family. He transmitted this information to Binasaker—circumstantially inferred through encrypted messaging services—and was rewarded with lavish gifts, including a luxury Hublot watch, and over $300,000 in wire transfers to a Lebanese bank account held in his father’s name. Communication between the two included expressions of intent to “delete evil,” suggesting the sensitive nature of their collaboration.</p>
+<p>After leaving Twitter in 2015, Abouammo continued to facilitate communication between Saudi representatives and Twitter, allegedly under the guise of social media consulting. In October 2018, FBI agents approached him as part of an investigation into unauthorized access of Twitter accounts connected to Saudi espionage. During the interview at his Seattle home, Abouammo denied wrongdoing and claimed he was paid for legitimate consulting. While the agents waited in his home, Abouammo fabricated an invoice to substantiate this claim and emailed it to them. The actions connected to the allegedly falsified document—including the questioning, fabrication, and transmission—all took place in Seattle. The agents who received the document, though physically present in Seattle at the time, worked out of the FBI field office in San Francisco.</p>
+<p>A grand jury in the U.S. District Court for the Northern District of California indicted Abouammo for falsifying a record with intent to obstruct a federal investigation, in violation of 18 U.S.C. § 1519, among other charges. Abouammo moved to dismiss the falsification count for improper venue, arguing that all relevant conduct occurred in Seattle. The district court denied the motion, holding venue proper in the Northern District because the statute required an intent to obstruct an investigation based there. The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that venue is proper in a district where the obstructed investigation occurred, even if none of the defendant’s physical conduct took place there.</p>
+
+    <p><b>Question</b></p>
+    <p>Is venue proper in a district where no offense conduct took place, so long as the statute’s intent element “contemplates” effects that could occur there?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-5146.mp3" length="18732089" type="audio/mpeg"/>
+            <guid>scotus_2025_25-5146_v0</guid>
+            <itunes:duration>4675</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Mon, 30 Mar 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-5146.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-83] Jules v. Andre Balazs Properties</title>
@@ -92,28 +115,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://podcast.scotusstats.com/2025/25-83.mp3" length="13300605" type="audio/mpeg"/>
             <guid>scotus_2025_25-83_v0</guid>
             <itunes:duration>3317</itunes:duration>
-            <itunes:season>2025</itunes:season>
-            <pubDate>Mon, 30 Mar 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-83.vtt" type="text/vtt" />
-        </item>
-    <item>
-            <title>[25-5146] Abouammo v. United States</title>
-            <description><![CDATA[<p>Abouammo v. United States</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-5146/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5146.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-5146">oyez.org</a></p>
-    <p>Argued on Mar 30, 2026.</p>
-    <p>Petitioner: Ahmad Abouammo.<br>Respondent: United States of America.</p>
-    <p>Advocates: <ul><li>Tobias S. Loss-Eaton (for the Petitioner)</li>
-<li>Anthony A. Yang (for the Respondent)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>In 2013, Twitter hired Ahmad Abouammo, a U.S. citizen, as a Media Partnerships Manager responsible for high-profile users in the Middle East and North Africa. Through this role, he became involved with Bader Binasaker, a close aide to Saudi Crown Prince Mohammed bin Salman. Beginning in 2014, Abouammo used his access to Twitter’s proprietary tools to gather nonpublic information—including email addresses, phone numbers, and IP data—about Saudi dissident Twitter users, particularly accounts critical of the Saudi royal family. He transmitted this information to Binasaker—circumstantially inferred through encrypted messaging services—and was rewarded with lavish gifts, including a luxury Hublot watch, and over $300,000 in wire transfers to a Lebanese bank account held in his father’s name. Communication between the two included expressions of intent to “delete evil,” suggesting the sensitive nature of their collaboration.</p>
-<p>After leaving Twitter in 2015, Abouammo continued to facilitate communication between Saudi representatives and Twitter, allegedly under the guise of social media consulting. In October 2018, FBI agents approached him as part of an investigation into unauthorized access of Twitter accounts connected to Saudi espionage. During the interview at his Seattle home, Abouammo denied wrongdoing and claimed he was paid for legitimate consulting. While the agents waited in his home, Abouammo fabricated an invoice to substantiate this claim and emailed it to them. The actions connected to the allegedly falsified document—including the questioning, fabrication, and transmission—all took place in Seattle. The agents who received the document, though physically present in Seattle at the time, worked out of the FBI field office in San Francisco.</p>
-<p>A grand jury in the U.S. District Court for the Northern District of California indicted Abouammo for falsifying a record with intent to obstruct a federal investigation, in violation of 18 U.S.C. § 1519, among other charges. Abouammo moved to dismiss the falsification count for improper venue, arguing that all relevant conduct occurred in Seattle. The district court denied the motion, holding venue proper in the Northern District because the statute required an intent to obstruct an investigation based there. The U.S. Court of Appeals for the Ninth Circuit affirmed, holding that venue is proper in a district where the obstructed investigation occurred, even if none of the defendant’s physical conduct took place there.</p>
-
-    <p><b>Question</b></p>
-    <p>Is venue proper in a district where no offense conduct took place, so long as the statute’s intent element “contemplates” effects that could occur there?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-5146.mp3" length="37412012" type="audio/mpeg"/>
-            <guid>scotus_2025_25-5146_v0</guid>
-            <itunes:duration>4675</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 30 Mar 2026 10:00:00 -0400</pubDate>
         </item>
