@@ -22852,13 +22852,78 @@
     "24-783": {
       "docket_number": "24-783",
       "name": "Enbridge Energy, LP v. Nessel",
-      "date_argued_timestamp": 1771891200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-783",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-783.mp3",
-      "mp3_length": 3772,
-      "mp3_size": 30186678,
-      "source": "scotus",
+      "date_argued_timestamp": 1771912800,
       "description": "<p>Enbridge Energy, LP v. Nessel</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-783/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-783.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-783\">oyez.org</a></p>\n    <p>Argued on Feb 24, 2026.</p>\n    <p>Petitioner: Enbridge Energy, LP.<br>Respondent: Dana Nessel, Attorney General of Michigan.</p>\n    <p>Advocates: <ul><li>John J. Bursch (for the Petitioners)</li>\n<li>Ann M. Sherman (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Enbridge Energy, LP, owns and operates Line 5, an oil pipeline that transports petroleum products through Wisconsin and Michigan before terminating in Ontario, Canada. Since 1953, Line 5 has run across the bottomlands of the Straits of Mackinac under an easement granted by the State of Michigan, which owns the submerged lands. In recent years, concerns over Line 5\u2019s safety and environmental impact led to increased scrutiny and legal challenges regarding the pipeline\u2019s continued operation, including questions about Michigan\u2019s regulatory authority and the potential preemption of state law by federal pipeline laws and international treaties.</p>\n<p>On June 27, 2019, Michigan Attorney General Dana Nessel filed a lawsuit in Michigan state court, seeking to enjoin Enbridge from operating Line 5 in the Straits. The Attorney General alleged violations of the public-trust doctrine, common-law public nuisance, and the Michigan Environmental Protection Act. Both parties filed dispositive motions, with Enbridge asserting, in part, that federal law preempted Michigan\u2019s claims. Separate but closely related litigation followed when Governor Gretchen Whitmer issued an easement-revocation notice in November 2020 and filed her own state-court suit against Enbridge.</p>\n<p>After engaging in nearly two years of state-court proceedings in the Attorney General\u2019s case, Enbridge removed the case to the U.S. District Court for the Western District of Michigan in December 2021, arguing federal-question jurisdiction. The district court rejected the Attorney General\u2019s motion to remand, holding that removal was proper either under statutory timing rules or equitable exceptions. The U.S. Court of Appeals for the Sixth Circuit reversed, holding Enbridge\u2019s removal was untimely and that statutory deadlines for removal are mandatory and immune to equitable exceptions, and ordered the case remanded to Michigan state court.</p>\n\n    <p><b>Question</b></p>\n    <p>Do district courts have the authority to excuse the thirty-day procedural time limit for removal in 28 U.S.C. \u00a7 1446(b)(1)?</p>\n\n    ",
+      "mp3_length": 3772,
+      "mp3_size": 15119667,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "John J. Bursch (for the Petitioners)",
+          "start": 0.08
+        },
+        {
+          "title": "Bursch - Justice Roberts",
+          "start": 65.375
+        },
+        {
+          "title": "Bursch - Justice Sotomayor",
+          "start": 89.485
+        },
+        {
+          "title": "Bursch - Justice Kagan",
+          "start": 302.18
+        },
+        {
+          "title": "Bursch - Justice Kavanaugh",
+          "start": 461.18
+        },
+        {
+          "title": "Bursch - Justice Jackson",
+          "start": 627.78
+        },
+        {
+          "title": "Ann M. Sherman (for the Respondent)",
+          "start": 744.355
+        },
+        {
+          "title": "Sherman - Justice Thomas",
+          "start": 848.09
+        },
+        {
+          "title": "Sherman - Justice Alito",
+          "start": 975.36
+        },
+        {
+          "title": "Sherman - Justice Sotomayor",
+          "start": 1325.595
+        },
+        {
+          "title": "Sherman - Justice Kagan",
+          "start": 1609.94
+        },
+        {
+          "title": "Sherman - Justice Jackson",
+          "start": 1803.405
+        },
+        {
+          "title": "Sherman - Justice Kavanaugh",
+          "start": 2146.86
+        },
+        {
+          "title": "Sherman - Justice Alito",
+          "start": 2292.42
+        },
+        {
+          "title": "Sherman - Justice Roberts",
+          "start": 2468.545
+        },
+        {
+          "title": "John J. Bursch (for the Petitioners)",
+          "start": 2482.25
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-783.mp3"
     },
     "25-95": {
