@@ -22839,14 +22839,175 @@
     },
     "24-699": {
       "docket_number": "24-699",
-      "name": "Exxon Mobil Corp. v. Corporaci\u00f3n Cimex, S.A.",
-      "date_argued_timestamp": 1771804800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-699",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-699.mp3",
-      "mp3_length": 5509,
-      "mp3_size": 44080304,
-      "source": "scotus",
+      "name": "Exxon Mobil Corp. v. Corporaci\u00f3n Cimex, S.A. (Cuba)",
+      "date_argued_timestamp": 1771826400,
       "description": "<p>Exxon Mobil Corp. v. Corporaci\u00f3n Cimex, S.A. (Cuba)</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-699/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-699.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-699\">oyez.org</a></p>\n    <p>Argued on Feb 23, 2026.</p>\n    <p>Petitioner: Exxon Mobil Corporation.<br>Respondent: Corporaci\u00f3n Cimex, S.A. (Cuba), et al.</p>\n    <p>Advocates: <ul><li>Morgan L. Ratner (for the Petitioner)</li>\n<li>Curtis E. Gannon (for the United States, as amicus curiae, supporting the Petitioner)</li>\n<li>Jules L. Lobel (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>This case involves Exxon Mobil Corporation\u2019s claim to property confiscated by the Cuban government decades ago. Exxon, through its predecessor Standard Oil Company, owned several subsidiaries in Cuba, including Esso Standard Oil, S.A. (Essosa), which operated oil and gas assets like a refinery, product terminals, and over 100 service stations. In 1960, following Fidel Castro\u2019s rise to power, the Cuban government confiscated these assets without providing compensation. The assets were subsequently transferred to Cuban state-owned enterprises, including Uni\u00f3n Cuba-Petr\u00f3leo (CUPET), the state oil company, and Corporaci\u00f3n CIMEX S.A. (Cuba) (CIMEX), a conglomerate. In 1969, the U.S. Foreign Claims Settlement Commission (FCSC) certified Standard Oil's loss at over $71 million, plus interest, due to the confiscation. In 1996, Congress passed the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act, also known as the Helms-Burton Act, which created a private right of action in Title III for U.S. nationals to sue any \u201cperson\u201d who \u201ctraffics in\u201d their confiscated property, explicitly defining \u201cperson\u201d to include an agency or instrumentality of a foreign state. Although every President suspended this right of action until May 2, 2019, President Donald Trump\u2019s administration then allowed the suspension to lapse, and Exxon filed its lawsuit that same day.</p>\n<p>Exxon\u2019s complaint names the Cuban instrumentalities CIMEX, CUPET, and Corporaci\u00f3n CIMEX S.A. (Panama) as defendants, alleging they continue to traffic in the confiscated property through commercial activities such as refining oil and operating service stations that process remittances and sell imported goods.</p>\n<p>The Cuban defendants moved to dismiss the suit for lack of subject matter jurisdiction, asserting immunity under the Foreign Sovereign Immunities Act (FSIA). The district court held that the Helms-Burton Act did not independently abrogate foreign sovereign immunity and that the FSIA\u2019s expropriation exception did not apply, but found that the commercial-activity exception was met for CIMEX. The U.S. Court of Appeals for the D.C. Circuit agreed that the Helms-Burton Act did not displace the FSIA and that the expropriation exception was inapplicable, but vacated the ruling on the commercial-activity exception and remanded for further jurisdictional discovery.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the Helms-Burton Act abrogate foreign sovereign immunity in cases against Cuban instrumentalities, even if the parties do not satisfy an exception under the Foreign Sovereign Immunities Act?</p>\n\n    ",
+      "mp3_length": 5509,
+      "mp3_size": 22066149,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Morgan L. Ratner (for the Petitioner)",
+          "start": 0.64
+        },
+        {
+          "title": "Ratner - Justice Thomas",
+          "start": 147.415
+        },
+        {
+          "title": "Ratner - Justice Sotomayor",
+          "start": 267
+        },
+        {
+          "title": "Ratner - Justice Kagan",
+          "start": 461.58
+        },
+        {
+          "title": "Ratner - Justice Jackson",
+          "start": 755.43
+        },
+        {
+          "title": "Ratner - Justice Sotomayor",
+          "start": 925.53
+        },
+        {
+          "title": "Ratner - Justice Alito",
+          "start": 1076.01
+        },
+        {
+          "title": "Ratner - Justice Sotomayor",
+          "start": 1147.85500005
+        },
+        {
+          "title": "Ratner - Justice Kavanaugh",
+          "start": 1347.54
+        },
+        {
+          "title": "Ratner - Justice Barrett",
+          "start": 1510.615
+        },
+        {
+          "title": "Ratner - Justice Jackson",
+          "start": 1614.52
+        },
+        {
+          "title": "Curtis E. Gannon (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1909.145
+        },
+        {
+          "title": "Gannon - Justice Thomas",
+          "start": 1975.515
+        },
+        {
+          "title": "Gannon - Justice Sotomayor",
+          "start": 2074.28
+        },
+        {
+          "title": "Gannon - Justice Kavanaugh",
+          "start": 2333.07
+        },
+        {
+          "title": "Gannon - Justice Alito",
+          "start": 2521.465
+        },
+        {
+          "title": "Gannon - Justice Sotomayor",
+          "start": 2693.5
+        },
+        {
+          "title": "Gannon - Justice Kagan",
+          "start": 2866.165
+        },
+        {
+          "title": "Gannon - Justice Jackson",
+          "start": 3247.805
+        },
+        {
+          "title": "Jules L. Lobel (for the Respondents)",
+          "start": 3524.685
+        },
+        {
+          "title": "Lobel - Justice Thomas",
+          "start": 3655.555
+        },
+        {
+          "title": "Lobel - Justice Gorsuch",
+          "start": 3800.35
+        },
+        {
+          "title": "Lobel - Justice Kavanaugh",
+          "start": 4120.34
+        },
+        {
+          "title": "Lobel - Justice Kagan",
+          "start": 4205.61
+        },
+        {
+          "title": "Lobel - Justice Sotomayor",
+          "start": 4223.69
+        },
+        {
+          "title": "Lobel - Justice Alito",
+          "start": 4259.75
+        },
+        {
+          "title": "Lobel - Justice Kavanaugh",
+          "start": 4350.46
+        },
+        {
+          "title": "Lobel - Justice Jackson",
+          "start": 4369.79
+        },
+        {
+          "title": "Lobel - Justice Kavanaugh",
+          "start": 4409.22
+        },
+        {
+          "title": "Lobel - Justice Barrett",
+          "start": 4448.79
+        },
+        {
+          "title": "Lobel - Justice Alito",
+          "start": 4543.545
+        },
+        {
+          "title": "Lobel - Justice Gorsuch",
+          "start": 4700.98
+        },
+        {
+          "title": "Lobel - Justice Jackson",
+          "start": 4866.99
+        },
+        {
+          "title": "Lobel - Justice Alito",
+          "start": 4979.805
+        },
+        {
+          "title": "Lobel - Justice Jackson",
+          "start": 4994.77
+        },
+        {
+          "title": "Lobel - Justice Alito",
+          "start": 5120.005
+        },
+        {
+          "title": "Lobel - Justice Thomas",
+          "start": 5233.07
+        },
+        {
+          "title": "Lobel - Justice Sotomayor",
+          "start": 5270.55
+        },
+        {
+          "title": "Lobel - Justice Roberts",
+          "start": 5360.655
+        },
+        {
+          "title": "Morgan L. Ratner (for the Petitioner)",
+          "start": 5371.625
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-699.mp3"
     },
     "24-783": {
@@ -23932,27 +24093,335 @@
     },
     "25-5": {
       "docket_number": "25-5",
-      "name": "Noem, Sec. of Homeland v. Al Otro Lado",
-      "date_argued_timestamp": 1774310400,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-5",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-5.mp3",
-      "mp3_length": 4878,
-      "mp3_size": 39036231,
-      "source": "scotus",
+      "name": "Noem v. Al Otro Lado",
+      "date_argued_timestamp": 1774328400,
       "description": "<p>Noem v. Al Otro Lado</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-5/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-5.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-5\">oyez.org</a></p>\n    <p>Argued on Mar 24, 2026.</p>\n    <p>Petitioner: Kristi Noem, Secretary of Homeland Security.<br>Respondent: Al Otro Lado, a California Corporation.</p>\n    <p>Advocates: <ul><li>Vivek Suri (for the Petitioners)</li>\n<li>Kelsi B. Corkran (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Beginning in 2016, U.S. Customs and Border Protection (CBP) implemented a \u201cmetering\u201d policy at ports of entry along the United States-Mexico border to manage asserted capacity constraints. CBP officers stationed at the physical boundary line turned away asylum seekers lacking valid travel documents, preventing them from stepping onto U.S. soil to undergo mandatory inspection and processing. These officials instructed migrants to return to Mexico and wait for future processing opportunities, often without providing specific appointment times, forcing numerous asylum seekers to endure prolonged delays in Mexican border towns where they faced significant safety risks.</p>\n<p>While these asylum seekers waited, the federal government promulgated the \u201cAsylum Transit Rule\u201d in 2019, which generally rendered noncitizens ineligible for asylum if they traveled through a third country without first seeking protection there. This regulatory change prejudiced individuals previously turned away under the metering policy because, had CBP processed them upon their initial arrival, the Transit Rule would not have applied to their claims. Al Otro Lado, a legal aid organization, joined thirteen individual asylum seekers to file a class-action lawsuit challenging the metering policy and seeking to prevent the government from applying the Transit Rule to those who attempted to enter before its enactment.</p>\n<p>The U.S. District Court for the Southern District of California declared the metering policy unlawful under the Administrative Procedure Act and permanently enjoined the government from applying the Asylum Transit Rule to class members . The U.S. Court of Appeals for the Ninth Circuit affirmed the district court\u2019s conclusion that the policy unlawfully withheld mandatory agency action, but narrowed the injunction to prevent the district court from forcing the government to unilaterally reopen past asylum denials.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a noncitizen who is stopped on the Mexican side of the U.S.-Mexico border \u201carrive[] in the United States\u201d within the meaning of Immigration and Nationality Act?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/25-5.mp3"
+      "mp3_length": 4878,
+      "mp3_size": 19544392,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Vivek Suri (for the Petitioners)",
+          "start": 0.29
+        },
+        {
+          "title": "Suri - Justice Thomas",
+          "start": 75.98
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 131.25
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 380.04
+        },
+        {
+          "title": "Suri - Justice Roberts",
+          "start": 662.91
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 673.95
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 754.545
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 914.125
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 1098.23
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 1323.29
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 1346.9
+        },
+        {
+          "title": "Suri - Justice Alito",
+          "start": 1547.155
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 1620.145
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 1774.72
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 1929.955
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 2043.365
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 2092.335
+        },
+        {
+          "title": "Kelsi B. Corkran (for the Respondents)",
+          "start": 2360.265
+        },
+        {
+          "title": "Corkran - Justice Sotomayor",
+          "start": 2598.18
+        },
+        {
+          "title": "Corkran - Justice Kagan",
+          "start": 2638.1
+        },
+        {
+          "title": "Corkran - Justice Barrett",
+          "start": 2752.615
+        },
+        {
+          "title": "Corkran - Justice Gorsuch",
+          "start": 3011.87
+        },
+        {
+          "title": "Corkran - Justice Sotomayor",
+          "start": 3199.02
+        },
+        {
+          "title": "Corkran - Justice Roberts",
+          "start": 3320.19
+        },
+        {
+          "title": "Corkran - Justice Gorsuch",
+          "start": 3429.015
+        },
+        {
+          "title": "Corkran - Justice Kagan",
+          "start": 3495.74
+        },
+        {
+          "title": "Corkran - Justice Jackson",
+          "start": 3604.445
+        },
+        {
+          "title": "Corkran - Justice Alito",
+          "start": 3649.83
+        },
+        {
+          "title": "Corkran - Justice Roberts",
+          "start": 3778.09
+        },
+        {
+          "title": "Corkran - Justice Kavanaugh",
+          "start": 3871.14
+        },
+        {
+          "title": "Corkran - Justice Jackson",
+          "start": 3941.075
+        },
+        {
+          "title": "Corkran - Justice Barrett",
+          "start": 4102.99
+        },
+        {
+          "title": "Corkran - Justice Sotomayor",
+          "start": 4178.355
+        },
+        {
+          "title": "Corkran - Justice Kagan",
+          "start": 4221.705
+        },
+        {
+          "title": "Corkran - Justice Gorsuch",
+          "start": 4287.92
+        },
+        {
+          "title": "Corkran - Justice Kavanaugh",
+          "start": 4318.92
+        },
+        {
+          "title": "Corkran - Justice Jackson",
+          "start": 4613.79
+        },
+        {
+          "title": "Vivek Suri (for the Petitioners)",
+          "start": 4633.745
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/25-5.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/25-5.vtt"
     },
     "24-935": {
       "docket_number": "24-935",
-      "name": "Flowers Foods, Inc. v. Brock",
-      "date_argued_timestamp": 1774396800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-935",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-935.mp3",
-      "mp3_length": 4696,
-      "mp3_size": 37580839,
-      "source": "scotus",
+      "name": "Flower Foods, Inc. v. Brock ",
+      "date_argued_timestamp": 1774414800,
       "description": "<p>Flower Foods, Inc. v. Brock </p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-935.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-935\">oyez.org</a></p>\n    <p>Argued on Mar 25, 2026.</p>\n    <p>Petitioner: Flower Foods, Inc., et al.<br>Respondent: Angelo Brock.</p>\n    <p>Advocates: <ul><li>Traci L. Lovitt (for the Petitioners)</li>\n<li>Jennifer D. Bennett (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Petitioners\u2014the defendants, collectively known as \u201cFlowers\u201d\u2014produce and sell packaged baked goods throughout the United States. Flowers utilizes a \u201cdirect-store-delivery\u201d system, contracting with individuals it classifies as independent distributors who purchase the rights to distribute its products within specific geographic territories. In 2016, Angelo Brock, operating as Brock, Inc., signed a \u201cDistributor Agreement\u201d with Flowers Baking Co. of Denver, LLC (\u201cFlowers Denver\u201d) to distribute products in parts of Colorado. This agreement, along with a \u201cPersonal Guaranty\u201d Brock signed, included a mandatory Arbitration Agreement stipulating that disputes must be resolved under the Federal Arbitration Act (FAA).</p>\n<p>Under this arrangement, Brock, Inc. placed orders for products, most of which were produced by Flowers bakeries located out of state, specifically to fill those orders. Flowers shipped the goods to a warehouse in Denver. Brock picked up the products at the warehouse, loaded them onto his own vehicle, and delivered them to his customers\u2014various retail stores located only within Colorado. Brock himself did not cross state lines while making these deliveries. The business relationship soured, and Brock filed a lawsuit alleging Flowers misclassified its distributors as independent contractors to systematically underpay them, asserting violations of the Fair Labor Standards Act and Colorado labor law.</p>\n<p>Brock filed his putative class and collective action in the U.S. District Court for the District of Colorado. Flowers moved to compel arbitration based on the parties\u2019 agreement, but the district court denied the motion, concluding that Brock falls within the FAA\u2019s \u00a7 1 exemption for transportation workers engaged in interstate commerce. On appeal, the U.S. Court of Appeals for the Tenth Circuit affirmed that decision.</p>\n\n    <p><b>Question</b></p>\n    <p>Are workers who deliver locally goods that travel in interstate commerce\u2014but who do not transport the goods across borders nor interact with vehicles that cross borders\u2014\u201ctransportation workers\u201d \u201cengaged in foreign or interstate commerce\u201d for purposes of the exemption in Section 1 of the Federal Arbitration Act?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/24-935.mp3"
+      "mp3_length": 4696,
+      "mp3_size": 18816725,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Traci L. Lovitt (for the Petitioners)",
+          "start": 0.06
+        },
+        {
+          "title": "Lovitt - Justice Thomas",
+          "start": 138.57
+        },
+        {
+          "title": "Lovitt - Justice Sotomayor",
+          "start": 184.745
+        },
+        {
+          "title": "Lovitt - Justice Roberts",
+          "start": 351.21
+        },
+        {
+          "title": "Lovitt - Justice Jackson",
+          "start": 423.97
+        },
+        {
+          "title": "Lovitt - Justice Gorsuch",
+          "start": 648.29
+        },
+        {
+          "title": "Lovitt - Justice Alito",
+          "start": 797.98
+        },
+        {
+          "title": "Lovitt - Justice Sotomayor",
+          "start": 956.39
+        },
+        {
+          "title": "Lovitt - Justice Alito",
+          "start": 1153.46
+        },
+        {
+          "title": "Lovitt - Justice Roberts",
+          "start": 1156.2
+        },
+        {
+          "title": "Lovitt - Justice Kagan",
+          "start": 1185.51999995
+        },
+        {
+          "title": "Lovitt - Justice Jackson",
+          "start": 1406.56
+        },
+        {
+          "title": "Lovitt - Justice Gorsuch",
+          "start": 1596.61
+        },
+        {
+          "title": "Lovitt - Justice Barrett",
+          "start": 1656.8
+        },
+        {
+          "title": "Lovitt - Justice Jackson",
+          "start": 1806.59
+        },
+        {
+          "title": "Jennifer D. Bennett (for the Respondent)",
+          "start": 1874.695
+        },
+        {
+          "title": "Bennett - Justice Thomas",
+          "start": 2012.84500005
+        },
+        {
+          "title": "Bennett - Justice Roberts",
+          "start": 2090.5
+        },
+        {
+          "title": "Bennett - Justice Gorsuch",
+          "start": 2165.69
+        },
+        {
+          "title": "Bennett - Justice Barrett",
+          "start": 2264.74
+        },
+        {
+          "title": "Traci L. Lovitt (for the Petitioners)",
+          "start": 2350.445
+        },
+        {
+          "title": "Lovitt - Justice Alito",
+          "start": 2350.64
+        },
+        {
+          "title": "Jennifer D. Bennett (for the Respondent)",
+          "start": 2352.18
+        },
+        {
+          "title": "Bennett - Justice Barrett",
+          "start": 2354.21
+        },
+        {
+          "title": "Bennett - Justice Alito",
+          "start": 2398.395
+        },
+        {
+          "title": "Bennett - Justice Kagan",
+          "start": 2608.52
+        },
+        {
+          "title": "Bennett - Justice Gorsuch",
+          "start": 2703.12
+        },
+        {
+          "title": "Bennett - Justice Alito",
+          "start": 3000.88
+        },
+        {
+          "title": "Bennett - Justice Jackson",
+          "start": 3302.2
+        },
+        {
+          "title": "Bennett - Justice Alito",
+          "start": 3587.54
+        },
+        {
+          "title": "Bennett - Justice Kagan",
+          "start": 3657.69
+        },
+        {
+          "title": "Bennett - Justice Roberts",
+          "start": 3729.29499995
+        },
+        {
+          "title": "Bennett - Justice Thomas",
+          "start": 3916.21
+        },
+        {
+          "title": "Bennett - Justice Sotomayor",
+          "start": 3948.72999995
+        },
+        {
+          "title": "Bennett - Justice Kavanaugh",
+          "start": 4055.84
+        },
+        {
+          "title": "Bennett - Justice Barrett",
+          "start": 4164.67
+        },
+        {
+          "title": "Bennett - Justice Jackson",
+          "start": 4314.355
+        },
+        {
+          "title": "Traci L. Lovitt (for the Petitioners)",
+          "start": 4404.135
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/24-935.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/24-935.vtt"
     },
     "25-5146": {
       "docket_number": "25-5146",
