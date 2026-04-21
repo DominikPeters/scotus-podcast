@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-406] FCC v. AT&amp;T</title>
+            <description><![CDATA[<p>Federal Communications Commission v. AT&T, Inc.</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-406 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-406.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-406">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Federal Communications Commission, et al.<br>Respondent: AT&T, Inc. .</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Between 2014 and 2019, AT&amp;T operated a location-based services program in which it collected and shared its customers’ mobile location data with third-party service providers such as Life Alert and AAA. To provide this data, AT&amp;T contracted with “location aggregators,” who in turn resold the data to service providers. AT&amp;T required those providers to obtain customer consent for each location request and reviewed their procedures, but it did not directly verify customer consent before transferring data. In 2018, news reports began revealing that some service providers misused or failed to adequately protect customers’ location data. In response, AT&amp;T halted access for those providers, and by March 2019, shuttered the entire location-data program.</p>
+<p>Prompted by these reports, the Federal Communications Commission (FCC) initiated an investigation and in 2020 issued a Notice of Apparent Liability (NAL), proposing a $57 million fine for AT&amp;T’s purported violations of Section 222 of the Communications Act of 1934 and corresponding FCC regulations. AT&amp;T challenged the classification of location data as “customer proprietary network information” (CPNI), asserted it had acted reasonably, and raised constitutional objections. After reviewing AT&amp;T’s written response, the FCC rejected its defenses and issued a forfeiture order. Significantly, the FCC imposed the fine without a hearing or trial; AT&amp;T’s only opportunity to respond occurred through written submissions to the agency.</p>
+<p>AT&amp;T paid the fine and petitioned the U.S. Court of Appeals for the Fifth Circuit for review. The Fifth Circuit vacated the forfeiture order, holding that the FCC’s in-house enforcement process violated AT&amp;T’s rights under Article III and the Seventh Amendment.</p>
+
+    <p><b>Question</b></p>
+    <p>Are provisions of the Communications Act of 1934 that govern the Federal Communications Commission’s assessment and enforcement of monetary forfeitures consistent with the Seventh Amendment and Article III?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-406.mp3" length="40581686" type="audio/mpeg"/>
+            <guid>scotus_2025_25-406_v0</guid>
+            <itunes:duration>5071</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Tue, 21 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-466] Sripetch v. SEC</title>
             <description><![CDATA[<p>Sripetch v. SEC</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-466/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-466.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-466">oyez.org</a></p>
