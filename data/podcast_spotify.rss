@@ -32,6 +32,45 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-112] Chatrie v. United States</title>
+            <description><![CDATA[<p>Chatrie v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-112/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-112.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-112">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Okello T. Chatrie.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Okello Chatrie was arrested in connection with the armed robbery of a bank in Richmond, Virginia, where an individual entered the Call Federal Credit Union, threatened employees and patrons with a handgun, and escaped with $195,000. The robbery was captured by surveillance footage, which showed the perpetrator appearing to talk on a cellphone. Lacking viable leads, Detective Joshua Hylton applied for a “geofence warrant” in June 2019. This novel form of warrant compelled Google to provide location data for all devices that had been near the robbery site within a one-hour window around the time of the crime. The geofence specified a 150-meter radius centered on the bank, encompassing not only the crime scene but also public streets, private residences, a hotel, a church, and a restaurant.</p>
+<p>Google responded with anonymized location data of devices within the geofence during the specified time. The government then requested two additional sets of data from Google: (1) expanded location data from nine of the original nineteen users, covering movements outside the geofence over a longer timeframe, and (2) identifying information for three of those users. One account belonged to Chatrie. Based on this data, law enforcement identified him as the suspect, arrested him, and charged him in federal court.</p>
+<p>Chatrie moved to suppress the location data obtained through the geofence warrant, arguing that it violated the Fourth Amendment. The U.S. District Court for the Eastern District of Virginia held that the warrant likely violated the Fourth Amendment but declined to suppress the evidence under the good-faith exception. The U.S. Court of Appeals for the Fourth Circuit, sitting en banc, affirmed the district court’s denial of the suppression motion. While the panel sharply disagreed both on whether a Fourth Amendment search had occurred and whether the warrant was constitutionally valid, all judges agreed that any defect was ultimately excused under the good-faith exception.</p>
+
+    <p><b>Question</b></p>
+    <p>Did the execution of the geofence warrant violate the Fourth Amendment?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-112.mp3" length="57823847" type="audio/mpeg"/>
+            <guid>scotus_2025_25-112_v0</guid>
+            <itunes:duration>7227</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[24-1068] Monsanto Co. v. Durnell</title>
+            <description><![CDATA[<p>Monsanto Company v. Durnell</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-1068/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1068.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1068">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Monsanto Company.<br>Respondent: John L. Durnell.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>John L. Durnell used Monsanto’s product Roundup, a herbicide containing the active ingredient glyphosate. Durnell subsequently developed non-Hodgkin’s lymphoma, which he alleged was caused by his exposure to Roundup and glyphosate. In January 2019, Durnell sued Monsanto, asserting claims for strict liability defective design, strict liability failure to warn, and negligence. Durnell claimed that Monsanto should have included a cancer warning on Roundup’s label to alert users to the risk of developing non-Hodgkin's lymphoma from glyphosate exposure.</p>
+<p>After a jury trial in September 2023 in the Circuit Court of the City of St. Louis, the jury found in favor of Durnell on his strict liability failure to warn claim and awarded him $1.25 million in compensatory damages, but ruled for Monsanto on the defective design and negligence claims. Monsanto moved for judgment notwithstanding the verdict, arguing that federal law—specifically the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA)—both expressly and impliedly preempted Durnell’s failure to warn claim. The trial court denied the motion, and Monsanto appealed to the Missouri Court of Appeals, Eastern District, which affirmed the judgment.</p>
+
+    <p><b>Question</b></p>
+    <p>Does the Federal Insecticide, Fungicide, and Rodenticide Act preempt a label-based failure-to-warn claim where EPA has not required the warning?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-1068.mp3" length="35646942" type="audio/mpeg"/>
+            <guid>scotus_2025_24-1068_v0</guid>
+            <itunes:duration>4454</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-429] Blanche, Acting Atty Gen. v. Lau</title>
             <description><![CDATA[<p>Blanche v. Lau </p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-429/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-429.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-429">oyez.org</a></p>
