@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[24-856] Cisco Systems v. Doe I</title>
+            <description><![CDATA[<p>Cisco Systems, Inc. v. Doe I</p>
+    <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-856.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-856">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Cisco Systems, Inc.<br>Respondent: Doe I.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Beginning in the 1990s, the Chinese Communist Party initiated a campaign of persecution—referred to as “douzheng”—against practitioners of Falun Gong, a spiritual discipline derived from Buddhism that grew rapidly in popularity across China. In 1999, the Party formally sought to eliminate Falun Gong through detention, forced conversion, and torture, designating it an illegal organization. To support these efforts, the Chinese authorities envisioned a nationwide surveillance system named the “Golden Shield,” designed to monitor online activity, identify practitioners, and facilitate their apprehension. Because China lacked the necessary technological infrastructure, Chinese officials sought help from Western firms. Cisco Systems, Inc., a U.S.-based tech company, allegedly responded with enthusiasm: from its headquarters in San Jose, California, Cisco pursued contracts, developed Golden Shield software and hardware, and provided training and support to Chinese security officers. Plaintiffs alleged that without Cisco’s technology—including advanced databases, real-time monitoring systems, and network optimization tools—Chinese authorities could not have effectively tracked, detained, or tortured Falun Gong adherents.</p>
+<p>Plaintiffs in this case include thirteen Chinese nationals and one U.S. citizen, Charles Lee, who claim they were targeted using Cisco’s technology and then detained, tortured, and subjected to psychological and physical abuse. Some plaintiffs reported multiple detentions and long-term surveillance; others described instances of torture facilitated by personalized information drawn from Golden Shield databases. Several allege that the abuses led to the deaths of family members. They contend that the design, development, and optimization of Cisco’s technology—and its tailored marketing to support Falun Gong persecution—enabled widespread human rights abuses undertaken by Chinese state and Party officials.</p>
+<p>The plaintiffs filed suit in the U.S. District Court for the Northern District of California in 2011, bringing claims under the Alien Tort Statute (ATS) and Torture Victim Protection Act (TVPA). The district court dismissed all claims, finding them insufficiently connected to the United States and lacking the necessary legal support for aiding and abetting liability. The U.S. Court of Appeals for the Ninth Circuit reversed in part, holding that aiding and abetting liability is actionable under both the ATS and the TVPA and that the plaintiffs plausibly alleged Cisco’s knowing participation in a domestic context.</p>
+
+    <p><b>Question</b></p>
+    <p>Does either the Alien Tort Statute or the Torture Victim Protection Act allow a judicially-implied private right of action for aiding and abetting?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-856.mp3" length="56294998" type="audio/mpeg"/>
+            <guid>scotus_2025_24-856_v0</guid>
+            <itunes:duration>7036</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Tue, 28 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-112] Chatrie v. United States</title>
             <description><![CDATA[<p>Chatrie v. United States</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-112/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-112.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-112">oyez.org</a></p>
