@@ -32,6 +32,47 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-1083] Mullin, Sec. of Homeland Security v. Doe</title>
+            <description><![CDATA[<p>Mullin v. Doe</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-1083/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1083.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-1083">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Markwayne Mullin, Secretary, Department of Homeland Security.<br>Respondent: Dahlia Doe.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Congress created the Temporary Protected Status (TPS) program to allow foreign nationals from countries experiencing armed conflict, natural disasters, or other extraordinary conditions to live and work legally in the United States on a temporary basis. Federal law requires the Secretary of Homeland Security to periodically review conditions in each designated country and, after consulting with other government agencies, determine whether those conditions still justify protection. Syria has held TPS designation for years, shielding its nationals from deportation to a country ravaged by civil war and humanitarian crisis.</p>
+<p>Shortly after taking office in January 2025, President Trump issued Executive Order 14159, directing the Secretary to aggressively limit TPS designations. Secretary Kristi Noem then terminated TPS for Syria on September 19, 2025, with an effective date of November 21, 2025 — giving roughly 6,100 Syrian TPS holders weeks to lose their legal status, work authorization, and protection from deportation. Seven Syrian nationals with family ties in the United States sued, arguing that the termination violated federal immigration law, was arbitrary and capricious, and reflected discriminatory animus rather than a genuine, good-faith review of conditions in Syria.</p>
+<p>The district court granted the plaintiffs' motion and postponed the termination effective November 19, 2025; the government appealed and moved to stay that order, but the U.S. Court of Appeals for the Second Circuit denied the stay on February 17, 2026, concluding that the government had not demonstrated a likelihood of success on the merits or irreparable harm.</p>
+
+    <p><b>Question</b></p>
+    <p>Did the Trump administration lawfully end the Temporary Protected Status program for Syrian nationals?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-1083.mp3" length="51083755" type="audio/mpeg"/>
+            <guid>scotus_2025_25-1083_v0</guid>
+            <itunes:duration>6384</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[24-889] Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.</title>
+            <description><![CDATA[<p>Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-889 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-889.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-889">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Hikma Pharmaceuticals USA Inc.<br>Respondent: Amarin Pharma, Inc.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Amarin Pharma markets icosapent ethyl under the brand name Vascepa. In 2012, the FDA approved Vascepa for treating severe hypertriglyceridemia (the SH indication), which affects patients with blood triglyceride levels of at least 500 mg/dL. In 2019, following additional research and clinical trials, the FDA approved Vascepa for a second use: reducing cardiovascular risk in patients with triglyceride levels of at least 150 mg/dL (the CV indication). Amarin listed two patents covering the CV indication in the FDA’s Orange Book.</p>
+<p>In 2016, Hikma Pharmaceuticals submitted an Abbreviated New Drug Application seeking approval for a generic version of icosapent ethyl. When the CV indication was approved in 2019, Hikma filed a “section viii statement” seeking FDA approval only for the SH indication by “carving out” the patented CV indication from its label—creating a “skinny label.” The FDA approved Hikma’s ANDA in May 2020. Throughout 2020, Hikma issued press releases referring to its product as the “generic version” or “generic equivalent” of Vascepa, describing Vascepa as indicated “in part” for the SH indication, and citing Vascepa sales figures (over $1 billion annually) that were attributable primarily to the CV indication. Hikma also marketed its product on its website under the therapeutic category “Hypertriglyceridemia” and as “AB” rated, though with a disclaimer that it was approved for fewer indications than Vascepa.</p>
+<p>In November 2020, Amarin sued Hikma for induced infringement of its CV indication patents. The U.S. District Court for the District of Delaware granted Hikma’s motion to dismiss. The U.S. Court of Appeals for the Federal Circuit reversed, finding that Amarin’s allegations—based on Hikma’s skinny label combined with its press releases and marketing materials—plausibly stated a claim for induced infringement.</p>
+
+    <p><b>Question</b></p>
+    <p>1. When a generic drug manufacturer excludes a patented use from its label, can it still be liable for inducing infringement if it calls its product a “generic version” of the brand-name drug and cites publicly available information about the brand-name drug’s sales?</p>
+<p>2. Can a patent infringement complaint survive dismissal if it does not allege that the defendant made any statement specifically instructing or encouraging the patented use?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-889.mp3" length="28969490" type="audio/mpeg"/>
+            <guid>scotus_2025_24-889_v0</guid>
+            <itunes:duration>3620</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[24-856] Cisco Systems v. Doe I</title>
             <description><![CDATA[<p>Cisco Systems, Inc. v. Doe I</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-856.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-856">oyez.org</a></p>
