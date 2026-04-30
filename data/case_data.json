@@ -25106,27 +25106,270 @@
     },
     "25-197": {
       "docket_number": "25-197",
-      "name": "T. M. v. Univ. of MD Medical Sys. Corp.",
-      "date_argued_timestamp": 1776643200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-197",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-197.mp3",
-      "mp3_length": 3715,
-      "mp3_size": 29734120,
-      "source": "scotus",
+      "name": "T. M. v. University of Maryland Medical System Corporation",
+      "date_argued_timestamp": 1776661200,
       "description": "<p>T. M. v. University of Maryland Medical System Corporation</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-197/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-197.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-197\">oyez.org</a></p>\n    <p>Argued on Apr 20, 2026.</p>\n    <p>Petitioner: T. M.<br>Respondent: University of Maryland Medical System Corporation.</p>\n    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the Petitioner)</li>\n<li>Lisa S. Blatt (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In March 2023, T.M., a woman with a rare medical condition that triggers psychosis upon consuming gluten, was involuntarily committed to Baltimore Washington Medical Center after an episode. Her treating psychiatrist sought and received state approval to forcibly administer antipsychotic medication; T.M. contested this but was unsuccessful in administrative proceedings. Independent psychiatrists later stated that T.M. no longer required inpatient care. To secure her release, T.M. and the hospital negotiated an oral agreement, which was formalized as a state court consent order. The order allowed her to leave the hospital on the condition that she comply with ongoing psychiatric treatment and medications, switch providers, and drop pending lawsuits. Her parents, J.M. and A.M., were also bound to notify authorities if she failed to comply.</p>\n<p>Ten days later, represented by new counsel, T.M. and her parents filed the present federal lawsuit claiming that the consent order was unconstitutional and entered under duress. They challenged the order as violating T.M.\u2019s due process rights and sought declaratory and injunctive relief invalidating its enforcement. They did not request damages or challenge the initial commitment decisions.</p>\n<p>The U.S. District Court for the District of Maryland dismissed the lawsuit. It held that T.M.\u2019s claims were barred by the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, because they amounted to a request for federal review of a state court judgment. It also dismissed the parents\u2019 claims for failure to state a constitutional violation. The U.S. Court of Appeals for the Fourth Circuit affirmed, concluding that T.M. was a \u201cstate-court loser\u201d seeking to undo a state judgment still reviewable in Maryland courts. Nonetheless, it remanded for the district court to modify T.M.\u2019s dismissal to be without prejudice, due to lack of jurisdiction.</p>\n\n    <p><b>Question</b></p>\n    <p>Can the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, be triggered by a state-court decision that remains subject to further review in state court?</p>\n\n    ",
+      "mp3_length": 3715,
+      "mp3_size": 14893238,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioner)",
+          "start": 0.3
+        },
+        {
+          "title": "Prelogar - Justice Thomas",
+          "start": 142.48499995
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 283.055
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 647.28
+        },
+        {
+          "title": "Prelogar - Justice Alito",
+          "start": 769.65
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 921.36
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 1039.87
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1216.03
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 1368
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 1472.925
+        },
+        {
+          "title": "Prelogar - Justice Sotomayor",
+          "start": 1594.15
+        },
+        {
+          "title": "Prelogar - Justice Kagan",
+          "start": 1690.995
+        },
+        {
+          "title": "Prelogar - Justice Gorsuch",
+          "start": 1812.45
+        },
+        {
+          "title": "Prelogar - Justice Kavanaugh",
+          "start": 1895.41
+        },
+        {
+          "title": "Prelogar - Justice Barrett",
+          "start": 2074.81
+        },
+        {
+          "title": "Prelogar - Justice Jackson",
+          "start": 2137.36
+        },
+        {
+          "title": "Lisa S. Blatt (for the Respondents)",
+          "start": 2459.89
+        },
+        {
+          "title": "Blatt - Justice Thomas",
+          "start": 2553.485
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 2636.615
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 2774.73
+        },
+        {
+          "title": "Blatt - Justice Gorsuch",
+          "start": 2921.57
+        },
+        {
+          "title": "Blatt - Justice Kagan",
+          "start": 2943.8
+        },
+        {
+          "title": "Blatt - Justice Sotomayor",
+          "start": 3160.41
+        },
+        {
+          "title": "Blatt - Justice Jackson",
+          "start": 3184.905
+        },
+        {
+          "title": "Blatt - Justice Alito",
+          "start": 3427.44
+        },
+        {
+          "title": "Elizabeth B. Prelogar (for the Petitioner)",
+          "start": 3505.475
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-197.mp3"
     },
     "25-406": {
       "docket_number": "25-406",
-      "name": "FCC v. AT&T",
-      "date_argued_timestamp": 1776729600,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-406",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-406.mp3",
-      "mp3_length": 5071,
-      "mp3_size": 40581686,
-      "source": "scotus",
+      "name": "Federal Communications Commission v. AT&T, Inc.",
+      "date_argued_timestamp": 1776747600,
       "description": "<p>Federal Communications Commission v. AT&T, Inc.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-406 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-406.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-406\">oyez.org</a></p>\n    <p>Argued on Apr 21, 2026.</p>\n    <p>Petitioner: Federal Communications Commission, et al.<br>Respondent: AT&T, Inc. .</p>\n    <p>Advocates: <ul><li>Jeffrey B. Wall (for AT&T, Inc. and Verizon Communications Inc.)</li>\n<li>Vivek Suri (for the FCC, et al.)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Between 2014 and 2019, AT&amp;T operated a location-based services program in which it collected and shared its customers\u2019 mobile location data with third-party service providers such as Life Alert and AAA. To provide this data, AT&amp;T contracted with \u201clocation aggregators,\u201d who in turn resold the data to service providers. AT&amp;T required those providers to obtain customer consent for each location request and reviewed their procedures, but it did not directly verify customer consent before transferring data. In 2018, news reports began revealing that some service providers misused or failed to adequately protect customers\u2019 location data. In response, AT&amp;T halted access for those providers, and by March 2019, shuttered the entire location-data program.</p>\n<p>Prompted by these reports, the Federal Communications Commission (FCC) initiated an investigation and in 2020 issued a Notice of Apparent Liability (NAL), proposing a $57 million fine for AT&amp;T\u2019s purported violations of Section 222 of the Communications Act of 1934 and corresponding FCC regulations. AT&amp;T challenged the classification of location data as \u201ccustomer proprietary network information\u201d (CPNI), asserted it had acted reasonably, and raised constitutional objections. After reviewing AT&amp;T\u2019s written response, the FCC rejected its defenses and issued a forfeiture order. Significantly, the FCC imposed the fine without a hearing or trial; AT&amp;T\u2019s only opportunity to respond occurred through written submissions to the agency.</p>\n<p>AT&amp;T paid the fine and petitioned the U.S. Court of Appeals for the Fifth Circuit for review. The Fifth Circuit vacated the forfeiture order, holding that the FCC\u2019s in-house enforcement process violated AT&amp;T\u2019s rights under Article III and the Seventh Amendment.</p>\n\n    <p><b>Question</b></p>\n    <p>Are provisions of the Communications Act of 1934 that govern the Federal Communications Commission\u2019s assessment and enforcement of monetary forfeitures consistent with the Seventh Amendment and Article III?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/25-406.mp3"
+      "mp3_length": 5071,
+      "mp3_size": 20317199,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Jeffrey B. Wall (for AT&T, Inc. and Verizon Communications Inc.)",
+          "start": 0.16
+        },
+        {
+          "title": "Wall - Justice Thomas",
+          "start": 123.8
+        },
+        {
+          "title": "Wall - Justice Roberts",
+          "start": 232.155
+        },
+        {
+          "title": "Wall - Justice Kavanaugh",
+          "start": 419.73
+        },
+        {
+          "title": "Wall - Justice Barrett",
+          "start": 616.59
+        },
+        {
+          "title": "Wall - Justice Sotomayor",
+          "start": 679.325
+        },
+        {
+          "title": "Wall - Justice Barrett",
+          "start": 779.94
+        },
+        {
+          "title": "Wall - Justice Gorsuch",
+          "start": 822.05
+        },
+        {
+          "title": "Wall - Justice Kagan",
+          "start": 961.9
+        },
+        {
+          "title": "Wall - Justice Jackson",
+          "start": 1218.04
+        },
+        {
+          "title": "Wall - Justice Barrett",
+          "start": 1448.42
+        },
+        {
+          "title": "Wall - Justice Alito",
+          "start": 1616.045
+        },
+        {
+          "title": "Wall - Justice Sotomayor",
+          "start": 1912.955
+        },
+        {
+          "title": "Wall - Justice Gorsuch",
+          "start": 2223.75000005
+        },
+        {
+          "title": "Wall - Justice Kavanaugh",
+          "start": 2313.555
+        },
+        {
+          "title": "Wall - Justice Barrett",
+          "start": 2709.985
+        },
+        {
+          "title": "Wall - Justice Jackson",
+          "start": 2855.17000005
+        },
+        {
+          "title": "Vivek Suri (for the FCC, et al.)",
+          "start": 3223.56
+        },
+        {
+          "title": "Suri - Justice Thomas",
+          "start": 3322.235
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 3350.87
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 3471.805
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 3670.72
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 3908.41
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 3934.76
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 3969.86
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 4027.13
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 4061.605
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 4121.12500005
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 4195.635
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 4371.29
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 4466.36
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 4602.605
+        },
+        {
+          "title": "Suri - Justice Thomas",
+          "start": 4736.00999995
+        },
+        {
+          "title": "Jeffrey B. Wall (for AT&T, Inc. and Verizon Communications Inc.)",
+          "start": 4842.205
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/25-406.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/25-406.vtt"
     },
     "25-429": {
       "docket_number": "25-429",

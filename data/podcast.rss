@@ -153,7 +153,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Wed, 22 Apr 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[25-406] FCC v. AT&amp;T</title>
+            <title>[25-406] Federal Communications Commission v. AT&amp;T, Inc.</title>
             <description><![CDATA[<p>Federal Communications Commission v. AT&T, Inc.</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-406 /">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-406.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-406">oyez.org</a></p>
     <p>Argued on Apr 21, 2026.</p>
@@ -167,11 +167,34 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Are provisions of the Communications Act of 1934 that govern the Federal Communications Commission’s assessment and enforcement of monetary forfeitures consistent with the Seventh Amendment and Article III?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-406.mp3" length="40581686" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-406.mp3" length="20317199" type="audio/mpeg"/>
             <guid>scotus_2025_25-406_v0</guid>
             <itunes:duration>5071</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 21 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-406.vtt" type="text/vtt" />
+        </item>
+    <item>
+            <title>[25-197] T. M. v. University of Maryland Medical System Corporation</title>
+            <description><![CDATA[<p>T. M. v. University of Maryland Medical System Corporation</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-197/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-197.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-197">oyez.org</a></p>
+    <p>Argued on Apr 20, 2026.</p>
+    <p>Petitioner: T. M.<br>Respondent: University of Maryland Medical System Corporation.</p>
+    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the Petitioner)</li>
+<li>Lisa S. Blatt (for the Respondents)</li></ul></p>
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In March 2023, T.M., a woman with a rare medical condition that triggers psychosis upon consuming gluten, was involuntarily committed to Baltimore Washington Medical Center after an episode. Her treating psychiatrist sought and received state approval to forcibly administer antipsychotic medication; T.M. contested this but was unsuccessful in administrative proceedings. Independent psychiatrists later stated that T.M. no longer required inpatient care. To secure her release, T.M. and the hospital negotiated an oral agreement, which was formalized as a state court consent order. The order allowed her to leave the hospital on the condition that she comply with ongoing psychiatric treatment and medications, switch providers, and drop pending lawsuits. Her parents, J.M. and A.M., were also bound to notify authorities if she failed to comply.</p>
+<p>Ten days later, represented by new counsel, T.M. and her parents filed the present federal lawsuit claiming that the consent order was unconstitutional and entered under duress. They challenged the order as violating T.M.’s due process rights and sought declaratory and injunctive relief invalidating its enforcement. They did not request damages or challenge the initial commitment decisions.</p>
+<p>The U.S. District Court for the District of Maryland dismissed the lawsuit. It held that T.M.’s claims were barred by the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, because they amounted to a request for federal review of a state court judgment. It also dismissed the parents’ claims for failure to state a constitutional violation. The U.S. Court of Appeals for the Fourth Circuit affirmed, concluding that T.M. was a “state-court loser” seeking to undo a state judgment still reviewable in Maryland courts. Nonetheless, it remanded for the district court to modify T.M.’s dismissal to be without prejudice, due to lack of jurisdiction.</p>
+
+    <p><b>Question</b></p>
+    <p>Can the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, be triggered by a state-court decision that remains subject to further review in state court?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-197.mp3" length="14893238" type="audio/mpeg"/>
+            <guid>scotus_2025_25-197_v0</guid>
+            <itunes:duration>3715</itunes:duration>
+            <itunes:season>2025</itunes:season>
+            <pubDate>Mon, 20 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-197.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-466] Sripetch v. SEC</title>
@@ -191,27 +214,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <enclosure url="https://podcast.scotusstats.com/2025/25-466.mp3" length="34054211" type="audio/mpeg"/>
             <guid>scotus_2025_25-466_v0</guid>
             <itunes:duration>4255</itunes:duration>
-            <itunes:season>2025</itunes:season>
-            <pubDate>Mon, 20 Apr 2026 10:00:00 -0400</pubDate>
-        </item>
-    <item>
-            <title>[25-197] T. M. v. Univ. of MD Medical Sys. Corp.</title>
-            <description><![CDATA[<p>T. M. v. University of Maryland Medical System Corporation</p>
-    <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-197/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-197.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-197">oyez.org</a></p>
-    <p>Argued on Apr 20, 2026.</p>
-    <p>Petitioner: T. M.<br>Respondent: University of Maryland Medical System Corporation.</p>
-    <p>Advocates: <ul><li>Elizabeth B. Prelogar (for the Petitioner)</li>
-<li>Lisa S. Blatt (for the Respondents)</li></ul></p>
-    <p><b>Facts of the case (from oyez.org)</b></p>
-    <p>In March 2023, T.M., a woman with a rare medical condition that triggers psychosis upon consuming gluten, was involuntarily committed to Baltimore Washington Medical Center after an episode. Her treating psychiatrist sought and received state approval to forcibly administer antipsychotic medication; T.M. contested this but was unsuccessful in administrative proceedings. Independent psychiatrists later stated that T.M. no longer required inpatient care. To secure her release, T.M. and the hospital negotiated an oral agreement, which was formalized as a state court consent order. The order allowed her to leave the hospital on the condition that she comply with ongoing psychiatric treatment and medications, switch providers, and drop pending lawsuits. Her parents, J.M. and A.M., were also bound to notify authorities if she failed to comply.</p>
-<p>Ten days later, represented by new counsel, T.M. and her parents filed the present federal lawsuit claiming that the consent order was unconstitutional and entered under duress. They challenged the order as violating T.M.’s due process rights and sought declaratory and injunctive relief invalidating its enforcement. They did not request damages or challenge the initial commitment decisions.</p>
-<p>The U.S. District Court for the District of Maryland dismissed the lawsuit. It held that T.M.’s claims were barred by the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, because they amounted to a request for federal review of a state court judgment. It also dismissed the parents’ claims for failure to state a constitutional violation. The U.S. Court of Appeals for the Fourth Circuit affirmed, concluding that T.M. was a “state-court loser” seeking to undo a state judgment still reviewable in Maryland courts. Nonetheless, it remanded for the district court to modify T.M.’s dismissal to be without prejudice, due to lack of jurisdiction.</p>
-
-    <p><b>Question</b></p>
-    <p>Can the Rooker-Feldman doctrine, which prevents parties who lose in state courts from challenging injuries caused by state-court judgments, be triggered by a state-court decision that remains subject to further review in state court?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-197.mp3" length="29734120" type="audio/mpeg"/>
-            <guid>scotus_2025_25-197_v0</guid>
-            <itunes:duration>3715</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 20 Apr 2026 10:00:00 -0400</pubDate>
         </item>
