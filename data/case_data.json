@@ -25095,13 +25095,126 @@
     "25-466": {
       "docket_number": "25-466",
       "name": "Sripetch v. SEC",
-      "date_argued_timestamp": 1776643200,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-466",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-466.mp3",
+      "date_argued_timestamp": 1776661200,
+      "description": "<p>Sripetch v. SEC</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-466/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-466.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-466\">oyez.org</a></p>\n    <p>Argued on Apr 20, 2026.</p>\n    <p>Petitioner: Ongkaruck Sripetch.<br>Respondent: Securities and Exchange Commission.</p>\n    <p>Advocates: <ul><li>Daniel L. Geyser (for the Petitioner)</li>\n<li>Malcolm L. Stewart (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>From at least 2013 to 2019, Ongkaruck Sripetch participated in a series of fraudulent securities schemes involving at least 20 microcap, or \u201cpenny,\u201d stock companies. Working alongside various associates and through multiple entities, Sripetch acquired discounted shares of small-cap companies and then secretly funded promotional campaigns to inflate their stock prices before selling his own holdings into the artificially heightened market\u2014a practice known as stock scalping. He also engaged in unregistered sales of securities, most notably through control of a company called Abby Inc., and manipulated trading in another company, VMS Rehab Systems, through matched trades and wash trades designed to create the illusion of market activity. Later, he organized pump-and-dump schemes for Argus Worldwide stock, using matched trading to build trading volume before dumping shares after promotions without disclosing his intent to sell.</p>\n<p>In 2020, the U.S. Securities and Exchange Commission (SEC) filed a civil enforcement action against Sripetch and others. In 2023, Sripetch consented to a bifurcated judgment, agreeing to the SEC\u2019s allegations for the purposes of remedies. The U.S. District Court for the Southern District of California found him liable for $2.25 million in disgorgement and over $1 million in interest. On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed that the SEC may obtain disgorgement under 15 U.S.C. \u00a7\u00a7 78u(d)(5) and (d)(7) without showing that investors suffered pecuniary harm, joining a circuit split on this question.</p>\n<p>\u00a0</p>\n\n\n    <p><b>Question</b></p>\n    <p>May the SEC seek equitable disgorgement under 15 U.S.C. \u00a7\u00a7 78u(d)(5) and (d)(7) without showing investors suffered pecuniary harm?</p>\n\n\n    ",
       "mp3_length": 4255,
-      "mp3_size": 34054211,
-      "source": "scotus",
-      "description": "<p>Sripetch v. SEC</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-466/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-466.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-466\">oyez.org</a></p>\n    <p>Argued on Apr 20, 2026.</p>\n    <p>Petitioner: Ongkaruck Sripetch.<br>Respondent: Securities and Exchange Commission.</p>\n    <p>Advocates: <ul><li>Daniel L. Geyser (for the Petitioner)</li>\n<li>Malcolm L. Stewart (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>From at least 2013 to 2019, Ongkaruck Sripetch participated in a series of fraudulent securities schemes involving at least 20 microcap, or \u201cpenny,\u201d stock companies. Working alongside various associates and through multiple entities, Sripetch acquired discounted shares of small-cap companies and then secretly funded promotional campaigns to inflate their stock prices before selling his own holdings into the artificially heightened market\u2014a practice known as stock scalping. He also engaged in unregistered sales of securities, most notably through control of a company called Abby Inc., and manipulated trading in another company, VMS Rehab Systems, through matched trades and wash trades designed to create the illusion of market activity. Later, he organized pump-and-dump schemes for Argus Worldwide stock, using matched trading to build trading volume before dumping shares after promotions without disclosing his intent to sell.</p>\n<p>In 2020, the U.S. Securities and Exchange Commission (SEC) filed a civil enforcement action against Sripetch and others. In 2023, Sripetch consented to a bifurcated judgment, agreeing to the SEC\u2019s allegations for the purposes of remedies. The U.S. District Court for the Southern District of California found him liable for $2.25 million in disgorgement and over $1 million in interest. On appeal, the U.S. Court of Appeals for the Ninth Circuit affirmed that the SEC may obtain disgorgement under 15 U.S.C. \u00a7\u00a7 78u(d)(5) and (d)(7) without showing that investors suffered pecuniary harm, joining a circuit split on this question.</p>\n<p>\u00a0</p>\n\n    <p><b>Question</b></p>\n    <p>May the SEC seek equitable disgorgement under 15 U.S.C. \u00a7\u00a7 78u(d)(5) and (d)(7) without showing investors suffered pecuniary harm?</p>\n\n    ",
+      "mp3_size": 17053147,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Daniel L. Geyser (for the Petitioner)",
+          "start": 0.23
+        },
+        {
+          "title": "Geyser - Justice Thomas",
+          "start": 135.28
+        },
+        {
+          "title": "Geyser - Justice Jackson",
+          "start": 255.79
+        },
+        {
+          "title": "Geyser - Justice Sotomayor",
+          "start": 507.95
+        },
+        {
+          "title": "Geyser - Justice Alito",
+          "start": 780.53
+        },
+        {
+          "title": "Geyser - Justice Kagan",
+          "start": 916.895
+        },
+        {
+          "title": "Geyser - Justice Jackson",
+          "start": 1099.88
+        },
+        {
+          "title": "Geyser - Justice Barrett",
+          "start": 1156.14
+        },
+        {
+          "title": "Geyser - Justice Alito",
+          "start": 1443.58
+        },
+        {
+          "title": "Geyser - Justice Sotomayor",
+          "start": 1561.515
+        },
+        {
+          "title": "Geyser - Justice Gorsuch",
+          "start": 1839.735
+        },
+        {
+          "title": "Geyser - Justice Kavanaugh",
+          "start": 1886.775
+        },
+        {
+          "title": "Geyser - Justice Barrett",
+          "start": 2117.22
+        },
+        {
+          "title": "Geyser - Justice Jackson",
+          "start": 2220.39
+        },
+        {
+          "title": "Malcolm L. Stewart (for the Respondent)",
+          "start": 2434.57
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 2579.12
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 2708.505
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 2833.48
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 3083.795
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 3127.17
+        },
+        {
+          "title": "Stewart - Justice Barrett",
+          "start": 3142.925
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 3252.17
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 3355.51
+        },
+        {
+          "title": "Stewart - Justice Gorsuch",
+          "start": 3520.605
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 3682.105
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 3778.435
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 4037.03
+        },
+        {
+          "title": "Daniel L. Geyser (for the Petitioner)",
+          "start": 4051.54
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-466.mp3"
     },
     "25-197": {
@@ -25373,15 +25486,185 @@
     },
     "25-429": {
       "docket_number": "25-429",
-      "name": "Blanche, Acting Atty Gen. v. Lau",
-      "date_argued_timestamp": 1776816000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-429",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-429.mp3",
-      "mp3_length": 5373,
-      "mp3_size": 42991742,
-      "source": "scotus",
+      "name": "Blanche v. Lau ",
+      "date_argued_timestamp": 1776834000,
       "description": "<p>Blanche v. Lau </p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-429/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-429.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-429\">oyez.org</a></p>\n    <p>Argued on Apr 22, 2026.</p>\n    <p>Petitioner: Todd Blanche, Acting Attorney General.<br>Respondent: Muk Choi Lau.</p>\n    <p>Advocates: <ul><li>Sopan Joshi (for the Petitioner)</li>\n<li>Shay Dvoretzky (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Muk Choi Lau, a native and citizen of China, was admitted to the United States as a lawful permanent resident on September 7, 2007, after several years of traveling to the country as a nonimmigrant. On May 7, 2012, Lau was charged in New Jersey with third-degree trademark counterfeiting. While awaiting trial, he left the United States for a brief period. Upon returning on June 15, 2012, he presented himself at John F. Kennedy International Airport as a returning lawful permanent resident. However, because of his pending charge, immigration authorities declined to admit him outright and instead paroled him into the country pursuant to 8 U.S.C. \u00a7 1182(d)(5)(A). Over a year later, in June 2013, Lau pleaded guilty to the counterfeiting charge and was sentenced to two years\u2019 probation.</p>\n<p>The Department of Homeland Security initiated removal proceedings against Lau in March 2014, charging him with inadmissibility under 8 U.S.C. \u00a7 1182(a)(2)(A)(i)(I) for having been convicted of a crime involving moral turpitude (CIMT). Lau argued that he should not have been treated as an arriving alien at the time of reentry and that he was eligible for a discretionary waiver under 8 U.S.C. \u00a7 1182(h). The immigration judge rejected both claims, and the Board of Immigration Appeals affirmed. Lau petitioned for review, arguing primarily that DHS lacked clear and convincing evidence to treat him as an applicant for admission on reentry merely due to a then-pending charge. The U.S. Court of Appeals for the Second Circuit agreed, holding that DHS erred in treating Lau as inadmissible based solely on unproven allegations at the time of reentry and granted his petition.</p>\n<p>The immigration judge ordered removal in 2018, and the Board of Immigration Appeals upheld that decision in 2021. The Second Circuit vacated the removal order in 2025 and remanded the case to terminate proceedings under the inadmissibility ground, reserving the possibility of future removal under a deportability provision.</p>\n\n    <p><b>Question</b></p>\n    <p>To remove a lawful permanent resident who committed an offense listed in Section 1182(a)(2) and was subsequently paroled into the United States, must the government prove that it possessed clear and convincing evidence of the offense at the time of the lawful permanent resident\u2019s last reentry into the United States?</p>\n\n    ",
-      "b2_url": "https://podcast.scotusstats.com/2025/25-429.mp3"
+      "mp3_length": 5373,
+      "mp3_size": 21522175,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Sopan Joshi (for the Petitioner)",
+          "start": 0.05
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 128.785
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 193.92
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 512.21
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 565.87
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 567.05
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 632.33
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 859.96
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 890.61
+        },
+        {
+          "title": "Joshi - Justice Alito",
+          "start": 969.39
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 1198.79
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 1526.47
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 1640.45000005
+        },
+        {
+          "title": "Joshi - Justice Roberts",
+          "start": 1837.07
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 1874.51
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 1986.865
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 2246.085
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 2373.89
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 2598.195
+        },
+        {
+          "title": "Shay Dvoretzky (for the Respondent)",
+          "start": 3027.45999995
+        },
+        {
+          "title": "Dvoretzky - Justice Thomas",
+          "start": 3161.6
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 3217.115
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 3314.92
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 3382.51
+        },
+        {
+          "title": "Dvoretzky - Justice Alito",
+          "start": 3471.24
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 3598.34
+        },
+        {
+          "title": "Dvoretzky - Justice Gorsuch",
+          "start": 3611.11
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 3771.845
+        },
+        {
+          "title": "Dvoretzky - Justice Kavanaugh",
+          "start": 3870.03
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 3898.47000005
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 4058.365
+        },
+        {
+          "title": "Dvoretzky - Justice Alito",
+          "start": 4144.505
+        },
+        {
+          "title": "Dvoretzky - Justice Roberts",
+          "start": 4300.3
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 4405.045
+        },
+        {
+          "title": "Dvoretzky - Justice Kagan",
+          "start": 4478.97
+        },
+        {
+          "title": "Dvoretzky - Justice Barrett",
+          "start": 4594.87
+        },
+        {
+          "title": "Dvoretzky - Justice Jackson",
+          "start": 4748.19
+        },
+        {
+          "title": "Dvoretzky - Justice Alito",
+          "start": 4859.36
+        },
+        {
+          "title": "Dvoretzky - Justice Sotomayor",
+          "start": 4968.27999995
+        },
+        {
+          "title": "Dvoretzky - Justice Gorsuch",
+          "start": 4989.26
+        },
+        {
+          "title": "Dvoretzky - Justice Roberts",
+          "start": 5045.525
+        },
+        {
+          "title": "Sopan Joshi (for the Petitioner)",
+          "start": 5056.99500005
+        }
+      ],
+      "source": "oyez",
+      "b2_url": "https://podcast.scotusstats.com/2025/25-429.mp3",
+      "vtt_url": "https://podcast.scotusstats.com/2025/25-429.vtt"
     },
     "25-112": {
       "docket_number": "25-112",
