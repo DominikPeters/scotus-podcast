@@ -25669,13 +25669,174 @@
     "25-112": {
       "docket_number": "25-112",
       "name": "Chatrie v. United States",
-      "date_argued_timestamp": 1777248000,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-112",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-112.mp3",
-      "mp3_length": 7227,
-      "mp3_size": 57823847,
-      "source": "scotus",
+      "date_argued_timestamp": 1777266000,
       "description": "<p>Chatrie v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-112/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-112.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-112\">oyez.org</a></p>\n    <p>Argued on Apr 27, 2026.</p>\n    <p>Petitioner: Okello T. Chatrie.<br>Respondent: United States of America.</p>\n    <p>Advocates: <ul><li>Adam G. Unikowsky (for the Petitioner)</li>\n<li>Eric J. Feigin (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Okello Chatrie was arrested in connection with the armed robbery of a bank in Richmond, Virginia, where an individual entered the Call Federal Credit Union, threatened employees and patrons with a handgun, and escaped with $195,000. The robbery was captured by surveillance footage, which showed the perpetrator appearing to talk on a cellphone. Lacking viable leads, Detective Joshua Hylton applied for a \u201cgeofence warrant\u201d in June 2019. This novel form of warrant compelled Google to provide location data for all devices that had been near the robbery site within a one-hour window around the time of the crime. The geofence specified a 150-meter radius centered on the bank, encompassing not only the crime scene but also public streets, private residences, a hotel, a church, and a restaurant.</p>\n<p>Google responded with anonymized location data of devices within the geofence during the specified time. The government then requested two additional sets of data from Google: (1) expanded location data from nine of the original nineteen users, covering movements outside the geofence over a longer timeframe, and (2) identifying information for three of those users. One account belonged to Chatrie. Based on this data, law enforcement identified him as the suspect, arrested him, and charged him in federal court.</p>\n<p>Chatrie moved to suppress the location data obtained through the geofence warrant, arguing that it violated the Fourth Amendment. The U.S. District Court for the Eastern District of Virginia held that the warrant likely violated the Fourth Amendment but declined to suppress the evidence under the good-faith exception. The U.S. Court of Appeals for the Fourth Circuit, sitting en banc, affirmed the district court\u2019s denial of the suppression motion. While the panel sharply disagreed both on whether a Fourth Amendment search had occurred and whether the warrant was constitutionally valid, all judges agreed that any defect was ultimately excused under the good-faith exception.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the execution of the geofence warrant violate the Fourth Amendment?</p>\n\n    ",
+      "mp3_length": 7227,
+      "mp3_size": 28938025,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Adam G. Unikowsky (for the Petitioner)",
+          "start": 0.265
+        },
+        {
+          "title": "Unikowsky - Justice Thomas",
+          "start": 85.125
+        },
+        {
+          "title": "Unikowsky - Justice Roberts",
+          "start": 160.61
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 255.18
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 290.12
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 368.33
+        },
+        {
+          "title": "Unikowsky - Justice Gorsuch",
+          "start": 417.58
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 497.78
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 581.745
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 847.97
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 879.92
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 1154.85
+        },
+        {
+          "title": "Unikowsky - Justice Barrett",
+          "start": 1225.355
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 1460.27
+        },
+        {
+          "title": "Unikowsky - Justice Roberts",
+          "start": 1527.43
+        },
+        {
+          "title": "Unikowsky - Justice Alito",
+          "start": 1632.065
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 1849.505
+        },
+        {
+          "title": "Unikowsky - Justice Kagan",
+          "start": 2083.21
+        },
+        {
+          "title": "Unikowsky - Justice Gorsuch",
+          "start": 2153.795
+        },
+        {
+          "title": "Unikowsky - Justice Kavanaugh",
+          "start": 2469.28
+        },
+        {
+          "title": "Unikowsky - Justice Barrett",
+          "start": 2904.7
+        },
+        {
+          "title": "Unikowsky - Justice Sotomayor",
+          "start": 2961.5
+        },
+        {
+          "title": "Unikowsky - Justice Barrett",
+          "start": 2964.38
+        },
+        {
+          "title": "Unikowsky - Justice Jackson",
+          "start": 3080.48499995
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent)",
+          "start": 3431.87
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 3575.42
+        },
+        {
+          "title": "Feigin - Justice Roberts",
+          "start": 3748.55
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 4001.77
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 4112.09
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 4200.2
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 4582.74
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 4689.66
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 5092.77
+        },
+        {
+          "title": "Feigin - Justice Alito",
+          "start": 5247.385
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 5722.59
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 6039.03999995
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 6383.65
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 6638.735
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 6713.69
+        },
+        {
+          "title": "Adam G. Unikowsky (for the Petitioner)",
+          "start": 6914.64
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-112.mp3"
     },
     "24-1068": {

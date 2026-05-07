@@ -113,11 +113,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Did the execution of the geofence warrant violate the Fourth Amendment?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-112.mp3" length="57823847" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-112.mp3" length="28938025" type="audio/mpeg"/>
             <guid>scotus_2025_25-112_v0</guid>
             <itunes:duration>7227</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-112.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-1068] Monsanto Co. v. Durnell</title>
