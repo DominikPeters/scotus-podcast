@@ -77,7 +77,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
-            <title>[24-856] Cisco Systems v. Doe I</title>
+            <title>[24-856] Cisco Systems, Inc. v. Doe I</title>
             <description><![CDATA[<p>Cisco Systems, Inc. v. Doe I</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-856.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-856">oyez.org</a></p>
     <p>Argued on Apr 28, 2026.</p>
@@ -92,11 +92,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does either the Alien Tort Statute or the Torture Victim Protection Act allow a judicially-implied private right of action for aiding and abetting?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-856.mp3" length="56294998" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-856.mp3" length="28173787" type="audio/mpeg"/>
             <guid>scotus_2025_24-856_v0</guid>
-            <itunes:duration>7036</itunes:duration>
+            <itunes:duration>7035</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Tue, 28 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-856.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-112] Chatrie v. United States</title>
@@ -118,10 +119,9 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>7227</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-112.vtt" type="text/vtt" />
         </item>
     <item>
-            <title>[24-1068] Monsanto Co. v. Durnell</title>
+            <title>[24-1068] Monsanto Company v. Durnell</title>
             <description><![CDATA[<p>Monsanto Company v. Durnell</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/24-1068/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/24-1068.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/24-1068">oyez.org</a></p>
     <p>Argued on Apr 27, 2026.</p>
@@ -135,11 +135,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Does the Federal Insecticide, Fungicide, and Rodenticide Act preempt a label-based failure-to-warn claim where EPA has not required the warning?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-1068.mp3" length="35646942" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-1068.mp3" length="17849777" type="audio/mpeg"/>
             <guid>scotus_2025_24-1068_v0</guid>
             <itunes:duration>4454</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1068.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-429] Blanche v. Lau </title>
