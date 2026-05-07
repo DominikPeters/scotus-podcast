@@ -26330,13 +26330,126 @@
     "24-889": {
       "docket_number": "24-889",
       "name": "Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.",
-      "date_argued_timestamp": 1777420800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/24-889",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/24-889.mp3",
-      "mp3_length": 3620,
-      "mp3_size": 28969490,
-      "source": "scotus",
+      "date_argued_timestamp": 1777438800,
       "description": "<p>Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/24-889 /\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/24-889.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/24-889\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2026.</p>\n    <p>Petitioner: Hikma Pharmaceuticals USA Inc.<br>Respondent: Amarin Pharma, Inc.</p>\n    <p>Advocates: <ul><li>Charles B. Klein (for the Petitioners)</li>\n<li>Malcolm L. Stewart (for the United States, as amicus curiae, supporting the Petitioners)</li>\n<li>Michael R. Huston (for the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Amarin Pharma markets icosapent ethyl under the brand name Vascepa. In 2012, the FDA approved Vascepa for treating severe hypertriglyceridemia (the SH indication), which affects patients with blood triglyceride levels of at least 500 mg/dL. In 2019, following additional research and clinical trials, the FDA approved Vascepa for a second use: reducing cardiovascular risk in patients with triglyceride levels of at least 150 mg/dL (the CV indication). Amarin listed two patents covering the CV indication in the FDA\u2019s Orange Book.</p>\n<p>In 2016, Hikma Pharmaceuticals submitted an Abbreviated New Drug Application seeking approval for a generic version of icosapent ethyl. When the CV indication was approved in 2019, Hikma filed a \u201csection viii statement\u201d seeking FDA approval only for the SH indication by \u201ccarving out\u201d the patented CV indication from its label\u2014creating a \u201cskinny label.\u201d The FDA approved Hikma\u2019s ANDA in May 2020. Throughout 2020, Hikma issued press releases referring to its product as the \u201cgeneric version\u201d or \u201cgeneric equivalent\u201d of Vascepa, describing Vascepa as indicated \u201cin part\u201d for the SH indication, and citing Vascepa sales figures (over $1 billion annually) that were attributable primarily to the CV indication. Hikma also marketed its product on its website under the therapeutic category \u201cHypertriglyceridemia\u201d and as \u201cAB\u201d rated, though with a disclaimer that it was approved for fewer indications than Vascepa.</p>\n<p>In November 2020, Amarin sued Hikma for induced infringement of its CV indication patents. The U.S. District Court for the District of Delaware granted Hikma\u2019s motion to dismiss. The U.S. Court of Appeals for the Federal Circuit reversed, finding that Amarin\u2019s allegations\u2014based on Hikma\u2019s skinny label combined with its press releases and marketing materials\u2014plausibly stated a claim for induced infringement.</p>\n\n    <p><b>Question</b></p>\n    <p>1. When a generic drug manufacturer excludes a patented use from its label, can it still be liable for inducing infringement if it calls its product a \u201cgeneric version\u201d of the brand-name drug and cites publicly available information about the brand-name drug\u2019s sales?</p>\n<p>2. Can a patent infringement complaint survive dismissal if it does not allege that the defendant made any statement specifically instructing or encouraging the patented use?</p>\n\n    ",
+      "mp3_length": 3620,
+      "mp3_size": 14511014,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "Charles B. Klein (for the Petitioners)",
+          "start": 0.19
+        },
+        {
+          "title": "Klein - Justice Thomas",
+          "start": 134.405
+        },
+        {
+          "title": "Klein - Justice Sotomayor",
+          "start": 308.465
+        },
+        {
+          "title": "Klein - Justice Jackson",
+          "start": 450.13
+        },
+        {
+          "title": "Malcolm L. Stewart (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 680.115
+        },
+        {
+          "title": "Stewart - Justice Thomas",
+          "start": 750.68
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 937.57
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 1022.755
+        },
+        {
+          "title": "Stewart - Justice Kavanaugh",
+          "start": 1176.655
+        },
+        {
+          "title": "Stewart - Justice Alito",
+          "start": 1281.1
+        },
+        {
+          "title": "Stewart - Justice Roberts",
+          "start": 1366.49
+        },
+        {
+          "title": "Stewart - Justice Sotomayor",
+          "start": 1372.33
+        },
+        {
+          "title": "Stewart - Justice Kagan",
+          "start": 1485.94
+        },
+        {
+          "title": "Stewart - Justice Jackson",
+          "start": 1612.83
+        },
+        {
+          "title": "Michael R. Huston (for the Respondents)",
+          "start": 1691.865
+        },
+        {
+          "title": "Huston - Justice Gorsuch",
+          "start": 1928.85
+        },
+        {
+          "title": "Huston - Justice Barrett",
+          "start": 2030.66
+        },
+        {
+          "title": "Huston - Justice Kagan",
+          "start": 2235.61
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 2346.62
+        },
+        {
+          "title": "Huston - Justice Alito",
+          "start": 2525.22
+        },
+        {
+          "title": "Huston - Justice Jackson",
+          "start": 2575.02
+        },
+        {
+          "title": "Huston - Justice Gorsuch",
+          "start": 2799.91
+        },
+        {
+          "title": "Huston - Justice Kagan",
+          "start": 3028.13
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 3265.54
+        },
+        {
+          "title": "Huston - Justice Gorsuch",
+          "start": 3324.65
+        },
+        {
+          "title": "Huston - Justice Kavanaugh",
+          "start": 3404.28
+        },
+        {
+          "title": "Huston - Justice Roberts",
+          "start": 3421.17
+        },
+        {
+          "title": "Charles B. Klein (for the Petitioners)",
+          "start": 3429.99000005
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-889.mp3"
     }
   }

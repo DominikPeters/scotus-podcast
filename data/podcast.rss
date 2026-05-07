@@ -52,7 +52,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>6384</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-1083.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-889] Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.</title>
@@ -71,11 +70,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. When a generic drug manufacturer excludes a patented use from its label, can it still be liable for inducing infringement if it calls its product a “generic version” of the brand-name drug and cites publicly available information about the brand-name drug’s sales?</p>
 <p>2. Can a patent infringement complaint survive dismissal if it does not allege that the defendant made any statement specifically instructing or encouraging the patented use?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/24-889.mp3" length="28969490" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/24-889.mp3" length="14511014" type="audio/mpeg"/>
             <guid>scotus_2025_24-889_v0</guid>
             <itunes:duration>3620</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-889.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-856] Cisco Systems, Inc. v. Doe I</title>
