@@ -26128,14 +26128,203 @@
     },
     "25-1083": {
       "docket_number": "25-1083",
-      "name": "Mullin, Sec. of Homeland Security v. Doe",
-      "date_argued_timestamp": 1777420800,
-      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2025/25-1083",
-      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-1083.mp3",
-      "mp3_length": 6384,
-      "mp3_size": 51083755,
-      "source": "scotus",
+      "name": "Mullin v. Doe",
+      "date_argued_timestamp": 1777438800,
       "description": "<p>Mullin v. Doe</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2025/25-1083/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-1083.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2025/25-1083\">oyez.org</a></p>\n    <p>Argued on Apr 29, 2026.</p>\n    <p>Petitioner: Markwayne Mullin, Secretary, Department of Homeland Security.<br>Respondent: Dahlia Doe.</p>\n    <p>Advocates: <ul><li>D. John Sauer (for the Petitioners)</li>\n<li>Ahilan T. Arulanantham (for the Respondents in Case No. 25-1083)</li>\n<li>Geoffrey M. Pipoly (for the Respondents in Case No. 25-1084)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Congress created the Temporary Protected Status (TPS) program to allow foreign nationals from countries experiencing armed conflict, natural disasters, or other extraordinary conditions to live and work legally in the United States on a temporary basis. Federal law requires the Secretary of Homeland Security to periodically review conditions in each designated country and, after consulting with other government agencies, determine whether those conditions still justify protection. Syria has held TPS designation for years, shielding its nationals from deportation to a country ravaged by civil war and humanitarian crisis.</p>\n<p>Shortly after taking office in January 2025, President Trump issued Executive Order 14159, directing the Secretary to aggressively limit TPS designations. Secretary Kristi Noem then terminated TPS for Syria on September 19, 2025, with an effective date of November 21, 2025 \u2014 giving roughly 6,100 Syrian TPS holders weeks to lose their legal status, work authorization, and protection from deportation. Seven Syrian nationals with family ties in the United States sued, arguing that the termination violated federal immigration law, was arbitrary and capricious, and reflected discriminatory animus rather than a genuine, good-faith review of conditions in Syria.</p>\n<p>The district court granted the plaintiffs' motion and postponed the termination effective November 19, 2025; the government appealed and moved to stay that order, but the U.S. Court of Appeals for the Second Circuit denied the stay on February 17, 2026, concluding that the government had not demonstrated a likelihood of success on the merits or irreparable harm.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the Trump administration lawfully end the Temporary Protected Status program for Syrian nationals?</p>\n\n    ",
+      "mp3_length": 6384,
+      "mp3_size": 25567916,
+      "description_version": "v1",
+      "chapters": [
+        {
+          "title": "D. John Sauer (for the Petitioners)",
+          "start": 0.275
+        },
+        {
+          "title": "Sauer - Justice Thomas",
+          "start": 124.62
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 245.89
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 326.235
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 561.45
+        },
+        {
+          "title": "Sauer - Justice Roberts",
+          "start": 732.47
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 777.39
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 881.3
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 1022.19
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 1227
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 1274.225
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 1507.16
+        },
+        {
+          "title": "Sauer - Justice Barrett",
+          "start": 1708.58
+        },
+        {
+          "title": "Sauer - Justice Kagan",
+          "start": 1795.65
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 2012.78
+        },
+        {
+          "title": "Sauer - Justice Sotomayor",
+          "start": 2118.59500005
+        },
+        {
+          "title": "Sauer - Justice Kavanaugh",
+          "start": 2282.33
+        },
+        {
+          "title": "Sauer - Justice Jackson",
+          "start": 2524.115
+        },
+        {
+          "title": "Ahilan T. Arulanantham (for the Respondents in Case No. 25-1083)",
+          "start": 2652.03500005
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Thomas",
+          "start": 2806.71
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Alito",
+          "start": 3105.74
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Barrett",
+          "start": 3296.49
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Jackson",
+          "start": 3406.43
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Alito",
+          "start": 3460.6
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Roberts",
+          "start": 3522.32
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Kagan",
+          "start": 3612.51
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Kavanaugh",
+          "start": 3749.27
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Thomas",
+          "start": 3858.115
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Alito",
+          "start": 3933.24
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Sotomayor",
+          "start": 4111.32
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Kagan",
+          "start": 4482.505
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Kavanaugh",
+          "start": 4743.475
+        },
+        {
+          "title": "Ahilan T. Arulanantham - Justice Jackson",
+          "start": 4822.385
+        },
+        {
+          "title": "Geoffrey M. Pipoly (for the Respondents in Case No. 25-1084)",
+          "start": 5069.5450001
+        },
+        {
+          "title": "Pipoly - Justice Thomas",
+          "start": 5156.33
+        },
+        {
+          "title": "Pipoly - Justice Roberts",
+          "start": 5166.29
+        },
+        {
+          "title": "Pipoly - Justice Kagan",
+          "start": 5186.225
+        },
+        {
+          "title": "Pipoly - Justice Jackson",
+          "start": 5430.07
+        },
+        {
+          "title": "Pipoly - Justice Alito",
+          "start": 5492.39
+        },
+        {
+          "title": "Pipoly - Justice Roberts",
+          "start": 5636.66
+        },
+        {
+          "title": "Pipoly - Justice Gorsuch",
+          "start": 5676.57499995
+        },
+        {
+          "title": "Pipoly - Justice Jackson",
+          "start": 5838.055
+        },
+        {
+          "title": "Pipoly - Justice Gorsuch",
+          "start": 5896.44
+        },
+        {
+          "title": "Pipoly - Justice Barrett",
+          "start": 5950.96
+        },
+        {
+          "title": "Pipoly - Justice Thomas",
+          "start": 6092.93
+        },
+        {
+          "title": "Pipoly - Justice Sotomayor",
+          "start": 6133.24
+        },
+        {
+          "title": "D. John Sauer (for the Petitioners)",
+          "start": 6195.215
+        }
+      ],
+      "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-1083.mp3"
     },
     "24-889": {

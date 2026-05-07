@@ -32,7 +32,7 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
-            <title>[25-1083] Mullin, Sec. of Homeland Security v. Doe</title>
+            <title>[25-1083] Mullin v. Doe</title>
             <description><![CDATA[<p>Mullin v. Doe</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-1083/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1083.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-1083">oyez.org</a></p>
     <p>Argued on Apr 29, 2026.</p>
@@ -47,11 +47,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Did the Trump administration lawfully end the Temporary Protected Status program for Syrian nationals?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2025/25-1083.mp3" length="51083755" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2025/25-1083.mp3" length="25567916" type="audio/mpeg"/>
             <guid>scotus_2025_25-1083_v0</guid>
             <itunes:duration>6384</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2025/25-1083.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-889] Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc.</title>
@@ -140,7 +141,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>4454</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Mon, 27 Apr 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-1068.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-429] Blanche v. Lau </title>
