@@ -32,6 +32,47 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-170] Suncor Energy (U.S.A.) Inc. v. Commissioners of Boulder County</title>
+            <description><![CDATA[<p>Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-170/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-170">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Suncor Energy (U.S.A.) Inc.<br>Respondent: County Commissioners of Boulder County.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Boulder County and the City of Boulder (collectively, "Boulder") sued Exxon Mobil Corporation and three Suncor Energy entities, alleging that the companies' decades-long production, promotion, refining, marketing, and sale of fossil fuels knowingly drove climate change and caused concrete harm to Boulder's property and residents. Boulder further alleges that the defendants compounded this harm by intentionally misleading the public about fossil fuels' role in accelerating climate change. The alleged injuries include flood damage, increased wildfire risk, drought, and physical damage to public buildings and infrastructure—costs Boulder claims it has absorbed and will continue to absorb.</p>
+<p>To recover those costs, Boulder asserts state common law claims for public nuisance, private nuisance, trespass, unjust enrichment, and civil conspiracy. Critically, Boulder seeks only monetary damages—not an injunction against fossil fuel operations or any form of emissions regulation. The defendants argue that these state-law claims are precluded because federal law—specifically the Clean Air Act, the federal common law of interstate pollution, and the federal foreign affairs power—occupies the field and bars state courts from adjudicating harms rooted in interstate and international greenhouse-gas emissions.</p>
+<p>Boulder filed suit in state court; the defendants removed the case to federal court, but after extensive litigation that included appeals to the U.S. Court of Appeals for the Tenth Circuit and two certiorari petitions in the U.S. Supreme Court, the Tenth Circuit affirmed the remand order and the case returned to the Boulder County District Court, which denied the defendants' motion to dismiss on preemption grounds. The defendants then petitioned the Supreme Court of the State of Colorado for extraordinary review under C.A.R. 21, which that court accepted and resolved in Boulder's favor on May 12, 2025.</p>
+
+    <p><b>Question</b></p>
+    <p>1. Does the Court have statutory and Article III jurisdiction to hear this case?</p>
+<p>2. Does federal law preclude state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-170.mp3" length="51240885" type="audio/mpeg"/>
+            <guid>scotus_2026_25-170_v0</guid>
+            <itunes:duration>6404</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
+            <title>[25-735] Johnson v. United States Congress</title>
+            <description><![CDATA[<p>Johnson v. United States Congress</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-735/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-735.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-735">oyez.org</a></p>
+    <p></p>
+    <p>Petitioner: Floyd D. Johnson.<br>Respondent: United States Congress.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Floyd D. Johnson, a United States Army veteran, began receiving disability benefits for service-related post-traumatic stress disorder while serving a 40-year prison sentence in Florida. Although the Veterans Benefits Administration initially approved a high level of compensation, it later reduced Johnson’s monthly payments to a 10 percent rate. The agency cited a federal law, 38 U.S.C. § 5313, which limits disability compensation for veterans incarcerated for more than 60 days following a felony conviction.</p>
+<p>Johnson filed a lawsuit against the United States Congress in federal district court to challenge the constitutionality of the benefits reduction law. He argued that the statute acted as an unconstitutional “bill of attainder”—a law that unfairly targets specific individuals for punishment—and violated the Equal Protection component of the Fifth Amendment. Johnson requested a court order to stop the government from reducing benefits for incarcerated veterans and sought retroactive pay for the withheld funds.</p>
+<p>The district court dismissed Johnson’s complaint as frivolous after assuming it had jurisdiction to hear his constitutional claims. On appeal, the U.S. Court of Appeals for the Eleventh Circuit vacated that judgment and ordered the case dismissed for lack of jurisdiction, ruling that the Veterans’ Judicial Review Act strips district courts of the power to hear such challenges.</p>
+
+    <p><b>Question</b></p>
+    <p>Did the Veterans’ Judicial Review Act stripp district courts of the jurisdiction, recognized by this court in Johnson v. Robison, to hear challenges to the constitutionality of acts of Congress affecting veterans’ benefits?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-735.mp3" length="32128027" type="audio/mpeg"/>
+            <guid>scotus_2026_25-735_v0</guid>
+            <itunes:duration>4015</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-1083] Mullin v. Doe</title>
             <description><![CDATA[<p>Mullin v. Doe</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2025/25-1083/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1083.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2025/25-1083">oyez.org</a></p>
@@ -75,7 +116,6 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:duration>3620</itunes:duration>
             <itunes:season>2025</itunes:season>
             <pubDate>Wed, 29 Apr 2026 10:00:00 -0400</pubDate>
-            <podcast:transcript url="https://podcast.scotusstats.com/2025/24-889.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[24-856] Cisco Systems, Inc. v. Doe I</title>
