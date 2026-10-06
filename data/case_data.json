@@ -26477,6 +26477,18 @@
       "source": "scotus",
       "description": "<p>Johnson v. United States Congress</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-735/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-735.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-735\">oyez.org</a></p>\n    <p></p>\n    <p>Petitioner: Floyd D. Johnson.<br>Respondent: United States Congress.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Floyd D. Johnson, a United States Army veteran, began receiving disability benefits for service-related post-traumatic stress disorder while serving a 40-year prison sentence in Florida. Although the Veterans Benefits Administration initially approved a high level of compensation, it later reduced Johnson\u2019s monthly payments to a 10 percent rate. The agency cited a federal law, 38 U.S.C. \u00a7 5313, which limits disability compensation for veterans incarcerated for more than 60 days following a felony conviction.</p>\n<p>Johnson filed a lawsuit against the United States Congress in federal district court to challenge the constitutionality of the benefits reduction law. He argued that the statute acted as an unconstitutional \u201cbill of attainder\u201d\u2014a law that unfairly targets specific individuals for punishment\u2014and violated the Equal Protection component of the Fifth Amendment. Johnson requested a court order to stop the government from reducing benefits for incarcerated veterans and sought retroactive pay for the withheld funds.</p>\n<p>The district court dismissed Johnson\u2019s complaint as frivolous after assuming it had jurisdiction to hear his constitutional claims. On appeal, the U.S. Court of Appeals for the Eleventh Circuit vacated that judgment and ordered the case dismissed for lack of jurisdiction, ruling that the Veterans\u2019 Judicial Review Act strips district courts of the power to hear such challenges.</p>\n\n    <p><b>Question</b></p>\n    <p>Did the Veterans\u2019 Judicial Review Act stripp district courts of the jurisdiction, recognized by this court in Johnson v. Robison, to hear challenges to the constitutionality of acts of Congress affecting veterans\u2019 benefits?</p>\n\n    ",
       "b2_url": "https://podcast.scotusstats.com/2026/25-735.mp3"
+    },
+    "25-498": {
+      "docket_number": "25-498",
+      "name": "Anderson v. Intel Corp. Investment Policy Committee",
+      "date_argued_timestamp": 1791244800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-498",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-498.mp3",
+      "mp3_length": 3662,
+      "mp3_size": 29309211,
+      "source": "scotus",
+      "description": "<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-498.mp3"
     }
   }
 }

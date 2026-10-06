@@ -32,6 +32,16 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-498] Anderson v. Intel Corp. Investment Policy Committee</title>
+            <description><![CDATA[<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>
+<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-498.mp3" length="29309211" type="audio/mpeg"/>
+            <guid>scotus_2026_25-498_v0</guid>
+            <itunes:duration>3662</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Tue, 06 Oct 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-170] Suncor Energy (U.S.A.) Inc. v. Commissioners of Boulder County</title>
             <description><![CDATA[<p>Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-170/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-170">oyez.org</a></p>
