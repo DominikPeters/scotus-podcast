@@ -1,5 +1,6 @@
 from get_scotus_website import get_from_scotus_website
-from get_oyez import get_from_oyez
+from get_oyez import get_from_oyez,send_email
+from get_alignment import get_from_alignment
 from upload_podcast import build_podcast
 
 import sys
@@ -26,6 +27,7 @@ def shorten_commit_message():
     add_pattern = rf'Add ({case_id_pattern}) from ([\w.]+)'
     metadata_pattern = rf'Oyez metadata for ({case_id_pattern})'
     transcript_pattern = rf'Oyez transcript for ({case_id_pattern})'
+    alignment_matches = re.findall(rf'Alignment chapters for ({case_id_pattern})', input_string)
 
     # Find all matches for each pattern
     add_matches = re.findall(add_pattern, input_string)
@@ -74,6 +76,8 @@ def shorten_commit_message():
             joined_ids = ", ".join(transcript_matches[:-1]) + f", and {transcript_matches[-1]}"
             output_parts.append(f"Oyez transcript for {joined_ids}")
 
+    if alignment_matches: output_parts.append("Alignment chapters for " + ", ".join(alignment_matches))
+
     # Join all parts with periods
     output_string = ". ".join(output_parts) + ("." if output_parts else "")
 
@@ -94,11 +98,16 @@ stream_handler.setLevel(logging.INFO)
 logger.addHandler(stream_handler)
 
 try:
-    get_from_scotus_website()
-    get_from_oyez()
+    alignment_updates=get_from_alignment()
+    for provider in (get_from_scotus_website,get_from_oyez):
+        try:provider()
+        except Exception:logger.exception('Provider update failed; publishing available valid episodes')
     build_podcast()
     build_podcast(spotify=True)
     shorten_commit_message()
+    for update in alignment_updates:
+        try:send_email('Chapters available for '+update['recording'],'The podcast episode now has chapters and a transcript using the official Court recording and our alignment.')
+        except Exception:logger.exception('Chapter notification failed; episode publication succeeded')
 except Exception as e:
     logging.exception(e)
     raise e

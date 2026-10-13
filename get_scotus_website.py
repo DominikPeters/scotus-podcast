@@ -6,6 +6,7 @@ Author: Dominik Peters
 Date: 2023-10-22
 """
 
+import hashlib
 import requests
 import json
 import os
@@ -110,9 +111,9 @@ def get_from_scotus_website():
             oral_argument["mp3_length"] = int(mp3_length)
             oral_argument["mp3_size"] = mp3_size
 
-            oral_argument["source"] = "scotus"
+            oral_argument.update(source='scotus',audio_source='scotus',description_source='scotus',audio_sha256=hashlib.sha256(mp3.content).hexdigest(),media_revision='scotus-'+hashlib.sha256(mp3.content).hexdigest())
             date_argued_string = datetime.fromtimestamp(oral_argument["date_argued_timestamp"]).strftime("%B %d, %Y") # format May 17, 2021
-            oral_argument["description"] = f"<p>Oral argument for {oral_argument['name']}, argued on {date_argued_string}.</p>\n<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>"
+            oral_argument["description"] = f"<p>Oral argument for {oral_argument['name']}, argued on {date_argued_string}.</p>"
 
             case_data[term][docket_number] = oral_argument
             with open("data/case_data.json", "w") as f:

@@ -31,4 +31,5 @@ if (tags.hasOwnProperty('image')) {
     tags.image.imageBuffer = image;
 }
 
-NodeID3.write(tags, mp3file);
+const result=NodeID3.write(tags, mp3file);
+if(result!==true)throw new Error("ID3 chapter write failed");

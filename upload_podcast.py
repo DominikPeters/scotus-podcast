@@ -12,6 +12,9 @@ import html
 import json
 from datetime import datetime
 import os
+import uuid
+from pathlib import Path
+from botocore.exceptions import ClientError
 
 import boto3
 import ftplib
@@ -32,7 +35,7 @@ def seconds_to_string(seconds):
 
     return f"{padded_hours}:{padded_minutes}:{padded_seconds}"
 
-def upload_to_r2(mp3_filename, r2_filename):
+def upload_to_r2(mp3_filename, r2_filename, revision=None):
     log.info(f"Uploading {mp3_filename} to R2")
     s3_client = boto3.client(
         "s3",
@@ -41,7 +44,13 @@ def upload_to_r2(mp3_filename, r2_filename):
         aws_secret_access_key=os.environ["R2_SECRET_KEY"],
         region_name="auto"
     )
-    s3_client.upload_file(mp3_filename, "scotus-podcast", r2_filename)
+    if revision:
+        try:
+            current=s3_client.head_object(Bucket='scotus-podcast',Key=r2_filename)
+            if current.get('Metadata',{}).get('media-revision')==revision:return
+        except ClientError as error:
+            if error.response['Error']['Code'] not in ('404','NoSuchKey','NotFound'):raise
+    s3_client.upload_file(mp3_filename, "scotus-podcast", r2_filename, ExtraArgs={"CacheControl":"no-cache","Metadata":{"media-revision":revision or 'legacy'}})
     log.info(f"R2 upload successful")
 
 def upload_rss(rss_filename):
@@ -52,7 +61,9 @@ def upload_rss(rss_filename):
     ftp = ftplib.FTP(server, user, password)
     ftp.cwd("podcast")
     with open("data/" + rss_filename, "rb") as file:
-        ftp.storbinary(f"STOR {rss_filename}", file)
+        temporary="."+rss_filename+"."+uuid.uuid4().hex
+        ftp.storbinary(f"STOR {temporary}", file)
+    ftp.rename(temporary,rss_filename)
     ftp.quit()
     log.info(f"RSS upload successful: {rss_filename}")
 
@@ -63,6 +74,7 @@ def build_podcast(spotify=False):
         case_data = json.load(f)
 
     rss_items = []
+    media_changed = False
 
     # latest years first
     terms = sorted(case_data.keys(), reverse=True)
@@ -77,15 +89,17 @@ def build_podcast(spotify=False):
             # make sure case['description']} is UTF-8 encoded
             case['description'] = case['description'].encode('utf-8').decode('utf-8')
 
-            if not "b2_url" in case:
+            if not case.get('b2_url') or (case.get('media_revision') and case.get('media_revision') != case.get('media_uploaded_revision')):
                 r2_filename = f"{term}/{docket_number}.mp3"
                 mp3_filename = f"mp3/{term}/{docket_number}.mp3"
-                upload_to_r2(mp3_filename, r2_filename)
+                upload_to_r2(mp3_filename, r2_filename, case.get("media_revision"))
                 case_data[term][docket_number]["b2_url"] = f"https://podcast.scotusstats.com/{term}/{docket_number}.mp3"
-                json.dump(case_data, open("data/case_data.json", "w"), indent=2)
+                media_changed = True
+                case["media_uploaded_revision"] = case.get("media_revision", "legacy")
                 if os.path.exists(f"vtt/{term}/{docket_number}.vtt"):
-                    upload_to_r2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt")
+                    upload_to_r2(f"vtt/{term}/{docket_number}.vtt", f"{term}/{docket_number}.vtt", case.get("media_revision"))
                     case_data[term][docket_number]["vtt_url"] = f"https://podcast.scotusstats.com/{term}/{docket_number}.vtt"
+                Path("data/case_data.json").write_text(json.dumps(case_data,indent=2))
                 with open("commit_message.txt", "r") as f:
                     commit_message = f.read()
                 if commit_message == "":
@@ -145,7 +159,7 @@ def build_podcast(spotify=False):
     <![CDATA[ A podcast feed of the audio recordings of the oral arguments at the U.S. Supreme Court. <br/>
 * Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
 * Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
-* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available when an aligned transcript is ready).<br/>
 Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
  ]]>
     </description>
@@ -160,10 +174,11 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     
     rss_filename = "podcast.rss" if not spotify else "podcast_spotify.rss"
     
+    previous = Path("data/"+rss_filename).read_text() if os.path.exists("data/"+rss_filename) else None
     with open("data/" + rss_filename, "w") as file:
         file.write(rss)
 
-    upload_rss(rss_filename)
+    if previous != rss or media_changed: upload_rss(rss_filename)
 
     # # upload RSS if we changed something
     # with open("commit_message.txt", "r") as f:

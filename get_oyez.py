@@ -11,9 +11,10 @@ Date: 2023-10-22
 CURRENT_DESCRIPTION_VERSION = "v1"
 
 import requests
+from chapter_tools import build_chapters, write_chapter_tags
+import hashlib
 import json
 import os
-import sox
 from datetime import datetime
 import subprocess
 import time
@@ -55,13 +56,14 @@ def current_term():
     
 def get_argued_time(case_metadata):
     # argued date is unix timestamp
-    if case_metadata["timeline"]:
-        for date in case_metadata["timeline"]:
-            if date and date["event"] == "Argued":
-                return date["dates"][0] 
+    for event in case_metadata.get('timeline') or []:
+        dates=event.get('dates') if isinstance(event,dict) else None
+        if isinstance(event,dict) and event.get('event')=='Argued' and isinstance(dates,list) and dates and isinstance(dates[0],(int,float)) and not isinstance(dates[0],bool):
+            return dates[0]
     return None
     
 def mp3_duration(filename):
+    import sox
     return sox.file_info.duration(filename)
 
 def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True):
@@ -87,97 +89,8 @@ def build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=True)
     mp3_length = mp3_duration(mp3_filename)
     mp3_size = os.path.getsize(mp3_filename)
 
-    chapters = []
-
-    part_number = 0
-    for section_counter, section in enumerate(sections):
-        part_number += 1
-        part_text = f"[Section {part_number}] "
-        part_text = ""
-        turns = section["turns"]
-        
-        # Determine the headline (name of the first advocate or speaker if no advocate took a turn)
-        headline = None
-        for turn in turns:
-            speaker_name = turn["speaker"]["name"]
-            if speaker_name in advocates:
-                headline = advocates[speaker_name]
-                future_part_text = turn["speaker"]["last_name"] + " - "
-                break
-        if not headline:
-            headline = turns[0]["speaker"]["name"]
-            future_part_text = turns[0]["speaker"]["last_name"] + " - "
-
-        if section_counter == len(sections) - 1 and speaker_name == chapters[0]["title"]:
-            headline = headline + " (Rebuttal)"
-
-        chapters.append({"title": part_text + headline, "start": turns[0]["start"]})
-        part_text = future_part_text
-        
-        # List of justices who took turns
-        justice_turns = []
-        prev_justice = None
-        for i, turn in enumerate(turns):
-            current_speaker = turn["speaker"]["name"]
-
-            if current_speaker == "John G. Roberts, Jr." and i == 0:
-                continue
-
-            text_blocks = turn["text_blocks"]
-            if len(text_blocks) == 1:
-                if len(text_blocks[0]["text"].split()) <= 8:
-                    continue
-                if current_speaker == "John G. Roberts, Jr." and len(text_blocks[0]["text"].split()) <= 15 and i == len(turns) - 1:
-                    continue
-
-            if sum([len(block["text"].split()) for block in text_blocks]) <= 8:
-                continue
-
-            if turn["stop"] - turn["start"] < 1.0:
-                continue
-
-            if i == len(turns) - 1:
-                if current_speaker == "John G. Roberts, Jr.":
-                    continue
-            
-            # Check if the current turn is Chief Justice and the next turn is also a justice
-            is_moderation = current_speaker == "John G. Roberts, Jr."
-            is_moderation = is_moderation and i < len(turns) - 1 and turns[i+1]["speaker"]["name"] in justices
-            if is_moderation:
-                continue
-
-            # Avoid consecutive repetitions and consider skip_next flag
-            if current_speaker in justices and current_speaker != prev_justice:
-                justice_turns.append(current_speaker)
-                chapters.append({"title": part_text + "Justice " + justices[current_speaker]["last_name"], "start": turn["start"]})
-                prev_justice = current_speaker
-
-
-    # write id3v2 info
-    tags = {}
-    tags["title"] = f"[{case_metadata['docket_number']}] {case_metadata['name']}"
-    tags["tableOfContents"] = {
-        "elementID": "toc",
-        "isOrdered": True,
-        "elements": [f"chp{i+1}" for i in range(len(chapters))]
-    }
-    tags["chapter"] = []
-    for chapter_number, chapter in enumerate(chapters):
-        chapter_obj = {
-            "elementID": f"chp{chapter_number+1}",
-            "startTimeMs": int(chapter["start"]*1000),
-            "tags": {
-                "title": chapter["title"],
-            }
-        }
-        if chapter_number < len(chapters) - 1:
-            chapter_obj["endTimeMs"] = int(chapters[chapter_number+1]["start"]*1000)
-        else:
-            chapter_obj["endTimeMs"] = int(mp3_length*1000)
-        tags["chapter"].append(chapter_obj)
-    json.dump(tags, open("id3.json", "w"))
-    subprocess.call(["node", "add_id3v2.js", mp3_filename, "id3.json"])
-    os.remove("id3.json")
+    chapters = build_chapters(sections, advocates, justices)
+    mp3_size = write_chapter_tags(mp3_filename, f"[{case_metadata['docket_number']}] {case_metadata['name']}", chapters, mp3_length)
 
     return mp3_length, mp3_size, chapters
 
@@ -245,7 +158,7 @@ def build_description(case_metadata):
 
     # check if there is a wikipedia article for the case (titled case_metadata['name'])
     wikipedia_url = f"https://en.wikipedia.org/wiki/{case_metadata['name'].replace(' ', '_')}"
-    if requests.get(wikipedia_url).status_code == 200:
+    if requests.get(wikipedia_url, timeout=15).status_code == 200:
         wikipedia_text = f"""<a href="{wikipedia_url}">Wikipedia</a> &middot; """
     else:
         wikipedia_text = ""
@@ -271,6 +184,20 @@ def build_description(case_metadata):
 
     return description
 
+def update_description(record, metadata):
+    # Descriptions are independent of which provider supplied chapter timings.
+    if not metadata.get('facts_of_the_case') and not metadata.get('question'):return False
+    metadata=dict(metadata);metadata['timeline']=list(metadata.get('timeline') or [])
+    if get_argued_time(metadata) is None and record.get('date_argued_timestamp'):
+        metadata['timeline'].append({'event':'Argued','dates':[record['date_argued_timestamp']]})
+    for key in ('question','facts_of_the_case','conclusion'):metadata[key]=metadata.get(key) or ''
+    fingerprint=hashlib.sha256(json.dumps({k:metadata.get(k) for k in ('name','docket_number','href','justia_url','timeline','first_party_label','first_party','second_party_label','second_party','advocates','facts_of_the_case','question','conclusion')},sort_keys=True).encode()).hexdigest()
+    if record.get('oyez_metadata_sha256')==fingerprint and record.get('description_version')==CURRENT_DESCRIPTION_VERSION:return False
+    description=build_description(metadata)
+    if record.get('description')==description and record.get('description_source')=='oyez' and record.get('oyez_metadata_sha256')==fingerprint:return False
+    record.update(description=description,description_source='oyez',description_version=CURRENT_DESCRIPTION_VERSION,oyez_metadata_sha256=fingerprint)
+    return True
+
 def handle_case(case_url, scotus_record=None, download_audio=True):
     """Fetches info from oyez. If oral argument audio and transcript available,
     make a new record. Otherwise add meta data to existing scotus_record."""
@@ -289,13 +216,8 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
         else:
             log.info(f"Case {case_number} has no oral argument audio. Adding metadata to existing record.")
             try:
-                description = build_description(case_metadata)
-                if "description" in scotus_record and scotus_record["description"] == description:
-                    log.info(f"Description of {case_number} has not changed. Skipping.")
-                    return None
-                scotus_record["description"] = description
-                return scotus_record
-            except Exception as e:
+                return scotus_record if update_description(scotus_record,case_metadata) else None
+            except Exception:
                 log.exception(f"Case {case_number}: description could not be built. Skipping.")
                 return None
 
@@ -307,7 +229,8 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
         if oral_argument_transcript["media_file"][0] and oral_argument_transcript["transcript"]:
             break
     else:
-        log.error(f"Case {case_number} has no oral argument audio. Skipping.")
+        if scotus_record is not None and update_description(scotus_record,case_metadata):return scotus_record
+        log.info(f"Case {case_number} has no aligned transcript yet.")
         return None
 
     mp3_length, mp3_size, chapters = build_oyez_mp3(case_metadata, oral_argument_transcript, download_audio=download_audio)
@@ -325,7 +248,8 @@ def handle_case(case_url, scotus_record=None, download_audio=True):
         "mp3_size": mp3_size,
         "description_version": CURRENT_DESCRIPTION_VERSION,
         "chapters": chapters,
-        "source": "oyez",
+        "source": "oyez", "audio_source": "oyez", "alignment_source": "oyez", "description_source": "oyez",
+        "media_revision": "oyez-"+hashlib.sha256(json.dumps(chapters,sort_keys=True).encode()).hexdigest(),
     }
 
     return record
@@ -351,13 +275,16 @@ def get_term_from_oyez(term):
         previous_b2_url = None
         docket_number = case["docket_number"].strip()
         if docket_number in case_data[term]:
-            if case_data[term][docket_number]["source"] == "oyez":
-                if case_data[term][docket_number]["description_version"] == CURRENT_DESCRIPTION_VERSION:
-                    continue
-                else:
-                    # only description needs to be updated, so don't download audio
-                    download_audio = False
-                    previous_b2_url = case_data[term][docket_number]["b2_url"]
+            existing = case_data[term][docket_number]
+            if existing.get('alignment_source') == 'scotus_ctc' or existing.get('source') == 'oyez':
+                try:
+                    metadata = requests.get(case_url, timeout=30).json()
+                    if update_description(existing, metadata):
+                        json.dump(case_data, open('data/case_data.json', 'w'), indent=2)
+                        with open('commit_message.txt','a') as f:f.write(f'Oyez metadata for {docket_number}. ')
+                except Exception:
+                    log.exception('Metadata update failed for %s; retaining existing episode', docket_number)
+                continue
             if case_data[term][docket_number]["source"] == "scotus":
                 scotus_record = case_data[term][docket_number]
 
