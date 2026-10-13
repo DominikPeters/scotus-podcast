@@ -26962,13 +26962,195 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-579",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-579.mp3",
       "mp3_length": 4541,
-      "mp3_size": 36336431,
+      "mp3_size": 36333784,
       "source": "scotus",
       "description": "<p>Department of the Air Force v. Prutehi Guahan</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-579/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-579.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-579\">oyez.org</a></p>\n    <p>Argued on Oct 7, 2026.</p>\n    <p>Petitioner: Department of the Air Force.<br>Respondent: Prutehi Guahan.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>The U.S. Air Force operates Andersen Air Force Base at the northern tip of Guam, adjacent to Tarague Beach\u2014a coastal area that sits above Guam's sole-source drinking-water aquifer and serves as habitat for endangered sea turtles. Since 1982, the Air Force has disposed of hazardous waste munitions at Tarague Beach through open burning and open detonation (OB/OD) operations, a method that involves igniting or exploding ordnance in open air. Under the Resource Conservation and Recovery Act (RCRA), the Air Force must obtain a permit every three years from the Guam Environmental Protection Agency (Guam EPA), which has administered RCRA on the island since 1986. The Air Force has renewed that permit on a triennial cycle without interruption.</p>\n<p>When its most recent permit approached expiration in September 2021, the Air Force submitted a renewal application to Guam EPA in May 2021\u2014without first preparing any environmental review under the National Environmental Policy Act (NEPA). The application described planned OB/OD operations for 2021 through 2024 and proposed restarting open burning, which had been inactive since at least the early 2000s. The Air Force conducted no environmental impact statement, no environmental assessment, and offered no public comment opportunity before committing to that plan. Guam EPA accepted the application, held a public comment period, and issued a preliminary notice neither approving nor denying the application while it reviewed public comments. Meanwhile, under RCRA's automatic-extension provision, the Air Force continued OB/OD operations under its 2018 permit while the renewal remained pending.</p>\n<p>Prutehi Litekyan filed suit in the District Court of Guam in January 2022, alleging that the Air Force violated NEPA by submitting its RCRA permit renewal application without conducting the required environmental review; the district court granted the Air Force's motion to dismiss on three grounds\u2014lack of standing, absence of final agency action, and failure to state a claim\u2014and Prutehi Litekyan timely appealed to the U.S. Court of Appeals for the Ninth Circuit, which reversed all three holdings.</p>\n\n    <p><b>Question</b></p>\n    <p>1. When the federal government submits a permit application to continue disposing of hazardous waste, does that submission count as a final, reviewable government decision under federal law?</p>\n<p>2. Before submitting that permit application, must the federal government first conduct the broad environmental review that federal law generally requires\u2014even though the hazardous waste permitting process already includes its own, more limited environmental review?</p>\n\n    ",
       "b2_url": "https://podcast.scotusstats.com/2026/25-579.mp3",
       "description_source": "oyez",
       "description_version": "v1",
-      "oyez_metadata_sha256": "896290a530957cb6b145744b6a06aae2389b53f45ea07d046d3bbbbd3b863833"
+      "oyez_metadata_sha256": "896290a530957cb6b145744b6a06aae2389b53f45ea07d046d3bbbbd3b863833",
+      "argument_date": "2026-10-07",
+      "chapters": [
+        {
+          "title": "Sopan Joshi (for the Petitioners)",
+          "start": 0.04
+        },
+        {
+          "title": "Joshi - Justice Thomas",
+          "start": 133.04
+        },
+        {
+          "title": "Joshi - Justice Roberts",
+          "start": 172.94
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 224.98
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 329.44
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 428.8
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 462.14
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 467.08
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 470.58
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 494.54
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 525.46
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 548.06
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 675.78
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 800.0999999999999
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 870.5
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 909.64
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 1061.8000000000002
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 1082.0600000000002
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 1197.3200000000002
+        },
+        {
+          "title": "Joshi - Justice Kagan",
+          "start": 1348.7
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 1435.2800000000002
+        },
+        {
+          "title": "Joshi - Justice Sotomayor",
+          "start": 1534.16
+        },
+        {
+          "title": "Joshi - Justice Gorsuch",
+          "start": 1609.22
+        },
+        {
+          "title": "Joshi - Justice Kavanaugh",
+          "start": 1727.98
+        },
+        {
+          "title": "Joshi - Justice Barrett",
+          "start": 1911.16
+        },
+        {
+          "title": "Joshi - Justice Jackson",
+          "start": 2014.18
+        },
+        {
+          "title": "Caroline A. Flynn (for the Respondent)",
+          "start": 2267.4
+        },
+        {
+          "title": "Flynn - Justice Thomas",
+          "start": 2400.1000000000004
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 2534.36
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 2719.4
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 2928.46
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 3143.42
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 3219.4
+        },
+        {
+          "title": "Flynn - Justice Sotomayor",
+          "start": 3231.5
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 3364.1400000000003
+        },
+        {
+          "title": "Flynn - Justice Kavanaugh",
+          "start": 3526.08
+        },
+        {
+          "title": "Flynn - Justice Alito",
+          "start": 3731.38
+        },
+        {
+          "title": "Flynn - Justice Barrett",
+          "start": 3866.86
+        },
+        {
+          "title": "Flynn - Justice Kagan",
+          "start": 3986.44
+        },
+        {
+          "title": "Flynn - Justice Jackson",
+          "start": 4033.5
+        },
+        {
+          "title": "Flynn - Justice Thomas",
+          "start": 4091.96
+        },
+        {
+          "title": "Flynn - Justice Gorsuch",
+          "start": 4288.7
+        },
+        {
+          "title": "Sopan Joshi (for the Petitioners)",
+          "start": 4331.54
+        }
+      ],
+      "audio_source": "scotus",
+      "audio_sha256": "a92dad8f25ad63229aa5570f825747ee567c1e39255542db6f723a3ab0afc170",
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "772885a3719385cc81a28092dc84f01924b5c3ce3b1009a6aa866f17494a26bc",
+      "media_revision": "772885a3719385cc81a28092dc84f01924b5c3ce3b1009a6aa866f17494a26bc",
+      "media_uploaded_revision": "772885a3719385cc81a28092dc84f01924b5c3ce3b1009a6aa866f17494a26bc",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-579.vtt"
     },
     "25-5343": {
       "docket_number": "25-5343",
