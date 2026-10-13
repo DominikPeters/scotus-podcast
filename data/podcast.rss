@@ -22,7 +22,7 @@
     <![CDATA[ A podcast feed of the audio recordings of the oral arguments at the U.S. Supreme Court. <br/>
 * Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
 * Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
-* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available when an aligned transcript is ready).<br/>
 Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
  ]]>
     </description>
@@ -32,10 +32,30 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-5343] Beaird v. United States</title>
+            <description><![CDATA[<p>Beaird v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-5343/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5343.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-5343">oyez.org</a></p>
+    <p>Argued on Oct 13, 2026.</p>
+    <p>Petitioner: Kendrick Jarrell Beaird.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Kendrick Jarrell Beaird pleaded guilty to possessing a firearm as a convicted felon. During sentencing, the district court applied a penalty enhancement under the Federal Sentencing Guidelines because Beaird possessed a “large capacity magazine.” While the text of the Guidelines does not define that term, the accompanying official Commentary specifies that any magazine capable of holding more than 15 rounds triggers the increased penalty.</p>
+<p>Beaird possessed a magazine that held 17 rounds. He argued that the district court erred by relying on the Commentary to define a term missing from the actual Guidelines. This challenge focuses on the level of deference courts must grant to supplemental Commentary, especially when that Commentary expands the scope of sentencing enhancements beyond the written text of the Guidelines.</p>
+<p>The district court sentenced Beaird to 72 months in prison and three years of supervised release. The U.S. Court of Appeals for the Fifth Circuit affirmed the sentence, holding that prior circuit precedent foreclosed Beaird’s challenge to the court’s reliance on the Guidelines commentary.</p>
+
+    <p><b>Question</b></p>
+    <p>Does Stinson v. United States still correctly state the rule for deference that courts must give the Commentary of the Federal Sentencing Guidelines?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-5343.mp3" length="54925362" type="audio/mpeg"/>
+            <guid>scotus_2026_25-5343_v0</guid>
+            <itunes:duration>6864</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Tue, 13 Oct 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-579] Department of Air Force v. Prutehi Guahan</title>
             <description><![CDATA[<p>Department of the Air Force v. Prutehi Guahan</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-579/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-579.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-579">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 7, 2026.</p>
     <p>Petitioner: Department of the Air Force.<br>Respondent: Prutehi Guahan.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -54,19 +74,19 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
         </item>
     <item>
             <title>[25-498] Anderson v. Intel Corp. Investment Policy Committee</title>
-            <description><![CDATA[<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-498.mp3" length="29309211" type="audio/mpeg"/>
+            <description><![CDATA[<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-498.mp3" length="29305858" type="audio/mpeg"/>
             <guid>scotus_2026_25-498_v0</guid>
             <itunes:duration>3662</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Tue, 06 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-498.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-170] Suncor Energy (U.S.A.) Inc. v. Commissioners of Boulder County</title>
             <description><![CDATA[<p>Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-170/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-170">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 5, 2026.</p>
     <p>Petitioner: Suncor Energy (U.S.A.) Inc.<br>Respondent: County Commissioners of Boulder County.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -77,17 +97,18 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <p><b>Question</b></p>
     <p>1. Does the Court have statutory and Article III jurisdiction to hear this case?</p>
 <p>2. Does federal law preclude state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-170.mp3" length="51240885" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-170.mp3" length="51237144" type="audio/mpeg"/>
             <guid>scotus_2026_25-170_v0</guid>
             <itunes:duration>6404</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-170.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-735] Johnson v. United States Congress</title>
             <description><![CDATA[<p>Johnson v. United States Congress</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-735/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-735.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-735">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 5, 2026.</p>
     <p>Petitioner: Floyd D. Johnson.<br>Respondent: United States Congress.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -97,11 +118,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>Did the Veterans’ Judicial Review Act stripp district courts of the jurisdiction, recognized by this court in Johnson v. Robison, to hear challenges to the constitutionality of acts of Congress affecting veterans’ benefits?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-735.mp3" length="32128027" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-735.mp3" length="32124160" type="audio/mpeg"/>
             <guid>scotus_2026_25-735_v0</guid>
             <itunes:duration>4015</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-735.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-1083] Mullin v. Doe</title>

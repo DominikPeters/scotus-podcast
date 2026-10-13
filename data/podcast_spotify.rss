@@ -22,7 +22,7 @@
     <![CDATA[ A podcast feed of the audio recordings of the oral arguments at the U.S. Supreme Court. <br/>
 * Podcast adds new arguments automatically and immediately after they become available on supremecourt.gov <br/>
 * Detailed episode descriptions with facts about the case from oyez.org and links to docket and other information.<br/>
-* Convenient chapters to skip to any exchange between a justice and an advocate (available as soon as oyez.org publishes the transcript).<br/>
+* Convenient chapters to skip to any exchange between a justice and an advocate (available when an aligned transcript is ready).<br/>
 Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
  ]]>
     </description>
@@ -32,10 +32,30 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-5343] Beaird v. United States</title>
+            <description><![CDATA[<p>Beaird v. United States</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-5343/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5343.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-5343">oyez.org</a></p>
+    <p>Argued on Oct 13, 2026.</p>
+    <p>Petitioner: Kendrick Jarrell Beaird.<br>Respondent: United States of America.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Kendrick Jarrell Beaird pleaded guilty to possessing a firearm as a convicted felon. During sentencing, the district court applied a penalty enhancement under the Federal Sentencing Guidelines because Beaird possessed a “large capacity magazine.” While the text of the Guidelines does not define that term, the accompanying official Commentary specifies that any magazine capable of holding more than 15 rounds triggers the increased penalty.</p>
+<p>Beaird possessed a magazine that held 17 rounds. He argued that the district court erred by relying on the Commentary to define a term missing from the actual Guidelines. This challenge focuses on the level of deference courts must grant to supplemental Commentary, especially when that Commentary expands the scope of sentencing enhancements beyond the written text of the Guidelines.</p>
+<p>The district court sentenced Beaird to 72 months in prison and three years of supervised release. The U.S. Court of Appeals for the Fifth Circuit affirmed the sentence, holding that prior circuit precedent foreclosed Beaird’s challenge to the court’s reliance on the Guidelines commentary.</p>
+
+    <p><b>Question</b></p>
+    <p>Does Stinson v. United States still correctly state the rule for deference that courts must give the Commentary of the Federal Sentencing Guidelines?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-5343.mp3" length="54925362" type="audio/mpeg"/>
+            <guid>scotus_2026_25-5343_v0</guid>
+            <itunes:duration>6864</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Tue, 13 Oct 2026 10:00:00 -0400</pubDate>
+        </item>
+    <item>
             <title>[25-579] Department of Air Force v. Prutehi Guahan</title>
             <description><![CDATA[<p>Department of the Air Force v. Prutehi Guahan</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-579/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-579.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-579">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 7, 2026.</p>
     <p>Petitioner: Department of the Air Force.<br>Respondent: Prutehi Guahan.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -55,18 +75,53 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <item>
             <title>[25-498] Anderson v. Intel Corp. Investment Policy Committee</title>
             <description><![CDATA[<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>
-<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-498.mp3" length="29309211" type="audio/mpeg"/>
+
+Chapters:
+00:00:00 Matthew W.H. Wessler (for the Petitioners)
+00:02:04 Wessler - Justice Thomas
+00:07:01 Wessler - Justice Jackson
+00:07:48 Wessler - Justice Kagan
+00:10:27 Wessler - Justice Roberts
+00:11:42 Wessler - Justice Alito
+00:12:48 Wessler - Justice Gorsuch
+00:14:41 Wessler - Justice Barrett
+00:17:04 Wessler - Justice Kavanaugh
+00:18:59 Wessler - Justice Jackson
+00:22:16 Wessler - Justice Alito
+00:24:23 Wessler - Justice Gorsuch
+00:25:54 Wessler - Justice Sotomayor
+00:28:24 Wessler - Justice Kavanaugh
+00:31:28 Wessler - Justice Jackson
+00:33:55 Charles L. McCloud (for the Respondents)
+00:36:49 McCloud - Justice Thomas
+00:37:33 McCloud - Justice Barrett
+00:38:54 McCloud - Justice Gorsuch
+00:40:24 McCloud - Justice Kagan
+00:42:29 McCloud - Justice Roberts
+00:44:37 McCloud - Justice Alito
+00:45:12 McCloud - Justice Jackson
+00:46:28 McCloud - Justice Barrett
+00:46:57 McCloud - Justice Sotomayor
+00:49:02 McCloud - Justice Gorsuch
+00:49:15 McCloud - Justice Barrett
+00:50:06 Aimee Brown (for the United States, as amicus curiae, supporting the Respondents)
+00:51:17 Brown - Justice Thomas
+00:51:29 Brown - Justice Alito
+00:53:43 Brown - Justice Kagan
+00:56:26 Brown - Justice Jackson
+00:59:19 Matthew W.H. Wessler (for the Petitioners)]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-498.mp3" length="29305858" type="audio/mpeg"/>
             <guid>scotus_2026_25-498_v0</guid>
             <itunes:duration>3662</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Tue, 06 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-498.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-170] Suncor Energy (U.S.A.) Inc. v. Commissioners of Boulder County</title>
             <description><![CDATA[<p>Suncor Energy (U.S.A.) Inc. v. County Commissioners of Boulder County</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-170/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-170.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-170">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 5, 2026.</p>
     <p>Petitioner: Suncor Energy (U.S.A.) Inc.<br>Respondent: County Commissioners of Boulder County.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -76,18 +131,62 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 
     <p><b>Question</b></p>
     <p>1. Does the Court have statutory and Article III jurisdiction to hear this case?</p>
-<p>2. Does federal law preclude state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-170.mp3" length="51240885" type="audio/mpeg"/>
+<p>2. Does federal law preclude state-law claims seeking relief for injuries allegedly caused by the effects of interstate and international greenhouse-gas emissions on the global climate?</p>
+
+    
+
+Chapters:
+00:00:00 Kannon K. Shanmugam (Advocate)
+00:02:16 Shanmugam - Justice Thomas
+00:04:53 Shanmugam - Justice Roberts
+00:07:43 Shanmugam - Justice Kagan
+00:09:07 Shanmugam - Justice Gorsuch
+00:10:37 Shanmugam - Justice Barrett
+00:10:41 Shanmugam - Justice Gorsuch
+00:11:18 Shanmugam - Justice Kagan
+00:11:20 Shanmugam - Justice Gorsuch
+00:11:25 Shanmugam - Justice Kagan
+00:13:38 Shanmugam - Justice Sotomayor
+00:23:57 Shanmugam - Justice Kagan
+00:30:18 Shanmugam - Justice Kavanaugh
+00:37:42 Shanmugam - Justice Barrett
+00:45:05 Shanmugam - Justice Jackson
+00:51:25 Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)
+00:52:31 Harris - Justice Thomas
+00:53:37 Harris - Justice Roberts
+00:55:30 Harris - Justice Kavanaugh
+00:56:32 Harris - Justice Gorsuch
+01:00:04 Harris - Justice Barrett
+01:01:19 Harris - Justice Sotomayor
+01:03:02 Harris - Justice Kagan
+01:06:06 Harris - Justice Kavanaugh
+01:07:41 Harris - Justice Jackson
+01:11:39 Kevin K. Russell (for the Respondents)
+01:13:44 Russell - Justice Thomas
+01:15:09 Russell - Justice Kavanaugh
+01:19:17 Russell - Justice Sotomayor
+01:21:24 Russell - Justice Roberts
+01:24:55 Russell - Justice Kagan
+01:27:34 Russell - Justice Kavanaugh
+01:28:38 Russell - Justice Gorsuch
+01:29:53 Russell - Justice Barrett
+01:32:17 Russell - Justice Kavanaugh
+01:35:28 Russell - Justice Kagan
+01:40:10 Russell - Justice Jackson
+01:42:10 Russell - Justice Kavanaugh
+01:43:44 Kannon K. Shanmugam (Advocate)]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-170.mp3" length="51237144" type="audio/mpeg"/>
             <guid>scotus_2026_25-170_v0</guid>
             <itunes:duration>6404</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-170.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-735] Johnson v. United States Congress</title>
             <description><![CDATA[<p>Johnson v. United States Congress</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-735/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-735.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-735">oyez.org</a></p>
-    <p></p>
+    <p>Argued on Oct 5, 2026.</p>
     <p>Petitioner: Floyd D. Johnson.<br>Respondent: United States Congress.</p>
     
     <p><b>Facts of the case (from oyez.org)</b></p>
@@ -96,12 +195,52 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
 <p>The district court dismissed Johnson’s complaint as frivolous after assuming it had jurisdiction to hear his constitutional claims. On appeal, the U.S. Court of Appeals for the Eleventh Circuit vacated that judgment and ordered the case dismissed for lack of jurisdiction, ruling that the Veterans’ Judicial Review Act strips district courts of the power to hear such challenges.</p>
 
     <p><b>Question</b></p>
-    <p>Did the Veterans’ Judicial Review Act stripp district courts of the jurisdiction, recognized by this court in Johnson v. Robison, to hear challenges to the constitutionality of acts of Congress affecting veterans’ benefits?</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-735.mp3" length="32128027" type="audio/mpeg"/>
+    <p>Did the Veterans’ Judicial Review Act stripp district courts of the jurisdiction, recognized by this court in Johnson v. Robison, to hear challenges to the constitutionality of acts of Congress affecting veterans’ benefits?</p>
+
+    
+
+Chapters:
+00:00:01 Jeffrey W. Chen (for the Petitioner)
+00:03:54 Chen - Justice Jackson
+00:06:13 Chen - Justice Alito
+00:11:23 Chen - Justice Gorsuch
+00:13:24 Chen - Justice Kagan
+00:17:25 Chen - Justice Jackson
+00:18:40 Chen - Justice Kagan
+00:19:38 Chen - Justice Jackson
+00:19:51 Chen - Justice Kagan
+00:23:21 Chen - Justice Gorsuch
+00:25:35 Chen - Justice Alito
+00:27:45 Chen - Justice Sotomayor
+00:29:11 Chen - Justice Kavanaugh
+00:31:15 Chen - Justice Barrett
+00:31:58 Chen - Justice Jackson
+00:33:21 Kevin J. Barber (for the Respondent)
+00:35:12 Barber - Justice Thomas
+00:36:18 Barber - Justice Kavanaugh
+00:36:42 Barber - Justice Sotomayor
+00:39:07 Barber - Justice Gorsuch
+00:39:59 Barber - Justice Barrett
+00:42:08 Barber - Justice Gorsuch
+00:44:56 Barber - Justice Jackson
+00:47:10 Barber - Justice Gorsuch
+00:49:00 Barber - Justice Sotomayor
+00:51:30 Barber - Justice Alito
+00:53:24 Barber - Justice Kavanaugh
+00:55:15 Barber - Justice Jackson
+00:56:14 Barber - Justice Barrett
+00:56:31 Barber - Justice Gorsuch
+00:57:07 Barber - Justice Kagan
+00:59:08 Barber - Justice Kavanaugh
+00:59:55 Barber - Justice Jackson
+01:02:02 Barber - Justice Roberts
+01:02:19 Jeffrey W. Chen (for the Petitioner)]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-735.mp3" length="32124160" type="audio/mpeg"/>
             <guid>scotus_2026_25-735_v0</guid>
             <itunes:duration>4015</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Mon, 05 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-735.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-1083] Mullin v. Doe</title>
