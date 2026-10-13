@@ -26977,17 +26977,187 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-5343",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-5343.mp3",
       "mp3_length": 6864,
-      "mp3_size": 54925362,
+      "mp3_size": 54922630,
       "source": "scotus",
       "audio_source": "scotus",
       "description_source": "oyez",
       "audio_sha256": "950c2824a5674ca3f8909e471e80faf37f394028ef581f523a60247d8f0cb543",
-      "media_revision": "scotus-950c2824a5674ca3f8909e471e80faf37f394028ef581f523a60247d8f0cb543",
+      "media_revision": "bf8ae33d25b2badbdc2f7ea0ceb653e88e3badef30f5ae0ea98c6e4f453a0bf3",
       "description": "<p>Beaird v. United States</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-5343/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-5343.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-5343\">oyez.org</a></p>\n    <p>Argued on Oct 13, 2026.</p>\n    <p>Petitioner: Kendrick Jarrell Beaird.<br>Respondent: United States of America.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Kendrick Jarrell Beaird pleaded guilty to possessing a firearm as a convicted felon. During sentencing, the district court applied a penalty enhancement under the Federal Sentencing Guidelines because Beaird possessed a \u201clarge capacity magazine.\u201d While the text of the Guidelines does not define that term, the accompanying official Commentary specifies that any magazine capable of holding more than 15 rounds triggers the increased penalty.</p>\n<p>Beaird possessed a magazine that held 17 rounds. He argued that the district court erred by relying on the Commentary to define a term missing from the actual Guidelines. This challenge focuses on the level of deference courts must grant to supplemental Commentary, especially when that Commentary expands the scope of sentencing enhancements beyond the written text of the Guidelines.</p>\n<p>The district court sentenced Beaird to 72 months in prison and three years of supervised release. The U.S. Court of Appeals for the Fifth Circuit affirmed the sentence, holding that prior circuit precedent foreclosed Beaird\u2019s challenge to the court\u2019s reliance on the Guidelines commentary.</p>\n\n    <p><b>Question</b></p>\n    <p>Does Stinson v. United States still correctly state the rule for deference that courts must give the Commentary of the Federal Sentencing Guidelines?</p>\n\n    ",
       "description_version": "v1",
       "oyez_metadata_sha256": "cb44832372480150a59fb5d9e2082371ee0c01dd34279f375ab3f84e3daaaeee",
       "b2_url": "https://podcast.scotusstats.com/2026/25-5343.mp3",
-      "media_uploaded_revision": "scotus-950c2824a5674ca3f8909e471e80faf37f394028ef581f523a60247d8f0cb543"
+      "media_uploaded_revision": "bf8ae33d25b2badbdc2f7ea0ceb653e88e3badef30f5ae0ea98c6e4f453a0bf3",
+      "argument_date": "2026-10-13",
+      "chapters": [
+        {
+          "title": "Kevin Joel Page (for the Petitioner)",
+          "start": 0.02
+        },
+        {
+          "title": "Page - Justice Roberts",
+          "start": 189.72
+        },
+        {
+          "title": "Page - Justice Jackson",
+          "start": 246.74
+        },
+        {
+          "title": "Page - Justice Kavanaugh",
+          "start": 438.68
+        },
+        {
+          "title": "Page - Justice Sotomayor",
+          "start": 518.9399999999999
+        },
+        {
+          "title": "Page - Justice Kagan",
+          "start": 849.3199999999999
+        },
+        {
+          "title": "Page - Justice Gorsuch",
+          "start": 931.42
+        },
+        {
+          "title": "Page - Justice Roberts",
+          "start": 1040.2
+        },
+        {
+          "title": "Page - Justice Alito",
+          "start": 1130.1200000000001
+        },
+        {
+          "title": "Page - Justice Sotomayor",
+          "start": 1385.7
+        },
+        {
+          "title": "Page - Justice Kagan",
+          "start": 1506.8999999999999
+        },
+        {
+          "title": "Page - Justice Gorsuch",
+          "start": 1696.1
+        },
+        {
+          "title": "Page - Justice Kavanaugh",
+          "start": 1811.6399999999999
+        },
+        {
+          "title": "Page - Justice Barrett",
+          "start": 2143.18
+        },
+        {
+          "title": "Page - Justice Jackson",
+          "start": 2365.2200000000003
+        },
+        {
+          "title": "Eric J. Feigin (for the Respondent in support of vacatur)",
+          "start": 2687.58
+        },
+        {
+          "title": "Feigin - Justice Thomas",
+          "start": 2814.46
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 2893.2599999999998
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 3214.68
+        },
+        {
+          "title": "Feigin - Justice Alito",
+          "start": 3378.92
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 3530.98
+        },
+        {
+          "title": "Feigin - Justice Kagan",
+          "start": 3623.56
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 3811.38
+        },
+        {
+          "title": "Feigin - Justice Sotomayor",
+          "start": 3965.5
+        },
+        {
+          "title": "Feigin - Justice Gorsuch",
+          "start": 4214.9800000000005
+        },
+        {
+          "title": "Feigin - Justice Kavanaugh",
+          "start": 4403.08
+        },
+        {
+          "title": "Feigin - Justice Barrett",
+          "start": 4608.58
+        },
+        {
+          "title": "Feigin - Justice Jackson",
+          "start": 4759.58
+        },
+        {
+          "title": "Anthony J. Dick (Advocate)",
+          "start": 5021.900000000001
+        },
+        {
+          "title": "Dick - Justice Thomas",
+          "start": 5182.6
+        },
+        {
+          "title": "Dick - Justice Kavanaugh",
+          "start": 5351.099999999999
+        },
+        {
+          "title": "Dick - Justice Gorsuch",
+          "start": 5467.839999999999
+        },
+        {
+          "title": "Dick - Justice Jackson",
+          "start": 5775.5599999999995
+        },
+        {
+          "title": "Dick - Justice Roberts",
+          "start": 5856.1
+        },
+        {
+          "title": "Dick - Justice Barrett",
+          "start": 5999.8
+        },
+        {
+          "title": "Dick - Justice Kagan",
+          "start": 6102.200000000001
+        },
+        {
+          "title": "Dick - Justice Thomas",
+          "start": 6244.94
+        },
+        {
+          "title": "Dick - Justice Gorsuch",
+          "start": 6322.84
+        },
+        {
+          "title": "Dick - Justice Kavanaugh",
+          "start": 6448.96
+        },
+        {
+          "title": "Dick - Justice Jackson",
+          "start": 6601.8
+        },
+        {
+          "title": "Kevin Joel Page (for the Petitioner)",
+          "start": 6667.900000000001
+        }
+      ],
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "bf8ae33d25b2badbdc2f7ea0ceb653e88e3badef30f5ae0ea98c6e4f453a0bf3",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-5343.vtt"
     }
   }
 }
