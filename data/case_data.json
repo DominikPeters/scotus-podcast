@@ -27340,6 +27340,23 @@
       "alignment_source": "scotus_ctc",
       "alignment_revision": "bf8ae33d25b2badbdc2f7ea0ceb653e88e3badef30f5ae0ea98c6e4f453a0bf3",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-5343.vtt"
+    },
+    "25-459": {
+      "docket_number": "25-459",
+      "name": "Salazar v. Paramount Global",
+      "date_argued_timestamp": 1791936000,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-459.mp3",
+      "mp3_length": 5080,
+      "mp3_size": 40651518,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "description_source": "scotus",
+      "audio_sha256": "01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48",
+      "media_revision": "scotus-01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48",
+      "description": "<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-459.mp3",
+      "media_uploaded_revision": "scotus-01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48"
     }
   }
 }
