@@ -34,11 +34,12 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
         <item>
             <title>[25-459] Salazar v. Paramount Global</title>
             <description><![CDATA[<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-459.mp3" length="40651518" type="audio/mpeg"/>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-459.mp3" length="40649116" type="audio/mpeg"/>
             <guid>scotus_2026_25-459_v0</guid>
             <itunes:duration>5080</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Wed, 14 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-459.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-5343] Beaird v. United States</title>

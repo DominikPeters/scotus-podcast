@@ -27348,15 +27348,193 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-459",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-459.mp3",
       "mp3_length": 5080,
-      "mp3_size": 40651518,
+      "mp3_size": 40649116,
       "source": "scotus",
       "audio_source": "scotus",
       "description_source": "scotus",
       "audio_sha256": "01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48",
-      "media_revision": "scotus-01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48",
+      "media_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
       "description": "<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>",
       "b2_url": "https://podcast.scotusstats.com/2026/25-459.mp3",
-      "media_uploaded_revision": "scotus-01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48"
+      "media_uploaded_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
+      "argument_date": "2026-10-14",
+      "chapters": [
+        {
+          "title": "Joshua I. Hammack (for the Petitioner)",
+          "start": 0.1
+        },
+        {
+          "title": "Hammack - Justice Thomas",
+          "start": 129.0
+        },
+        {
+          "title": "Hammack - Justice Roberts",
+          "start": 185.45999999999998
+        },
+        {
+          "title": "Hammack - Justice Barrett",
+          "start": 292.91999999999996
+        },
+        {
+          "title": "Hammack - Justice Sotomayor",
+          "start": 372.6
+        },
+        {
+          "title": "Hammack - Justice Kavanaugh",
+          "start": 481.09999999999997
+        },
+        {
+          "title": "Hammack - Justice Jackson",
+          "start": 530.48
+        },
+        {
+          "title": "Hammack - Justice Barrett",
+          "start": 740.28
+        },
+        {
+          "title": "Hammack - Justice Alito",
+          "start": 805.98
+        },
+        {
+          "title": "Hammack - Justice Kagan",
+          "start": 831.26
+        },
+        {
+          "title": "Hammack - Justice Kavanaugh",
+          "start": 883.94
+        },
+        {
+          "title": "Hammack - Justice Sotomayor",
+          "start": 909.1600000000001
+        },
+        {
+          "title": "Hammack - Justice Alito",
+          "start": 963.22
+        },
+        {
+          "title": "Hammack - Justice Kavanaugh",
+          "start": 1117.74
+        },
+        {
+          "title": "Hammack - Justice Kagan",
+          "start": 1209.02
+        },
+        {
+          "title": "Hammack - Justice Barrett",
+          "start": 1258.66
+        },
+        {
+          "title": "Hammack - Justice Jackson",
+          "start": 1363.3400000000001
+        },
+        {
+          "title": "Hammack - Justice Kavanaugh",
+          "start": 1442.38
+        },
+        {
+          "title": "Hammack - Justice Alito",
+          "start": 1536.18
+        },
+        {
+          "title": "Hammack - Justice Thomas",
+          "start": 1711.26
+        },
+        {
+          "title": "Hammack - Justice Kavanaugh",
+          "start": 1875.1
+        },
+        {
+          "title": "Hammack - Justice Barrett",
+          "start": 2112.1200000000003
+        },
+        {
+          "title": "Hammack - Justice Jackson",
+          "start": 2180.2000000000003
+        },
+        {
+          "title": "Paul D. Clement (for the Respondent)",
+          "start": 2284.3599999999997
+        },
+        {
+          "title": "Clement - Justice Thomas",
+          "start": 2408.22
+        },
+        {
+          "title": "Clement - Justice Roberts",
+          "start": 2592.58
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 2676.6800000000003
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 2778.06
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 2982.0
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 3131.52
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 3167.04
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 3256.54
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 3269.08
+        },
+        {
+          "title": "Clement - Justice Kavanaugh",
+          "start": 3324.7400000000002
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 3365.04
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 3540.44
+        },
+        {
+          "title": "Clement - Justice Jackson",
+          "start": 3634.5
+        },
+        {
+          "title": "Clement - Justice Alito",
+          "start": 4097.16
+        },
+        {
+          "title": "Clement - Justice Sotomayor",
+          "start": 4428.4
+        },
+        {
+          "title": "Clement - Justice Kagan",
+          "start": 4613.22
+        },
+        {
+          "title": "Clement - Justice Gorsuch",
+          "start": 4733.2
+        },
+        {
+          "title": "Clement - Justice Barrett",
+          "start": 4850.360000000001
+        },
+        {
+          "title": "Joshua I. Hammack (for the Petitioner)",
+          "start": 4900.06
+        }
+      ],
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-459.vtt"
     }
   }
 }

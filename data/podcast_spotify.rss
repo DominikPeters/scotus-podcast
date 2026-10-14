@@ -33,12 +33,58 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
         rel="self" type="application/rss+xml" />
         <item>
             <title>[25-459] Salazar v. Paramount Global</title>
-            <description><![CDATA[<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>]]></description>
-            <enclosure url="https://podcast.scotusstats.com/2026/25-459.mp3" length="40651518" type="audio/mpeg"/>
+            <description><![CDATA[<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>
+
+Chapters:
+00:00:00 Joshua I. Hammack (for the Petitioner)
+00:02:09 Hammack - Justice Thomas
+00:03:05 Hammack - Justice Roberts
+00:04:52 Hammack - Justice Barrett
+00:06:12 Hammack - Justice Sotomayor
+00:08:01 Hammack - Justice Kavanaugh
+00:08:50 Hammack - Justice Jackson
+00:12:20 Hammack - Justice Barrett
+00:13:25 Hammack - Justice Alito
+00:13:51 Hammack - Justice Kagan
+00:14:43 Hammack - Justice Kavanaugh
+00:15:09 Hammack - Justice Sotomayor
+00:16:03 Hammack - Justice Alito
+00:18:37 Hammack - Justice Kavanaugh
+00:20:09 Hammack - Justice Kagan
+00:20:58 Hammack - Justice Barrett
+00:22:43 Hammack - Justice Jackson
+00:24:02 Hammack - Justice Kavanaugh
+00:25:36 Hammack - Justice Alito
+00:28:31 Hammack - Justice Thomas
+00:31:15 Hammack - Justice Kavanaugh
+00:35:12 Hammack - Justice Barrett
+00:36:20 Hammack - Justice Jackson
+00:38:04 Paul D. Clement (for the Respondent)
+00:40:08 Clement - Justice Thomas
+00:43:12 Clement - Justice Roberts
+00:44:36 Clement - Justice Kagan
+00:46:18 Clement - Justice Jackson
+00:49:42 Clement - Justice Kavanaugh
+00:52:11 Clement - Justice Kagan
+00:52:47 Clement - Justice Sotomayor
+00:54:16 Clement - Justice Kavanaugh
+00:54:29 Clement - Justice Kagan
+00:55:24 Clement - Justice Kavanaugh
+00:56:05 Clement - Justice Kagan
+00:59:00 Clement - Justice Barrett
+01:00:34 Clement - Justice Jackson
+01:08:17 Clement - Justice Alito
+01:13:48 Clement - Justice Sotomayor
+01:16:53 Clement - Justice Kagan
+01:18:53 Clement - Justice Gorsuch
+01:20:50 Clement - Justice Barrett
+01:21:40 Joshua I. Hammack (for the Petitioner)]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-459.mp3" length="40649116" type="audio/mpeg"/>
             <guid>scotus_2026_25-459_v0</guid>
             <itunes:duration>5080</itunes:duration>
             <itunes:season>2026</itunes:season>
             <pubDate>Wed, 14 Oct 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-459.vtt" type="text/vtt" />
         </item>
     <item>
             <title>[25-5343] Beaird v. United States</title>
