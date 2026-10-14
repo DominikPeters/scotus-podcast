@@ -47,4 +47,16 @@ class AlignmentTests(unittest.TestCase):
         r=fixture();data={'2026':{'25-170':{'argument_date':'2026-10-01'}}}
         self.assertIsNone(apply_recording(data,self.entry(r),r,dry_run=True))
 
+class ArtworkTests(unittest.TestCase):
+    def test_artwork_only_revision_never_retags_audio(self):
+        r=fixture();r['alignment_revision']='a'*64;r['artwork']={'sha256':'c'*64}
+        entry={key:r[key] for key in ('recording_id','term','docket')}|{'revision':'b'*64,'artwork_sha256':'c'*64,'artwork_url':'https://scotusstats.com/podcast/alignment/case.jpg'}
+        data={'2026':{'25-170':{'alignment_revision':'a'*64,'media_revision':'keep','chapters':[{'title':'Jane','start':0}]}}}
+        with patch('get_alignment.obtain_audio') as audio,patch('get_alignment.write_chapter_tags') as tags:
+            result=apply_recording(data,entry,r)
+            self.assertTrue(result['artwork_only']);audio.assert_not_called();tags.assert_not_called()
+            self.assertEqual(data['2026']['25-170']['media_revision'],'keep')
+            self.assertEqual(data['2026']['25-170']['artwork_url'],entry['artwork_url'])
+            self.assertIsNone(apply_recording(data,entry,r))
+
 if __name__=='__main__':unittest.main()

@@ -112,15 +112,16 @@ def build_podcast(spotify=False):
 
             description = case['description']
             if spotify and 'chapters' in case:
-                description += "\n\nChapters:\n"
-                for chapter in case['chapters']:
-                    description += f"{seconds_to_string(chapter['start'])} {chapter['title']}\n"
+                lines = [f"{seconds_to_string(chapter['start'])} {html.escape(chapter['title'])}" for chapter in case['chapters']]
+                description += "<p>Chapters:<br/>" + "<br/>".join(lines) + "</p>"
 
             # check if we have a transcript
             transcript_tag = ""
             if "vtt_url" in case:
                 vtt_url = case["vtt_url"]
                 transcript_tag = f'\n            <podcast:transcript url="{vtt_url}" type="text/vtt" />'
+
+            artwork_tag = f'\n            <itunes:image href="{html.escape(case["artwork_url"],quote=True)}"/>' if case.get('artwork_url') else ''
 
             # Build rss item
             rss_items.append(f"""    <item>
@@ -130,7 +131,7 @@ def build_podcast(spotify=False):
             <guid>scotus_{term}_{docket_number}_v0</guid>
             <itunes:duration>{case['mp3_length']}</itunes:duration>
             <itunes:season>{term}</itunes:season>
-            <pubDate>{argued_date_for_rss}</pubDate>{transcript_tag}
+            <pubDate>{argued_date_for_rss}</pubDate>{transcript_tag}{artwork_tag}
         </item>""")
             
     rss_items = "\n".join(rss_items)

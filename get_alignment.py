@@ -56,7 +56,17 @@ def apply_recording(data,entry,recording,dry_run=False):
     previous=existing.get('argument_date') or (datetime.fromtimestamp(existing['date_argued_timestamp'],timezone.utc).date().isoformat() if existing.get('date_argued_timestamp') else None)
     if previous and previous!=date:
         log.warning('Multiple hearings for %s: retaining existing episode; owner decision needed',docket);return None
-    if existing.get('alignment_revision')==entry['revision']:return None
+    alignment_revision=recording.get('alignment_revision',entry['revision'])
+    artwork_url=entry.get('artwork_url')
+    if artwork_url:
+        parsed=urlsplit(artwork_url)
+        if parsed.scheme!='https' or parsed.hostname!='scotusstats.com' or not parsed.path.startswith('/podcast/alignment/') or not parsed.path.endswith('.jpg'):raise ValueError('Unexpected episode artwork endpoint')
+        if entry.get('artwork_sha256')!=recording.get('artwork',{}).get('sha256'):raise ValueError('Artwork identity differs')
+    if existing.get('alignment_revision')==alignment_revision:
+        if not artwork_url or existing.get('artwork_url')==artwork_url:return None
+        if not dry_run:
+            existing['artwork_url']=artwork_url;existing['podcast_export_revision']=entry['revision']
+        return {'recording':recording['recording_id'],'revision':entry['revision'],'chapters':existing.get('chapters',[]),'artwork_only':True}
     chapters=build_chapters(*chapter_inputs(recording))
     result={'recording':recording['recording_id'],'revision':entry['revision'],'chapters':chapters}
     if dry_run:return result
@@ -71,7 +81,8 @@ def apply_recording(data,entry,recording,dry_run=False):
         date_argued_timestamp=existing.get('date_argued_timestamp') or int(datetime.fromisoformat(date).replace(tzinfo=timezone.utc).timestamp()),
         chapters=chapters,mp3_length=int(recording['audio']['duration_seconds']),mp3_size=size,source='scotus',
         audio_source='scotus',audio_sha256=recording['audio']['sha256'],alignment_source='scotus_ctc',
-        alignment_revision=entry['revision'],media_revision=entry['revision'])
+        alignment_revision=alignment_revision,media_revision=alignment_revision,podcast_export_revision=entry['revision'])
+    if artwork_url:record['artwork_url']=artwork_url
     record.setdefault('description',f"<p>Oral argument for {html.escape(recording['case_name'])}, argued on {datetime.fromisoformat(date).strftime('%B %d, %Y')}.</p>")
     record.setdefault('description_source','oyez' if existing.get('source')=='oyez' or 'Facts of the case (from oyez.org)' in record.get('description','') else 'scotus')
     if record['description_source']=='scotus':record['description']=record['description'].replace('<p>Once a transcript is available on oyez.org, the recording and this description will be replaced by more detailed information.</p>','').strip()
@@ -90,7 +101,7 @@ def get_from_alignment(dry_run=False):
         log.exception('Alignment index unavailable; continuing with existing episodes and Oyez');return []
     results=[]
     for entry in sorted(index.get('recordings',{}).values(),key=lambda e:e['argument_date']):
-        if data.get(entry['term'],{}).get(entry['docket'],{}).get('alignment_revision')==entry['revision']:continue
+        if data.get(entry['term'],{}).get(entry['docket'],{}).get('podcast_export_revision',data.get(entry['term'],{}).get(entry['docket'],{}).get('alignment_revision'))==entry['revision']:continue
         try:
             recording,raw=fetch_json(entry['url'])
             if hashlib.sha256(raw).hexdigest()!=entry['revision']:raise ValueError('Export checksum differs')
