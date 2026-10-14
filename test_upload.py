@@ -17,14 +17,18 @@ class UploadTests(unittest.TestCase):
             try:
                 Path('data').mkdir();Path('vtt/2026').mkdir(parents=True);Path('vtt/2026/25-170.vtt').write_text('WEBVTT\n')
                 Path('commit_message.txt').write_text('Alignment chapters for 25-170.')
-                case={'name':'Example','description':'Facts','date_argued_timestamp':1791158400,'mp3_length':30,'mp3_size':123,'b2_url':'https://podcast.scotusstats.com/2026/25-170.mp3','media_revision':'new','media_uploaded_revision':'old','chapters':[{'start':0,'title':'Advocate'},{'start':5,'title':'Justice Thomas'}]}
+                case={'name':'Example','artwork_url':'https://scotusstats.com/podcast/alignment/example.jpg','description':'Facts','date_argued_timestamp':1791158400,'mp3_length':30,'mp3_size':123,'b2_url':'https://podcast.scotusstats.com/2026/25-170.mp3','media_revision':'new','media_uploaded_revision':'old','chapters':[{'start':0,'title':'Advocate'},{'start':5,'title':'Justice Thomas'}]}
                 Path('data/case_data.json').write_text(json.dumps({'2026':{'25-170':case}}))
                 with patch('upload_podcast.upload_to_r2') as media,patch('upload_podcast.upload_rss') as rss:
                     upload_podcast.build_podcast();upload_podcast.build_podcast(spotify=True)
                     self.assertEqual(media.call_count,2);self.assertEqual(rss.call_count,2)
                     data=json.loads(Path('data/case_data.json').read_text());self.assertEqual(data['2026']['25-170']['media_uploaded_revision'],'new');self.assertIn('vtt_url',data['2026']['25-170'])
                     self.assertIn('<guid>scotus_2026_25-170_v0</guid>',Path('data/podcast.rss').read_text())
-                    self.assertIn('00:00:05 Justice Thomas',Path('data/podcast_spotify.rss').read_text())
+                    spotify_feed=Path('data/podcast_spotify.rss').read_text()
+                    self.assertIn('00:00:05 Justice Thomas',spotify_feed)
+                    for feed in ('podcast.rss','podcast_spotify.rss'):
+                        self.assertIn('<itunes:image href="https://scotusstats.com/podcast/alignment/example.jpg"/>',Path('data',feed).read_text())
+                    self.assertIn('Chapters:<br/>00:00:00 Advocate<br/>00:00:05 Justice Thomas</p>',spotify_feed)
                     media.reset_mock();rss.reset_mock();upload_podcast.build_podcast();upload_podcast.build_podcast(spotify=True)
                     media.assert_not_called();rss.assert_not_called()
             finally:os.chdir(old)
