@@ -10,7 +10,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-340.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-340-fb406933e3a6fe971df05c1881fb593e5b7a5847c42ed8004ca8e320d76f639f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-340-fb406933e3a6fe971df05c1881fb593e5b7a5847c42ed8004ca8e320d76f639f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=YErrK1FEMCw"
     },
     "22-448": {
       "docket_number": "22-448",
@@ -22,7 +23,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-448.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-448-3b86c7c3aa5c47542bd02d41296d91253c12ef57f63667bc796c17842737942c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-448-3b86c7c3aa5c47542bd02d41296d91253c12ef57f63667bc796c17842737942c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ktVU15NV2Zo"
     },
     "22-429": {
       "docket_number": "22-429",
@@ -34,7 +36,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-429.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-429-0685d11c284a48333f4c45730d66670aa49b6ad7ea56d3e34a50e458bf63ddb6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-429-0685d11c284a48333f4c45730d66670aa49b6ad7ea56d3e34a50e458bf63ddb6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=zaunjcCuK4Y"
     },
     "22-660": {
       "docket_number": "22-660",
@@ -45,7 +48,8 @@
       "mp3_size": 42270106,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-660.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-660.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=1z5dFFtDRlA"
     },
     "22-500": {
       "docket_number": "22-500",
@@ -56,7 +60,8 @@
       "mp3_size": 34029933,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-500.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-500.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=owyCGBU0Ag4"
     },
     "22-807": {
       "docket_number": "22-807",
@@ -67,7 +72,8 @@
       "mp3_size": 60037859,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-807.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-807.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=s5AObcYIRAc"
     },
     "22-585": {
       "docket_number": "22-585",
@@ -79,7 +85,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-585.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-585-f2e47fa42266fc81df17cc4bad991bff3f0ee17cb075684c2088d9da15fdbbc8.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-585-f2e47fa42266fc81df17cc4bad991bff3f0ee17cb075684c2088d9da15fdbbc8.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=u8QzbJG3es4"
     },
     "22-324": {
       "docket_number": "22-324",
@@ -91,7 +98,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-324.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-324-a8d3a830c94de0da2ca2812a85508f5858e072ea7cf3764d6b5e25d46c586f3f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-324-a8d3a830c94de0da2ca2812a85508f5858e072ea7cf3764d6b5e25d46c586f3f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=wmFgf1Jm1-k"
     },
     "22-611": {
       "docket_number": "22-611",
@@ -102,7 +110,8 @@
       "mp3_size": 18595102,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-611.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-611.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=AX7bRkWKUiE"
     },
     "22-704": {
       "docket_number": "22-704",
@@ -114,7 +123,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-704.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-704-04d0288990bfb9f082912565f67d090381b2c01e038757c9afb35ba16aa1a114.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-704-04d0288990bfb9f082912565f67d090381b2c01e038757c9afb35ba16aa1a114.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XmRWhEo_KCs"
     },
     "22-846": {
       "docket_number": "22-846",
@@ -125,7 +135,8 @@
       "mp3_size": 18862387,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-846.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-846.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=s97Y1K0zbT4"
     },
     "22-915": {
       "docket_number": "22-915",
@@ -136,7 +147,8 @@
       "mp3_size": 22273457,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-915.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-915.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=ha34W2VDjPg"
     },
     "22-888": {
       "docket_number": "22-888",
@@ -148,7 +160,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-888.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-888-2bbe100b364ace4f7a424224341ac4f44cd5b365d47014e3b37711bb040a6135.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-888-2bbe100b364ace4f7a424224341ac4f44cd5b365d47014e3b37711bb040a6135.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XaIvbc238Xw"
     },
     "22-6389": {
       "docket_number": "22-6389",
@@ -160,7 +173,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-6389.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-6389-44b38724d3ce120c434ac52ef11f333cde8170d25a2d7f75b7cbf56b8ce6b95f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-6389-44b38724d3ce120c434ac52ef11f333cde8170d25a2d7f75b7cbf56b8ce6b95f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=kLWw10iQZAA"
     },
     "22-721": {
       "docket_number": "22-721",
@@ -172,7 +186,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-721.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-721-36c5a3647e18c34ca181ed0798c6fb97214c5ab239e4e0fb07ee4792d12ccafa.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-721-36c5a3647e18c34ca181ed0798c6fb97214c5ab239e4e0fb07ee4792d12ccafa.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XCWkRiI_e4o"
     },
     "22-666": {
       "docket_number": "22-666",
@@ -184,7 +199,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-666.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-666-b9fa59cda7ca2c47081a7b957c81463566ce904ba399517239953ebdc8f3e98b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-666-b9fa59cda7ca2c47081a7b957c81463566ce904ba399517239953ebdc8f3e98b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=h-eZuPiBLrQ"
     },
     "22-859": {
       "docket_number": "22-859",
@@ -196,7 +212,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-859.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-859-a56be751735791fd8b694ce5f0781a33577d8c0a5a6028873a45f312ef954ef8.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-859-a56be751735791fd8b694ce5f0781a33577d8c0a5a6028873a45f312ef954ef8.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=40Srw10zkZw"
     },
     "23-124": {
       "docket_number": "23-124",
@@ -208,7 +225,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-124.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-124-a58997e5d63c52178904b9e54d250b192117c8b885a648b5dd4bc08d97d50cf9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-124-a58997e5d63c52178904b9e54d250b192117c8b885a648b5dd4bc08d97d50cf9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=48mk0SQXiEI"
     },
     "22-800": {
       "docket_number": "22-800",
@@ -220,7 +238,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-800.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-800-c8e1b739328e257ab65e2090f2f119e3ef0d816339ea55a417445d142c2a0bd1.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-800-c8e1b739328e257ab65e2090f2f119e3ef0d816339ea55a417445d142c2a0bd1.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=boS1QmTdzP8"
     },
     "22-193": {
       "docket_number": "22-193",
@@ -232,7 +251,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-193.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-193-a3c8a4e0cc71bc3ae8ea2503d0496a26ffc7dd519e6d7bc20fd62c186e475d9b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-193-a3c8a4e0cc71bc3ae8ea2503d0496a26ffc7dd519e6d7bc20fd62c186e475d9b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=9k7gsTAyr-o"
     },
     "22-674": {
       "docket_number": "22-674",
@@ -244,7 +264,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-674.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-674-ae6ddbbb77042716f3860a384b6c27de3c9840d279ff822e410ddcec89046d12.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-674-ae6ddbbb77042716f3860a384b6c27de3c9840d279ff822e410ddcec89046d12.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XMUlN7UrlME"
     },
     "22-1178": {
       "docket_number": "22-1178",
@@ -256,7 +277,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1178.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1178-87d7f2e403d79a94fd684aa78f5edf18f0a07f91001c557841fa05f8219c22a0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1178-87d7f2e403d79a94fd684aa78f5edf18f0a07f91001c557841fa05f8219c22a0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4iHoXYoTcnU"
     },
     "22-1074": {
       "docket_number": "22-1074",
@@ -268,7 +290,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1074.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1074-8ee7d2f9b05f0d0d624b8fe60026eeeb95f7d05b15a3b99c80e640d2a7fd6e54.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1074-8ee7d2f9b05f0d0d624b8fe60026eeeb95f7d05b15a3b99c80e640d2a7fd6e54.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=uFjX2UbTRx8"
     },
     "22-1238": {
       "docket_number": "22-1238",
@@ -280,7 +303,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1238.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1238-eb4b78ebf040361533062cdb33085866d44da46494bb17d99eacc87db48e1cb8.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1238-eb4b78ebf040361533062cdb33085866d44da46494bb17d99eacc87db48e1cb8.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=JWqaGHXePiM"
     },
     "22-899": {
       "docket_number": "22-899",
@@ -292,7 +316,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-899.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-899-b36e791c91ce30a3c7f50cf57471a88be70dbc971a9e722d7adf2bdb7d365de8.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-899-b36e791c91ce30a3c7f50cf57471a88be70dbc971a9e722d7adf2bdb7d365de8.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Zxy53Qgi9QU"
     },
     "22-1165": {
       "docket_number": "22-1165",
@@ -304,7 +329,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1165.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1165-b6d48a6f361c58a6453c101a40e9a282f1a450382c8e57e4c10f6a047b48af2a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1165-b6d48a6f361c58a6453c101a40e9a282f1a450382c8e57e4c10f6a047b48af2a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5JgvuJFSiN8"
     },
     "22-913": {
       "docket_number": "22-913",
@@ -316,7 +342,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-913.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-913-27272ceeb8dad0b933e909332f5ec31ef090aa31cddb7d19419bf5047d87078e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-913-27272ceeb8dad0b933e909332f5ec31ef090aa31cddb7d19419bf5047d87078e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=OqpVdv_KkjE"
     },
     "22-1219": {
       "docket_number": "22-1219",
@@ -328,7 +355,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1219.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1219-f14d94e7659ea3e9981a0ec8cef504584286b716e2e0df6266e75286361b9a9c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1219-f14d94e7659ea3e9981a0ec8cef504584286b716e2e0df6266e75286361b9a9c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=IO4H6aJLBls"
     },
     "22-451": {
       "docket_number": "22-451",
@@ -340,7 +368,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-451.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-451-535b68623ab22701e61e3f78a22b991f80d651cc0ca82deaee81935a8581f008.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-451-535b68623ab22701e61e3f78a22b991f80d651cc0ca82deaee81935a8581f008.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=t-uJtoTbEYc"
     },
     "23-719": {
       "docket_number": "23-719",
@@ -352,7 +381,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-719.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-719-6860e3c86dfd95263558c38a0621b32a8c1798ecc4dd70ac1ef78e2f870fa7ac.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-719-6860e3c86dfd95263558c38a0621b32a8c1798ecc4dd70ac1ef78e2f870fa7ac.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=SKbIcf-QuQU"
     },
     "22-1008": {
       "docket_number": "22-1008",
@@ -364,7 +394,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1008.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1008-816f4e111d9cf0155a5f3a20c117822a6cab3924fd37fc61c34c7be5ddb3de07.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1008-816f4e111d9cf0155a5f3a20c117822a6cab3924fd37fc61c34c7be5ddb3de07.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=c9b2T1LkYC8"
     },
     "23-51": {
       "docket_number": "23-51",
@@ -376,7 +407,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-51.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-51-90935f67e549b5af65d587b005fd5d617fd74367d715c3eefc8921b079535500.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-51-90935f67e549b5af65d587b005fd5d617fd74367d715c3eefc8921b079535500.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=We2DpOFXavg"
     },
     "22-1078": {
       "docket_number": "22-1078",
@@ -388,7 +420,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1078.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1078-e930cc6faed2e39fd8502cddafe392037d8de42e32248cb443e5200b18898a14.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1078-e930cc6faed2e39fd8502cddafe392037d8de42e32248cb443e5200b18898a14.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=w3FW7S3bLJo"
     },
     "23A349": {
       "docket_number": "23A349",
@@ -400,7 +433,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23A349.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23A349-2b9cf93891c1e7ce3d62cfdfc9226db65a228a7c3f5bd9afdc7b5a0a6cf2fad2.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23A349-2b9cf93891c1e7ce3d62cfdfc9226db65a228a7c3f5bd9afdc7b5a0a6cf2fad2.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Qbt8G3LWhoM"
     },
     "22-277": {
       "docket_number": "22-277",
@@ -412,7 +446,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-277.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-277-9a114ee9bb08cdb9b8236f0bfc82abda64c92bccc0ced68ec8fc1c278df2b9a9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-277-9a114ee9bb08cdb9b8236f0bfc82abda64c92bccc0ced68ec8fc1c278df2b9a9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=wXqea8QnEBY"
     },
     "22-555": {
       "docket_number": "22-555",
@@ -424,7 +459,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-555.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-555-61f635c759daee7022ff096ae03fa8903bcbd5141cd85de152721855b37098d9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-555-61f635c759daee7022ff096ae03fa8903bcbd5141cd85de152721855b37098d9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=THscFbq4yh0"
     },
     "22-7386": {
       "docket_number": "22-7386",
@@ -436,7 +472,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-7386.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-7386-53abd5c643636be94e6206a57139d6adb83bfe413078b911b71c86b3b3ff8ea3.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-7386-53abd5c643636be94e6206a57139d6adb83bfe413078b911b71c86b3b3ff8ea3.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=TBFBLlwMT8M"
     },
     "22-529": {
       "docket_number": "22-529",
@@ -448,7 +485,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-529.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-529-0a89dce353d8308d670e369601bdbad86eb990373f166763aa8dbb14b7c57622.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-529-0a89dce353d8308d670e369601bdbad86eb990373f166763aa8dbb14b7c57622.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Fk3_OWdX_Ug"
     },
     "22-976": {
       "docket_number": "22-976",
@@ -619,7 +657,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-976.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-976.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-976-364be26ce4bc61d25c693ec502f40136290c257e072f70dffb735de9712f9b80.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-976-364be26ce4bc61d25c693ec502f40136290c257e072f70dffb735de9712f9b80.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=FvuF5a9HvA0"
     },
     "23-3": {
       "docket_number": "23-3",
@@ -729,7 +768,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-3.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-3-0e89c46fb7f272ec4a9458b1ee7328481a94ae7bb65acad101bcd91cb90e244a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-3-0e89c46fb7f272ec4a9458b1ee7328481a94ae7bb65acad101bcd91cb90e244a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=C2AMMruMVbc"
     },
     "23-411": {
       "docket_number": "23-411",
@@ -904,7 +944,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-411.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-411-a7c641f9c1290c8657e6fe298549b225fa8107c2a9422145a050fc75325d9ea1.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-411-a7c641f9c1290c8657e6fe298549b225fa8107c2a9422145a050fc75325d9ea1.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=851bH8JE-aQ"
     },
     "22-842": {
       "docket_number": "22-842",
@@ -1058,7 +1099,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-842.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-842-568687d4799f3598b0eace2691bb914ce1668f22ece12ed74292ea02629f7976.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-842-568687d4799f3598b0eace2691bb914ce1668f22ece12ed74292ea02629f7976.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=z30hlCcPXpY"
     },
     "23-14": {
       "docket_number": "23-14",
@@ -1245,7 +1287,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-14.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-14.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-14-a9c440b9a6ddf7124ea035c849c4ab7e9d65db86537d5137dbd513669f019551.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-14-a9c440b9a6ddf7124ea035c849c4ab7e9d65db86537d5137dbd513669f019551.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=FcARgKrWVes"
     },
     "22-1079": {
       "docket_number": "22-1079",
@@ -1416,7 +1459,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1079.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1079.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1079-d446ad33bef7311ced5b0b0b8dad809b30f93879cbbb0e99aae10ec44245893f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1079-d446ad33bef7311ced5b0b0b8dad809b30f93879cbbb0e99aae10ec44245893f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ovbF78Mly44"
     },
     "22-1025": {
       "docket_number": "22-1025",
@@ -1598,7 +1642,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1025.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1025-1ae9d4fab4c0514e69b4e81e5cb87eaa7101345530107d3c7db1ec38d6cd594c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1025-1ae9d4fab4c0514e69b4e81e5cb87eaa7101345530107d3c7db1ec38d6cd594c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Y0XyQF2CqP4"
     },
     "22O141": {
       "docket_number": "22O141",
@@ -1951,7 +1996,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-250.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-250-7f9346cb23487cdf9f8305504551bada12be8b23c682f9e1f66a990d00b1fc7e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-250-7f9346cb23487cdf9f8305504551bada12be8b23c682f9e1f66a990d00b1fc7e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=QhMoLbu9xV8"
     },
     "23-21": {
       "docket_number": "23-21",
@@ -2069,7 +2115,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-21.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-21-c94adcdd9f99c811e69f7ad3aebf39b557f87e5cded9e532f73d5d0ad66645c4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-21-c94adcdd9f99c811e69f7ad3aebf39b557f87e5cded9e532f73d5d0ad66645c4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=94Qg-suOknE"
     },
     "23-235": {
       "docket_number": "23-235",
@@ -2235,7 +2282,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-235.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-235-0438337f144eb15d41021661dde085232cc8e1787e32246c61af7ec4210fbc31.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-235-0438337f144eb15d41021661dde085232cc8e1787e32246c61af7ec4210fbc31.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=TzXCPlqpRiI"
     },
     "23-370": {
       "docket_number": "23-370",
@@ -2402,7 +2450,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-370.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-370-9aebde8660e9a188fdf579e80316c51e6a2f083f14e2cd842d71bfb1b7066ed3.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-370-9aebde8660e9a188fdf579e80316c51e6a2f083f14e2cd842d71bfb1b7066ed3.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Mt3B01Xua3A"
     },
     "23-146": {
       "docket_number": "23-146",
@@ -2712,7 +2761,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-108.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-108-e62ab2df7cc9023599ed42270d546fd15eecefaa6076b78c8a8b510690b364ac.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-108-e62ab2df7cc9023599ed42270d546fd15eecefaa6076b78c8a8b510690b364ac.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=7VX9AASKagQ"
     },
     "23-50": {
       "docket_number": "23-50",
@@ -2846,7 +2896,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-50.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-50-42b657fa59493652e35f090f6dc07f255db59e04afeeee9c8eed1149551d8d99.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-50-42b657fa59493652e35f090f6dc07f255db59e04afeeee9c8eed1149551d8d99.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=SVa5XueG20A"
     },
     "23-5572": {
       "docket_number": "23-5572",
@@ -2985,7 +3036,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-5572.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-5572-5d4915d37d2684d261fdfb3abe8cfd67dc21fe564d7d309540dbfaf9c57181a2.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-5572-5d4915d37d2684d261fdfb3abe8cfd67dc21fe564d7d309540dbfaf9c57181a2.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=8rBKMXbep5w"
     },
     "22-982": {
       "docket_number": "22-982",
@@ -3127,7 +3179,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-982.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-982-e5cd8c82e5f7c6f2cf331c3f8ce477772661848de8c479dd58838ece696f7078.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-982-e5cd8c82e5f7c6f2cf331c3f8ce477772661848de8c479dd58838ece696f7078.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4CnTvnhw4_c"
     },
     "23-175": {
       "docket_number": "23-175",
@@ -3346,7 +3399,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-175.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-175.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-175-63f44cdade05b629eeca69e1c5bdc442afa4cc481dc3ace0d9c7ee732c4f5bf6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-175-63f44cdade05b629eeca69e1c5bdc442afa4cc481dc3ace0d9c7ee732c4f5bf6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=xNxM1fJ_llU"
     },
     "22-1218": {
       "docket_number": "22-1218",
@@ -3452,7 +3506,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/22-1218.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1218-8ba428bccfe9d606b13ce2d4777b25db259bc8d67fb0d65e045b1bf76419aa8e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/22-1218-8ba428bccfe9d606b13ce2d4777b25db259bc8d67fb0d65e045b1bf76419aa8e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=75gz_Qv0XIQ"
     },
     "23-334": {
       "docket_number": "23-334",
@@ -3623,7 +3678,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-334.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-334-ee9c6740a18a8188520195e5bf00cbcc5f073b67ca708653359bdb74f28ccb55.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-334-ee9c6740a18a8188520195e5bf00cbcc5f073b67ca708653359bdb74f28ccb55.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=iPgojW8uHPU"
     },
     "23-367": {
       "docket_number": "23-367",
@@ -3793,7 +3849,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-367.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-367-0e9869d249f38d9dc9aa13df64a66e3f9240e96f2cf197de3387209859ebf5cd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-367-0e9869d249f38d9dc9aa13df64a66e3f9240e96f2cf197de3387209859ebf5cd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=mPVXeuhC9R8"
     },
     "23-726": {
       "docket_number": "23-726",
@@ -3959,7 +4016,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-726.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-726-ded2ac47fc9d6bba036768a7101568569128ec7f73a52f884c85b3f6f7a45ddd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-726-ded2ac47fc9d6bba036768a7101568569128ec7f73a52f884c85b3f6f7a45ddd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=LGoCamynvTg"
     },
     "23-939": {
       "docket_number": "23-939",
@@ -4125,7 +4183,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2023/23-939.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-939-b4e23a0bb791802c3bd5b6bf553f7a0b95d71e8a0d5f617a6563b2c4eae1a98f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2023/23-939-b4e23a0bb791802c3bd5b6bf553f7a0b95d71e8a0d5f617a6563b2c4eae1a98f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=JsNWLEofTjU"
     }
   },
   "2022": {
@@ -4139,7 +4198,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2022/20-1199.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2022/20-1199-4404ece7d1a1e4abfc48283457a730b04891c9fa16b4a2099095ca7a14989740.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2022/20-1199-4404ece7d1a1e4abfc48283457a730b04891c9fa16b4a2099095ca7a14989740.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=xq5-84HgDiE"
     },
     "21-86": {
       "docket_number": "21-86",
@@ -4175,7 +4235,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2022/21-476.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2022/21-476-cbbb69d5395840b24c66a1f0b9c78d6642cd027d1781fda864175607e0487560.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2022/21-476-cbbb69d5395840b24c66a1f0b9c78d6642cd027d1781fda864175607e0487560.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=nBtC0SRs4mA"
     },
     "21-432": {
       "docket_number": "21-432",
@@ -4849,7 +4910,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-5279.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-5279-92c91a74547448ebada1cf857d4fdfecdffd711c4ff70d68cf2124ac6fa14cce.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-5279-92c91a74547448ebada1cf857d4fdfecdffd711c4ff70d68cf2124ac6fa14cce.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=aZf1GWgguCQ"
     },
     "20-659": {
       "docket_number": "20-659",
@@ -4861,7 +4923,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-659.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-659-9123c6ab12df40979afdf7f058b314bb064c0dedd91c24c8b98904b5512ed128.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-659-9123c6ab12df40979afdf7f058b314bb064c0dedd91c24c8b98904b5512ed128.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=_ynA8hZol7I"
     },
     "20-480": {
       "docket_number": "20-480",
@@ -4873,7 +4936,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-480.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-480-c39d08b1a0bc710724f01b1c3178560d8698961fa3ff59761cb8111481d1bdeb.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-480-c39d08b1a0bc710724f01b1c3178560d8698961fa3ff59761cb8111481d1bdeb.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=AVBUq5pm7jg"
     },
     "20-303": {
       "docket_number": "20-303",
@@ -4885,7 +4949,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-303.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-303-71a7ea1632fdf3118916e47272259aacf792595e33cad68826ad8cb64b5114ae.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-303-71a7ea1632fdf3118916e47272259aacf792595e33cad68826ad8cb64b5114ae.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=0FeFJkG_Zfk"
     },
     "20-443": {
       "docket_number": "20-443",
@@ -4897,7 +4962,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-443.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-443-0dd38e3931d521dacaf1db77a9c489609cc093e1868322005ccb42971299b3de.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-443-0dd38e3931d521dacaf1db77a9c489609cc093e1868322005ccb42971299b3de.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=7wzD2_QF1BE"
     },
     "20-601": {
       "docket_number": "20-601",
@@ -4909,7 +4975,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-601.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-601-9bf39989165c186395987b4b3091750bc707dc7e8ac9846661e23525f19df594.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-601-9bf39989165c186395987b4b3091750bc707dc7e8ac9846661e23525f19df594.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ISs_mhcrEQA"
     },
     "20-826": {
       "docket_number": "20-826",
@@ -4921,7 +4988,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-826.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-826-58d52c68ccad573a967c08d0d26dafc559b60ec4d6ecab45d28e353146eae780.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-826-58d52c68ccad573a967c08d0d26dafc559b60ec4d6ecab45d28e353146eae780.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=_Y2q6ZvYNcc"
     },
     "20-637": {
       "docket_number": "20-637",
@@ -4933,7 +5001,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-637.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-637-ede40fe3a1b248098baf6439ed7618b29f0a875d3f092627a95a19dbc63f377c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-637-ede40fe3a1b248098baf6439ed7618b29f0a875d3f092627a95a19dbc63f377c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Lq1zHHSdUJ4"
     },
     "20-804": {
       "docket_number": "20-804",
@@ -4945,7 +5014,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-804.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-804-d6d725412cc5ac419529624cdf12e4789272ad08beaca4e4f2e3a7feeff15c93.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-804-d6d725412cc5ac419529624cdf12e4789272ad08beaca4e4f2e3a7feeff15c93.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=WrBVKgLTGoA"
     },
     "20-827": {
       "docket_number": "20-827",
@@ -4957,7 +5027,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-827.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-827-68031bef1532380def7b18236d613ba0441d108c2d30de026eb859220926212f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-827-68031bef1532380def7b18236d613ba0441d108c2d30de026eb859220926212f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=zDbyolA2I2U"
     },
     "20-843": {
       "docket_number": "20-843",
@@ -4969,7 +5040,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-843.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-843-a04cc419f49d6494949a98d89791c082082c0012d0842501b088c64d830ce580.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-843-a04cc419f49d6494949a98d89791c082082c0012d0842501b088c64d830ce580.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=y1FTHohwiI4"
     },
     "19-1392": {
       "docket_number": "19-1392",
@@ -4981,7 +5053,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/19-1392.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-1392-d124ce85789237d48e6d036428b24a1c6dcdd4f499983abe0da836d470ab5466.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-1392-d124ce85789237d48e6d036428b24a1c6dcdd4f499983abe0da836d470ab5466.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=11g5nAAPw4M"
     },
     "20-1009": {
       "docket_number": "20-1009",
@@ -4993,7 +5066,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1009.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1009-c3dde1ecae7637d6e72020b409c6594cf9528a75cec58b726afa438c4062fc6a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1009-c3dde1ecae7637d6e72020b409c6594cf9528a75cec58b726afa438c4062fc6a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=gwqlxXXk134"
     },
     "20-1143": {
       "docket_number": "20-1143",
@@ -5005,7 +5079,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1143.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1143-cb2edf5cb49de4091c6d3ae2860cc46f02bb7b4bcc6d40ec27c54dc52c14e27a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1143-cb2edf5cb49de4091c6d3ae2860cc46f02bb7b4bcc6d40ec27c54dc52c14e27a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=6AmXFMRPseE"
     },
     "20-915": {
       "docket_number": "20-915",
@@ -5017,7 +5092,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-915.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-915-96509e5f2ccb1a7e94fe2c78e372bf2cd8dd617394a6827baa5f8aad20e8ff87.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-915-96509e5f2ccb1a7e94fe2c78e372bf2cd8dd617394a6827baa5f8aad20e8ff87.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=cu-dfnnRZk4"
     },
     "20-979": {
       "docket_number": "20-979",
@@ -5029,7 +5105,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-979.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-979-906721f55c24e7740d9346d846f456094d4ad248bb4530e8954f2240ba2a8745.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-979-906721f55c24e7740d9346d846f456094d4ad248bb4530e8954f2240ba2a8745.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=0ud0Ss6AznE"
     },
     "20-1029": {
       "docket_number": "20-1029",
@@ -5041,7 +5118,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1029.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1029-f9b4877804eaf8af8bb822cc8c314db01d6c7d62b57f4e8d6a66e24192991795.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1029-f9b4877804eaf8af8bb822cc8c314db01d6c7d62b57f4e8d6a66e24192991795.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=y1BacIETj8c"
     },
     "20-1114": {
       "docket_number": "20-1114",
@@ -5053,7 +5131,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1114.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1114-66d6608b2e0afc8ec16d83b5daebfda00f21d7115bbe067c37a3e8df226aff8b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1114-66d6608b2e0afc8ec16d83b5daebfda00f21d7115bbe067c37a3e8df226aff8b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=8RxuND7G5Ds"
     },
     "20-219": {
       "docket_number": "20-219",
@@ -5065,7 +5144,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-219.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-219-91dd458d1ac70adbfa38ac7a1499fe614c4938b31eb4dbc8a8f7b0bd0a5cdaff.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-219-91dd458d1ac70adbfa38ac7a1499fe614c4938b31eb4dbc8a8f7b0bd0a5cdaff.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4wrGbElHjF8"
     },
     "20-1088": {
       "docket_number": "20-1088",
@@ -5077,7 +5157,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1088.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1088-222e6f118543e11316712248183320b9f3fb64fbabdccf43652df09274c3d4b0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1088-222e6f118543e11316712248183320b9f3fb64fbabdccf43652df09274c3d4b0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=8V1piy0BCd4"
     },
     "19-1401": {
       "docket_number": "19-1401",
@@ -5089,7 +5170,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/19-1401.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-1401-b308bcbc0052f07147a67d83077ec229166869dd33d307dc786827198c8e72ec.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-1401-b308bcbc0052f07147a67d83077ec229166869dd33d307dc786827198c8e72ec.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=tJ6jWAOssbs"
     },
     "20-1459": {
       "docket_number": "20-1459",
@@ -5101,7 +5183,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1459.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1459-4a0a1819cdeb66454e7a66c7d8dd5022c0061e0d90ec2497c210e1afa1318b24.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1459-4a0a1819cdeb66454e7a66c7d8dd5022c0061e0d90ec2497c210e1afa1318b24.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Mf1P8iDyFWQ"
     },
     "20-1312": {
       "docket_number": "20-1312",
@@ -5113,7 +5196,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1312.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1312-0f3f1ece168bc45103f0173201a7d6bcb9113eced282d7151a6b232bfef52f5f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1312-0f3f1ece168bc45103f0173201a7d6bcb9113eced282d7151a6b232bfef52f5f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=m99e817DIZM"
     },
     "143-orig": {
       "docket_number": "143-orig",
@@ -5125,7 +5209,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/143-orig.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/143-orig-47ef6539d939852023304336e2169899d74e478dde1fc13cfbbb19ea26af5573.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/143-orig-47ef6539d939852023304336e2169899d74e478dde1fc13cfbbb19ea26af5573.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=utlb65-ovSk"
     },
     "20-1263": {
       "docket_number": "20-1263",
@@ -5137,7 +5222,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1263.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1263-52fe5947ac3e60185f508969a5323ab8c1ed9334f40e765f8025931ffff4d8b7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1263-52fe5947ac3e60185f508969a5323ab8c1ed9334f40e765f8025931ffff4d8b7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=9KGRfSEXOlE"
     },
     "20-828": {
       "docket_number": "20-828",
@@ -5149,7 +5235,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-828.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-828-3dc0743a82baaa737019adeb6a7ff0d4f3be3fc05b6ec87e3e3a53cd4da8eacd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-828-3dc0743a82baaa737019adeb6a7ff0d4f3be3fc05b6ec87e3e3a53cd4da8eacd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=hAeX7TWliWQ"
     },
     "21-5592": {
       "docket_number": "21-5592",
@@ -5161,7 +5248,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-5592.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-5592-af971b7a11f7b8a3d8937d0f83c0e5e1729a1664182326681cb9519ff5ba59a4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-5592-af971b7a11f7b8a3d8937d0f83c0e5e1729a1664182326681cb9519ff5ba59a4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ayg9qCvpHjY"
     },
     "21-463": {
       "docket_number": "21-463",
@@ -5173,7 +5261,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-463.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-463-56d859a0b6dcb00d60242e2a856e25efced82db07d658234ff07ffb286dee7da.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-463-56d859a0b6dcb00d60242e2a856e25efced82db07d658234ff07ffb286dee7da.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=nssAxUjpvac"
     },
     "21-588": {
       "docket_number": "21-588",
@@ -5185,7 +5274,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-588.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-588-1dfc6b9dc5b03be8bb01d15b77289b11080056b4bd070d8fc74a044dd51a1f4f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-588-1dfc6b9dc5b03be8bb01d15b77289b11080056b4bd070d8fc74a044dd51a1f4f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZgWLcd2veqM"
     },
     "20-1472": {
       "docket_number": "20-1472",
@@ -5197,7 +5287,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1472.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1472-170a0b18f6aab7e2a2e79c244ddc3c5a58671f2c9fbd8b59a8b22bd38c9854f4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1472-170a0b18f6aab7e2a2e79c244ddc3c5a58671f2c9fbd8b59a8b22bd38c9854f4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=rlguIozndG8"
     },
     "20-1566": {
       "docket_number": "20-1566",
@@ -5209,7 +5300,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1566.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1566-282bee2888ea4b193832c05939d5fea80d6110850f11a49698f0edf083a5c1b7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1566-282bee2888ea4b193832c05939d5fea80d6110850f11a49698f0edf083a5c1b7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=h4osJYxlHRw"
     },
     "20-1650": {
       "docket_number": "20-1650",
@@ -5269,7 +5361,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-12.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-12-a9a4c692d8c3fcf025a3f4b465e332cab0f8b8c887e6d2ac278519d63966d717.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-12-a9a4c692d8c3fcf025a3f4b465e332cab0f8b8c887e6d2ac278519d63966d717.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=SOibZ9lN0Lk"
     },
     "20-1410": {
       "docket_number": "20-1410",
@@ -5281,7 +5374,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1410.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1410-7b55ef52d7d3feba12be8317fcae76208efc0d17cb32317e2c6de5dfbba4fea2.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1410-7b55ef52d7d3feba12be8317fcae76208efc0d17cb32317e2c6de5dfbba4fea2.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=L12aCU100D4"
     },
     "20-1641": {
       "docket_number": "20-1641",
@@ -5293,7 +5387,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1641.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1641-663a106347aec5f83c783c795747ef6cf9349b43a71c14fcd364195c5084e23d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1641-663a106347aec5f83c783c795747ef6cf9349b43a71c14fcd364195c5084e23d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=pyC2J54kgWY"
     },
     "21-147": {
       "docket_number": "21-147",
@@ -5305,7 +5400,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-147.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-147-81947fae08713dba006c2455e2c5c478062aff1675966ad5e678f8522ab6604f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-147-81947fae08713dba006c2455e2c5c478062aff1675966ad5e678f8522ab6604f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=9T7UkU45KdI"
     },
     "21-328": {
       "docket_number": "21-328",
@@ -5317,7 +5413,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-328.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-328-b7cb26ca7ab86a458dec318582dc4546fc29766826f7683d82d5d8ca28d874e0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-328-b7cb26ca7ab86a458dec318582dc4546fc29766826f7683d82d5d8ca28d874e0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=zSJiz2m6M-U"
     },
     "21-248": {
       "docket_number": "21-248",
@@ -5329,7 +5426,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-248.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-248-81b55c93e39bb755aa364d6baa81cb8a7e4c569e33e80b165b7eb759a5bb0a03.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-248-81b55c93e39bb755aa364d6baa81cb8a7e4c569e33e80b165b7eb759a5bb0a03.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=-lgPQulP3U4"
     },
     "20-1034": {
       "docket_number": "20-1034",
@@ -5341,7 +5439,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1034.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1034-30ced59b0bc4474ba9ab2ca63c63f3d042982e1ba097db1d247bcd82b8bd9462.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1034-30ced59b0bc4474ba9ab2ca63c63f3d042982e1ba097db1d247bcd82b8bd9462.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=qPbxGBNFfTA"
     },
     "21-309": {
       "docket_number": "21-309",
@@ -5353,7 +5452,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-309.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-309-3a2cbae425dc653165365b8c3f6045ca37f672489b49689a5738d05060117370.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-309-3a2cbae425dc653165365b8c3f6045ca37f672489b49689a5738d05060117370.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=jzj2yD_Zgpg"
     },
     "21-401": {
       "docket_number": "21-401",
@@ -5365,7 +5465,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-401.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-401-fc457ae6e79b7abaab20b0adb9833e464586b6087df207b99120c152da57924a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-401-fc457ae6e79b7abaab20b0adb9833e464586b6087df207b99120c152da57924a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Xy4UaH63YeY"
     },
     "20-603": {
       "docket_number": "20-603",
@@ -5377,7 +5478,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-603.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-603-ff1b9d2b7d1e93148c1970403fad29999cb3f54800a96452208fc43961778adc.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-603-ff1b9d2b7d1e93148c1970403fad29999cb3f54800a96452208fc43961778adc.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=3aeaiw93wfY"
     },
     "20-322": {
       "docket_number": "20-322",
@@ -5389,7 +5491,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-322.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-322-1cdbaa95ad2985875ab3ac210414aed4a4e8c419f51cdfe8282fe4930414d63c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-322-1cdbaa95ad2985875ab3ac210414aed4a4e8c419f51cdfe8282fe4930414d63c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=tmcUOwsmL04"
     },
     "20-1573": {
       "docket_number": "20-1573",
@@ -5401,7 +5504,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1573.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1573-e2a0d9795623d12bd80b2767b401bdb03028910b077747b8ea4e52d9e70d16fa.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1573-e2a0d9795623d12bd80b2767b401bdb03028910b077747b8ea4e52d9e70d16fa.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=5AafMOqUcmY"
     },
     "20-807": {
       "docket_number": "20-807",
@@ -5413,7 +5517,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-807.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-807-98843d2ef51d01a89acb4ddd02082ca9d6a63cde8842b2418fccca074bddf433.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-807-98843d2ef51d01a89acb4ddd02082ca9d6a63cde8842b2418fccca074bddf433.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=loYeVBw9iFc"
     },
     "19-896": {
       "docket_number": "19-896",
@@ -5425,7 +5530,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/19-896.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-896-dcc896b6836ea014d8749f3901154f75635a2b63e1b3b9f33b6e3ad02da3311e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/19-896-dcc896b6836ea014d8749f3901154f75635a2b63e1b3b9f33b6e3ad02da3311e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=u76uMdaDB98"
     },
     "21A240": {
       "docket_number": "21A240",
@@ -5437,7 +5543,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21A240.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21A240-7ae61029a762e2f53ec2f2c79d9feba754ac0ecca10af8732a0eb38426bfe642.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21A240-7ae61029a762e2f53ec2f2c79d9feba754ac0ecca10af8732a0eb38426bfe642.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=2AhhchYYQac"
     },
     "21A244": {
       "docket_number": "21A244",
@@ -5449,7 +5556,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21A244.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21A244-3004b1b32c76913383d670c72d0b026790b320f005dc16af6eccc390cc1351bc.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21A244-3004b1b32c76913383d670c72d0b026790b320f005dc16af6eccc390cc1351bc.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=3bOTWk9jKgY"
     },
     "21-441": {
       "docket_number": "21-441",
@@ -5461,7 +5569,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-441.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-441-cafbfe4b518b2310a25f5739d9dd1bba078c5d06a37c71d6e0b45169e949f512.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-441-cafbfe4b518b2310a25f5739d9dd1bba078c5d06a37c71d6e0b45169e949f512.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=eInWYZ71Ij8"
     },
     "21-5726": {
       "docket_number": "21-5726",
@@ -5473,7 +5582,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-5726.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-5726-638b0f2d54ca2225e2d5baa0ac8aa6647289b019ee034d78c2c4f1d6a8b26eac.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-5726-638b0f2d54ca2225e2d5baa0ac8aa6647289b019ee034d78c2c4f1d6a8b26eac.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZxS9n8t3Sz8"
     },
     "20-1775": {
       "docket_number": "20-1775",
@@ -5485,7 +5595,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1775.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1775-a3c6b7c3717acd5de68390fdd33c2992ad14bfb6858b25812f06d0d0504f6213.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1775-a3c6b7c3717acd5de68390fdd33c2992ad14bfb6858b25812f06d0d0504f6213.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=rnhKtCOCgAo"
     },
     "20-1530": {
       "docket_number": "20-1530",
@@ -5497,7 +5608,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/20-1530.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1530-ceceec0b5b58fdfe18529d9a11cb4e24e9b40c2129ef8210f4c222b17310f1a7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/20-1530-ceceec0b5b58fdfe18529d9a11cb4e24e9b40c2129ef8210f4c222b17310f1a7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ey8_hf-UWjo"
     },
     "21-418": {
       "docket_number": "21-418",
@@ -5509,7 +5621,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-418.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-418-35ea5a4bb9671b8b1cc6756257cef4d005128ae990fb55f6e0ff9c2bd045a2e7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-418-35ea5a4bb9671b8b1cc6756257cef4d005128ae990fb55f6e0ff9c2bd045a2e7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=OkE-mAk-di8"
     },
     "21-234": {
       "docket_number": "21-234",
@@ -5521,7 +5634,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-234.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-234-72716e35354491f7c18f7b5fe1510b6fdd8940058e757f25b8e4b6b97656f666.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-234-72716e35354491f7c18f7b5fe1510b6fdd8940058e757f25b8e4b6b97656f666.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=FxWYwNBJEXg"
     },
     "21-499": {
       "docket_number": "21-499",
@@ -5533,7 +5647,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-499.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-499-7e1a2cd7da2f2863acc505631dc86e01423cb0242b73acc097be16b3a40cf556.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-499-7e1a2cd7da2f2863acc505631dc86e01423cb0242b73acc097be16b3a40cf556.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=NEHw8GqcVk8"
     },
     "21-439": {
       "docket_number": "21-439",
@@ -5545,7 +5660,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-439.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-439-50594ff20a299891fcf58cd8efe5cad18341833ba736fd4589b7da936400ad1c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-439-50594ff20a299891fcf58cd8efe5cad18341833ba736fd4589b7da936400ad1c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=YGo0w9VbXYQ"
     },
     "21-511": {
       "docket_number": "21-511",
@@ -5557,7 +5673,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-511.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-511-035c8cd460f090c2ade0e02ecf4e9e8af95ab871695e4d3634f9861d3999df5e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-511-035c8cd460f090c2ade0e02ecf4e9e8af95ab871695e4d3634f9861d3999df5e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=HksZEWvnxyw"
     },
     "21-954": {
       "docket_number": "21-954",
@@ -5569,7 +5686,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-954.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-954-30534d950ac7367d369064602dc84e2e0d6b9e22a0d159b6a75c7626e85b3aa0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-954-30534d950ac7367d369064602dc84e2e0d6b9e22a0d159b6a75c7626e85b3aa0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=EuiqM1Cw8QE"
     },
     "21-429": {
       "docket_number": "21-429",
@@ -5581,7 +5699,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-429.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-429-940bc396a9e84884aa2d4f795cbb5ffbabea77a35f978e9c8d97672fab744eb7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-429-940bc396a9e84884aa2d4f795cbb5ffbabea77a35f978e9c8d97672fab744eb7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=vJhaR1lyb8M"
     },
     "21-404": {
       "docket_number": "21-404",
@@ -5593,7 +5712,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2021/21-404.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-404-1d67725111f310d8c817b1a108a71cd212f01d8b2275acaa28a20c9a35a97a8f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2021/21-404-1d67725111f310d8c817b1a108a71cd212f01d8b2275acaa28a20c9a35a97a8f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=fjTl8xdIPkY"
     }
   },
   "2020": {
@@ -5606,7 +5726,8 @@
       "mp3_size": 23109793,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/18-956.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/18-956.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=Pn7alte0MWM"
     },
     "19-108": {
       "docket_number": "19-108",
@@ -5617,7 +5738,8 @@
       "mp3_size": 14590322,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-108.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-108.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=ImLa8FVhgTs"
     },
     "19-71": {
       "docket_number": "19-71",
@@ -5628,7 +5750,8 @@
       "mp3_size": 14642045,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-71.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-71.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=GtDxB2HWdg8"
     },
     "19-309": {
       "docket_number": "19-309",
@@ -5639,7 +5762,8 @@
       "mp3_size": 14746221,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-309.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-309.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=4kiTEehpSWo"
     },
     "19-292": {
       "docket_number": "19-292",
@@ -5650,7 +5774,8 @@
       "mp3_size": 18550903,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-292.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-292.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=8wXk3LHXR0o"
     },
     "19-357": {
       "docket_number": "19-357",
@@ -5661,7 +5786,8 @@
       "mp3_size": 19618580,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-357.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-357.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=dU2_LR01mlE"
     },
     "19-438": {
       "docket_number": "19-438",
@@ -5672,7 +5798,8 @@
       "mp3_size": 15417045,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-438.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-438.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=ALoMdscBE-c"
     },
     "18-540": {
       "docket_number": "18-540",
@@ -5683,7 +5810,8 @@
       "mp3_size": 17201418,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/18-540.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/18-540.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=RdwCgIvJxFY"
     },
     "19-199": {
       "docket_number": "19-199",
@@ -5695,7 +5823,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-199.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-199-15441187f9cd5a61eba509d27649626738ffb709c4140d061b86359bb766b268.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-199-15441187f9cd5a61eba509d27649626738ffb709c4140d061b86359bb766b268.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=L5vzbupwo0A"
     },
     "19-368": {
       "docket_number": "19-368",
@@ -5706,7 +5835,8 @@
       "mp3_size": 14643925,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-368.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-368.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=uU2Sp4OAfsM"
     },
     "19-123": {
       "docket_number": "19-123",
@@ -5718,7 +5848,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-123.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-123-7c29a8a2fa9dd480f64b77e5703d159363b64a48088bddcc653f338fc010d393.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-123-7c29a8a2fa9dd480f64b77e5703d159363b64a48088bddcc653f338fc010d393.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=aNfLl8YacsA"
     },
     "19-547": {
       "docket_number": "19-547",
@@ -5730,7 +5861,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-547.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-547-9dd977ff98c78bcac417b58fa7c367ded6ca22219bfa7c2111f3c659e92922ad.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-547-9dd977ff98c78bcac417b58fa7c367ded6ca22219bfa7c2111f3c659e92922ad.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=8v2bKBY0qxE"
     },
     "19-5410": {
       "docket_number": "19-5410",
@@ -5754,7 +5886,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-840.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-840-98b0fb1f5479c1cf428d1aceec225b0a686798ca63725d0ec0903f042aea08da.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-840-98b0fb1f5479c1cf428d1aceec225b0a686798ca63725d0ec0903f042aea08da.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=MkkVRXPjB0s"
     },
     "18-1259": {
       "docket_number": "18-1259",
@@ -5790,7 +5923,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-783.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-783-1cb2e433f393876d742e3187247832096e8154244232037804342ea87bc008d7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-783-1cb2e433f393876d742e3187247832096e8154244232037804342ea87bc008d7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=f2DFGYoKG-U"
     },
     "19-863": {
       "docket_number": "19-863",
@@ -5826,7 +5960,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-5807.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-5807-77b72b7a499d809792d58523b55f0d38bac6bed93ede1270f1925ccaefe5ec0b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-5807-77b72b7a499d809792d58523b55f0d38bac6bed93ede1270f1925ccaefe5ec0b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=JO-z82jPnrw"
     },
     "19-897": {
       "docket_number": "19-897",
@@ -5862,7 +5997,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-422.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-422-87ae19a1047bf833334c7ed1a96651694543231351d914d8fd0c0f87b1eaf155.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-422-87ae19a1047bf833334c7ed1a96651694543231351d914d8fd0c0f87b1eaf155.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Ew9RKFEFbZM"
     },
     "19-508": {
       "docket_number": "19-508",
@@ -5874,7 +6010,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-508.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-508-b594558656bae44ae90cdf2ca0caaed1f83bc6803ff8cdaf53a392ccdf372a15.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-508-b594558656bae44ae90cdf2ca0caaed1f83bc6803ff8cdaf53a392ccdf372a15.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4vmTcS3m2oI"
     },
     "19-511": {
       "docket_number": "19-511",
@@ -5886,7 +6023,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-511.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-511-91b0c084afb0a671fd6e3303d56c7678a2d389eaaee0f036c72acc2e3961aa5d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-511-91b0c084afb0a671fd6e3303d56c7678a2d389eaaee0f036c72acc2e3961aa5d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=aMdveQILd1c"
     },
     "19-968": {
       "docket_number": "19-968",
@@ -5898,7 +6036,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-968.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-968-f03edeab748c04a83081e0ff955e3d5b359ea70a2d5b95e8312b81066f30f4dd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-968-f03edeab748c04a83081e0ff955e3d5b359ea70a2d5b95e8312b81066f30f4dd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=uQdeOtJ9994"
     },
     "19-351": {
       "docket_number": "19-351",
@@ -5910,7 +6049,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-351.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-351-ae24fd9176a19324af209453649c13f8e6acbe19f06d1529eacb523467e37b5c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-351-ae24fd9176a19324af209453649c13f8e6acbe19f06d1529eacb523467e37b5c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=SwI9VkQRIDQ"
     },
     "19-416": {
       "docket_number": "19-416",
@@ -5922,7 +6062,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-416.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-416-c507d94704f332fd7621970199671c5060e662523904b41cb134716890fa08e5.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-416-c507d94704f332fd7621970199671c5060e662523904b41cb134716890fa08e5.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=91IJiseH85U"
     },
     "18-1447": {
       "docket_number": "18-1447",
@@ -5934,7 +6075,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/18-1447.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/18-1447-a39b66a8ce5647b78bf73a0cb39a87403dee61a3ba67c8f63423fab79ceed075.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/18-1447-a39b66a8ce5647b78bf73a0cb39a87403dee61a3ba67c8f63423fab79ceed075.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Q4qwlsNxNV8"
     },
     "65-orig": {
       "docket_number": "65-orig",
@@ -5945,7 +6087,8 @@
       "mp3_size": 17979240,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/65-orig.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/65-orig.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=Btck0_3ibIA"
     },
     "19-1155": {
       "docket_number": "19-1155",
@@ -5957,7 +6100,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1155.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1155-27f828b0f0567dbbd292b18029da06da2549650492509fb6551beffd07871bdc.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1155-27f828b0f0567dbbd292b18029da06da2549650492509fb6551beffd07871bdc.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=4fLDT7j8_Cc"
     },
     "19-1189": {
       "docket_number": "19-1189",
@@ -5969,7 +6113,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1189.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1189-e7511f881080c8c74fa191ec0008abe54c78e1ee8eeecb3f8ee69802d7215939.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1189-e7511f881080c8c74fa191ec0008abe54c78e1ee8eeecb3f8ee69802d7215939.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=7sCbND934c8"
     },
     "19-1231": {
       "docket_number": "19-1231",
@@ -5981,7 +6126,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1231.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1231-22ce5fb0762db0b304d8d728c9994368e4a77fb8818e89e59f42ef9db8e403ec.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1231-22ce5fb0762db0b304d8d728c9994368e4a77fb8818e89e59f42ef9db8e403ec.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=IhhsgGxkYyQ"
     },
     "19-1257": {
       "docket_number": "19-1257",
@@ -5993,7 +6139,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1257.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1257-6854b5b91344ebd0ce46d086e5b615c0a0f9572a318a227854a4519be274c79d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1257-6854b5b91344ebd0ce46d086e5b615c0a0f9572a318a227854a4519be274c79d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=J8iNzcZC-Eg"
     },
     "19-1434": {
       "docket_number": "19-1434",
@@ -6005,7 +6152,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1434.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1434-c2057a18b7e098b68265816807841a6c80fe739fb6355bcbcca705670f908bf2.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1434-c2057a18b7e098b68265816807841a6c80fe739fb6355bcbcca705670f908bf2.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=JYOgkXHCsaI"
     },
     "20-18": {
       "docket_number": "20-18",
@@ -6017,7 +6165,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-18.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-18-a6e0cf8a190aa658d2c7668f23eda108729b1ee172e5c1abda9c0b991446e8cc.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-18-a6e0cf8a190aa658d2c7668f23eda108729b1ee172e5c1abda9c0b991446e8cc.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=pZr84YxH0Gw"
     },
     "19-1442": {
       "docket_number": "19-1442",
@@ -6029,7 +6178,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-1442.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1442-12ed25e19a41f6efa5f6ca723ef0fd95117cbd4f988f10564315ed9d38574019.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-1442-12ed25e19a41f6efa5f6ca723ef0fd95117cbd4f988f10564315ed9d38574019.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=r8uUolqJR_A"
     },
     "20-107": {
       "docket_number": "20-107",
@@ -6041,7 +6191,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-107.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-107-0376d765f4e9fa882cbbd9b99a72856061a749dfe54d9c3b5d2d2ea7af363846.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-107-0376d765f4e9fa882cbbd9b99a72856061a749dfe54d9c3b5d2d2ea7af363846.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=my08qnmQ674"
     },
     "20-366": {
       "docket_number": "20-366",
@@ -6053,7 +6204,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-366.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-366-b639b49c8d796ae3bb8de56390c74f1bff08da19cb3d88dfa2ff647d1b4fa1ba.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-366-b639b49c8d796ae3bb8de56390c74f1bff08da19cb3d88dfa2ff647d1b4fa1ba.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=n5lva84OjbY"
     },
     "20-157": {
       "docket_number": "20-157",
@@ -6065,7 +6217,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-157.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-157-abd590831de2f49b9c3acc9fadbc92828e316a0b308290c152fe1e101edc8278.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-157-abd590831de2f49b9c3acc9fadbc92828e316a0b308290c152fe1e101edc8278.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=3v8TRvc_X2I"
     },
     "20-222": {
       "docket_number": "20-222",
@@ -6077,7 +6230,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-222.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-222-a35262a2dfc73b8722dc412d4a12de507bcb7804842eb8ed5cdc6b9992335c54.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-222-a35262a2dfc73b8722dc412d4a12de507bcb7804842eb8ed5cdc6b9992335c54.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=kcbR0InvL9M"
     },
     "20-297": {
       "docket_number": "20-297",
@@ -6089,7 +6243,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-297.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-297-6ba2b1cfed3cb49dda8ac77a0ed650c6be7f78e6d68850321e26f6707b782be0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-297-6ba2b1cfed3cb49dda8ac77a0ed650c6be7f78e6d68850321e26f6707b782be0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=9EeT4WkrfWE"
     },
     "20-512": {
       "docket_number": "20-512",
@@ -6101,7 +6256,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/20-512.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-512-25df4077afe842ce643120d5f47a72418f9e1b1edf0ba5b12128092ecb6ea2b9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/20-512-25df4077afe842ce643120d5f47a72418f9e1b1edf0ba5b12128092ecb6ea2b9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=RxpbgNEYqVc"
     },
     "19-251": {
       "docket_number": "19-251",
@@ -6113,7 +6269,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2020/19-251.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-251-843769d11eb33ee4e6f0b36530da720c43dab6fb2d259d2bf3ca1803e676220c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2020/19-251-843769d11eb33ee4e6f0b36530da720c43dab6fb2d259d2bf3ca1803e676220c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=rQK0yoS6c0o"
     },
     "19-8709": {
       "docket_number": "19-8709",
@@ -6393,7 +6550,8 @@
       "mp3_size": 14878270,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/17-1618.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/17-1618.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=02JXFB5jvZg"
     },
     "18-725": {
       "docket_number": "18-725",
@@ -6426,7 +6584,8 @@
       "mp3_size": 13820958,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-107.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-107.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=pVEAOPB1vFQ"
     },
     "18-877": {
       "docket_number": "18-877",
@@ -6536,7 +6695,8 @@
       "mp3_size": 14013085,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-776.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-776.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=XrVQS80V55w"
     },
     "18-916": {
       "docket_number": "18-916",
@@ -6558,7 +6718,8 @@
       "mp3_size": 14589577,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1023.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1023.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=vNhF4Wm5uCI"
     },
     "18-1150": {
       "docket_number": "18-1150",
@@ -6591,7 +6752,8 @@
       "mp3_size": 19770450,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1334.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1334.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=2hMbFTSO4b0"
     },
     "17-1268": {
       "docket_number": "17-1268",
@@ -6624,7 +6786,8 @@
       "mp3_size": 14273614,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-882.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-882.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=dYU9pmy5k-4"
     },
     "18-1048": {
       "docket_number": "18-1048",
@@ -6635,7 +6798,8 @@
       "mp3_size": 14752297,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1048.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1048.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=BboH0Q2oFyA"
     },
     "18-1059": {
       "docket_number": "18-1059",
@@ -6646,7 +6810,8 @@
       "mp3_size": 14494011,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1059.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1059.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=h7gWft5oQpk"
     },
     "18-1086": {
       "docket_number": "18-1086",
@@ -6657,7 +6822,8 @@
       "mp3_size": 14814032,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1086.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1086.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=o2h80CO9Q9w"
     },
     "18-1195": {
       "docket_number": "18-1195",
@@ -6668,7 +6834,8 @@
       "mp3_size": 15065646,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1195.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1195.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=nQGtc5YwPo8"
     },
     "18-1233": {
       "docket_number": "18-1233",
@@ -6679,7 +6846,8 @@
       "mp3_size": 13919289,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1233.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1233.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=P2Ngwy-bopo"
     },
     "18-1269": {
       "docket_number": "18-1269",
@@ -6690,7 +6858,8 @@
       "mp3_size": 14412238,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1269.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1269.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=D6QizVOsOVw"
     },
     "18-6662": {
       "docket_number": "18-6662",
@@ -6723,7 +6892,8 @@
       "mp3_size": 14344293,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1323.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/18-1323.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=1lbEzv8mYJg"
     },
     "18-1584": {
       "docket_number": "18-1584",
@@ -6778,7 +6948,8 @@
       "mp3_size": 17955197,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/19-7.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2019/19-7.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=tCJ4PGgszzM"
     },
     "19-161": {
       "docket_number": "19-161",
@@ -7671,7 +7842,8 @@
       "mp3_size": 17109645,
       "description_version": "v1",
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2018/18-422.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2018/18-422.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=AijwCPru53U"
     },
     "18-966": {
       "docket_number": "18-966",
@@ -7873,7 +8045,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-191.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-191-fa67284f6edcaf3b4f390bedf036ee39eb82a8dac0471c9d9305e4bcbd4ca96c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-191-fa67284f6edcaf3b4f390bedf036ee39eb82a8dac0471c9d9305e4bcbd4ca96c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=uM1mdouUiaw"
     },
     "23-677": {
       "docket_number": "23-677",
@@ -8031,7 +8204,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-677.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-677-d8973a51200639e833ecad45379c2f9f9d2a8a07a0f9b635cb07c78e9af3b9a6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-677-d8973a51200639e833ecad45379c2f9f9d2a8a07a0f9b635cb07c78e9af3b9a6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=gKQR9wKdjcE"
     },
     "23-852": {
       "docket_number": "23-852",
@@ -8145,7 +8319,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-852.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-852-952be85f476ed52da0c1db56a8f0b527f146db136ee9a00143afb940ff70974e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-852-952be85f476ed52da0c1db56a8f0b527f146db136ee9a00143afb940ff70974e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=MtsQjkXN0AU"
     },
     "23-621": {
       "docket_number": "23-621",
@@ -8343,7 +8518,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-621.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-621-b81f017543a1c4398388d7b3fca3c9843e1129da6f4ec60d9fb2efecdc5a4561.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-621-b81f017543a1c4398388d7b3fca3c9843e1129da6f4ec60d9fb2efecdc5a4561.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=EtOx1WPhQe4"
     },
     "22-7466": {
       "docket_number": "22-7466",
@@ -8496,7 +8672,8 @@
         }
       ],
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/22-7466.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/22-7466.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=wQu4nAJn9yU"
     },
     "23-365": {
       "docket_number": "23-365",
@@ -8630,7 +8807,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-365.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-365-96dc8b8f7d43e8799a7ddb0f149d2258bcd9c5219df408a552de57fe4a855f4b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-365-96dc8b8f7d43e8799a7ddb0f149d2258bcd9c5219df408a552de57fe4a855f4b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Unzlpg_aSDQ"
     },
     "23-583": {
       "docket_number": "23-583",
@@ -8724,7 +8902,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-583.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-583-0fa1def8292a8f6c717f9f8d8f07b86bea1f98a75b6cfc26bf5f5e8749ab54ec.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-583-0fa1def8292a8f6c717f9f8d8f07b86bea1f98a75b6cfc26bf5f5e8749ab54ec.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=bjaaZtu5n88"
     },
     "23-713": {
       "docket_number": "23-713",
@@ -8878,7 +9057,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-713.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-713-2d344b8381e252ee2a96397308a194053a18530bcfb2f1c506483246761ef41d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-713-2d344b8381e252ee2a96397308a194053a18530bcfb2f1c506483246761ef41d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ITBK9sy39lQ"
     },
     "23-753": {
       "docket_number": "23-753",
@@ -9048,7 +9228,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-753.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-753-0cb57be445973ced53a1b7ae60a220df1b85dbc43543af57d5ccf313bf7df241.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-753-0cb57be445973ced53a1b7ae60a220df1b85dbc43543af57d5ccf313bf7df241.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=fa6yXUbxc0g"
     },
     "23-1127": {
       "docket_number": "23-1127",
@@ -9234,7 +9415,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1127.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1127-19a4328f571c10ed75c6544ac24941774c2af1cfbe379f47d9f761c8d857ae7e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1127-19a4328f571c10ed75c6544ac24941774c2af1cfbe379f47d9f761c8d857ae7e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=sRjlEeohCYI"
     },
     "23-715": {
       "docket_number": "23-715",
@@ -9369,7 +9551,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-715.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-715-0c854dae2e2c2a3110748fe352ba89a4696a5cbe20c7c49f23a652379382ddce.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-715-0c854dae2e2c2a3110748fe352ba89a4696a5cbe20c7c49f23a652379382ddce.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=GXXP96HjqfM"
     },
     "23-217": {
       "docket_number": "23-217",
@@ -9483,7 +9666,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-217.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-217-956b75f2b4144a3ddfc95eaee2988cbbbdd30622cbb2776b1a87924fc198660a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-217-956b75f2b4144a3ddfc95eaee2988cbbbdd30622cbb2776b1a87924fc198660a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=qGCCDeu5XIo"
     },
     "23-980": {
       "docket_number": "23-980",
@@ -9673,7 +9857,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-980.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-980-123f04bdec59b0b7bfdde4ae1dfce6bbe397281d5e89d13eb23d7aec32b412c7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-980-123f04bdec59b0b7bfdde4ae1dfce6bbe397281d5e89d13eb23d7aec32b412c7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=xZHGJLeDxc4"
     },
     "23-929": {
       "docket_number": "23-929",
@@ -9831,7 +10016,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-929.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-929-b876f7edd6cf8f2d75ddd6ac6357dc355765280ba98177c68af7cc1a279fb0c7.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-929-b876f7edd6cf8f2d75ddd6ac6357dc355765280ba98177c68af7cc1a279fb0c7.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XjUEhcBF430"
     },
     "23-825": {
       "docket_number": "23-825",
@@ -9981,7 +10167,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-825.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-825-5a5da4035f577fba9507c2ea3de896ad043f0838f79360767f0d18bf73443c74.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-825-5a5da4035f577fba9507c2ea3de896ad043f0838f79360767f0d18bf73443c74.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=WgXR8PcYT-s"
     },
     "23-970": {
       "docket_number": "23-970",
@@ -10135,7 +10322,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-970.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-970-c55aba3f48f91d3463eb0b63a42baf8f51e83a6f199ec921ae62bc9609592086.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-970-c55aba3f48f91d3463eb0b63a42baf8f51e83a6f199ec921ae62bc9609592086.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=sSsjkqrp_w4"
     },
     "23-1038": {
       "docket_number": "23-1038",
@@ -10285,7 +10473,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1038.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1038-d7566f1a7c157af7512a4a005ccf3bbd985bcf55e8aae24817e1c317ee412918.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1038-d7566f1a7c157af7512a4a005ccf3bbd985bcf55e8aae24817e1c317ee412918.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=WbqXJ1Va_oQ"
     },
     "23-824": {
       "docket_number": "23-824",
@@ -10419,7 +10608,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-824.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-824-a1ba6ae7e7f15d1eda694a4326c799e4d282cc396fdc77e8e0997e7cf16f18ab.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-824-a1ba6ae7e7f15d1eda694a4326c799e4d282cc396fdc77e8e0997e7cf16f18ab.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=37Xs2b2nk54"
     },
     "23-867": {
       "docket_number": "23-867",
@@ -10592,7 +10782,8 @@
         }
       ],
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-867.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-867.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=5IgU3IU2U4w"
     },
     "23-477": {
       "docket_number": "23-477",
@@ -10770,7 +10961,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-477.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-477-4f9716e1db415107c68f3c987074136f21a8a0773086c01a065e917630f668bc.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-477-4f9716e1db415107c68f3c987074136f21a8a0773086c01a065e917630f668bc.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=vsdoPJcEFqM"
     },
     "23-909": {
       "docket_number": "23-909",
@@ -10936,7 +11128,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-909.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-909-302c9afcf633897062d9d15c5e252971b8703db09b65e1c0daf8cb7c70cb9cbd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-909-302c9afcf633897062d9d15c5e252971b8703db09b65e1c0daf8cb7c70cb9cbd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=s4Bp_89b7VE"
     },
     "23-861": {
       "docket_number": "23-861",
@@ -11082,7 +11275,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-861.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-861-8c3ba7cc8b0a67452a59dc39ce61acb005fa1306d96c00be028604bff591d320.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-861-8c3ba7cc8b0a67452a59dc39ce61acb005fa1306d96c00be028604bff591d320.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=VEFc-Xsbg5s"
     },
     "23-975": {
       "docket_number": "23-975",
@@ -11272,7 +11466,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-975.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-975-820abf34d6944b793d0ae83f4411f298d4cd7f4c305842c6c38029bbada725c5.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-975-820abf34d6944b793d0ae83f4411f298d4cd7f4c305842c6c38029bbada725c5.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=FP40Key6Y7c"
     },
     "23-900": {
       "docket_number": "23-900",
@@ -11406,7 +11601,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-900.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-900-00045560d61372aacb68e8009961a6b13a66769c05a58c3eeb407efb5c3305b6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-900-00045560d61372aacb68e8009961a6b13a66769c05a58c3eeb407efb5c3305b6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=_qHSLIcYKGY"
     },
     "24-656": {
       "docket_number": "24-656",
@@ -11620,7 +11816,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-656.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-656-a50387503257bde544f31c02fd614512c96bbb552475f3de5143b322d7cbdd48.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-656-a50387503257bde544f31c02fd614512c96bbb552475f3de5143b322d7cbdd48.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=GaFoGNc1-8w"
     },
     "23-1002": {
       "docket_number": "23-1002",
@@ -11779,7 +11976,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1002.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1002-46891709f36304ca2ceda28f06a849ad07e72a280b8ed7ac68643e612eef27ff.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1002-46891709f36304ca2ceda28f06a849ad07e72a280b8ed7ac68643e612eef27ff.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=R0ymcagcvrU"
     },
     "23-997": {
       "docket_number": "23-997",
@@ -11937,7 +12135,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-997.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-997-0d0f42b7c62044df8ae5154d8bc343ef555216a55de4c8309304ebcdd9119b58.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-997-0d0f42b7c62044df8ae5154d8bc343ef555216a55de4c8309304ebcdd9119b58.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=iNaXBZ5gm7k"
     },
     "23-1095": {
       "docket_number": "23-1095",
@@ -12123,7 +12322,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1095.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1095-652626a19219ab035df1389079ef05834387812dae55a9312087092eb452ee4b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1095-652626a19219ab035df1389079ef05834387812dae55a9312087092eb452ee4b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=7hHzYCRaNEo"
     },
     "23-971": {
       "docket_number": "23-971",
@@ -12221,7 +12421,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-971.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-971-ea3036d204f5bb73de6f7ae7bb4f34520a79f2f67cf985f5d16ecd3bbd268259.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-971-ea3036d204f5bb73de6f7ae7bb4f34520a79f2f67cf985f5d16ecd3bbd268259.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=jwECm-85Dzc"
     },
     "23-1122": {
       "docket_number": "23-1122",
@@ -12443,7 +12644,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1122.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1122-6a94548396e125beb5bd72b5aa111c78f1e09eefdbd672f8c76682ef302812e6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1122-6a94548396e125beb5bd72b5aa111c78f1e09eefdbd672f8c76682ef302812e6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ckoCJthJEqQ"
     },
     "23-1187": {
       "docket_number": "23-1187",
@@ -12625,7 +12827,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1187.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1187-6a499496a1a7bd5a93fb3b7c1857cca3ee79a9b7d7b09e5ba5ead0ef46c8e8f6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1187-6a499496a1a7bd5a93fb3b7c1857cca3ee79a9b7d7b09e5ba5ead0ef46c8e8f6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=20MhjdRUsvQ"
     },
     "23-1226": {
       "docket_number": "23-1226",
@@ -12767,7 +12970,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1226.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1226-644f07acc88f78ab71a6a1b5b55ea2a0ebbd91f119c03eaa1ed711b007718f33.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1226-644f07acc88f78ab71a6a1b5b55ea2a0ebbd91f119c03eaa1ed711b007718f33.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=HpQetRfGlac"
     },
     "23-1239": {
       "docket_number": "23-1239",
@@ -12970,7 +13174,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1239.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1239.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1239-2e76db2d124b49bc9aa687f1e42ae225efe41d53a6bb4d419af787988c61a100.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1239-2e76db2d124b49bc9aa687f1e42ae225efe41d53a6bb4d419af787988c61a100.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=28xEriKDMOk"
     },
     "23-1007": {
       "docket_number": "23-1007",
@@ -13148,7 +13353,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1007.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1007-42cf2d6082f60a55749279deea2165eab94f7545a7e77149e8fefe5fe94aa3fd.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1007-42cf2d6082f60a55749279deea2165eab94f7545a7e77149e8fefe5fe94aa3fd.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=51O1U7i7J94"
     },
     "23-7809": {
       "docket_number": "23-7809",
@@ -13334,7 +13540,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7809.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-7809-71bd272994cb2a42807e9d9ec7a8766890061250a5b48fd342aeb7adabe2e96a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-7809-71bd272994cb2a42807e9d9ec7a8766890061250a5b48fd342aeb7adabe2e96a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=XRh_xaxQ2Co"
     },
     "23-7483": {
       "docket_number": "23-7483",
@@ -13468,7 +13675,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-7483.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-7483-170d4fd1ba0d1824a7142d97140e18e4c245439b2e1abc6146abd41edfa36c7e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-7483-170d4fd1ba0d1824a7142d97140e18e4c245439b2e1abc6146abd41edfa36c7e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=P-rslTkux1s"
     },
     "23-1324": {
       "docket_number": "23-1324",
@@ -13622,7 +13830,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1324.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1324-49fb437098f0f404277e8167aa21bb079728ab3d9288fcad796278f14beecc39.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1324-49fb437098f0f404277e8167aa21bb079728ab3d9288fcad796278f14beecc39.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=2Jo-vX45gSw"
     },
     "23-1039": {
       "docket_number": "23-1039",
@@ -13772,7 +13981,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1039.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1039-59918d9d976ca96d96e5d074e6b887ef1a7d0922670c4f56601457ad038ae517.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1039-59918d9d976ca96d96e5d074e6b887ef1a7d0922670c4f56601457ad038ae517.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=vNp9J07atGM"
     },
     "23-1201": {
       "docket_number": "23-1201",
@@ -13883,7 +14093,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1201.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1201-00d2138a9946de3753ce707e5c921930e376881abbdb3e57098db4e96e7e71c4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1201-00d2138a9946de3753ce707e5c921930e376881abbdb3e57098db4e96e7e71c4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=FUxi-Oqg47E"
     },
     "23-1259": {
       "docket_number": "23-1259",
@@ -14001,7 +14212,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1259.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1259-db933ce730355298ec3a0dbd9fd96ede0b3f7a94a81e7184a4e77804901c22d6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1259-db933ce730355298ec3a0dbd9fd96ede0b3f7a94a81e7184a4e77804901c22d6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Xe5kl-Nh6VI"
     },
     "23-1141": {
       "docket_number": "23-1141",
@@ -14147,7 +14359,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1141.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1141-5ef4d00b0b3d32f53f55803f35c8b1e7ee4f171fe340a65bab7d29ecdc9debab.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1141-5ef4d00b0b3d32f53f55803f35c8b1e7ee4f171fe340a65bab7d29ecdc9debab.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=dJ6XAE6lcvs"
     },
     "23-1300": {
       "docket_number": "23-1300",
@@ -14381,7 +14594,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1300.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1300-47ee7c46282f6be09994ab1f7f3a44a1be60d332f4c5afd2d59db51717e343a9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1300-47ee7c46282f6be09994ab1f7f3a44a1be60d332f4c5afd2d59db51717e343a9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=qasOranBTXA"
     },
     "24-109": {
       "docket_number": "24-109",
@@ -14571,7 +14785,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-109.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-109-5f7e967ddcaa6a1479c8456c92aed9fcc454887330f10e0a8e03b7f5fabb5083.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-109-5f7e967ddcaa6a1479c8456c92aed9fcc454887330f10e0a8e03b7f5fabb5083.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=1ERZDlo5PSs"
     },
     "23-1270": {
       "docket_number": "23-1270",
@@ -14713,7 +14928,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1270.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1270-41708736e0a943ab62688b211659947612db23adb90b9e9457147f31959cbdd9.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1270-41708736e0a943ab62688b211659947612db23adb90b9e9457147f31959cbdd9.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ryXAfwJBScs"
     },
     "23-1229": {
       "docket_number": "23-1229",
@@ -14899,7 +15115,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1229.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1229-4d7cca66d513495255b73222ae801358e43bfd0f669ed585195bf1c1c40c5189.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1229-4d7cca66d513495255b73222ae801358e43bfd0f669ed585195bf1c1c40c5189.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Z4MWw1Ntydg"
     },
     "23-1067": {
       "docket_number": "23-1067",
@@ -15025,7 +15242,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1067.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1067-ea4529e1ace0e6800b8cf90e1065d7187ad19e2a4311e7e358020fc2da61eca0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1067-ea4529e1ace0e6800b8cf90e1065d7187ad19e2a4311e7e358020fc2da61eca0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=HsM5n97_pno"
     },
     "24-354": {
       "docket_number": "24-354",
@@ -15227,7 +15445,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-354.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-354-3400c8a6d07418c19ab563873b3f1f498479fab8f59df94c3272c47a2fa5ff5c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-354-3400c8a6d07418c19ab563873b3f1f498479fab8f59df94c3272c47a2fa5ff5c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=BVfJF1yE4iw"
     },
     "24-154": {
       "docket_number": "24-154",
@@ -15441,7 +15660,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-154.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-154-b37214c0e178bf95f1e16c4987c26b7337a9373c6114c32012e00aca86d7b92d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-154-b37214c0e178bf95f1e16c4987c26b7337a9373c6114c32012e00aca86d7b92d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=DtbDta6NsrU"
     },
     "23-1345": {
       "docket_number": "23-1345",
@@ -15535,7 +15755,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1345.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1345-e26938f069bb8136a23f9e15b21377accc387a31bc37c54e3a7d32917e796840.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1345-e26938f069bb8136a23f9e15b21377accc387a31bc37c54e3a7d32917e796840.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=gKwfdEbdPGI"
     },
     "24-20": {
       "docket_number": "24-20",
@@ -15697,7 +15918,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-20.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-20-a961df397b96bd437077701cef1a7b6f819963dd5f18e413a5e9657eb2ca70a3.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-20-a961df397b96bd437077701cef1a7b6f819963dd5f18e413a5e9657eb2ca70a3.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=X7A8DaFnGJo"
     },
     "23-1275": {
       "docket_number": "23-1275",
@@ -15851,7 +16073,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/23-1275.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1275-e4ef6722eb855ef132a51f8410948c52eb7c2948d1b8673811c8a93d05be0859.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/23-1275-e4ef6722eb855ef132a51f8410948c52eb7c2948d1b8673811c8a93d05be0859.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=7IG4dCMFyas"
     },
     "24-316": {
       "docket_number": "24-316",
@@ -16235,7 +16458,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-275.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-275-e76f9bbc45db077554594c3c03f3494dbb09904fac19d20ce5696b98837de00d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-275-e76f9bbc45db077554594c3c03f3494dbb09904fac19d20ce5696b98837de00d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=jeMtxsoofP8"
     },
     "24-297": {
       "docket_number": "24-297",
@@ -16433,7 +16657,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-297.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-297-3ac97ef43201362887439f8f9350f676473e73fddc28b01da554b053c4f56798.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-297-3ac97ef43201362887439f8f9350f676473e73fddc28b01da554b053c4f56798.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=1n6m73nfPsQ"
     },
     "24-416": {
       "docket_number": "24-416",
@@ -16681,7 +16906,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-7.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-7-b1aba9cc69cb586ef4b83fd1e73adc30e2c84c87fb354169107c1a161c1c92bf.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-7-b1aba9cc69cb586ef4b83fd1e73adc30e2c84c87fb354169107c1a161c1c92bf.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=deog7Fs8UUk"
     },
     "24-249": {
       "docket_number": "24-249",
@@ -16859,7 +17085,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-249.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-249-72c67de4aa1593f00ef9021f1ecb45f548e66532b935332e16852db803eb3f5f.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-249-72c67de4aa1593f00ef9021f1ecb45f548e66532b935332e16852db803eb3f5f.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=bLx50JEM1-s"
     },
     "24-320": {
       "docket_number": "24-320",
@@ -17005,7 +17232,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-320.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-320-e6a81b19cb04a135162d8c3b8571b42e73b8588b47de888aa4de891b27a85ac2.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-320-e6a81b19cb04a135162d8c3b8571b42e73b8588b47de888aa4de891b27a85ac2.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=r5E1PUHMtrQ"
     },
     "24-362": {
       "docket_number": "24-362",
@@ -17115,7 +17343,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-362.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-362-95012651474069f4483426456f8b96f30c0be2f0af8163c803ebd41e781c475b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-362-95012651474069f4483426456f8b96f30c0be2f0af8163c803ebd41e781c475b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=xsgFSjm1o-o"
     },
     "24-304": {
       "docket_number": "24-304",
@@ -17313,7 +17542,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-304.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-304-1e643ce4b6befbcaf99fa9aab316e02872d4f417e3a55b73ae5e5d49f2ec5188.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-304-1e643ce4b6befbcaf99fa9aab316e02872d4f417e3a55b73ae5e5d49f2ec5188.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=c2Q82ys-y4E"
     },
     "24-394": {
       "docket_number": "24-394",
@@ -17531,7 +17761,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2024/24-394.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-394-387183b120c1608a961bb0fd21fdf7d76c144f5ed4831cce1d5f81690b9b5789.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2024/24-394-387183b120c1608a961bb0fd21fdf7d76c144f5ed4831cce1d5f81690b9b5789.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=PKOI7ZoLM98"
     },
     "24A884": {
       "docket_number": "24A884",
@@ -17873,7 +18104,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-440.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-440-1d995036dcdf0d8a5d668000df6caa2e1d62394f9561db9bd90a2bbad81f35b4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-440-1d995036dcdf0d8a5d668000df6caa2e1d62394f9561db9bd90a2bbad81f35b4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=AxSw-yzVfCc"
     },
     "24-557": {
       "docket_number": "24-557",
@@ -18031,7 +18263,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-557.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-557-691c2abbf1a69ecea6b1ae5adeb9a81f337e30c4241fde9695918f4e6d04d519.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-557-691c2abbf1a69ecea6b1ae5adeb9a81f337e30c4241fde9695918f4e6d04d519.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=p1ExItQZSL0"
     },
     "24-539": {
       "docket_number": "24-539",
@@ -18210,7 +18443,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-539.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-539.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-539-803b299259d97f9062adcdb511ea88894c13e90d2188d6672b1b36be68505c28.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-539-803b299259d97f9062adcdb511ea88894c13e90d2188d6672b1b36be68505c28.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=TnNJkug34vY"
     },
     "24-5774": {
       "docket_number": "24-5774",
@@ -18352,7 +18586,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5774.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-5774-4e1bca44eb7f61ccdab8972145d478fc080aa7edc38f285dd33a54464b743d3d.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-5774-4e1bca44eb7f61ccdab8972145d478fc080aa7edc38f285dd33a54464b743d3d.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=peb3eRJCL6E"
     },
     "24-568": {
       "docket_number": "24-568",
@@ -18546,7 +18781,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-568.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-568-6bc6e749c46b3dbb12d2ad10ff666c57a809d6ace1ee20bd3371b9ad73a1b358.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-568-6bc6e749c46b3dbb12d2ad10ff666c57a809d6ace1ee20bd3371b9ad73a1b358.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=9BmtKNJt4X0"
     },
     "24-109": {
       "docket_number": "24-109",
@@ -18558,7 +18794,8 @@
       "description_version": "v1",
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-109.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-109-8bece21a3f770b9ed3c7df23db68a68880aa038704a7e189fd991d826f38595a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-109-8bece21a3f770b9ed3c7df23db68a68880aa038704a7e189fd991d826f38595a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=yC-Axo9aA1c"
     },
     "24-351": {
       "docket_number": "24-351",
@@ -18672,7 +18909,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-351.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-351-44c933a94f58c693de5a3a1cfb8861dcc6e2fcaf874c74622a6af6b2e2c4964b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-351-44c933a94f58c693de5a3a1cfb8861dcc6e2fcaf874c74622a6af6b2e2c4964b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=sLEeLqmeQBw"
     },
     "24-5438": {
       "docket_number": "24-5438",
@@ -18850,7 +19088,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-5438.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-5438-91a028c5937501ce4884b934390f2b065fe7f4ab64b13f5462a03144c2c7d7e6.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-5438-91a028c5937501ce4884b934390f2b065fe7f4ab64b13f5462a03144c2c7d7e6.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=nDOuDf94ctI"
     },
     "24-482": {
       "docket_number": "24-482",
@@ -18996,7 +19235,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-482.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-482-6ee7e772a7396b1c8b6a7759a37903b1b99ee8441f5962e501a562994c1c16e0.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-482-6ee7e772a7396b1c8b6a7759a37903b1b99ee8441f5962e501a562994c1c16e0.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=fTw4yMk55S0"
     },
     "24-624": {
       "docket_number": "24-624",
@@ -19142,7 +19382,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-624.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-624-8b3eb7456cfc87f0528900573239bd943ad28a640773ff24f2fdf677fe5cb251.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-624-8b3eb7456cfc87f0528900573239bd943ad28a640773ff24f2fdf677fe5cb251.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=lqmk210Y9sk"
     },
     "24-1056": {
       "docket_number": "24-1056",
@@ -19257,7 +19498,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1056.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-1056-39e1cbc8357bee58749959c60095de49c2ec143d5b9886a899c2be7944684d86.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-1056-39e1cbc8357bee58749959c60095de49c2ec143d5b9886a899c2be7944684d86.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=sd18UdtkLZE"
     },
     "24-924": {
       "docket_number": "24-924",
@@ -19541,7 +19783,8 @@
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-808.mp3",
       "vtt_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-808.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-808-d87f36ba27d313ad5218e2944f27464f314524dc786f1aa3c65e835e078e46ad.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-808-d87f36ba27d313ad5218e2944f27464f314524dc786f1aa3c65e835e078e46ad.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=tsv-dyz0BoI"
     },
     "24-724": {
       "docket_number": "24-724",
@@ -19671,7 +19914,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-724.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-724-68d9276d2be066c2f3e022661a155ad938a606af2d123e396bc176547cde21ec.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-724-68d9276d2be066c2f3e022661a155ad938a606af2d123e396bc176547cde21ec.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=r-aabwNJ1Vs"
     },
     "24-1287": {
       "docket_number": "24-1287",
@@ -19888,7 +20132,8 @@
         }
       ],
       "source": "oyez",
-      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1287.mp3"
+      "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-1287.mp3",
+      "youtube_url": "https://www.youtube.com/watch?v=DXRWnfVEY5g"
     },
     "23-1197": {
       "docket_number": "23-1197",
@@ -20098,7 +20343,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/23-1197.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/23-1197-db6bbf7a3f6484b66f0bb58251403e6f8394dc03e01ae6a2b88ac6848d91a677.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/23-1197-db6bbf7a3f6484b66f0bb58251403e6f8394dc03e01ae6a2b88ac6848d91a677.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=OspbTImE348"
     },
     "24-758": {
       "docket_number": "24-758",
@@ -20220,7 +20466,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-758.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-758-bb3032977d53d32c036b68ff1764006deda46a9dbdc7836bcaa49e342b32977b.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-758-bb3032977d53d32c036b68ff1764006deda46a9dbdc7836bcaa49e342b32977b.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=QQMuYv7aUcw"
     },
     "24-556": {
       "docket_number": "24-556",
@@ -20374,7 +20621,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-556.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-556-6dcd6248ff68c4fd11b6b2bc992e03f584fd4a5cc0c4f70033db7dfd533a8f45.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-556-6dcd6248ff68c4fd11b6b2bc992e03f584fd4a5cc0c4f70033db7dfd533a8f45.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=HLPRaoXzX9I"
     },
     "24-820": {
       "docket_number": "24-820",
@@ -20690,7 +20938,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-171.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-171-f31c7a2f92b55b54f89cad904110599c002f797556299b4089317a92a1967aca.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-171-f31c7a2f92b55b54f89cad904110599c002f797556299b4089317a92a1967aca.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Qqm6WvLCP4o"
     },
     "24-777": {
       "docket_number": "24-777",
@@ -20792,7 +21041,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://f000.backblazeb2.com/file/scotus-podcast/2025/24-777.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-777-1fb57ca062e9e1ee7e98a93288f2080e6f7b1337ab788fbf93d429780b12d70e.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-777-1fb57ca062e9e1ee7e98a93288f2080e6f7b1337ab788fbf93d429780b12d70e.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=rJ3jNuvdAj4"
     },
     "24-781": {
       "docket_number": "24-781",
@@ -21006,7 +21256,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-781.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-781-2403048efd8beed095980fad428a23a795fc9167a530bba4c9fefa34baf9f8ac.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-781-2403048efd8beed095980fad428a23a795fc9167a530bba4c9fefa34baf9f8ac.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=8XVEisC3gBM"
     },
     "24-993": {
       "docket_number": "24-993",
@@ -21168,7 +21419,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-993.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-993-c7dde9d90d9964025732a9d5d5668d39e002303e5cedf74bc3a607c41f28c78a.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-993-c7dde9d90d9964025732a9d5d5668d39e002303e5cedf74bc3a607c41f28c78a.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=6-AIhDKEUvg"
     },
     "25-332": {
       "docket_number": "25-332",
@@ -21358,7 +21610,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-332.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25-332-324bbed88cb0e8f60e82abbed0d44cab9fc81b756d35c0a06b95a7c6aa843bb4.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25-332-324bbed88cb0e8f60e82abbed0d44cab9fc81b756d35c0a06b95a7c6aa843bb4.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=Lg86tfI0W7o"
     },
     "24-621": {
       "docket_number": "24-621",
@@ -21532,7 +21785,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-621.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-621-703d715d73a3cabac737230ebb73ade09e3532676fcb86da0178ab41cd42e750.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-621-703d715d73a3cabac737230ebb73ade09e3532676fcb86da0178ab41cd42e750.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=RvHGKYehNHE"
     },
     "24-872": {
       "docket_number": "24-872",
@@ -21735,7 +21989,8 @@
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-872.mp3",
       "vtt_url": "https://podcast.scotusstats.com/2025/24-872.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-872-7c4969baa0c41d06cc5cb2bb092c2fc4e55b79f972ca817fb5341f441db15962.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-872-7c4969baa0c41d06cc5cb2bb092c2fc4e55b79f972ca817fb5341f441db15962.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=R6yVOKkdapU"
     },
     "24-345": {
       "docket_number": "24-345",
@@ -21877,7 +22132,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-345.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-345-f7a47e354f5f65dcb395e1d5169f27a4ca792ebaf1215babe6cfee8d910afe6c.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-345-f7a47e354f5f65dcb395e1d5169f27a4ca792ebaf1215babe6cfee8d910afe6c.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=p3zLZ_CdCRs"
     },
     "24-813": {
       "docket_number": "24-813",
@@ -22180,7 +22436,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-38.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-38-cdd64cb9bad39ced638c74827c23505fc15e012db267e16bcc7b9f69c99282ab.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-38-cdd64cb9bad39ced638c74827c23505fc15e012db267e16bcc7b9f69c99282ab.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=hxmTAVFonmI"
     },
     "24-43": {
       "docket_number": "24-43",
@@ -22354,7 +22611,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/24-43.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-43-ee7e86f7ce12adae7a76f57e4bc127827122ac9251407a78f21051c1b1c37a54.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/24-43-ee7e86f7ce12adae7a76f57e4bc127827122ac9251407a78f21051c1b1c37a54.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=bR74VGWf7N0"
     },
     "24-1021": {
       "docket_number": "24-1021",
@@ -22979,7 +23237,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25A312.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25A312-e0c8f673bb66eb7b1ebeccf16009e7190910b94137af90d489210353f48d0ef8.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25A312-e0c8f673bb66eb7b1ebeccf16009e7190910b94137af90d489210353f48d0ef8.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=flzz-UOQWxU"
     },
     "24-983": {
       "docket_number": "24-983",
@@ -25412,7 +25671,8 @@
       ],
       "source": "oyez",
       "b2_url": "https://podcast.scotusstats.com/2025/25-365.mp3",
-      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25-365-b3df6f79c5aca9bacb1e90d142577947ce284c11ef365e6f18805bbd0d35b7d1.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/artwork/2025/25-365-b3df6f79c5aca9bacb1e90d142577947ce284c11ef365e6f18805bbd0d35b7d1.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=GCygktDbU3Q"
     },
     "25-466": {
       "docket_number": "25-466",
@@ -27129,7 +27389,8 @@
       "description_version": "v1",
       "oyez_metadata_sha256": "84be627df0cea0531f8e06209e8d8d4347d365892b6a97be629fb50fcdefe0e1",
       "media_uploaded_revision": "f13219a36053a812e10d7cc2e4965ece46cab0459cb49a1a5bdf937533e1ec47",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-735.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-735.vtt",
+      "youtube_url": "https://www.youtube.com/watch?v=fH3tO7gyx64"
     },
     "25-498": {
       "docket_number": "25-498",
@@ -27670,7 +27931,8 @@
       ],
       "alignment_source": "scotus_ctc",
       "alignment_revision": "bf8ae33d25b2badbdc2f7ea0ceb653e88e3badef30f5ae0ea98c6e4f453a0bf3",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-5343.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-5343.vtt",
+      "youtube_url": "https://www.youtube.com/watch?v=V-FCuylEZS8"
     },
     "25-459": {
       "docket_number": "25-459",
@@ -27865,7 +28127,8 @@
       ],
       "alignment_source": "scotus_ctc",
       "alignment_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-459.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-459.vtt",
+      "youtube_url": "https://www.youtube.com/watch?v=RVlud1nKiXY"
     }
   }
 }
