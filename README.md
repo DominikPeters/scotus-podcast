@@ -9,3 +9,6 @@ The bridge reads the public, immutable alignment exports indexed at https://scot
 Use `python3 get_alignment.py --dry-run` to inspect exports without downloading audio or changing feeds. The manual workflow also has a `dry_run` input. Repository variable `SCOTUS_BRIDGE_DRY_RUN=true` keeps all workflow triggers in dry-run mode during deployment checks. Tests run with `python3 -m unittest discover -p 'test_*.py'`.
 
 The podcast feed is hosted at https://scotusstats.com/podcast/podcast.rss, and is available on [Apple Podcasts](https://podcasts.apple.com/us/podcast/supreme-court-oral-arguments/id1734053538), [Spotify](https://open.spotify.com/show/3fxexipVTGI255vbjckmgJ), and other podcast apps.
+
+
+Public YouTube videos are linked in each episode's information links row in both RSS feeds. The build reads `https://scotusstats.com/podcast/youtube/index.json`, matches docket and argument date, and retains saved links if the index is temporarily unavailable. The video dashboard adds entries after successful publication; unlisted review uploads are excluded. This updates feed metadata only, without re-uploading audio.

@@ -13,6 +13,7 @@ import json
 from datetime import datetime
 import os
 import uuid
+import re
 from pathlib import Path
 from botocore.exceptions import ClientError
 
@@ -67,6 +68,16 @@ def upload_rss(rss_filename):
     ftp.quit()
     log.info(f"RSS upload successful: {rss_filename}")
 
+def description_with_video(description, url):
+    if not url or not re.fullmatch(r'https://www\.youtube\.com/watch\?v=[A-Za-z0-9_-]{11}',url):return description
+    if url in description:return description
+    link='<a href="'+html.escape(url,quote=True)+'">YouTube</a>'
+    for paragraph in re.finditer(r'<p\b[^>]*>.*?</p>',description,re.I|re.S):
+        if re.search(r'>\s*(?:Docket|oyez\.org|Justia)\s*</a>',paragraph.group(),re.I):
+            end=paragraph.end()-4
+            return description[:end]+' &middot; '+link+description[end:]
+    return description+'<p>'+link+'</p>'
+
 def build_podcast(spotify=False):
     # For Spotify, we need to put chapters in the episode description
     
@@ -110,7 +121,7 @@ def build_podcast(spotify=False):
             argued_date = argued_date.replace(hour=10, minute=0, second=0) # 10am ET
             argued_date_for_rss = argued_date.strftime("%a, %d %b %Y %H:%M:%S -0400")
 
-            description = case['description']
+            description = description_with_video(case['description'],case.get('youtube_url'))
             if spotify and 'chapters' in case:
                 lines = [f"{seconds_to_string(chapter['start'])} {html.escape(chapter['title'])}" for chapter in case['chapters']]
                 description += "<p>Chapters:<br/>" + "<br/>".join(lines) + "</p>"

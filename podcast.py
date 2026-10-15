@@ -1,3 +1,4 @@
+from get_youtube import get_from_youtube
 from get_scotus_website import get_from_scotus_website
 from get_oyez import get_from_oyez,send_email
 from get_alignment import get_from_alignment
@@ -78,6 +79,8 @@ def shorten_commit_message():
 
     if alignment_matches: output_parts.append("Alignment chapters for " + ", ".join(alignment_matches))
 
+    if "Add YouTube links" in input_string: output_parts.append("Add YouTube links to podcast episodes")
+
     # Join all parts with periods
     output_string = ". ".join(output_parts) + ("." if output_parts else "")
 
@@ -102,6 +105,7 @@ try:
     for provider in (get_from_scotus_website,get_from_oyez):
         try:provider()
         except Exception:logger.exception('Provider update failed; publishing available valid episodes')
+    get_from_youtube()
     build_podcast()
     build_podcast(spotify=True)
     shorten_commit_message()
