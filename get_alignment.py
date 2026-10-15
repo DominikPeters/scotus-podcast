@@ -61,7 +61,10 @@ def apply_recording(data,entry,recording,dry_run=False):
     if artwork_url:
         parsed=urlsplit(artwork_url)
         if parsed.scheme!='https' or parsed.hostname!='scotusstats.com' or not parsed.path.startswith('/podcast/alignment/') or not parsed.path.endswith('.jpg'):raise ValueError('Unexpected episode artwork endpoint')
-        if entry.get('artwork_sha256')!=recording.get('artwork',{}).get('sha256'):raise ValueError('Artwork identity differs')
+        expected=entry.get('artwork_sha256','')
+        if not re.fullmatch(r'[a-f0-9]{64}',expected):raise ValueError('Artwork identity differs')
+        if not recording.get('artwork') and not parsed.path.endswith('-'+expected+'.jpg'):raise ValueError('Artwork identity differs')
+        if recording.get('artwork') and expected!=recording['artwork'].get('sha256'):raise ValueError('Artwork identity differs')
     if existing.get('alignment_revision')==alignment_revision:
         if not artwork_url or existing.get('artwork_url')==artwork_url:return None
         if not dry_run:
@@ -101,7 +104,8 @@ def get_from_alignment(dry_run=False):
         log.exception('Alignment index unavailable; continuing with existing episodes and Oyez');return []
     results=[]
     for entry in sorted(index.get('recordings',{}).values(),key=lambda e:e['argument_date']):
-        if data.get(entry['term'],{}).get(entry['docket'],{}).get('podcast_export_revision',data.get(entry['term'],{}).get(entry['docket'],{}).get('alignment_revision'))==entry['revision']:continue
+        existing=data.get(entry['term'],{}).get(entry['docket'],{})
+        if existing.get('podcast_export_revision',existing.get('alignment_revision'))==entry['revision'] and (not entry.get('artwork_url') or existing.get('artwork_url')==entry['artwork_url']):continue
         try:
             recording,raw=fetch_json(entry['url'])
             if hashlib.sha256(raw).hexdigest()!=entry['revision']:raise ValueError('Export checksum differs')
