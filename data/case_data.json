@@ -26962,7 +26962,9 @@
       "description_version": "v1",
       "oyez_metadata_sha256": "8ad139bc89f0dab08de6c6a5778af852f8dfc2a790cf0e1584b04612043daace",
       "media_uploaded_revision": "bd79f1631d01f3b6e326a179f505f4200015fa094e8cf0e7fa72be690e9e73a7",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-170.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-170.vtt",
+      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-10-05-25-170-argument-1-da631788c0dae0d854679269d86cf5078b3cb54fde4c270b8d3bba24f371f3d7.jpg",
+      "podcast_export_revision": "e09a91bbf7fbe2ccafd4a9831724cc7eb918c66067f8461517c2fc80d6e7188a"
     },
     "25-735": {
       "docket_number": "25-735",
