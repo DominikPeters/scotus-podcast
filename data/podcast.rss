@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-5930] Maxwell v. Dinis</title>
+            <description><![CDATA[<p>Maxwell v. Dinis</p>
+    <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5930.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-5930">oyez.org</a></p>
+    <p>Argued on Nov 2, 2026.</p>
+    <p>Petitioner: William Maxwell.<br>Respondent: Sandra Dinis, Acting Warden.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>William Maxwell is a federal prisoner housed at FCI Beaumont Low in Texas. In 2020, Maxwell asked prison officials to transfer him to a halfway house or home confinement, invoking several laws including the First Step Act's earned time credit provisions, which require the Bureau of Prisons (BOP) to apply credits prisoners earn through participation in rehabilitation programs toward earlier placement in prerelease custody. The BOP responded only to Maxwell's request under the separate CARES Act and denied it, ignoring his First Step Act arguments entirely. After Maxwell pushed through the BOP's administrative grievance process — a process he contends the BOP actively obstructed by losing filings, failing to respond, and submitting a false declaration claiming he never raised First Step Act claims — he filed a federal habeas corpus petition under 28 U.S.C. § 2241 seeking transfer to a halfway house or home confinement based on his earned First Step Act time credits.</p>
+<p>The district court dismissed Maxwell's petition, ruling he had failed to exhaust his administrative remedies on his First Step Act claims. Maxwell appealed to the U.S. Court of Appeals for the Fifth Circuit, which sua sponte affirmed dismissal on a different ground — holding under its own bright-line rule that because a favorable ruling would not automatically accelerate Maxwell's release from prison, a civil rights lawsuit, not a habeas petition, was the only proper vehicle for his claims.</p>
+
+    <p><b>Question</b></p>
+    <p>Can a federal prisoner use a habeas corpus petition to challenge the government's calculation of First Step Act time credits in order to seek an earlier transfer to a halfway house or home confinement?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-5930.mp3" length="30772584" type="audio/mpeg"/>
+            <guid>scotus_2026_25-5930_v0</guid>
+            <itunes:duration>3846</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Mon, 02 Nov 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-5930.vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[25-459] Salazar v. Paramount Global</title>
             <description><![CDATA[<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p><p><a href="https://www.youtube.com/watch?v=RVlud1nKiXY">YouTube</a></p>]]></description>
             <enclosure url="https://podcast.scotusstats.com/2026/25-459.mp3" length="40649116" type="audio/mpeg"/>
