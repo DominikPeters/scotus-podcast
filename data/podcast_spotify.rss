@@ -52,6 +52,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
             <itunes:season>2026</itunes:season>
             <pubDate>Mon, 02 Nov 2026 10:00:00 -0400</pubDate>
             <podcast:transcript url="https://podcast.scotusstats.com/2026/25-5930.vtt" type="text/vtt" />
+            <itunes:image href="https://scotusstats.com/podcast/alignment/2026-11-02-25-5930-argument-1-05ce9c624ce91b8e0818c60a76be1aade54b0e416274fd0a49919ae8b95a4936.jpg"/>
+        </item>
+    <item>
+            <title>[25-352] Younge v. Fulton Judicial Circuit Dist. Attorney’s Office</title>
+            <description><![CDATA[<p>Younge v. Fulton Judicial Circuit District Attorney's Office, Georgia</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-352/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-352.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-352">oyez.org</a></p>
+    <p>Argued on Nov 2, 2026.</p>
+    <p>Petitioner: Jasmine Younge.<br>Respondent: Fulton Judicial Circuit District Attorney's Office, Georgia .</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>In April 2019, Fulton County District Attorney Paul Howard — an elected official — hired Dr. Jasmine Younge as Deputy Chief of Staff and Director of Policy and Programs at a salary of $120,282. Younge ranked third in the office's chain of command, reported exclusively to Howard, supervised more than thirty employees, and worked so closely with Howard that he described her as a "key member" and his "go-to person for almost everything." About two months into her tenure, Younge told Howard she was pregnant.</p>
+<p>After that announcement, Howard stopped meeting with Younge, excluded her from meetings, treated her dismissively, and reassigned some of her duties — then fired her two weeks later. Younge sued the Fulton County District Attorney's Office for pregnancy discrimination under Title VII. In its answer, the DA's Office raised several affirmative defenses but did not plead the Title VII personal-staff exemption — which excludes from Title VII's coverage persons chosen to serve on an elected official's "personal staff." The DA's Office did not recognize the exemption as relevant until it began preparing its summary judgment motion, after discovery had already closed.</p>
+<p>The district court allowed the DA's Office to raise the personal-staff exemption for the first time at summary judgment, finding no prejudice to Younge from the late assertion, and granted summary judgment to the DA's Office on that basis; Younge then appealed to the U.S. Court of Appeals for the Eleventh Circuit, which affirmed.</p>
+
+    <p><b>Question</b></p>
+    <p>May a defendant raise an affirmative defense it never pleaded in its answer as the sole basis for a summary judgment motion — without seeking to amend its answer — and does it matter that the court's scheduling order deadline would have barred any such amendment?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-352.mp3" length="26757362" type="audio/mpeg"/>
+            <guid>scotus_2026_25-352_v0</guid>
+            <itunes:duration>3343</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Mon, 02 Nov 2026 10:00:00 -0400</pubDate>
         </item>
     <item>
             <title>[25-459] Salazar v. Paramount Global</title>

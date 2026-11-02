@@ -28302,7 +28302,27 @@
       "oyez_metadata_sha256": "e99d0c22953277e1ac129d18380e2f4a0339c59045b7d16f425dd7dbec212a2e",
       "b2_url": "https://podcast.scotusstats.com/2026/25-5930.mp3",
       "media_uploaded_revision": "9cad0955bed3c06fab4902c4cf6e84bd80aa05d074d69815cfb6f8d72111e132",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-5930.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-5930.vtt",
+      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-02-25-5930-argument-1-05ce9c624ce91b8e0818c60a76be1aade54b0e416274fd0a49919ae8b95a4936.jpg"
+    },
+    "25-352": {
+      "docket_number": "25-352",
+      "name": "Younge v. Fulton Judicial Circuit Dist. Attorney\u2019s Office",
+      "date_argued_timestamp": 1793577600,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-352.mp3",
+      "mp3_length": 3343,
+      "mp3_size": 26757362,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "description_source": "oyez",
+      "audio_sha256": "4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa",
+      "media_revision": "scotus-4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa",
+      "description": "<p>Younge v. Fulton Judicial Circuit District Attorney's Office, Georgia</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-352/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-352.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-352\">oyez.org</a></p>\n    <p>Argued on Nov 2, 2026.</p>\n    <p>Petitioner: Jasmine Younge.<br>Respondent: Fulton Judicial Circuit District Attorney's Office, Georgia .</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In April 2019, Fulton County District Attorney Paul Howard \u2014 an elected official \u2014 hired Dr. Jasmine Younge as Deputy Chief of Staff and Director of Policy and Programs at a salary of $120,282. Younge ranked third in the office's chain of command, reported exclusively to Howard, supervised more than thirty employees, and worked so closely with Howard that he described her as a \"key member\" and his \"go-to person for almost everything.\" About two months into her tenure, Younge told Howard she was pregnant.</p>\n<p>After that announcement, Howard stopped meeting with Younge, excluded her from meetings, treated her dismissively, and reassigned some of her duties \u2014 then fired her two weeks later. Younge sued the Fulton County District Attorney's Office for pregnancy discrimination under Title VII. In its answer, the DA's Office raised several affirmative defenses but did not plead the Title VII personal-staff exemption \u2014 which excludes from Title VII's coverage persons chosen to serve on an elected official's \"personal staff.\" The DA's Office did not recognize the exemption as relevant until it began preparing its summary judgment motion, after discovery had already closed.</p>\n<p>The district court allowed the DA's Office to raise the personal-staff exemption for the first time at summary judgment, finding no prejudice to Younge from the late assertion, and granted summary judgment to the DA's Office on that basis; Younge then appealed to the U.S. Court of Appeals for the Eleventh Circuit, which affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May a defendant raise an affirmative defense it never pleaded in its answer as the sole basis for a summary judgment motion \u2014 without seeking to amend its answer \u2014 and does it matter that the court's scheduling order deadline would have barred any such amendment?</p>\n\n    ",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "463b393f73fad1a4f70910402289d1ab89427c05dc11309598709654a2277e30",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-352.mp3",
+      "media_uploaded_revision": "scotus-4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa"
     }
   }
 }
