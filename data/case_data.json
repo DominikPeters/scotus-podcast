@@ -28303,7 +28303,8 @@
       "b2_url": "https://podcast.scotusstats.com/2026/25-5930.mp3",
       "media_uploaded_revision": "9cad0955bed3c06fab4902c4cf6e84bd80aa05d074d69815cfb6f8d72111e132",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-5930.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-02-25-5930-argument-1-05ce9c624ce91b8e0818c60a76be1aade54b0e416274fd0a49919ae8b95a4936.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-02-25-5930-argument-1-05ce9c624ce91b8e0818c60a76be1aade54b0e416274fd0a49919ae8b95a4936.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=_ge3jdgJBNI"
     },
     "25-352": {
       "docket_number": "25-352",
@@ -28312,17 +28313,148 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-352",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-352.mp3",
       "mp3_length": 3343,
-      "mp3_size": 26757362,
+      "mp3_size": 26753748,
       "source": "scotus",
       "audio_source": "scotus",
       "description_source": "oyez",
       "audio_sha256": "4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa",
-      "media_revision": "scotus-4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa",
+      "media_revision": "7a5b60c2d5e188f4759dad7f1a98e70640bc0a48edec8f65f0d68bb590add85d",
       "description": "<p>Younge v. Fulton Judicial Circuit District Attorney's Office, Georgia</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-352/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-352.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-352\">oyez.org</a></p>\n    <p>Argued on Nov 2, 2026.</p>\n    <p>Petitioner: Jasmine Younge.<br>Respondent: Fulton Judicial Circuit District Attorney's Office, Georgia .</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>In April 2019, Fulton County District Attorney Paul Howard \u2014 an elected official \u2014 hired Dr. Jasmine Younge as Deputy Chief of Staff and Director of Policy and Programs at a salary of $120,282. Younge ranked third in the office's chain of command, reported exclusively to Howard, supervised more than thirty employees, and worked so closely with Howard that he described her as a \"key member\" and his \"go-to person for almost everything.\" About two months into her tenure, Younge told Howard she was pregnant.</p>\n<p>After that announcement, Howard stopped meeting with Younge, excluded her from meetings, treated her dismissively, and reassigned some of her duties \u2014 then fired her two weeks later. Younge sued the Fulton County District Attorney's Office for pregnancy discrimination under Title VII. In its answer, the DA's Office raised several affirmative defenses but did not plead the Title VII personal-staff exemption \u2014 which excludes from Title VII's coverage persons chosen to serve on an elected official's \"personal staff.\" The DA's Office did not recognize the exemption as relevant until it began preparing its summary judgment motion, after discovery had already closed.</p>\n<p>The district court allowed the DA's Office to raise the personal-staff exemption for the first time at summary judgment, finding no prejudice to Younge from the late assertion, and granted summary judgment to the DA's Office on that basis; Younge then appealed to the U.S. Court of Appeals for the Eleventh Circuit, which affirmed.</p>\n\n    <p><b>Question</b></p>\n    <p>May a defendant raise an affirmative defense it never pleaded in its answer as the sole basis for a summary judgment motion \u2014 without seeking to amend its answer \u2014 and does it matter that the court's scheduling order deadline would have barred any such amendment?</p>\n\n    ",
       "description_version": "v1",
       "oyez_metadata_sha256": "463b393f73fad1a4f70910402289d1ab89427c05dc11309598709654a2277e30",
       "b2_url": "https://podcast.scotusstats.com/2026/25-352.mp3",
-      "media_uploaded_revision": "scotus-4a843e16b2d8e0f5a373dc71d700cf9b7a9432fe7929b3a89124d45a3ec612fa"
+      "media_uploaded_revision": "7a5b60c2d5e188f4759dad7f1a98e70640bc0a48edec8f65f0d68bb590add85d",
+      "argument_date": "2026-11-02",
+      "chapters": [
+        {
+          "title": "Eric Schnapper (for the Petitioner)",
+          "start": 0.04
+        },
+        {
+          "title": "Schnapper - Justice Thomas",
+          "start": 154.77999999999997
+        },
+        {
+          "title": "Schnapper - Justice Jackson",
+          "start": 252.95999999999998
+        },
+        {
+          "title": "Schnapper - Justice Barrett",
+          "start": 301.72
+        },
+        {
+          "title": "Schnapper - Justice Kagan",
+          "start": 535.98
+        },
+        {
+          "title": "Schnapper - Justice Gorsuch",
+          "start": 713.62
+        },
+        {
+          "title": "Schnapper - Justice Alito",
+          "start": 832.9000000000001
+        },
+        {
+          "title": "Schnapper - Justice Jackson",
+          "start": 1111.92
+        },
+        {
+          "title": "Schnapper - Justice Barrett",
+          "start": 1235.7
+        },
+        {
+          "title": "Schnapper - Justice Sotomayor",
+          "start": 1267.96
+        },
+        {
+          "title": "Schnapper - Justice Barrett",
+          "start": 1307.3400000000001
+        },
+        {
+          "title": "Schnapper - Justice Sotomayor",
+          "start": 1348.86
+        },
+        {
+          "title": "Schnapper - Justice Kavanaugh",
+          "start": 1368.28
+        },
+        {
+          "title": "Schnapper - Justice Alito",
+          "start": 1396.72
+        },
+        {
+          "title": "Schnapper - Justice Gorsuch",
+          "start": 1437.26
+        },
+        {
+          "title": "Schnapper - Justice Kavanaugh",
+          "start": 1464.7
+        },
+        {
+          "title": "Schnapper - Justice Alito",
+          "start": 1535.3000000000002
+        },
+        {
+          "title": "Schnapper - Justice Kagan",
+          "start": 1564.64
+        },
+        {
+          "title": "Schnapper - Justice Roberts",
+          "start": 1602.46
+        },
+        {
+          "title": "Stephen J. Petrany (for the Respondent)",
+          "start": 1611.9
+        },
+        {
+          "title": "Petrany - Justice Thomas",
+          "start": 1731.58
+        },
+        {
+          "title": "Petrany - Justice Kagan",
+          "start": 1831.8799999999999
+        },
+        {
+          "title": "Petrany - Justice Gorsuch",
+          "start": 1957.62
+        },
+        {
+          "title": "Petrany - Justice Barrett",
+          "start": 2087.0
+        },
+        {
+          "title": "Petrany - Justice Sotomayor",
+          "start": 2159.2400000000002
+        },
+        {
+          "title": "Petrany - Justice Jackson",
+          "start": 2250.02
+        },
+        {
+          "title": "Petrany - Justice Kagan",
+          "start": 2663.96
+        },
+        {
+          "title": "Petrany - Justice Sotomayor",
+          "start": 2755.24
+        },
+        {
+          "title": "Petrany - Justice Barrett",
+          "start": 2802.08
+        },
+        {
+          "title": "Petrany - Justice Alito",
+          "start": 3018.46
+        },
+        {
+          "title": "Eric Schnapper (for the Petitioner)",
+          "start": 3235.2599999999998
+        }
+      ],
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "7a5b60c2d5e188f4759dad7f1a98e70640bc0a48edec8f65f0d68bb590add85d",
+      "podcast_export_revision": "f4a56e1088a46a1236d740bdced6cd77cb86da2a2301b37999189dd2e90759cb",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-352.vtt"
     }
   }
 }
