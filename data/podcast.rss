@@ -32,6 +32,27 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-581] St. Mary Catholic Parish v. Roy</title>
+            <description><![CDATA[<p>St. Mary Catholic Parish v. Roy</p>
+    <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-581/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-581.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-581">oyez.org</a></p>
+    <p>Argued on Nov 3, 2026.</p>
+    <p>Petitioner: St. Mary Catholic Parish, Littleton, Colorado.<br>Respondent: Lisa Roy, in Her Official Capacity as Executive Director of the Colorado Department of Early Childhood.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Colorado voters established the Universal Preschool Program (UPK) to provide free preschool services through a “mixed delivery system” of public and private providers. To receive state funds, providers must sign a nondiscrimination agreement that requires them to enroll students regardless of their sexual orientation or gender identity. Two Catholic parishes and the Archdiocese of Denver sought to participate in the program but refused to sign the agreement. They argued that their religious tenets require them to consider the sexual orientation and gender identity of families during admissions to maintain their religious environment.</p>
+<p>The schools specifically challenged the program’s “preference system,” which uses an algorithm to match families with schools based on categories like sibling enrollment or congregation membership. They also highlighted a “temporary waiver” provision that allows the state to grant providers extra time to meet certain quality standards. The schools argued that these features create a system of “individualized exemptions” where the state exercises discretion to favor secular interests. Because the state allows these secular preferences while denying a religious exemption to the nondiscrimination rule, the schools contended the program unconstitutionally penalizes them for their religious character.</p>
+<p>The district court denied the schools’ request for a permanent injunction, ruling that the nondiscrimination requirement is a neutral and generally applicable law. The U.S. Court of Appeals for the Tenth Circuit affirmed that decision, holding that the state’s program does not grant the type of unfettered discretion that would trigger strict scrutiny.</p>
+
+    <p><b>Question</b></p>
+    <p>Does a law lack general applicability under the Free Exercise Clause only if it permits unfettered discretion or secular exemptions, and does the rule against excluding religious institutions from public benefits apply only to explicit government bans on participation?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-581.mp3" length="58588959" type="audio/mpeg"/>
+            <guid>scotus_2026_25-581_v0</guid>
+            <itunes:duration>7322</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Tue, 03 Nov 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-581.vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[25-5930] Maxwell v. Dinis</title>
             <description><![CDATA[<p>Maxwell v. Dinis</p>
     <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-5930.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-5930">oyez.org</a> &middot; <a href="https://www.youtube.com/watch?v=_ge3jdgJBNI">YouTube</a></p>

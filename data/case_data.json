@@ -28456,6 +28456,214 @@
       "podcast_export_revision": "f4a56e1088a46a1236d740bdced6cd77cb86da2a2301b37999189dd2e90759cb",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-352.vtt",
       "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-02-25-352-argument-1-7281ca3e932cf52c2f8e28263f70e165c920eb2a3a56b12f9c8b8c44dd898a30.jpg"
+    },
+    "25-581": {
+      "docket_number": "25-581",
+      "name": "St. Mary Catholic Parish v. Roy",
+      "argument_date": "2026-11-03",
+      "date_argued_timestamp": 1793664000,
+      "chapters": [
+        {
+          "title": "Nicholas R. Reaves (for the Petitioners)",
+          "start": 0.26
+        },
+        {
+          "title": "Reaves - Justice Thomas",
+          "start": 138.4
+        },
+        {
+          "title": "Reaves - Justice Sotomayor",
+          "start": 193.95999999999998
+        },
+        {
+          "title": "Reaves - Justice Roberts",
+          "start": 199.2
+        },
+        {
+          "title": "Reaves - Justice Jackson",
+          "start": 305.06
+        },
+        {
+          "title": "Reaves - Justice Kagan",
+          "start": 561.04
+        },
+        {
+          "title": "Reaves - Justice Sotomayor",
+          "start": 760.24
+        },
+        {
+          "title": "Reaves - Justice Barrett",
+          "start": 972.48
+        },
+        {
+          "title": "Reaves - Justice Roberts",
+          "start": 1091.74
+        },
+        {
+          "title": "Reaves - Justice Alito",
+          "start": 1179.26
+        },
+        {
+          "title": "Reaves - Justice Sotomayor",
+          "start": 1335.08
+        },
+        {
+          "title": "Reaves - Justice Kagan",
+          "start": 1437.96
+        },
+        {
+          "title": "Reaves - Justice Gorsuch",
+          "start": 1668.7
+        },
+        {
+          "title": "Reaves - Justice Kavanaugh",
+          "start": 1760.92
+        },
+        {
+          "title": "Reaves - Justice Barrett",
+          "start": 2196.96
+        },
+        {
+          "title": "Reaves - Justice Jackson",
+          "start": 2497.92
+        },
+        {
+          "title": "Sarah M. Harris (for the United States, as amicus curiae, supporting the Petitioners)",
+          "start": 2873.6
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 2942.14
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 3002.48
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 3254.74
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 3309.12
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 3358.46
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 3597.2200000000003
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 3752.78
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 3946.6600000000003
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 4158.34
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 4224.68
+        },
+        {
+          "title": "Helen Norton (for the Respondents)",
+          "start": 4647.74
+        },
+        {
+          "title": "Norton - Justice Thomas",
+          "start": 4774.62
+        },
+        {
+          "title": "Norton - Justice Barrett",
+          "start": 4812.08
+        },
+        {
+          "title": "Norton - Justice Jackson",
+          "start": 4951.48
+        },
+        {
+          "title": "Norton - Justice Roberts",
+          "start": 5036.92
+        },
+        {
+          "title": "Norton - Justice Alito",
+          "start": 5096.4400000000005
+        },
+        {
+          "title": "Norton - Justice Roberts",
+          "start": 5212.5
+        },
+        {
+          "title": "Norton - Justice Alito",
+          "start": 5302.26
+        },
+        {
+          "title": "Norton - Justice Kavanaugh",
+          "start": 5531.96
+        },
+        {
+          "title": "Norton - Justice Roberts",
+          "start": 5790.08
+        },
+        {
+          "title": "Norton - Justice Barrett",
+          "start": 5800.58
+        },
+        {
+          "title": "Norton - Justice Kagan",
+          "start": 6041.82
+        },
+        {
+          "title": "Norton - Justice Roberts",
+          "start": 6134.02
+        },
+        {
+          "title": "Norton - Justice Kavanaugh",
+          "start": 6158.04
+        },
+        {
+          "title": "Norton - Justice Jackson",
+          "start": 6332.919999999999
+        },
+        {
+          "title": "Norton - Justice Alito",
+          "start": 6476.719999999999
+        },
+        {
+          "title": "Norton - Justice Kavanaugh",
+          "start": 6785.3
+        },
+        {
+          "title": "Norton - Justice Barrett",
+          "start": 6896.8
+        },
+        {
+          "title": "Norton - Justice Jackson",
+          "start": 7021.700000000001
+        }
+      ],
+      "mp3_length": 7322,
+      "mp3_size": 58588959,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "audio_sha256": "be5b0f2013d04e82705abadd1e832b74fad45208a63e1f99e018264201199cfc",
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "66fc3cecc38d6b02c22e49fe59c7804f4f52d8904e7725fbf2812955fa1b8a72",
+      "media_revision": "66fc3cecc38d6b02c22e49fe59c7804f4f52d8904e7725fbf2812955fa1b8a72",
+      "podcast_export_revision": "7a8737aafbdf5946d0404ebe6a6c20abf84ec52823423555cd50346b2a6864f5",
+      "description": "<p>St. Mary Catholic Parish v. Roy</p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-581/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-581.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-581\">oyez.org</a></p>\n    <p>Argued on Nov 3, 2026.</p>\n    <p>Petitioner: St. Mary Catholic Parish, Littleton, Colorado.<br>Respondent: Lisa Roy, in Her Official Capacity as Executive Director of the Colorado Department of Early Childhood.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Colorado voters established the Universal Preschool Program (UPK) to provide free preschool services through a \u201cmixed delivery system\u201d of public and private providers. To receive state funds, providers must sign a nondiscrimination agreement that requires them to enroll students regardless of their sexual orientation or gender identity. Two Catholic parishes and the Archdiocese of Denver sought to participate in the program but refused to sign the agreement. They argued that their religious tenets require them to consider the sexual orientation and gender identity of families during admissions to maintain their religious environment.</p>\n<p>The schools specifically challenged the program\u2019s \u201cpreference system,\u201d which uses an algorithm to match families with schools based on categories like sibling enrollment or congregation membership. They also highlighted a \u201ctemporary waiver\u201d provision that allows the state to grant providers extra time to meet certain quality standards. The schools argued that these features create a system of \u201cindividualized exemptions\u201d where the state exercises discretion to favor secular interests. Because the state allows these secular preferences while denying a religious exemption to the nondiscrimination rule, the schools contended the program unconstitutionally penalizes them for their religious character.</p>\n<p>The district court denied the schools\u2019 request for a permanent injunction, ruling that the nondiscrimination requirement is a neutral and generally applicable law. The U.S. Court of Appeals for the Tenth Circuit affirmed that decision, holding that the state\u2019s program does not grant the type of unfettered discretion that would trigger strict scrutiny.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a law lack general applicability under the Free Exercise Clause only if it permits unfettered discretion or secular exemptions, and does the rule against excluding religious institutions from public benefits apply only to explicit government bans on participation?</p>\n\n    ",
+      "description_source": "oyez",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "99b000d324f7072541effde400d22f93e8d846d11538a917351a2fd4b261028b",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-581.mp3",
+      "media_uploaded_revision": "66fc3cecc38d6b02c22e49fe59c7804f4f52d8904e7725fbf2812955fa1b8a72",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-581.vtt"
     }
   }
 }
