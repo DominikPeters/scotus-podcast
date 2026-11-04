@@ -28666,6 +28666,158 @@
       "vtt_url": "https://podcast.scotusstats.com/2026/25-581.vtt",
       "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-03-25-581-argument-1-67ab02acd513af9da7c8979032b9da56244e8608b7597ddfb8d2809afe509f9e.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=8mEkIO1si04"
+    },
+    "25-1003": {
+      "docket_number": "25-1003",
+      "name": "Guerrero v. Johnson",
+      "argument_date": "2026-11-04",
+      "date_argued_timestamp": 1793750400,
+      "chapters": [
+        {
+          "title": "William R. Peterson (for the Petitioner)",
+          "start": 0.26
+        },
+        {
+          "title": "Peterson - Justice Thomas",
+          "start": 105.16
+        },
+        {
+          "title": "Peterson - Justice Kagan",
+          "start": 216.64
+        },
+        {
+          "title": "Peterson - Justice Jackson",
+          "start": 404.22
+        },
+        {
+          "title": "Peterson - Justice Sotomayor",
+          "start": 582.24
+        },
+        {
+          "title": "Peterson - Justice Jackson",
+          "start": 839.62
+        },
+        {
+          "title": "Peterson - Justice Sotomayor",
+          "start": 1051.94
+        },
+        {
+          "title": "Peterson - Justice Kagan",
+          "start": 1123.1599999999999
+        },
+        {
+          "title": "Peterson - Justice Kavanaugh",
+          "start": 1258.74
+        },
+        {
+          "title": "Peterson - Justice Barrett",
+          "start": 1386.7
+        },
+        {
+          "title": "Peterson - Justice Jackson",
+          "start": 1539.98
+        },
+        {
+          "title": "Emily M. Ferguson (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 1717.44
+        },
+        {
+          "title": "Ferguson - Justice Thomas",
+          "start": 1781.64
+        },
+        {
+          "title": "Ferguson - Justice Jackson",
+          "start": 1840.4199999999998
+        },
+        {
+          "title": "Ferguson - Justice Kagan",
+          "start": 1937.4599999999998
+        },
+        {
+          "title": "Ferguson - Justice Jackson",
+          "start": 2187.3399999999997
+        },
+        {
+          "title": "Ferguson - Justice Gorsuch",
+          "start": 2257.42
+        },
+        {
+          "title": "Ferguson - Justice Alito",
+          "start": 2329.64
+        },
+        {
+          "title": "Ferguson - Justice Sotomayor",
+          "start": 2397.1000000000004
+        },
+        {
+          "title": "Ferguson - Justice Roberts",
+          "start": 2554.8199999999997
+        },
+        {
+          "title": "Jeremy Schepers (for the Respondent)",
+          "start": 2572.3199999999997
+        },
+        {
+          "title": "Schepers - Justice Barrett",
+          "start": 2737.52
+        },
+        {
+          "title": "Schepers - Justice Jackson",
+          "start": 2788.68
+        },
+        {
+          "title": "Schepers - Justice Kagan",
+          "start": 2844.62
+        },
+        {
+          "title": "Schepers - Justice Barrett",
+          "start": 2918.2
+        },
+        {
+          "title": "Schepers - Justice Gorsuch",
+          "start": 2988.2400000000002
+        },
+        {
+          "title": "Schepers - Justice Kavanaugh",
+          "start": 3075.1200000000003
+        },
+        {
+          "title": "Schepers - Justice Jackson",
+          "start": 3152.96
+        },
+        {
+          "title": "Schepers - Justice Alito",
+          "start": 3180.3799999999997
+        },
+        {
+          "title": "Schepers - Justice Barrett",
+          "start": 3212.8999999999996
+        },
+        {
+          "title": "Schepers - Justice Sotomayor",
+          "start": 3230.2799999999997
+        },
+        {
+          "title": "William R. Peterson (for the Petitioner)",
+          "start": 3351.28
+        }
+      ],
+      "mp3_length": 3515,
+      "mp3_size": 28129199,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "audio_sha256": "1549ff8fd03dc83bb51d3ea9dc7f2560695a6f69ee68f9b7de2eb613207500d7",
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "516e5062cb824813514c67e77d2113bafe39db99586de72fe03610a2f1ba7bc6",
+      "media_revision": "516e5062cb824813514c67e77d2113bafe39db99586de72fe03610a2f1ba7bc6",
+      "podcast_export_revision": "1bd73a9172f88a9f5942c13d15d113d9baa66085f71c9e370d4b48baa90e1310",
+      "description": "<p>Guerrero v. Johnson</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-1003.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-1003\">oyez.org</a></p>\n    <p>Argued on Nov 4, 2026.</p>\n    <p>Petitioner: Eric Guerrero.<br>Respondent: Dexter Johnson.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Dexter Johnson kidnapped, raped, and murdered Maria Aparece in June 2006, years after the Supreme Court decided Atkins v. Virginia, 536 U.S. 304 (2002), which held the Eighth Amendment prohibits executing intellectually disabled people. At trial, Johnson\u2019s own defense expert tested his IQ between 74 and 88, concluded he showed no obvious adaptive deficits, and opined that he was not intellectually disabled. Johnson was convicted of capital murder and sentenced to death in June 2007. Johnson did not raise an Atkins claim in his initial state habeas application or his initial federal habeas petition filed in 2011. Instead, he argued that the Atkins principles should extend to the mentally ill. In May 2013, the American Psychiatric Association published the DSM-5, which substantially revised intellectual disability diagnosis by de-emphasizing IQ score cutoffs and recognizing that individuals with scores above 70 could still qualify. Johnson's federal habeas petition was denied in August 2013\u2014just months after the DSM-5\u2019s publication. Johnson\u2019s counsel, aware of the DSM-5, chose not to develop an Atkins claim, citing concerns about unfavorable Texas state court standards and his strategic focus on other claims. With an execution date set for 2019, Johnson obtained new expert evaluations under the DSM-5 standards; those experts diagnosed him as intellectually disabled. Johnson then sought authorization to file a successive federal habeas petition, arguing that the DSM-5 had made his Atkins claim newly viable and therefore \u201cpreviously unavailable\u201d during his earlier habeas proceedings.</p>\n<p>After the U.S. Court of Appeals for the Fifth Circuit authorized the successive petition in 2019, the district court denied the State's motion to dismiss and found Johnson\u2019s Atkins claim was previously unavailable under the Fifth Circuit\u2019s \u201cfutility exception\u201d from In re Cathey. The district court certified that ruling for interlocutory appeal, the Fifth Circuit accepted, and a panel affirmed in July 2025, reaffirming Cathey\u2019s holding that a claim is not \u201cpreviously available\u201d unless it had \u201csome possibility of merit\u201d at the time of the earlier petition. The Fifth Circuit denied rehearing en banc by a 9-7 vote in January 2026.</p>\n\n    <p><b>Question</b></p>\n    <p>Does a claim rely on a \u201cpreviously unavailable\u201d new rule of constitutional law, permitting a successive habeas petition, when the prisoner could have raised a claim based on that rule in an earlier petition?</p>\n\n    ",
+      "description_source": "oyez",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "ac75f3055eda34fa399ac698c104b20a35396dbe48338f027c24e2683cab199c",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-1003.mp3",
+      "media_uploaded_revision": "516e5062cb824813514c67e77d2113bafe39db99586de72fe03610a2f1ba7bc6",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-1003.vtt"
     }
   }
 }

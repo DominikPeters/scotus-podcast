@@ -32,6 +32,26 @@ Also available in video form at https://www.youtube.com/@SCOTUSOralArgument
     <atom:link href="https://scotusstats.com/podcast/podcast.rss"
         rel="self" type="application/rss+xml" />
         <item>
+            <title>[25-1003] Guerrero v. Johnson</title>
+            <description><![CDATA[<p>Guerrero v. Johnson</p>
+    <p><a href="None">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1003.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-1003">oyez.org</a></p>
+    <p>Argued on Nov 4, 2026.</p>
+    <p>Petitioner: Eric Guerrero.<br>Respondent: Dexter Johnson.</p>
+    
+    <p><b>Facts of the case (from oyez.org)</b></p>
+    <p>Dexter Johnson kidnapped, raped, and murdered Maria Aparece in June 2006, years after the Supreme Court decided Atkins v. Virginia, 536 U.S. 304 (2002), which held the Eighth Amendment prohibits executing intellectually disabled people. At trial, Johnson’s own defense expert tested his IQ between 74 and 88, concluded he showed no obvious adaptive deficits, and opined that he was not intellectually disabled. Johnson was convicted of capital murder and sentenced to death in June 2007. Johnson did not raise an Atkins claim in his initial state habeas application or his initial federal habeas petition filed in 2011. Instead, he argued that the Atkins principles should extend to the mentally ill. In May 2013, the American Psychiatric Association published the DSM-5, which substantially revised intellectual disability diagnosis by de-emphasizing IQ score cutoffs and recognizing that individuals with scores above 70 could still qualify. Johnson's federal habeas petition was denied in August 2013—just months after the DSM-5’s publication. Johnson’s counsel, aware of the DSM-5, chose not to develop an Atkins claim, citing concerns about unfavorable Texas state court standards and his strategic focus on other claims. With an execution date set for 2019, Johnson obtained new expert evaluations under the DSM-5 standards; those experts diagnosed him as intellectually disabled. Johnson then sought authorization to file a successive federal habeas petition, arguing that the DSM-5 had made his Atkins claim newly viable and therefore “previously unavailable” during his earlier habeas proceedings.</p>
+<p>After the U.S. Court of Appeals for the Fifth Circuit authorized the successive petition in 2019, the district court denied the State's motion to dismiss and found Johnson’s Atkins claim was previously unavailable under the Fifth Circuit’s “futility exception” from In re Cathey. The district court certified that ruling for interlocutory appeal, the Fifth Circuit accepted, and a panel affirmed in July 2025, reaffirming Cathey’s holding that a claim is not “previously available” unless it had “some possibility of merit” at the time of the earlier petition. The Fifth Circuit denied rehearing en banc by a 9-7 vote in January 2026.</p>
+
+    <p><b>Question</b></p>
+    <p>Does a claim rely on a “previously unavailable” new rule of constitutional law, permitting a successive habeas petition, when the prisoner could have raised a claim based on that rule in an earlier petition?</p>]]></description>
+            <enclosure url="https://podcast.scotusstats.com/2026/25-1003.mp3" length="28129199" type="audio/mpeg"/>
+            <guid>scotus_2026_25-1003_v0</guid>
+            <itunes:duration>3515</itunes:duration>
+            <itunes:season>2026</itunes:season>
+            <pubDate>Wed, 04 Nov 2026 10:00:00 -0400</pubDate>
+            <podcast:transcript url="https://podcast.scotusstats.com/2026/25-1003.vtt" type="text/vtt" />
+        </item>
+    <item>
             <title>[25-581] St. Mary Catholic Parish v. Roy</title>
             <description><![CDATA[<p>St. Mary Catholic Parish v. Roy</p>
     <p><a href="https://supreme.justia.com/cases/federal/us/2026/25-581/">Justia</a> &middot; <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-581.html">Docket</a> &middot; <a href="https://www.oyez.org/cases/2026/25-581">oyez.org</a> &middot; <a href="https://www.youtube.com/watch?v=8mEkIO1si04">YouTube</a></p>
