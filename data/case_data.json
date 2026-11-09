@@ -29011,17 +29011,152 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-159",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-159.mp3",
       "mp3_length": 3574,
-      "mp3_size": 28604146,
+      "mp3_size": 28600751,
       "source": "scotus",
       "audio_source": "scotus",
       "description_source": "oyez",
       "audio_sha256": "938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8",
-      "media_revision": "scotus-938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8",
+      "media_revision": "f04dc16e338d492c78a338003e6b6dd5bb87e47f57962b95103a78eac42e6122",
       "description": "<p>Hoffmann v. WBI Energy Transmission, Inc.</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-159.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-159\">oyez.org</a></p>\n    <p>Argued on Nov 9, 2026.</p>\n    <p>Petitioner: Leonard W. Hoffmann.<br>Respondent: WBI Energy Transmission, Inc.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>WBI Energy Transmission, Inc. is a private natural gas company that holds a federal certificate authorizing it to use eminent domain to build and operate a natural gas pipeline. WBI used that authority to condemn an easement across ranchland in McKenzie County, North Dakota, owned by Leonard Hoffmann, Margaret Hoffmann, Denae Hoffmann, Rocky &amp; Jonilla Farms, LLP, and Randall Stevenson. After roughly three years of litigation over the value of the taken property, the parties settled that question but expressly reserved the issue of whether the landowners could recover their attorney\u2019s fees and litigation costs. The landowners argued that North Dakota law governed compensation and that state law entitles condemnees to recover those costs. WBI argued that federal law controlled and capped compensation at the constitutional minimum set by the Fifth Amendment, which does not include attorney\u2019s fees.</p>\n<p>The district court agreed with the landowners, applied a federal choice-of-law framework, concluded that North Dakota law governed, and ordered WBI to reimburse the landowners $383,375.76 in fees and litigation expenses. WBI appealed, and the U.S. Court of Appeals for the Eighth Circuit reversed, holding that private companies exercising eminent domain power under the Natural Gas Act stand in the federal government\u2019s shoes and owe only the constitutional minimum of just compensation under the Fifth Amendment, expressly splitting with the Third, Fifth, Sixth, and Eleventh Circuits.</p>\n\n    <p><b>Question</b></p>\n    <p>When a private company uses the Natural Gas Act to seize someone\u2019s land for natural gas infrastructure, does state law determine how much compensation the landowner receives?</p>\n\n    ",
       "description_version": "v1",
       "oyez_metadata_sha256": "4f5e63d04fb01c04d189fa313ec892ec5f67f3bb3057197470caafaed8e233cd",
       "b2_url": "https://podcast.scotusstats.com/2026/25-159.mp3",
-      "media_uploaded_revision": "scotus-938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8"
+      "media_uploaded_revision": "f04dc16e338d492c78a338003e6b6dd5bb87e47f57962b95103a78eac42e6122",
+      "argument_date": "2026-11-09",
+      "chapters": [
+        {
+          "title": "Robert J. McNamara (for the Petitioners)",
+          "start": 0.68
+        },
+        {
+          "title": "McNamara - Justice Thomas",
+          "start": 141.7
+        },
+        {
+          "title": "McNamara - Justice Roberts",
+          "start": 187.38
+        },
+        {
+          "title": "McNamara - Justice Sotomayor",
+          "start": 379.76
+        },
+        {
+          "title": "McNamara - Justice Jackson",
+          "start": 546.98
+        },
+        {
+          "title": "McNamara - Justice Kavanaugh",
+          "start": 840.18
+        },
+        {
+          "title": "McNamara - Justice Barrett",
+          "start": 865.02
+        },
+        {
+          "title": "McNamara - Justice Kagan",
+          "start": 960.36
+        },
+        {
+          "title": "McNamara - Justice Jackson",
+          "start": 1085.5
+        },
+        {
+          "title": "McNamara - Justice Gorsuch",
+          "start": 1222.98
+        },
+        {
+          "title": "McNamara - Justice Sotomayor",
+          "start": 1303.34
+        },
+        {
+          "title": "McNamara - Justice Gorsuch",
+          "start": 1380.32
+        },
+        {
+          "title": "McNamara - Justice Kavanaugh",
+          "start": 1448.3799999999999
+        },
+        {
+          "title": "McNamara - Justice Kagan",
+          "start": 1559.1000000000001
+        },
+        {
+          "title": "McNamara - Justice Thomas",
+          "start": 1635.92
+        },
+        {
+          "title": "McNamara - Justice Alito",
+          "start": 1727.04
+        },
+        {
+          "title": "McNamara - Justice Gorsuch",
+          "start": 1838.62
+        },
+        {
+          "title": "McNamara - Justice Kavanaugh",
+          "start": 1859.86
+        },
+        {
+          "title": "McNamara - Justice Barrett",
+          "start": 1972.72
+        },
+        {
+          "title": "McNamara - Justice Jackson",
+          "start": 2024.88
+        },
+        {
+          "title": "Paul W. Hughes (for the Respondent)",
+          "start": 2100.7400000000002
+        },
+        {
+          "title": "Hughes - Justice Thomas",
+          "start": 2226.9
+        },
+        {
+          "title": "Hughes - Justice Gorsuch",
+          "start": 2399.3399999999997
+        },
+        {
+          "title": "Hughes - Justice Barrett",
+          "start": 2536.0
+        },
+        {
+          "title": "Hughes - Justice Jackson",
+          "start": 2616.2999999999997
+        },
+        {
+          "title": "Hughes - Justice Kagan",
+          "start": 2901.08
+        },
+        {
+          "title": "Zoe A. Jacoby (for the United States, as amicus curiae, supporting the Respondent)",
+          "start": 3045.2799999999997
+        },
+        {
+          "title": "Jacoby - Justice Thomas",
+          "start": 3105.04
+        },
+        {
+          "title": "Jacoby - Justice Barrett",
+          "start": 3153.16
+        },
+        {
+          "title": "Jacoby - Justice Kavanaugh",
+          "start": 3299.2200000000003
+        },
+        {
+          "title": "Jacoby - Justice Roberts",
+          "start": 3381.16
+        },
+        {
+          "title": "Robert J. McNamara (for the Petitioners)",
+          "start": 3438.3999999999996
+        }
+      ],
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "f04dc16e338d492c78a338003e6b6dd5bb87e47f57962b95103a78eac42e6122",
+      "podcast_export_revision": "43947df5e4ed0b2736d02b616f32da6b1df56d138099246c35ef548516c9145f",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-159.vtt"
     }
   }
 }
