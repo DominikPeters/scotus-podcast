@@ -28819,6 +28819,209 @@
       "media_uploaded_revision": "516e5062cb824813514c67e77d2113bafe39db99586de72fe03610a2f1ba7bc6",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-1003.vtt",
       "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-04-25-1003-argument-1-e8120d07039736f9609863f86d27f0e668f0d8b2c3360c3f016dd2d61aa088c3.jpg"
+    },
+    "25-417": {
+      "docket_number": "25-417",
+      "name": "Nielsen v. Watanabe",
+      "argument_date": "2026-11-09",
+      "date_argued_timestamp": 1794182400,
+      "chapters": [
+        {
+          "title": "Lucas M. Walker (for the Petitioner)",
+          "start": 0.28
+        },
+        {
+          "title": "Walker - Justice Thomas",
+          "start": 133.44
+        },
+        {
+          "title": "Walker - Justice Sotomayor",
+          "start": 176.96
+        },
+        {
+          "title": "Walker - Justice Kagan",
+          "start": 453.48
+        },
+        {
+          "title": "Walker - Justice Kavanaugh",
+          "start": 644.4000000000001
+        },
+        {
+          "title": "Walker - Justice Roberts",
+          "start": 797.76
+        },
+        {
+          "title": "Walker - Justice Barrett",
+          "start": 890.54
+        },
+        {
+          "title": "Walker - Justice Jackson",
+          "start": 978.76
+        },
+        {
+          "title": "Walker - Justice Sotomayor",
+          "start": 1127.8799999999999
+        },
+        {
+          "title": "Walker - Justice Gorsuch",
+          "start": 1379.26
+        },
+        {
+          "title": "Walker - Justice Kavanaugh",
+          "start": 1666.24
+        },
+        {
+          "title": "Walker - Justice Barrett",
+          "start": 1888.32
+        },
+        {
+          "title": "Walker - Justice Jackson",
+          "start": 1972.9399999999998
+        },
+        {
+          "title": "Vivek Suri (for the United States, as amicus curiae, supporting the Petitioner)",
+          "start": 2340.1
+        },
+        {
+          "title": "Suri - Justice Thomas",
+          "start": 2424.6
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 2506.3
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 2546.3199999999997
+        },
+        {
+          "title": "Suri - Justice Alito",
+          "start": 2689.4
+        },
+        {
+          "title": "Suri - Justice Sotomayor",
+          "start": 2732.7999999999997
+        },
+        {
+          "title": "Suri - Justice Barrett",
+          "start": 2848.2999999999997
+        },
+        {
+          "title": "Suri - Justice Jackson",
+          "start": 2863.64
+        },
+        {
+          "title": "Suri - Justice Gorsuch",
+          "start": 2928.8199999999997
+        },
+        {
+          "title": "Suri - Justice Kagan",
+          "start": 3003.02
+        },
+        {
+          "title": "Suri - Justice Kavanaugh",
+          "start": 3196.6
+        },
+        {
+          "title": "Joshua M. Wesneski (for the Respondent)",
+          "start": 3296.94
+        },
+        {
+          "title": "Wesneski - Justice Thomas",
+          "start": 3412.96
+        },
+        {
+          "title": "Wesneski - Justice Sotomayor",
+          "start": 3539.2999999999997
+        },
+        {
+          "title": "Wesneski - Justice Kavanaugh",
+          "start": 3609.62
+        },
+        {
+          "title": "Wesneski - Justice Kagan",
+          "start": 3775.44
+        },
+        {
+          "title": "Wesneski - Justice Alito",
+          "start": 4043.82
+        },
+        {
+          "title": "Wesneski - Justice Jackson",
+          "start": 4144.24
+        },
+        {
+          "title": "Wesneski - Justice Sotomayor",
+          "start": 4239.58
+        },
+        {
+          "title": "Wesneski - Justice Alito",
+          "start": 4330.5199999999995
+        },
+        {
+          "title": "Wesneski - Justice Roberts",
+          "start": 4343.88
+        },
+        {
+          "title": "Wesneski - Justice Alito",
+          "start": 4386.12
+        },
+        {
+          "title": "Wesneski - Justice Gorsuch",
+          "start": 4487.96
+        },
+        {
+          "title": "Wesneski - Justice Barrett",
+          "start": 4586.68
+        },
+        {
+          "title": "Wesneski - Justice Jackson",
+          "start": 4703.74
+        },
+        {
+          "title": "Wesneski - Justice Roberts",
+          "start": 4751.76
+        },
+        {
+          "title": "Lucas M. Walker (for the Petitioner)",
+          "start": 4767.18
+        }
+      ],
+      "mp3_length": 4966,
+      "mp3_size": 39740115,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "audio_sha256": "f513bb0b87e837c8750ff1b44cb117533bce2682ce45bd97ca236016e9130bd8",
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "b7dfd5de256db5184b42d9fdbc82a34d1350075dd8ed54a711582f8fd2c54ea1",
+      "media_revision": "b7dfd5de256db5184b42d9fdbc82a34d1350075dd8ed54a711582f8fd2c54ea1",
+      "podcast_export_revision": "0b298c51137e6481e4f74e43bc8287686861ccfb0c0dd9bb5166ef9f03b446ca",
+      "description": "<p>Nielsen v. Watanabe</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-417.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-417\">oyez.org</a></p>\n    <p>Argued on Nov 9, 2026.</p>\n    <p>Petitioner: Francis Nielsen.<br>Respondent: Kekai Watanabe .</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Kekai Watanabe was a federal detainee at the Federal Detention Center in Honolulu when, in July 2021, rival gang members attacked him during a prison riot. After staff restored order, prison officials documented his visible injuries and placed him on sick call. Later that day, Watanabe told correctional officers he had headaches and pain and asked to see medical staff. He eventually described his condition to Francis Nielsen, a staff nurse at the facility, who denied his request to go to the hospital. Officials gave Watanabe over-the-counter pain medication. Months later, doctors diagnosed Watanabe with a fractured coccyx with bone chips in surrounding soft tissue, and prison officials agreed to refer him to a specialist. Watanabe then filed a pro se lawsuit alleging that Nielsen and others violated his Eighth Amendment rights by denying him adequate medical care and refusing to send him to the hospital, seeking $3 million in damages and injunctive relief.</p>\n<p>The district court dismissed Watanabe\u2019s complaint, holding that his claim arose in a new Bivens context distinct from Carlson v. Green because he had access to an alternative administrative remedy\u2014the Bureau of Prisons\u2019 Administrative Remedy Program\u2014that the Supreme Court had not considered in Carlson, and because his non-fatal injury differed meaningfully from the fatal asthma emergency in Carlson. A divided panel of the U.S. Court of Appeals for the Ninth Circuit reversed, holding that the availability of alternative remedies did not render the context new and that Carlson governed; the Ninth Circuit then denied rehearing en banc over eleven judges\u2019 dissents.</p>\n\n    <p><b>Question</b></p>\n    <p>Can a federal prisoner sue prison officials for money damages under the Bivens doctrine for deliberate indifference to a non-life-threatening injury?</p>\n\n    ",
+      "description_source": "oyez",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "40250b753cf2db18b0dbebdbf085f755fddb653449859ba260f1000030529199",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-417.mp3",
+      "media_uploaded_revision": "b7dfd5de256db5184b42d9fdbc82a34d1350075dd8ed54a711582f8fd2c54ea1",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-417.vtt"
+    },
+    "25-159": {
+      "docket_number": "25-159",
+      "name": "Hoffmann v. WBI Energy Transmission, Inc.",
+      "date_argued_timestamp": 1794182400,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-159",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-159.mp3",
+      "mp3_length": 3574,
+      "mp3_size": 28604146,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "description_source": "oyez",
+      "audio_sha256": "938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8",
+      "media_revision": "scotus-938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8",
+      "description": "<p>Hoffmann v. WBI Energy Transmission, Inc.</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-159.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-159\">oyez.org</a></p>\n    <p>Argued on Nov 9, 2026.</p>\n    <p>Petitioner: Leonard W. Hoffmann.<br>Respondent: WBI Energy Transmission, Inc.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>WBI Energy Transmission, Inc. is a private natural gas company that holds a federal certificate authorizing it to use eminent domain to build and operate a natural gas pipeline. WBI used that authority to condemn an easement across ranchland in McKenzie County, North Dakota, owned by Leonard Hoffmann, Margaret Hoffmann, Denae Hoffmann, Rocky &amp; Jonilla Farms, LLP, and Randall Stevenson. After roughly three years of litigation over the value of the taken property, the parties settled that question but expressly reserved the issue of whether the landowners could recover their attorney\u2019s fees and litigation costs. The landowners argued that North Dakota law governed compensation and that state law entitles condemnees to recover those costs. WBI argued that federal law controlled and capped compensation at the constitutional minimum set by the Fifth Amendment, which does not include attorney\u2019s fees.</p>\n<p>The district court agreed with the landowners, applied a federal choice-of-law framework, concluded that North Dakota law governed, and ordered WBI to reimburse the landowners $383,375.76 in fees and litigation expenses. WBI appealed, and the U.S. Court of Appeals for the Eighth Circuit reversed, holding that private companies exercising eminent domain power under the Natural Gas Act stand in the federal government\u2019s shoes and owe only the constitutional minimum of just compensation under the Fifth Amendment, expressly splitting with the Third, Fifth, Sixth, and Eleventh Circuits.</p>\n\n    <p><b>Question</b></p>\n    <p>When a private company uses the Natural Gas Act to seize someone\u2019s land for natural gas infrastructure, does state law determine how much compensation the landowner receives?</p>\n\n    ",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "4f5e63d04fb01c04d189fa313ec892ec5f67f3bb3057197470caafaed8e233cd",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-159.mp3",
+      "media_uploaded_revision": "scotus-938c6377c7ed3b7abfa7b76b57c470de6482fce1ce28ea3603eb45c4fb081ec8"
     }
   }
 }
