@@ -29173,17 +29173,196 @@
       "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-966",
       "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-966.mp3",
       "mp3_length": 6131,
-      "mp3_size": 49056531,
+      "mp3_size": 49053532,
       "source": "scotus",
       "audio_source": "scotus",
       "description_source": "oyez",
       "audio_sha256": "4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139",
-      "media_revision": "scotus-4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139",
+      "media_revision": "1a8b471aa2ee18b7169d4e3fbd07fb88be158f8092c9a5c91648efe67ee857f8",
       "description": "<p>Department of Labor v. Sun Valley Orchards, LLC </p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-966/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-966.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-966\">oyez.org</a></p>\n    <p>Argued on Nov 10, 2026.</p>\n    <p>Petitioner: Department of Labor,.<br>Respondent: Sun Valley Orchards, LLC.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Sun Valley Orchards, a New Jersey farm, hires seasonal workers through the H-2A visa program. Under this program, the farm must provide certain benefits, such as safe housing and transportation, which it outlines in a \u201cjob order\u201d that serves as a work contract. After an investigation into the 2015 growing season, the Department of Labor alleged that Sun Valley breached this contract by providing infested housing, failing to provide required kitchen access, and firing workers before their contracts ended.</p>\n<p>The Department of Labor used its own administrative law judges to order Sun Valley to pay over $550,000 in civil penalties and back wages. Sun Valley sued the government, arguing that Article III of the Constitution requires a federal court\u2014rather than an executive agency\u2014to decide cases involving monetary remedies for contract violations. The farm also contended that the specific federal law governing the H-2A program, 8 U.S.C. \u00a71188(g)(2), does not grant the Department of Labor the power to conduct these types of in-house trials for money damages.</p>\n<p>After a federal district court dismissed Sun Valley\u2019s lawsuit challenging the agency\u2019s authority, the farm appealed to the U.S. Court of Appeals for the Third Circuit. The Third Circuit reversed the lower court\u2019s decision, holding that the Department of Labor cannot adjudicate these private contractual disputes in an internal administrative forum.</p>\n\n    <p><b>Question</b></p>\n    <p>May the Department of Labor legally use its own administrative proceedings to collect money from employers who violate worker contracts, or does the Constitution require such cases to be decided by a federal court?</p>\n\n    ",
       "description_version": "v1",
       "oyez_metadata_sha256": "65ae3741387ad385d9fe451cd36b91ff20a3273af2de3ae94f3b495f2a6c2b23",
       "b2_url": "https://podcast.scotusstats.com/2026/25-966.mp3",
-      "media_uploaded_revision": "scotus-4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139"
+      "media_uploaded_revision": "1a8b471aa2ee18b7169d4e3fbd07fb88be158f8092c9a5c91648efe67ee857f8",
+      "argument_date": "2026-11-10",
+      "chapters": [
+        {
+          "title": "Sarah M. Harris (for the Petitioners)",
+          "start": 0.4
+        },
+        {
+          "title": "Harris - Justice Thomas",
+          "start": 137.12
+        },
+        {
+          "title": "Harris - Justice Roberts",
+          "start": 190.94
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 357.36
+        },
+        {
+          "title": "Harris - Justice Alito",
+          "start": 396.15999999999997
+        },
+        {
+          "title": "Harris - Justice Roberts",
+          "start": 536.0799999999999
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 593.02
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 792.64
+        },
+        {
+          "title": "Harris - Justice Roberts",
+          "start": 1065.74
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 1081.28
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 1262.6
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 1386.24
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 1422.52
+        },
+        {
+          "title": "Harris - Justice Sotomayor",
+          "start": 1568.86
+        },
+        {
+          "title": "Harris - Justice Kagan",
+          "start": 1791.32
+        },
+        {
+          "title": "Harris - Justice Gorsuch",
+          "start": 1900.54
+        },
+        {
+          "title": "Harris - Justice Kavanaugh",
+          "start": 2139.04
+        },
+        {
+          "title": "Harris - Justice Barrett",
+          "start": 2452.26
+        },
+        {
+          "title": "Harris - Justice Jackson",
+          "start": 2784.2
+        },
+        {
+          "title": "Robert E. Johnson (for the Respondent)",
+          "start": 2942.38
+        },
+        {
+          "title": "Johnson - Justice Thomas",
+          "start": 3078.88
+        },
+        {
+          "title": "Johnson - Justice Kagan",
+          "start": 3214.06
+        },
+        {
+          "title": "Johnson - Justice Sotomayor",
+          "start": 3379.22
+        },
+        {
+          "title": "Johnson - Justice Kagan",
+          "start": 3655.1600000000003
+        },
+        {
+          "title": "Johnson - Justice Jackson",
+          "start": 3804.8799999999997
+        },
+        {
+          "title": "Johnson - Justice Alito",
+          "start": 3952.7
+        },
+        {
+          "title": "Johnson - Justice Kagan",
+          "start": 4087.0
+        },
+        {
+          "title": "Johnson - Justice Barrett",
+          "start": 4214.3
+        },
+        {
+          "title": "Johnson - Justice Kavanaugh",
+          "start": 4354.7
+        },
+        {
+          "title": "Johnson - Justice Barrett",
+          "start": 4398.84
+        },
+        {
+          "title": "Johnson - Justice Kavanaugh",
+          "start": 4402.64
+        },
+        {
+          "title": "Johnson - Justice Alito",
+          "start": 4561.860000000001
+        },
+        {
+          "title": "Johnson - Justice Sotomayor",
+          "start": 4668.2
+        },
+        {
+          "title": "Johnson - Justice Jackson",
+          "start": 4734.360000000001
+        },
+        {
+          "title": "Johnson - Justice Roberts",
+          "start": 4815.9800000000005
+        },
+        {
+          "title": "Johnson - Justice Thomas",
+          "start": 5018.82
+        },
+        {
+          "title": "Johnson - Justice Sotomayor",
+          "start": 5029.759999999999
+        },
+        {
+          "title": "Johnson - Justice Kagan",
+          "start": 5110.4800000000005
+        },
+        {
+          "title": "Johnson - Justice Gorsuch",
+          "start": 5330.62
+        },
+        {
+          "title": "Johnson - Justice Kavanaugh",
+          "start": 5390.360000000001
+        },
+        {
+          "title": "Johnson - Justice Barrett",
+          "start": 5510.78
+        },
+        {
+          "title": "Johnson - Justice Jackson",
+          "start": 5624.56
+        },
+        {
+          "title": "Sarah M. Harris (for the Petitioners)",
+          "start": 5877.46
+        }
+      ],
+      "alignment_source": "scotus_ctc",
+      "alignment_revision": "1a8b471aa2ee18b7169d4e3fbd07fb88be158f8092c9a5c91648efe67ee857f8",
+      "podcast_export_revision": "f6e4b9ef42f98c1601336d56c5b64e2e9626299a4f25bc6bc3bb972e9cda788a",
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-966.vtt"
     }
   }
 }
