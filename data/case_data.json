@@ -27401,7 +27401,7 @@
       "mp3_length": 3662,
       "mp3_size": 29305858,
       "source": "scotus",
-      "description": "<p>Oral argument for Anderson v. Intel Corp. Investment Policy Committee, argued on October 06, 2026.</p>",
+      "description": "<p>Anderson v. Intel Corporation Investment Policy Committee</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-498.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-498\">oyez.org</a></p>\n    <p>Argued on Oct 6, 2026.</p>\n    <p>Petitioner: Winston R. Anderson.<br>Respondent: Intel Corporation Investment Policy Committee.</p>\n    <p>Advocates: <ul><li>Matthew W.H. Wessler (for the Petitioners)</li>\n<li>Charles L. McCloud (for the Respondents)</li>\n<li>Aimee W. Brown (for the United States, as amicus curiae, supporting the Respondents)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>From 2000 to 2015, Winston R. Anderson was a participant in two Intel Corporation retirement plans: the Intel 401(k) Savings Plan and the Intel Retirement Contribution Plan. In the aftermath of the 2008 financial crisis, Intel changed the structure of its proprietary investment funds\u2014used within these plans\u2014to include allocations to hedge funds and private equity, in addition to traditional assets like stocks and bonds. According to Intel, this strategy aimed to reduce volatility and protect against downturns, though it acknowledged the funds might underperform in bull markets. Anderson claims that these changes led to persistently poor returns due to allegedly excessive risk, high fees, and deviation from industry standards. He also alleges disloyalty by Intel fiduciaries, asserting they invested plan assets in ways that provided indirect benefits to Intel Capital, a venture capital arm of the company, rather than prioritizing participants' financial interests.</p>\n<p>In 2019, Anderson filed suit in the U.S. District Court for the Northern District of California, seeking to represent a class of Intel retirement plan participants whose assets were invested in Intel\u2019s target-date or global diversified funds since 2009. His complaint alleged breaches of ERISA\u2019s duties of prudence and loyalty. After multiple amended pleadings and dismissals, the district court held that Anderson failed to identify any \u201cmeaningful benchmark\u201d against which to measure the imprudence of the Intel funds\u2019 strategy and failed to plausibly allege a conflict of interest. The U.S. Court of Appeals for the Ninth Circuit affirmed, rejecting Anderson\u2019s underperformance theory and emphasizing that ERISA requires pleading a plausible inference of flawed investment process\u2014not merely suboptimal results\u2014and, where appropriate, comparison to suitably similar investment alternatives.</p>\n\n    <p><b>Question</b></p>\n    <p>Must a complaint alleging a fiduciary breach in ERISA underperformance cases include allegations of a \u201cmeaningful benchmark\u201d to survive the pleading stage?</p>\n\n    ",
       "b2_url": "https://podcast.scotusstats.com/2026/25-498.mp3",
       "argument_date": "2026-10-06",
       "chapters": [
@@ -27543,10 +27543,12 @@
       "alignment_source": "scotus_ctc",
       "alignment_revision": "ab663c052b958012f67c1c695c7ccdbbfa82b36628377cd78ee3ba58e77c29d7",
       "media_revision": "ab663c052b958012f67c1c695c7ccdbbfa82b36628377cd78ee3ba58e77c29d7",
-      "description_source": "scotus",
+      "description_source": "oyez",
       "media_uploaded_revision": "ab663c052b958012f67c1c695c7ccdbbfa82b36628377cd78ee3ba58e77c29d7",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-498.vtt",
-      "youtube_url": "https://www.youtube.com/watch?v=7uUzgR-TcZ4"
+      "youtube_url": "https://www.youtube.com/watch?v=7uUzgR-TcZ4",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "04697e2750c28883c591d2fd884bd3e7f7b2c85688b69172c2e3e9cf06f3e55b"
     },
     "25-579": {
       "docket_number": "25-579",
@@ -27946,10 +27948,10 @@
       "mp3_size": 40649116,
       "source": "scotus",
       "audio_source": "scotus",
-      "description_source": "scotus",
+      "description_source": "oyez",
       "audio_sha256": "01f1f9b3a2abec86b0d39dfad939845e2348ec79bdec74eea04305e6fc7ffd48",
       "media_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
-      "description": "<p>Oral argument for Salazar v. Paramount Global, argued on October 14, 2026.</p>",
+      "description": "<p>Salazar v. Paramount Global</p>\n    <p><a href=\"None\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-459.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-459\">oyez.org</a></p>\n    <p>Argued on Oct 14, 2026.</p>\n    <p>Petitioner: Michael Salazar.<br>Respondent: Paramount Global, dba 247Sports.</p>\n    <p>Advocates: <ul><li>Joshua I. Hammack (for the Petitioner)</li>\n<li>Paul D. Clement (for the Respondent)</li></ul></p>\n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Michael Salazar subscribed to an online newsletter from 247Sports.com in 2022, a website owned by Paramount Global that covers college sports recruiting. While logged into his Facebook account, Salazar watched videos on the 247Sports.com website. Paramount had installed Facebook\u2019s tracking Pixel on the website, which collected and transmitted to Facebook information about Salazar\u2019s video-viewing activity, including the video content name, its URL, and Salazar's Facebook ID. This disclosure allegedly occurred without Salazar\u2019s knowledge or consent.</p>\n<p>In September 2022, Salazar filed a class action lawsuit against Paramount Global in the U.S. District Court for the Middle District of Tennessee, claiming violations of the Video Privacy Protection Act (VPPA). The district court denied Paramount\u2019s motion to dismiss for lack of standing but granted its motion to dismiss for failure to state a claim, holding that Salazar was not a \u201cconsumer\u201d under the VPPA because his newsletter subscription did not qualify as subscribing to audiovisual goods or services. The U.S. Court of Appeals for the Sixth Circuit affirmed the dismissal.</p>\n\n    <p><b>Question</b></p>\n    <p>Does the phrase \u201cgoods or services from a video tape service provider,\u201d as used in the Video Privacy Protection Act\u2019s definition of \u201cconsumer,\u201d refer to all of a video tape service provider\u2019s goods or services or only to its audiovisual goods or services?</p>\n\n    ",
       "b2_url": "https://podcast.scotusstats.com/2026/25-459.mp3",
       "media_uploaded_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
       "argument_date": "2026-10-14",
@@ -28130,7 +28132,9 @@
       "alignment_source": "scotus_ctc",
       "alignment_revision": "ebda1fb1208ad6e1e1b3524a623687518df991d384f54808505ca71c02181f12",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-459.vtt",
-      "youtube_url": "https://www.youtube.com/watch?v=RVlud1nKiXY"
+      "youtube_url": "https://www.youtube.com/watch?v=RVlud1nKiXY",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "a7af272afa2d7c1a321fefbe15a1c325c1d6228156c3782f1a33b437e6c7153c"
     },
     "25-5930": {
       "docket_number": "25-5930",
@@ -29158,7 +29162,8 @@
       "alignment_source": "scotus_ctc",
       "alignment_revision": "f04dc16e338d492c78a338003e6b6dd5bb87e47f57962b95103a78eac42e6122",
       "podcast_export_revision": "43947df5e4ed0b2736d02b616f32da6b1df56d138099246c35ef548516c9145f",
-      "vtt_url": "https://podcast.scotusstats.com/2026/25-159.vtt"
+      "vtt_url": "https://podcast.scotusstats.com/2026/25-159.vtt",
+      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-09-25-159-argument-1-d11afa05787793a3f267fb51b7d25e7d36dc9e452279e288c459b38bb97939a1.jpg"
     }
   }
 }
