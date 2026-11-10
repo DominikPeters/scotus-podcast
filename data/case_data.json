@@ -29163,7 +29163,27 @@
       "alignment_revision": "f04dc16e338d492c78a338003e6b6dd5bb87e47f57962b95103a78eac42e6122",
       "podcast_export_revision": "43947df5e4ed0b2736d02b616f32da6b1df56d138099246c35ef548516c9145f",
       "vtt_url": "https://podcast.scotusstats.com/2026/25-159.vtt",
-      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-09-25-159-argument-1-d11afa05787793a3f267fb51b7d25e7d36dc9e452279e288c459b38bb97939a1.jpg"
+      "artwork_url": "https://scotusstats.com/podcast/alignment/2026-11-09-25-159-argument-1-d11afa05787793a3f267fb51b7d25e7d36dc9e452279e288c459b38bb97939a1.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=JFZQ8OSmpCI"
+    },
+    "25-966": {
+      "docket_number": "25-966",
+      "name": "Department of Labor v. Sun Valley Orchards, LLC",
+      "date_argued_timestamp": 1794268800,
+      "audio_page_url": "https://www.supremecourt.gov/oral_arguments/audio/2026/25-966",
+      "mp3_url": "https://www.supremecourt.gov/media/audio/mp3files/25-966.mp3",
+      "mp3_length": 6131,
+      "mp3_size": 49056531,
+      "source": "scotus",
+      "audio_source": "scotus",
+      "description_source": "oyez",
+      "audio_sha256": "4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139",
+      "media_revision": "scotus-4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139",
+      "description": "<p>Department of Labor v. Sun Valley Orchards, LLC </p>\n    <p><a href=\"https://supreme.justia.com/cases/federal/us/2026/25-966/\">Justia</a> &middot; <a href=\"https://www.supremecourt.gov/docket/docketfiles/html/public/25-966.html\">Docket</a> &middot; <a href=\"https://www.oyez.org/cases/2026/25-966\">oyez.org</a></p>\n    <p>Argued on Nov 10, 2026.</p>\n    <p>Petitioner: Department of Labor,.<br>Respondent: Sun Valley Orchards, LLC.</p>\n    \n    <p><b>Facts of the case (from oyez.org)</b></p>\n    <p>Sun Valley Orchards, a New Jersey farm, hires seasonal workers through the H-2A visa program. Under this program, the farm must provide certain benefits, such as safe housing and transportation, which it outlines in a \u201cjob order\u201d that serves as a work contract. After an investigation into the 2015 growing season, the Department of Labor alleged that Sun Valley breached this contract by providing infested housing, failing to provide required kitchen access, and firing workers before their contracts ended.</p>\n<p>The Department of Labor used its own administrative law judges to order Sun Valley to pay over $550,000 in civil penalties and back wages. Sun Valley sued the government, arguing that Article III of the Constitution requires a federal court\u2014rather than an executive agency\u2014to decide cases involving monetary remedies for contract violations. The farm also contended that the specific federal law governing the H-2A program, 8 U.S.C. \u00a71188(g)(2), does not grant the Department of Labor the power to conduct these types of in-house trials for money damages.</p>\n<p>After a federal district court dismissed Sun Valley\u2019s lawsuit challenging the agency\u2019s authority, the farm appealed to the U.S. Court of Appeals for the Third Circuit. The Third Circuit reversed the lower court\u2019s decision, holding that the Department of Labor cannot adjudicate these private contractual disputes in an internal administrative forum.</p>\n\n    <p><b>Question</b></p>\n    <p>May the Department of Labor legally use its own administrative proceedings to collect money from employers who violate worker contracts, or does the Constitution require such cases to be decided by a federal court?</p>\n\n    ",
+      "description_version": "v1",
+      "oyez_metadata_sha256": "65ae3741387ad385d9fe451cd36b91ff20a3273af2de3ae94f3b495f2a6c2b23",
+      "b2_url": "https://podcast.scotusstats.com/2026/25-966.mp3",
+      "media_uploaded_revision": "scotus-4a6a5da58c5003268c5ee1d9e32f3fed77070965f2385028b749a81a2a7e0139"
     }
   }
 }
